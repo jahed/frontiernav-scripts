@@ -2,9 +2,9 @@
   "labels": {
     "layerViews": true
   },
-  "id": "n353",
+  "id": "alola-location-layer",
   "data": {
     "name": "Locations",
-    "description": "Locations in Kanto"
+    "thumbnail": ""
   }
 }

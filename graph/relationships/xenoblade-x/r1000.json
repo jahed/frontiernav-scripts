@@ -1,7 +1,7 @@
 {
-  "start": "n352",
+  "start": "pallet-town",
   "type": "MAP_LINK",
-  "end": "n662",
+  "end": "pallet-town-marker",
   "data": {},
   "id": "r1000"
 }

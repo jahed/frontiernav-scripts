@@ -2,9 +2,9 @@
   "labels": {
     "layerViews": true
   },
-  "id": "n351",
+  "id": "kanto-location-layer",
   "data": {
     "name": "Locations",
-    "thumbnail": ""
+    "description": "Locations in Kanto"
   }
 }

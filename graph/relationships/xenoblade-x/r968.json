@@ -1,7 +1,7 @@
 {
   "type": "HAS",
-  "start": "n353",
-  "end": "n662",
+  "start": "kanto-location-layer",
+  "end": "pallet-town-marker",
   "id": "r968",
   "data": {}
 }

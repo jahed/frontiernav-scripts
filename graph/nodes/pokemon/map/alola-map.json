@@ -1,22 +1,22 @@
 {
-  "id": "mxf3rsf3",
+  "id": "alola-map",
   "labels": {
     "maps": true,
     "pokemonSeries": true,
-    "pokemonRBY": true
+    "pokemonSunMoon": true
   },
   "data": {
-    "name": "Kanto",
+    "name": "Alola",
     "tileLayers": {
       "normal": {
-        "folder": "pokemon-kanto",
+        "folder": "pokemon-alola",
         "extension": "jpg",
         "background": {
-          "color": "#ffffff"
+          "color": "#092844"
         }
       }
     },
     "defaultZoom": 3,
-    "maxNativeZoom": 3
+    "maxNativeZoom": 4
   }
 }

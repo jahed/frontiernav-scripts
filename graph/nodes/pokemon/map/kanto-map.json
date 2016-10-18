@@ -1,22 +1,22 @@
 {
-  "id": "m3530cgh",
+  "id": "kanto-map",
   "labels": {
     "maps": true,
     "pokemonSeries": true,
-    "pokemonSunMoon": true
+    "pokemonRBY": true
   },
   "data": {
-    "name": "Alola",
+    "name": "Kanto",
     "tileLayers": {
       "normal": {
-        "folder": "pokemon-alola",
+        "folder": "pokemon-kanto",
         "extension": "jpg",
         "background": {
-          "color": "#092844"
+          "color": "#ffffff"
         }
       }
     },
     "defaultZoom": 3,
-    "maxNativeZoom": 4
+    "maxNativeZoom": 3
   }
 }
