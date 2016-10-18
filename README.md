@@ -24,14 +24,14 @@ It's also flexible so items labelled as `Location` can also have additional prop
 
 Here's an outline of how the data is **planned to be** structured. The current data likely doesn't reflect the structure below as it's still being migrated.
 
-### `id`
+### Unique Identifier (`.id`)
 
-All Objects must have an `id` to uniquely identify it across the entire graph. Only use alphanumeric characters and hyphens (-).
+All Objects must have an `.id` to uniquely identify it across the entire graph. Only use alphanumeric characters and hyphens (-). The ID should also be reflected in the filename.
 
 
 ### Property
 
-`Properties` describe specific properties of `Nodes` and `Relationships` that are placed under `data`.
+`Properties` describe specific properties of `Nodes` and `Relationships` that are placed under `.data`.
 
 A `Property` definition has the following fields
 
@@ -42,8 +42,8 @@ A `Property` definition has the following fields
 
 In most cases, it's worth providing these properties on any type of Object so we don't end up solely relying on IDs.
 
-- `data.name` - The friendly name of this Object.
-- `data.description` - A short description of this Object.
+- `.data.name` - The friendly name of this Object.
+- `.data.description` - A short description of this Object.
 
 
 ### NodeLabel
