@@ -1,0 +1,16 @@
+{
+  "id": "eosWnTfE",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Experimental Second-Gen Zig",
+    "level": 58,
+    "notes": "\"Experimental Second-Gen Zig\" guards a bridge into kitsune base, a ganglion base that can be found in the south east of Cauldros (south of T'phnom Shelf).",
+    "category": "Mechanoid",
+    "subcategory": "Zig",
+    "image": "eosWnTfE"
+  }
+}

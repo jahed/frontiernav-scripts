@@ -1,0 +1,12 @@
+{
+  "id": "loc393",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Talon Rock Third Terrane",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

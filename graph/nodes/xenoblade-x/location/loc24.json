@@ -1,0 +1,11 @@
+{
+  "id": "loc24",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Beehive Rock",
+    "locationTypeId": "Area"
+  }
+}

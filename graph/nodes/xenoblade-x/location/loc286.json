@@ -1,0 +1,11 @@
+{
+  "id": "loc286",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "North Cinderdunes",
+    "locationTypeId": "Area"
+  }
+}

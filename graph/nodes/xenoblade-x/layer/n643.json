@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "id": "n643",
+  "data": {
+    "name": "Locations",
+    "description": "Locations on Manon Ship",
+    "thumbnail": "view-locations"
+  }
+}

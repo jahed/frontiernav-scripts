@@ -1,0 +1,11 @@
+{
+  "id": "loc347",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sea Whisper Valley",
+    "locationTypeId": "Landmark"
+  }
+}

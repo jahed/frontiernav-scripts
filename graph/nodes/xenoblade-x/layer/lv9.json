@@ -1,0 +1,12 @@
+{
+  "id": "lv9",
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters on the Ma-non Ship",
+    "icon": "user"
+  }
+}

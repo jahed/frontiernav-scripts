@@ -1,0 +1,14 @@
+{
+  "id": "treasure550-5",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "White Whale Debris",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 2
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "elGi6omr",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Daril's Qmoeva",
+    "level": 54,
+    "notes": "\"Daril's Qmoeva\" can found during the day investigating starfall basin, the area where you first woke up on Mira, in the southwest corner of Primordia.",
+    "category": "Mechanoid",
+    "subcategory": "Qmoeva",
+    "time": "5:00 - 19:00",
+    "image": "elGi6omr"
+  }
+}

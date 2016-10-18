@@ -1,0 +1,11 @@
+{
+  "id": "loc309",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Old Ceremonial Hollow",
+    "locationTypeId": "Landmark"
+  }
+}

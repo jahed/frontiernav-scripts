@@ -1,0 +1,16 @@
+{
+  "id": "eTDgAowk",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Mesgen, the Fairweathered",
+    "level": 28,
+    "notes": "\"Mesgen, the Fairweathered\" rests on the shore at the eastern end of Sayram Lake in central Primordia.",
+    "category": "Theroid",
+    "subcategory": "Potamus",
+    "image": "eTDgAowk"
+  }
+}

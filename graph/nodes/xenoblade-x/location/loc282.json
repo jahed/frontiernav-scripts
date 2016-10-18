@@ -1,0 +1,11 @@
+{
+  "id": "loc282",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Nopon Braidbridge",
+    "locationTypeId": "Landmark"
+  }
+}

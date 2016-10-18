@@ -1,0 +1,11 @@
+{
+  "id": "loc365",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "South Ciel Sandsea",
+    "locationTypeId": "Landmark"
+  }
+}

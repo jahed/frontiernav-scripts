@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i56",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lava Fox",
+    "rarity": 4
+  }
+}

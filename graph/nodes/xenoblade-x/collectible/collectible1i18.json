@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i18",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Crawling Bat",
+    "rarity": 2
+  }
+}

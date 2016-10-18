@@ -1,0 +1,11 @@
+{
+  "id": "loc44",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros Base Camp 2",
+    "locationTypeId": "Camp"
+  }
+}

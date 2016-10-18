@@ -1,0 +1,12 @@
+{
+  "id": "loc363",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Slavebird Isle",
+    "cave": true,
+    "locationTypeId": "Area"
+  }
+}

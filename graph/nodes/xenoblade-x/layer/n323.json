@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "id": "n323",
+  "data": {
+    "name": "Locations",
+    "description": "Locations in NLA",
+    "thumbnail": "view-locations"
+  }
+}

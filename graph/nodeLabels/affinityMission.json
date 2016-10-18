@@ -1,0 +1,12 @@
+{
+  "id": "affinityMission",
+  "path": "affinityMission",
+  "name": "Affinity Mission",
+  "searchable": true,
+  "pageDescription": "Find out more about the affinity mission '{name}' in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    }
+  }
+}

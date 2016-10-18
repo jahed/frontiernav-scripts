@@ -1,0 +1,12 @@
+{
+  "id": "loc325",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Quay Hollows",
+    "locationTypeId": "Unexplored"
+  }
+}

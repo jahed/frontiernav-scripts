@@ -1,0 +1,11 @@
+{
+  "id": "loc359",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sickle Rock Rise",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc271",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Narcissus Tree",
+    "locationTypeId": "Landmark"
+  }
+}

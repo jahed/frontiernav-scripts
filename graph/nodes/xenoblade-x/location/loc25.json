@@ -1,0 +1,12 @@
+{
+  "id": "loc25",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Behemoth's Shadows",
+    "locationTypeId": "Unexplored"
+  }
+}

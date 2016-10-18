@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sports Complex",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n782"
+}

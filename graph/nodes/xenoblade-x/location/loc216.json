@@ -1,0 +1,11 @@
+{
+  "id": "loc216",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Goblin's Narrow",
+    "locationTypeId": "Area"
+  }
+}

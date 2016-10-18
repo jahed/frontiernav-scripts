@@ -1,0 +1,16 @@
+{
+  "id": "e9xg57mL",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Frajeel, the Purgatorial",
+    "level": 50,
+    "notes": "\"Frajeel, the Purgatorial\" floats around just south of the central plant in the dangerous Divine Roost area at Noctilum.",
+    "category": "Insectoid",
+    "subcategory": "Levitath",
+    "image": "e9xg57mL"
+  }
+}

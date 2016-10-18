@@ -1,0 +1,11 @@
+{
+  "id": "loc87",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Emerian Battlegrounds",
+    "locationTypeId": "Landmark"
+  }
+}

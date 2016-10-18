@@ -1,0 +1,11 @@
+{
+  "id": "loc403",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Victory Rock",
+    "locationTypeId": "Area"
+  }
+}

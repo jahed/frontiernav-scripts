@@ -1,0 +1,11 @@
+{
+  "id": "loc247",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Kintrees",
+    "locationTypeId": "Scenic"
+  }
+}

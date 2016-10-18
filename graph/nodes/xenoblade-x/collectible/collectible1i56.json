@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i56",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Jagged Mortar",
+    "rarity": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "et0GKuHZ",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Libra, the Long-Lived",
+    "level": 20,
+    "notes": "\"Libra, the Long-Lived\" is at the North Coast in Oblivia. For a level 20 it has a lot of HP like the rest of the Purgovent species.",
+    "category": "Piscinoid",
+    "subcategory": "Purgovent",
+    "image": "et0GKuHZ"
+  }
+}

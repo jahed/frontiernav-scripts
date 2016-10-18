@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i25",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Logunie's Driftwood Boat",
+    "rarity": 3
+  }
+}

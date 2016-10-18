@@ -1,0 +1,11 @@
+{
+  "id": "loc68",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Delusians South Summit",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i46",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Kiwegg",
+    "rarity": 3
+  }
+}

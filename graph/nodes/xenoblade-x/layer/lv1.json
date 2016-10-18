@@ -1,0 +1,12 @@
+{
+  "id": "lv1",
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Collectibles",
+    "icon": "book",
+    "thumbnail": "view-collectibles"
+  }
+}

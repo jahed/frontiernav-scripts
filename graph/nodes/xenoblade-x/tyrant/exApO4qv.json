@@ -1,0 +1,16 @@
+{
+  "id": "exApO4qv",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Aria, the Zauberflote",
+    "level": 13,
+    "notes": "\"Aria, the Zauberflote\" is a trumpet bird hanging around the north side of Old Dragontail Tree in southern Noctilum.",
+    "category": "Theroid",
+    "subcategory": "Saltat",
+    "image": "exApO4qv"
+  }
+}

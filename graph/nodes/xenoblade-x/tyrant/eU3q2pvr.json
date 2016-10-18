@@ -1,0 +1,17 @@
+{
+  "id": "eU3q2pvr",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Badul's Seidr",
+    "level": 61,
+    "notes": "\"Badul's Seidr\" appears at the same spot during the day.",
+    "category": "Mechanoid",
+    "subcategory": "Seidr",
+    "time": "19:00 - 5:00",
+    "image": "eU3q2pvr"
+  }
+}

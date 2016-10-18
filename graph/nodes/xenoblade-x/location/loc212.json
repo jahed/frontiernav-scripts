@@ -1,0 +1,12 @@
+{
+  "id": "loc212",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Ganglion Antropolis",
+    "locationTypeId": "Unexplored"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eGL2Bq96",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Latis, the Bristle-Scaled",
+    "level": 39,
+    "notes": "\"Latis, the Bristle-Scaled\" rarely appears in a pond next to FN Site 418 in northern Sylvalum. Refresh until it spawns instead of one of the Cerulean Arenatects.",
+    "category": "Theroid",
+    "subcategory": "Tersqual",
+    "image": "eGL2Bq96"
+  }
+}

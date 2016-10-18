@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i20",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Trying Crown",
+    "rarity": 4
+  }
+}

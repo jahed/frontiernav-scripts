@@ -1,0 +1,11 @@
+{
+  "id": "loc39",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Canopied Nightwood",
+    "locationTypeId": "Area"
+  }
+}

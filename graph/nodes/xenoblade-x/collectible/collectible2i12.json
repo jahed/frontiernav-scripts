@@ -1,0 +1,14 @@
+{
+  "id": "collectible2i12",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Iguari",
+    "requirements": true,
+    "rarity": 3,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

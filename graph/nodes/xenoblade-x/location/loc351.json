@@ -1,0 +1,12 @@
+{
+  "id": "loc351",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Seaswept Ridge",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

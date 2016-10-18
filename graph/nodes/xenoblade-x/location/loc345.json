@@ -1,0 +1,11 @@
+{
+  "id": "loc345",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Scabland Fortress",
+    "locationTypeId": "Landmark"
+  }
+}

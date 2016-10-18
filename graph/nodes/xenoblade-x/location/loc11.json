@@ -1,0 +1,11 @@
+{
+  "id": "loc11",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Atop the Giant Ring",
+    "locationTypeId": "Scenic"
+  }
+}

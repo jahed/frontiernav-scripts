@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i55",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Chameleon Sand",
+    "rarity": 1
+  }
+}

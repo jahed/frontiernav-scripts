@@ -1,0 +1,16 @@
+{
+  "id": "eeIypT3A",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Armed Destroyer Galdr",
+    "level": 45,
+    "notes": "\"Armed Destroyer Galdr\" can be found floating in the Ruined City of O'rrh Sim in the north of Cauldros.",
+    "category": "Mechanoid",
+    "subcategory": "Galdr",
+    "image": "eeIypT3A"
+  }
+}

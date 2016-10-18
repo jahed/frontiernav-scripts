@@ -1,0 +1,12 @@
+{
+  "id": "loc284",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "North Ant's Nest",
+    "locationTypeId": "Area"
+  }
+}

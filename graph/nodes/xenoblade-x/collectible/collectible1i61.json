@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i61",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Garudo Pellionia Minima",
+    "rarity": 4
+  }
+}

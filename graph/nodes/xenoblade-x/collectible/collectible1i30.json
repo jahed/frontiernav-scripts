@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i30",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Meditation Powder",
+    "rarity": 2
+  }
+}

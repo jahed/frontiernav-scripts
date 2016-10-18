@@ -1,0 +1,14 @@
+{
+  "id": "treasure464-10",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Alien Reliquary",
+    "requirements": {
+      "field_skill": "Archaeological",
+      "field_skill_level": 5
+    }
+  }
+}

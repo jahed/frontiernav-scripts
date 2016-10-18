@@ -1,0 +1,12 @@
+{
+  "id": "loc53",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Cavernous Abyss",
+    "locationTypeId": "Landmark"
+  }
+}

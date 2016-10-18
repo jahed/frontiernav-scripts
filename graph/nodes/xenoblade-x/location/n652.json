@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "North Founders Street",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n652"
+}

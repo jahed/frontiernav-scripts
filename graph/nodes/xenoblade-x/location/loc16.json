@@ -1,0 +1,11 @@
+{
+  "id": "loc16",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Balance Rock",
+    "locationTypeId": "Landmark"
+  }
+}

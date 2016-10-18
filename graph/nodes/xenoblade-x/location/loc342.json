@@ -1,0 +1,12 @@
+{
+  "id": "loc342",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Sato Headwater",
+    "locationTypeId": "Area"
+  }
+}

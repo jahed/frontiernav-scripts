@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i56",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Kusakiri Stag Beetle",
+    "rarity": 2
+  }
+}

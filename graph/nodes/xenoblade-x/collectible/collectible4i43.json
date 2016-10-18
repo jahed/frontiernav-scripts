@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i43",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Thunderbolt Emblem",
+    "rarity": 3
+  }
+}

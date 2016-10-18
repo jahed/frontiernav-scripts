@@ -1,0 +1,11 @@
+{
+  "id": "loc334",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Ruins on the Sandbank",
+    "locationTypeId": "Landmark"
+  }
+}

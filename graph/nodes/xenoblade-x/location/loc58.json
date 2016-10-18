@@ -1,0 +1,12 @@
+{
+  "id": "loc58",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cliffside Beach",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

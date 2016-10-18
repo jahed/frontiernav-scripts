@@ -1,0 +1,11 @@
+{
+  "id": "loc407",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "West Ciel Sandsea",
+    "locationTypeId": "Landmark"
+  }
+}

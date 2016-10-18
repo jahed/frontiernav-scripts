@@ -1,0 +1,12 @@
+{
+  "id": "loc268",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Molten Hollow",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

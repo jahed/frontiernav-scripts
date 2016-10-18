@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i11",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "False Cedar",
+    "rarity": 3
+  }
+}

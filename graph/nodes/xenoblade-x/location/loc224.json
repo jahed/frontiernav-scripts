@@ -1,0 +1,12 @@
+{
+  "id": "loc224",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Headwater Cavern",
+    "cave": true,
+    "locationTypeId": "Area"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc354",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sentinel's Nest",
+    "locationTypeId": "Unexplored"
+  }
+}

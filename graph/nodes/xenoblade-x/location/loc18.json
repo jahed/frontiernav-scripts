@@ -1,0 +1,12 @@
+{
+  "id": "loc18",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Banshee Cave",
+    "locationTypeId": "Landmark"
+  }
+}

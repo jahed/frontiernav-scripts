@@ -1,0 +1,15 @@
+{
+  "id": "probe1",
+  "labels": {
+    "probes": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Basic Probe",
+    "type": 0,
+    "attributes": {
+      "production_multiplier": 0.5,
+      "revenue_multiplier": 0.5
+    }
+  }
+}

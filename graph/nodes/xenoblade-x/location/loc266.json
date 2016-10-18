@@ -1,0 +1,11 @@
+{
+  "id": "loc266",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Milligan Supply Base",
+    "locationTypeId": "Landmark"
+  }
+}

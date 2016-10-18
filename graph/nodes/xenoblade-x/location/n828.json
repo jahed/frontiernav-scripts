@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Outfitters Test Hangar",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n828"
+}

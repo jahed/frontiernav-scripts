@@ -1,0 +1,11 @@
+{
+  "id": "loc383",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sylvalum Base Camp 5",
+    "locationTypeId": "Camp"
+  }
+}

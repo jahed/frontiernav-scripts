@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i10",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Magical Finding Rod",
+    "rarity": 3
+  }
+}

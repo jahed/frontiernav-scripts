@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i12",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Extra-Large Cash Box",
+    "rarity": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i0",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bude Mugwort",
+    "rarity": 1
+  }
+}

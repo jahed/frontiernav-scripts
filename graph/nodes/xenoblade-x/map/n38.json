@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "id": "n38",
+  "data": {
+    "name": "Segments",
+    "description": "Segments in NLA",
+    "thumbnail": "view-segments"
+  }
+}

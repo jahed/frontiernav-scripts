@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i49",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Tractor Beetle",
+    "rarity": 1
+  }
+}

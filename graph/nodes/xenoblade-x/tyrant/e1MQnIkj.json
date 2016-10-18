@@ -1,0 +1,16 @@
+{
+  "id": "e1MQnIkj",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Belenguer, the Gunhammer",
+    "level": 30,
+    "notes": "\"Belenguer, the Gunhammer\" can be found near some of the bonelike rocks above King's Falls in Oblivia.",
+    "category": "Insectoid",
+    "subcategory": "Ictus",
+    "image": "e1MQnIkj"
+  }
+}

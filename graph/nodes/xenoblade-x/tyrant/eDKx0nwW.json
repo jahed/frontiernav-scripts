@@ -1,0 +1,16 @@
+{
+  "id": "eDKx0nwW",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Diogenes, the Covetous",
+    "level": 28,
+    "notes": "\"Diogenes, the Covetous\" runs up and down an open passage to the south of Central Ibra Ravine in the east of Oblivia.",
+    "category": "Theroid",
+    "subcategory": "Simius",
+    "image": "eDKx0nwW"
+  }
+}

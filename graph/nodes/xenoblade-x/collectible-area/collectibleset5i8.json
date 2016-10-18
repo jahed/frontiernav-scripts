@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset5i8",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros Old Battleground Area",
+    "itemType": "collectibles"
+  }
+}

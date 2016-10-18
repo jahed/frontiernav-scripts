@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i17",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Kiran Catnip",
+    "rarity": 2
+  }
+}

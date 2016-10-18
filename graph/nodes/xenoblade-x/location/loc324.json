@@ -1,0 +1,11 @@
+{
+  "id": "loc324",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Qing Long Glade BC",
+    "locationTypeId": "Camp"
+  }
+}

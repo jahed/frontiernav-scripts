@@ -1,0 +1,15 @@
+{
+  "id": "region4",
+  "labels": {
+    "regions": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sylvalum",
+    "center": {
+      "lat": 43.58039085560784,
+      "lng": 30.5859375
+    },
+    "image": "sylvalum"
+  }
+}

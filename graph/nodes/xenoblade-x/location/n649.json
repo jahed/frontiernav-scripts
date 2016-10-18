@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Central Melville Street",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n649"
+}

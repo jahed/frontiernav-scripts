@@ -1,0 +1,12 @@
+{
+  "id": "loc412",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Whale's Gullet",
+    "locationTypeId": "Area"
+  }
+}

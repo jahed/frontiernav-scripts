@@ -1,0 +1,16 @@
+{
+  "id": "eY5sZTDp",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Nahum, the Red Hare",
+    "level": 66,
+    "notes": "\"Nahum, the Red Hare\" and continues the fight aboard her Skell. She becomes invincible when her HP is very low. She can use mind control.",
+    "category": "Humanoid",
+    "subcategory": "Milsaadi",
+    "image": "eY5sZTDp"
+  }
+}

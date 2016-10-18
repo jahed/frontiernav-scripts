@@ -1,0 +1,16 @@
+{
+  "id": "euuRjcxL",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Enhanced Attack Seidr",
+    "level": 68,
+    "notes": "\"Enhanced Attack Seidr\" is being upgraded at kitsune base, the ganglion base south of T'phnom Shelf in Cauldros (at FN Site 512).",
+    "category": "Mechanoid",
+    "subcategory": "Seidr",
+    "image": "euuRjcxL"
+  }
+}

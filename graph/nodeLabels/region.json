@@ -1,0 +1,13 @@
+{
+  "id": "region",
+  "path": "regions",
+  "name": "Region",
+  "searchable": true,
+  "pageDescription": "View details about {name}, a region in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    },
+    "image": {}
+  }
+}

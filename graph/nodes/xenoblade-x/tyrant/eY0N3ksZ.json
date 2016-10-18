@@ -1,0 +1,16 @@
+{
+  "id": "eY0N3ksZ",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Enhanced Defense Seidr",
+    "level": 59,
+    "notes": "\"Enhanced Defense Seidr\" sits between the tripod legs of Luxaar's Xern above Anvil Sandplain in northern Sylvalum.",
+    "category": "Mechanoid",
+    "subcategory": "Seidr",
+    "image": "eY0N3ksZ"
+  }
+}

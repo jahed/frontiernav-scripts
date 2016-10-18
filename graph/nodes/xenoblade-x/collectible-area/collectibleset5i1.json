@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset5i1",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros Volcano Area",
+    "itemType": "collectibles"
+  }
+}

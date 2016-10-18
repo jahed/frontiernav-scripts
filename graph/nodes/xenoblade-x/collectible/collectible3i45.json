@@ -1,0 +1,14 @@
+{
+  "id": "collectible3i45",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Zedis Twig",
+    "requirements": true,
+    "rarity": 2,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

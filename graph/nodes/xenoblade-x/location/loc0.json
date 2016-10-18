@@ -1,0 +1,11 @@
+{
+  "id": "loc0",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Aaroy Plain",
+    "locationTypeId": "Area"
+  }
+}

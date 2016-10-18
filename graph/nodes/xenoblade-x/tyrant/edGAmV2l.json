@@ -1,0 +1,17 @@
+{
+  "id": "edGAmV2l",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Eisen, the Ebon Rock",
+    "level": 51,
+    "notes": "\"Eisen, the Ebon Rock\" appears during the night to ambush prey on the largest rock in the middle of the lavafall between Ruined City of O'rrh Sim and Abandoned Bivouac in north Cauldros. It may take Eisen a moment to appear once you are on the rock. During the day a different Petramand Tyrant appears in the lava nearby.",
+    "category": "Insectoid",
+    "subcategory": "Petramand",
+    "time": "19:00 - 5:00",
+    "image": "edGAmV2l"
+  }
+}

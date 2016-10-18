@@ -1,0 +1,11 @@
+{
+  "id": "loc26",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Beneath O'rrh Sim Keep",
+    "locationTypeId": "Scenic"
+  }
+}

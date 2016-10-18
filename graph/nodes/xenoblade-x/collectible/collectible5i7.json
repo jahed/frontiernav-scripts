@@ -1,0 +1,14 @@
+{
+  "id": "collectible5i7",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Muranadium",
+    "requirements": true,
+    "rarity": 4,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

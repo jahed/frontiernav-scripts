@@ -1,0 +1,12 @@
+{
+  "id": "loc330",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Roof Rock",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

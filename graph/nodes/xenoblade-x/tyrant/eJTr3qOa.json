@@ -1,0 +1,16 @@
+{
+  "id": "eJTr3qOa",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Xair, the Cerulean Walker",
+    "level": 75,
+    "notes": "\"Xair, the Cerulean Walker\" resides on a remote island in the ocean to the south west of Sylvalum. Deals heavy spike damage but can simply be OHKO with some Theroid Slayer XX augments and a super weapon.",
+    "category": "Theroid",
+    "subcategory": "Coronid",
+    "image": "eJTr3qOa"
+  }
+}

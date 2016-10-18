@@ -1,0 +1,11 @@
+{
+  "id": "loc215",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Gehenna Span",
+    "locationTypeId": "Landmark"
+  }
+}

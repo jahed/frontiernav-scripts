@@ -1,0 +1,11 @@
+{
+  "id": "loc12",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Azure Lagoon",
+    "locationTypeId": "Scenic"
+  }
+}

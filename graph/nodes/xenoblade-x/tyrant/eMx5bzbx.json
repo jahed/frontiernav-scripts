@@ -1,0 +1,16 @@
+{
+  "id": "eMx5bzbx",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Rolf, the Sonorous",
+    "level": 44,
+    "notes": "\"Rolf, the Sonorous\" can be found near the bottom of Kings Falls in Oblivia dancing on the sand.",
+    "category": "Theroid",
+    "subcategory": "Saltat",
+    "image": "eMx5bzbx"
+  }
+}

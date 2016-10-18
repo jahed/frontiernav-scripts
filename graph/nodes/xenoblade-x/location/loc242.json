@@ -1,0 +1,11 @@
+{
+  "id": "loc242",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Jair Fortress",
+    "locationTypeId": "Landmark"
+  }
+}

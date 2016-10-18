@@ -1,0 +1,11 @@
+{
+  "id": "loc86",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Elephant's Trunk",
+    "locationTypeId": "Area"
+  }
+}

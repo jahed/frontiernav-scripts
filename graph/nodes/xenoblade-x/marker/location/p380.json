@@ -1,0 +1,13 @@
+{
+  "id": "p380",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": 40.413496049701955,
+      "lng": 60.29296874999999
+    }
+  }
+}

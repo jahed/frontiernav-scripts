@@ -1,0 +1,11 @@
+{
+  "id": "loc66",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Decapotamon Vista",
+    "locationTypeId": "Scenic"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc254",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lakeview Stronghold",
+    "locationTypeId": "Area"
+  }
+}

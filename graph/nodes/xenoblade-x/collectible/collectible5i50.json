@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i50",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bullet Fly",
+    "rarity": 3
+  }
+}

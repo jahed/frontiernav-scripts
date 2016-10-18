@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters in BLADE Barracks"
+  },
+  "id": "n290"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e7j9EHuB",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Yuiro, the Luxuriant",
+    "level": 51,
+    "notes": "\"Yuiro, the Luxuriant\" will appear in the lone bush when its fellow Blatta have all been killed on top of a tall column of stone at the north end of Qing Long Glade in Noctilum (just below the twin hammers bridge that has a noticeable gap in it). The Blatta will take several seconds to appear and has a short load/despawn distance so land the Skell and be patient.",
+    "category": "Insectoid",
+    "subcategory": "Blatta",
+    "image": "e7j9EHuB"
+  }
+}

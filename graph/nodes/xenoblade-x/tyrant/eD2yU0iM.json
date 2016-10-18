@@ -1,0 +1,16 @@
+{
+  "id": "eD2yU0iM",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Armed Engineer Galdr",
+    "level": 41,
+    "notes": "\"Armed Engineer Galdr\" can be found above the water just a tiny bit east of Far Isle of Tzo'o in the north west of Cauldros.",
+    "category": "Mechanoid",
+    "subcategory": "Galdr",
+    "image": "eD2yU0iM"
+  }
+}

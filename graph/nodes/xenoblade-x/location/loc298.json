@@ -1,0 +1,11 @@
+{
+  "id": "loc298",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "O'rrh Sim Keep",
+    "locationTypeId": "Landmark"
+  }
+}

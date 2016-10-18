@@ -1,0 +1,11 @@
+{
+  "id": "loc74",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dopang Caravan",
+    "locationTypeId": "Area"
+  }
+}

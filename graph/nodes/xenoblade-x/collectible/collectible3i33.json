@@ -1,0 +1,14 @@
+{
+  "id": "collectible3i33",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Illogical Etchings",
+    "requirements": true,
+    "rarity": 3,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

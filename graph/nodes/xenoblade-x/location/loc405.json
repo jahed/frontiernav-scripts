@@ -1,0 +1,11 @@
+{
+  "id": "loc405",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Waterway Tangle",
+    "locationTypeId": "Area"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mission126-8",
+  "labels": {
+    "missions": true,
+    "affinityMission": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "The Repair Job"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eMy5hWDZ",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Zdenka, the Raucous",
+    "level": 60,
+    "notes": "\"Zdenka, the Raucous\" sits atop a tall stone pillar at fallshom isle, the stoney home of some level 50 Saltats to the north west of Grieving Plains in western Primordia. Zdenka can take ten or more seconds to load when reaching this area. Flight not necessary but be prepared for a ranged battle.",
+    "category": "Theroid",
+    "subcategory": "Saltat",
+    "image": "eMy5hWDZ"
+  }
+}

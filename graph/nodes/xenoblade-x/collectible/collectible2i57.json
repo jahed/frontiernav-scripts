@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i57",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Muneria Flower",
+    "rarity": 2
+  }
+}

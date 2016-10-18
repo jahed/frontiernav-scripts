@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i56",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Emerald Grape",
+    "rarity": 4
+  }
+}

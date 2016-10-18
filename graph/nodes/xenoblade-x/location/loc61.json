@@ -1,0 +1,11 @@
+{
+  "id": "loc61",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Crater Oasis",
+    "locationTypeId": "Unexplored"
+  }
+}

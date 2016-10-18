@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "West Gate",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n339"
+}

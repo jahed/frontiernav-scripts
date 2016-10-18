@@ -1,0 +1,11 @@
+{
+  "id": "loc59",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cliffside Camp",
+    "locationTypeId": "Area"
+  }
+}

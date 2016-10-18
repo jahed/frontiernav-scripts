@@ -1,0 +1,16 @@
+{
+  "id": "e8v1VKQJ",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Tormenta, the Scarlet-Clad",
+    "level": 41,
+    "notes": "\"Tormenta, the Scarlet-Clad\" resides at a tiny pond connected to one of the streams feeding into the waterfalls to the south of Decapotamon in central Noctilum.",
+    "category": "Insectoid",
+    "subcategory": "Turba",
+    "image": "e8v1VKQJ"
+  }
+}

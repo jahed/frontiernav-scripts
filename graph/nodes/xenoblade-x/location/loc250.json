@@ -1,0 +1,11 @@
+{
+  "id": "loc250",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Kw'arah Villa",
+    "locationTypeId": "Landmark"
+  }
+}

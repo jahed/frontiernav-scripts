@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Central Industrial District",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n830"
+}

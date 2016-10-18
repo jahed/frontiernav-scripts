@@ -1,0 +1,11 @@
+{
+  "id": "loc40",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Capital Wreckage",
+    "locationTypeId": "Landmark"
+  }
+}

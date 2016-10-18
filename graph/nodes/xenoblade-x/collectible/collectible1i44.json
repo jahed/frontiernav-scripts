@@ -1,0 +1,14 @@
+{
+  "id": "collectible1i44",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sadelana Lettuce",
+    "requirements": true,
+    "rarity": 2,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

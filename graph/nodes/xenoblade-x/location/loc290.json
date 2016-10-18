@@ -1,0 +1,11 @@
+{
+  "id": "loc290",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "North Silent Sandsea",
+    "locationTypeId": "Landmark"
+  }
+}

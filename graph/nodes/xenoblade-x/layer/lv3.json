@@ -1,0 +1,12 @@
+{
+  "id": "lv3",
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Probes",
+    "icon": "line-chart",
+    "thumbnail": "view-probes"
+  }
+}

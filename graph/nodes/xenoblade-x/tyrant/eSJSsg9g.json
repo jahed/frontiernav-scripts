@@ -1,0 +1,16 @@
+{
+  "id": "eSJSsg9g",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Andrea, the Famished Hunter",
+    "level": 51,
+    "notes": "\"Andrea, the Famished Hunter\" roams the western shore of Sylvalums Lake Ciel with a pack of Villainous Caucus in tow.",
+    "category": "Theroid",
+    "subcategory": "Caecus",
+    "image": "eSJSsg9g"
+  }
+}

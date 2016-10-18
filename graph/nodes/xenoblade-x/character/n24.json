@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "characters": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Mia",
+    "image": "mia-banner",
+    "thumbnail": "mia-face.png"
+  },
+  "id": "n24"
+}

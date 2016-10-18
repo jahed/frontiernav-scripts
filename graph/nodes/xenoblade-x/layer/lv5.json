@@ -1,0 +1,12 @@
+{
+  "id": "lv5",
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters in NLA",
+    "icon": "compass"
+  }
+}

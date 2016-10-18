@@ -1,0 +1,12 @@
+{
+  "id": "loc31",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Biahno River",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

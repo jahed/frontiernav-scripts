@@ -1,0 +1,12 @@
+{
+  "id": "loc329",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Rockmole's Burrow",
+    "locationTypeId": "Landmark"
+  }
+}

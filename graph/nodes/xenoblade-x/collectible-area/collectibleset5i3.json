@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset5i3",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros Castle Area",
+    "itemType": "collectibles"
+  }
+}

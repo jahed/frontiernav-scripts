@@ -1,0 +1,12 @@
+{
+  "id": "loc389",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Tallpack Peak",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

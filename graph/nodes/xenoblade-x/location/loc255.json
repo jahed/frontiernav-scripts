@@ -1,0 +1,11 @@
+{
+  "id": "loc255",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Leaning Ring",
+    "locationTypeId": "Landmark"
+  }
+}

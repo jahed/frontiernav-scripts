@@ -1,0 +1,11 @@
+{
+  "id": "loc410",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "West Ibra Ravine",
+    "locationTypeId": "Area"
+  }
+}

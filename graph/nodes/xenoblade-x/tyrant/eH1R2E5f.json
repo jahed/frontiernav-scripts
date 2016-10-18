@@ -1,0 +1,17 @@
+{
+  "id": "eH1R2E5f",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Roimi, the Affluent",
+    "level": 31,
+    "notes": "\"Roimi, the Affluent\" can be spotted at night way up a god damned tree on the rocky rocks in the south west corner of Janpath Lake in Primordia. Roimi is a golden blatta that may take a moment to load in after every thing else in the area has loaded. If you're still having trouble look for the rocks with the most trees that Luciel walks around to drink at either side.",
+    "category": "Insectoid",
+    "subcategory": "Blatta",
+    "time": "19:00 - 5:00",
+    "image": "eH1R2E5f"
+  }
+}

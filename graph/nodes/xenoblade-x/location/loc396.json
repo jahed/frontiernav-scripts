@@ -1,0 +1,11 @@
+{
+  "id": "loc396",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Titan's Table",
+    "locationTypeId": "Landmark"
+  }
+}

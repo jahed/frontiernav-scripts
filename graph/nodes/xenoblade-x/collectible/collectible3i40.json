@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i40",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Whip Scorpion",
+    "rarity": 3
+  }
+}

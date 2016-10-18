@@ -1,0 +1,17 @@
+{
+  "id": "etOMI2Gy",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Elaine, the Lunar Eclipse",
+    "level": 55,
+    "notes": "\"Elaine, the Lunar Eclipse\" appears during the night to fly around in the north west corner of Lake Basel in Oblivia.",
+    "category": "Piscinoid",
+    "subcategory": "Ceto",
+    "time": "19:00 - 5:00",
+    "image": "etOMI2Gy"
+  }
+}

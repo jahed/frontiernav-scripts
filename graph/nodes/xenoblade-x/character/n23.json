@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "characters": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lao Huang",
+    "image": "lao-banner",
+    "thumbnail": "lao-face.png"
+  },
+  "id": "n23"
+}

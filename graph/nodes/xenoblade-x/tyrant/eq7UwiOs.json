@@ -1,0 +1,17 @@
+{
+  "id": "eq7UwiOs",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Valeriano, the Rolling Thunder",
+    "level": 26,
+    "notes": "\"Valeriano, the Rolling Thunder\" appears during EM Storms at the lake under the leaning ring to the south of Yawning Giant (the huge bottomless pit) in Oblivia.",
+    "category": "Piscinoid",
+    "subcategory": "Duoguill",
+    "weather": "EM Storms",
+    "image": "eq7UwiOs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "loc413",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Whale's Nostril",
+    "cave": true,
+    "locationTypeId": "Area"
+  }
+}

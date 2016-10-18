@@ -1,0 +1,15 @@
+{
+  "id": "region2",
+  "labels": {
+    "regions": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Noctilum",
+    "center": {
+      "lat": 4.214943141390651,
+      "lng": -134.6484375
+    },
+    "image": "noctilum"
+  }
+}

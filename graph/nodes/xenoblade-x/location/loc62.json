@@ -1,0 +1,12 @@
+{
+  "id": "loc62",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Cryptic Sign",
+    "locationTypeId": "Unexplored"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "treasure346-10",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Indigen Nest",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 2
+    }
+  }
+}

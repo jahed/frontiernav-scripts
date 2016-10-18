@@ -1,0 +1,11 @@
+{
+  "id": "loc248",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Kitsune Stronghold",
+    "locationTypeId": "Area"
+  }
+}

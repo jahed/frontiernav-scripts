@@ -1,0 +1,14 @@
+{
+  "id": "collectible4i10",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Taoman Acid",
+    "requirements": true,
+    "rarity": 2,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

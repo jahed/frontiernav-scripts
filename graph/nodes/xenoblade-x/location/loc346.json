@@ -1,0 +1,11 @@
+{
+  "id": "loc346",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Scholes Battlegrounds",
+    "locationTypeId": "Landmark"
+  }
+}

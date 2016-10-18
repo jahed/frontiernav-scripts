@@ -1,0 +1,16 @@
+{
+  "id": "eHCcJvQw",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Rajidi, the Cumuliform",
+    "level": 52,
+    "notes": "\"Rajidi, the Cumuliform\" rarely appears just to the south of the connecting bridge to Oblivia in the far eastern edge of Primordia.",
+    "category": "Piscinoid",
+    "subcategory": "Balaena",
+    "image": "eHCcJvQw"
+  }
+}

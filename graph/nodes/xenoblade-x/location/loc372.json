@@ -1,0 +1,12 @@
+{
+  "id": "loc372",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Starfall Basin",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

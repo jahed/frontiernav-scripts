@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i16",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Zandemo Eggplant",
+    "rarity": 2
+  }
+}

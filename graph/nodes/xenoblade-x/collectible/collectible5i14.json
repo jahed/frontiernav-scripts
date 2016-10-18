@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i14",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Savage Sketch",
+    "rarity": 4
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i7",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Gluttonutan Clay",
+    "rarity": 1
+  }
+}

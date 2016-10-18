@@ -1,0 +1,12 @@
+{
+  "id": "loc221",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Green Threshold",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

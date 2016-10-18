@@ -1,0 +1,11 @@
+{
+  "id": "loc64",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dead Man's Ingress",
+    "locationTypeId": "Area"
+  }
+}

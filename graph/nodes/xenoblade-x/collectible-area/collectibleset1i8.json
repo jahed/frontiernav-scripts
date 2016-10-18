@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset1i8",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primordia North Shore Area",
+    "itemType": "collectibles"
+  }
+}

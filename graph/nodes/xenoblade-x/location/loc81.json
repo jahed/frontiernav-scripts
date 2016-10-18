@@ -1,0 +1,11 @@
+{
+  "id": "loc81",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "East Gate Plain",
+    "locationTypeId": "Area"
+  }
+}

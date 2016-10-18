@@ -1,0 +1,11 @@
+{
+  "id": "loc310",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Old Dragontail Tree",
+    "locationTypeId": "Landmark"
+  }
+}

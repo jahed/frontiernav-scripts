@@ -1,0 +1,11 @@
+{
+  "id": "loc299",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "O'rrh Sim Watchtowers",
+    "locationTypeId": "Landmark"
+  }
+}

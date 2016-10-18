@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset3i9",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Oblivia Cave Areas",
+    "itemType": "collectibles"
+  }
+}

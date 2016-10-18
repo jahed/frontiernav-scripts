@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Armory Alley",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n333"
+}

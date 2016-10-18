@@ -1,0 +1,11 @@
+{
+  "id": "loc238",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Island 6",
+    "locationTypeId": "Island"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "collectible4i49",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Rainy Cricket",
+    "requirements": true,
+    "rarity": 3,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

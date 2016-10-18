@@ -1,0 +1,12 @@
+{
+  "id": "loc350",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Seaswept Base",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

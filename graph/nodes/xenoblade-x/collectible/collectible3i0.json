@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i0",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Gubura Cabbage Leaf",
+    "rarity": 1
+  }
+}

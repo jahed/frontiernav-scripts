@@ -1,0 +1,12 @@
+{
+  "id": "s2i127-19",
+  "labels": {
+    "segments": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "q": 12,
+    "r": 7,
+    "s": -19
+  }
+}

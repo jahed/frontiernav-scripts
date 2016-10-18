@@ -1,0 +1,11 @@
+{
+  "id": "loc388",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "T'phnom Shelf",
+    "locationTypeId": "Area"
+  }
+}

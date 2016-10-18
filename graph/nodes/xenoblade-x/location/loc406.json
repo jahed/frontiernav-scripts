@@ -1,0 +1,11 @@
+{
+  "id": "loc406",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Weeping Whitewood",
+    "locationTypeId": "Landmark"
+  }
+}

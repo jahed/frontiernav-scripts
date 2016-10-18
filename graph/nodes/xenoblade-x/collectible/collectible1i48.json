@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i48",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "T-Ray Light",
+    "rarity": 4
+  }
+}

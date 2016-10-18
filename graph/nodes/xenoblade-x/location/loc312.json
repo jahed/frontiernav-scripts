@@ -1,0 +1,12 @@
+{
+  "id": "loc312",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Plundered Ruin",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

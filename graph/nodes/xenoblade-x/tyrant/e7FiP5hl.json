@@ -1,0 +1,17 @@
+{
+  "id": "e7FiP5hl",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Air Support Galdr",
+    "level": 54,
+    "notes": "\"Air Support Galdr\" guards the night time airspace around wildcat fortress south east of Scholes Battlegrounds in Cauldros.",
+    "category": "Mechanoid",
+    "subcategory": "Galdr",
+    "time": "19:00 - 5:00",
+    "image": "e7FiP5hl"
+  }
+}

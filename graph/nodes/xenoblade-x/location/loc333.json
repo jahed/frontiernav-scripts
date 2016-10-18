@@ -1,0 +1,11 @@
+{
+  "id": "loc333",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Ruins on the Butte",
+    "locationTypeId": "Landmark"
+  }
+}

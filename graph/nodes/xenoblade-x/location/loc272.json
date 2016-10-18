@@ -1,0 +1,11 @@
+{
+  "id": "loc272",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Needle Rock Sandsea",
+    "locationTypeId": "Area"
+  }
+}

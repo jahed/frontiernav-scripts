@@ -1,0 +1,11 @@
+{
+  "id": "loc265",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Middle Hushflood",
+    "locationTypeId": "Area"
+  }
+}

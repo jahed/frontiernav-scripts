@@ -1,0 +1,12 @@
+{
+  "id": "loc42",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Castaway Cavern",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "loc328",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Rock Cavern",
+    "cave": true,
+    "locationTypeId": "Unexplored"
+  }
+}

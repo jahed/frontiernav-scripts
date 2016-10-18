@@ -1,0 +1,11 @@
+{
+  "id": "loc270",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Mount M'gando",
+    "locationTypeId": "Landmark"
+  }
+}

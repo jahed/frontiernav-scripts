@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Trailer",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 3
+    }
+  },
+  "id": "n957"
+}

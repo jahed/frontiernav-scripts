@@ -1,0 +1,11 @@
+{
+  "id": "loc336",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Rustpool Banks",
+    "locationTypeId": "Area"
+  }
+}

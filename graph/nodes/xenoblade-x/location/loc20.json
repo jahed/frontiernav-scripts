@@ -1,0 +1,12 @@
+{
+  "id": "loc20",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Beachside Trove",
+    "locationTypeId": "Unexplored"
+  }
+}

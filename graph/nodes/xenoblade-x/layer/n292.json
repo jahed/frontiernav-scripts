@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "id": "n292",
+  "data": {
+    "name": "Segments",
+    "description": "Segments in BLADE Barracks",
+    "thumbnail": "view-segments"
+  }
+}

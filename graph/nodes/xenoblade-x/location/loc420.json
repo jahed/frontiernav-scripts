@@ -1,0 +1,11 @@
+{
+  "id": "loc420",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Yagami's Vista",
+    "locationTypeId": "Scenic"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc75",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dorian Caravan",
+    "locationTypeId": "Landmark"
+  }
+}

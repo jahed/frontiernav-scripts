@@ -1,0 +1,16 @@
+{
+  "id": "ecb3fovB",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Heidi, the Lively",
+    "level": 60,
+    "notes": "\"Heidi, the Lively\" can be found at the grassy area north west of Middle Hushflood in Noctilum and is the second half of the pair of Ovis that Pyotr, the Shepherd guards. Heidi can cast Sleep on your entire party.",
+    "category": "Theroid",
+    "subcategory": "Ovis",
+    "image": "ecb3fovB"
+  }
+}

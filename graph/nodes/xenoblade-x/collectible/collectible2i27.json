@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i27",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Eternal Moss",
+    "rarity": 4
+  }
+}

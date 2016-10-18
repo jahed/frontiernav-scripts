@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "id": "n289",
+  "data": {
+    "name": "Segments",
+    "description": "Segments on the Manon Ship",
+    "thumbnail": "view-segments"
+  }
+}

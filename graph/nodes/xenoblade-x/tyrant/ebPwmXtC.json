@@ -1,0 +1,16 @@
+{
+  "id": "ebPwmXtC",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Hartmut, the Calamity",
+    "level": 91,
+    "notes": "\"Hartmut, the Calamity\" is the big thing that flies around much of Yawning Giant, the bottomless ravine in Oblivia (starts in the south)",
+    "category": "Insectoid",
+    "subcategory": "Millepod",
+    "image": "ebPwmXtC"
+  }
+}

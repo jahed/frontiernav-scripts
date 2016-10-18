@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "characters": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Yelv",
+    "image": "yelv-banner",
+    "thumbnail": "yelv-face.png"
+  },
+  "id": "n67"
+}

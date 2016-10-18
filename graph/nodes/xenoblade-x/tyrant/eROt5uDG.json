@@ -1,0 +1,17 @@
+{
+  "id": "eROt5uDG",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Albin, the Wicked Meddler",
+    "level": 51,
+    "notes": "\"Albin, the Wicked Meddler\" can be found during the night floating around the western side of Lake Ciel. It spawns on top of Laurencio, the Fog Bow and then goes for a wander.",
+    "category": "Piscinoid",
+    "subcategory": "Purgovent",
+    "time": "19:00 - 5:00",
+    "image": "eROt5uDG"
+  }
+}

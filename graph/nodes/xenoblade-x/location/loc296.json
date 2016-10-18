@@ -1,0 +1,11 @@
+{
+  "id": "loc296",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "O'rrh Sim Castle Ruins Area",
+    "locationTypeId": "Area"
+  }
+}

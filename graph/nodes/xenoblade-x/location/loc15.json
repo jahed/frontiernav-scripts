@@ -1,0 +1,11 @@
+{
+  "id": "loc15",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Badr Stronghold",
+    "locationTypeId": "Area"
+  }
+}

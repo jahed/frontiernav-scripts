@@ -1,0 +1,16 @@
+{
+  "id": "e3LphDx6",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Gadaf's Qmoeva",
+    "level": 31,
+    "notes": "\"Gadaf's Qmoeva\" waits in the shadows on the largest tropical island between Primordia and Sylvalum.",
+    "category": "Mechanoid",
+    "subcategory": "Qmoeva",
+    "image": "e3LphDx6"
+  }
+}

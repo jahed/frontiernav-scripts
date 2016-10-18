@@ -1,0 +1,11 @@
+{
+  "id": "loc343",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sayram Lake",
+    "locationTypeId": "Area"
+  }
+}

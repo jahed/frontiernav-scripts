@@ -1,0 +1,11 @@
+{
+  "id": "loc9",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Arc Rock",
+    "locationTypeId": "Scenic"
+  }
+}

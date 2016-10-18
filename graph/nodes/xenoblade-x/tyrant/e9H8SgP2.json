@@ -1,0 +1,17 @@
+{
+  "id": "e9H8SgP2",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Truppe, the Ceaseless Dark",
+    "level": 53,
+    "notes": "\"Truppe, the Ceaseless Dark\" makes an appearance during the night at old ceremonial hollow, a cave to the east of Mount M'gando in Cauldros. Once inside the cave follow the wiggly passage and turn south at the first junction, turn west at the next junction and follow this new wiggly passage to the end to find Truppe surrounded by several other tiny Petramand.",
+    "category": "Insectoid",
+    "subcategory": "Petramand",
+    "time": "19:00 - 5:00",
+    "image": "e9H8SgP2"
+  }
+}

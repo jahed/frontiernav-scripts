@@ -1,0 +1,11 @@
+{
+  "id": "loc10",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Arendt Bridge",
+    "locationTypeId": "Landmark"
+  }
+}

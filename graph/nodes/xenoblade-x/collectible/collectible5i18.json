@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i18",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Spatial Control Jointer",
+    "rarity": 2
+  }
+}

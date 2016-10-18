@@ -1,0 +1,11 @@
+{
+  "id": "loc72",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Divine Roost",
+    "locationTypeId": "Area"
+  }
+}

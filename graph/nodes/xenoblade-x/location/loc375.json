@@ -1,0 +1,11 @@
+{
+  "id": "loc375",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Stoyanov Trail",
+    "locationTypeId": "Area"
+  }
+}

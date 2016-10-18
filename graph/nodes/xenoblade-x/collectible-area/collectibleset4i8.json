@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset4i8",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sylvalum Upper Delusian Mountains Area",
+    "itemType": "collectibles"
+  }
+}

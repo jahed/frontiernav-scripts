@@ -1,0 +1,11 @@
+{
+  "id": "loc366",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "South Cinderdunes",
+    "locationTypeId": "Landmark"
+  }
+}

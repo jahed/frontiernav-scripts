@@ -1,0 +1,18 @@
+{
+  "id": "location",
+  "path": "locations",
+  "name": "Location",
+  "searchable": true,
+  "pageDescription": "Here's what you can find in and around {name} in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    },
+    "image": {},
+    "locationTypeId": {
+      "required": true
+    },
+    "notes": {},
+    "externalLinks": {}
+  }
+}

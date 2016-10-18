@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i8",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cruise Deflector AiR",
+    "rarity": 2
+  }
+}

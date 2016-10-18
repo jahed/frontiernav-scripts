@@ -1,0 +1,14 @@
+{
+  "id": "shape1i19",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": -60.759159502269895,
+      "lng": -25.6640625
+    },
+    "radius": 10
+  }
+}

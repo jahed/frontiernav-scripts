@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset2i3",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Noctilum Lake Area",
+    "itemType": "collectibles"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eNnePZmc",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sarcosuchus, the Iron-Eater",
+    "level": 39,
+    "notes": "\"Sarcosuchus, the Iron-Eater\" will leap out and surprise anyone who enters the deep part of the pool directly between three Dilus (crocodiles) in the north part of Rust Lake in Noctilums southern half.",
+    "category": "Theroid",
+    "subcategory": "Dilus",
+    "image": "eNnePZmc"
+  }
+}

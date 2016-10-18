@@ -1,0 +1,14 @@
+{
+  "id": "treasure311-1-10",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Indigen Dung",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 3
+    }
+  }
+}

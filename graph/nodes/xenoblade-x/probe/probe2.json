@@ -1,0 +1,15 @@
+{
+  "id": "probe2",
+  "labels": {
+    "probes": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Mining Probe G1",
+    "type": 1,
+    "attributes": {
+      "production_multiplier": 1,
+      "revenue_multiplier": 0.3
+    }
+  }
+}

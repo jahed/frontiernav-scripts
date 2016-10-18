@@ -1,0 +1,14 @@
+{
+  "id": "treasure296-15",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Skell Wreckage",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 4
+    }
+  }
+}

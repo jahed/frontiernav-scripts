@@ -1,0 +1,12 @@
+{
+  "id": "s3i150-15",
+  "labels": {
+    "segments": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "q": 15,
+    "r": 0,
+    "s": -15
+  }
+}

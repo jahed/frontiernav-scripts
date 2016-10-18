@@ -1,0 +1,11 @@
+{
+  "id": "loc38",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Breakwater Narrow",
+    "locationTypeId": "Area"
+  }
+}

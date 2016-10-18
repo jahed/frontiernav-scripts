@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Container",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 2
+    }
+  },
+  "id": "n347"
+}

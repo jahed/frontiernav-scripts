@@ -1,0 +1,11 @@
+{
+  "id": "loc90",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Everwhelm Falls",
+    "locationTypeId": "Landmark"
+  }
+}

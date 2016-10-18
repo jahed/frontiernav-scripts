@@ -1,0 +1,11 @@
+{
+  "id": "loc371",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Southern Searoad",
+    "locationTypeId": "Landmark"
+  }
+}

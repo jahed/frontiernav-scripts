@@ -1,0 +1,11 @@
+{
+  "id": "loc33",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bident Crossing",
+    "locationTypeId": "Landmark"
+  }
+}

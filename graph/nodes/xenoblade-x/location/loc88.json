@@ -1,0 +1,12 @@
+{
+  "id": "loc88",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Ensanguined Font",
+    "locationTypeId": "Unexplored"
+  }
+}

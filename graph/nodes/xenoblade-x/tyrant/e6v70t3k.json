@@ -1,0 +1,16 @@
+{
+  "id": "e6v70t3k",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Eliane, the Unmoved",
+    "level": 29,
+    "notes": "\"Eliane, the Unmoved\" is a large pink flower hiding in the ground by a ridge line just north of Balance Rock basecamp (the camp sits near the river in the east of Bardarich Desert).",
+    "category": "Insectoid",
+    "subcategory": "Mortifole",
+    "image": "e6v70t3k"
+  }
+}

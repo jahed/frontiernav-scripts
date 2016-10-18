@@ -1,0 +1,16 @@
+{
+  "id": "eDXfXvrn",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Du-rha, the Imprisoned",
+    "level": 74,
+    "notes": "\"Du-rha, the Imprisoned\" lies dormant in Quay Hollows cave which can be found in the chunky mountain at the south east of Sylvalum (entrance is on the ocean side).",
+    "category": "Mechanoid",
+    "subcategory": "Xe-dom",
+    "image": "eDXfXvrn"
+  }
+}

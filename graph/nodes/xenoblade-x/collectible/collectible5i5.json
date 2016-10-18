@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i5",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Zagryin Cragstone",
+    "rarity": 3
+  }
+}

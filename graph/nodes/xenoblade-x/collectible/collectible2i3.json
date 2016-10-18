@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i3",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Noctilucent Dragonfly",
+    "rarity": 1
+  }
+}

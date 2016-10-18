@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "BLADE Tower",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n332"
+}

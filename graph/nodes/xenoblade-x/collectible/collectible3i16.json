@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i16",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Shadow Fly",
+    "rarity": 2
+  }
+}

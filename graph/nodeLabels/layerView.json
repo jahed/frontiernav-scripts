@@ -1,0 +1,11 @@
+{
+  "id": "layerView",
+  "path": "layerViews",
+  "name": "Map Layer",
+  "pageDescription": "Map Layers are used to create various views on top of a map.",
+  "schema": {
+    "name": {},
+    "description": {},
+    "thumbnail": {}
+  }
+}

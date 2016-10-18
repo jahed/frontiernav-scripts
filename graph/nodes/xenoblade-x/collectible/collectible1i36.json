@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i36",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Grinding Squirrel",
+    "rarity": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "treasure2814-22",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Strange Tree",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 1
+    }
+  }
+}

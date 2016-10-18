@@ -1,0 +1,11 @@
+{
+  "id": "loc223",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Hardheart Canyon",
+    "locationTypeId": "Area"
+  }
+}

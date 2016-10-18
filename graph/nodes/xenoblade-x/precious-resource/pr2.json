@@ -1,0 +1,11 @@
+{
+  "id": "pr2",
+  "labels": {
+    "preciousResources": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Foucaultium",
+    "rarity": 0
+  }
+}

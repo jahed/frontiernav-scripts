@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i8",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Exploding Pansy",
+    "rarity": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eWQ5CRpy",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Edgardo, the Carefree",
+    "level": 18,
+    "notes": "\"Edgardo, the Carefree\" cleverly pretends to be simple tree branches clinging to a stone tower at Oblivias North Coast area and strikes when prey comes too close.",
+    "category": "Insectoid",
+    "subcategory": "Thallus",
+    "image": "eWQ5CRpy"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc222",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Grieving Plains",
+    "locationTypeId": "Landmark"
+  }
+}

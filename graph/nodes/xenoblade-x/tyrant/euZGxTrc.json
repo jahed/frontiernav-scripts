@@ -1,0 +1,16 @@
+{
+  "id": "euZGxTrc",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Vegetal, the Heatcrux",
+    "level": 49,
+    "notes": "\"Vegetal, the Heatcrux\" is a large flower that sits in an isolated, round'ish pool of lava just to the east of Titans Table in Cauldros.",
+    "category": "Insectoid",
+    "subcategory": "Sacrifole",
+    "image": "euZGxTrc"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i38",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Brain Terminal",
+    "rarity": 2
+  }
+}

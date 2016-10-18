@@ -1,0 +1,11 @@
+{
+  "id": "loc7",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Anvil Rock Two",
+    "locationTypeId": "Area"
+  }
+}

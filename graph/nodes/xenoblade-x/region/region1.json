@@ -1,0 +1,15 @@
+{
+  "id": "region1",
+  "labels": {
+    "regions": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primordia",
+    "center": {
+      "lat": -72.91498822499621,
+      "lng": -37.9248046875
+    },
+    "image": "primordia"
+  }
+}

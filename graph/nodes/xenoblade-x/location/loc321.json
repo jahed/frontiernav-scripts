@@ -1,0 +1,12 @@
+{
+  "id": "loc321",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primordia Base Camp 7",
+    "cave": false,
+    "locationTypeId": "Camp"
+  }
+}

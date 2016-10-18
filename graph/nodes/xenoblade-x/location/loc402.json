@@ -1,0 +1,11 @@
+{
+  "id": "loc402",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Upper Hush Flood",
+    "locationTypeId": "Area"
+  }
+}

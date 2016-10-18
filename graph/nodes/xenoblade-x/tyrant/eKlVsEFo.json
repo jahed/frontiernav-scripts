@@ -1,0 +1,17 @@
+{
+  "id": "eKlVsEFo",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Stola, the Unchained",
+    "level": 57,
+    "notes": "\"Stola, the Unchained\" appears during rising energy mists to take part in a freaky trumpet bird courtship ritual in the eastern side of the top of the Delusions South Summit. Drops a special Longsword with low attack but high TP gain.",
+    "category": "Theroid",
+    "subcategory": "Liceor",
+    "weather": "Rising Energy Mist (night)",
+    "image": "eKlVsEFo"
+  }
+}

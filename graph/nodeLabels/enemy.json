@@ -1,0 +1,24 @@
+{
+  "id": "enemy",
+  "path": "enemies",
+  "name": "Enemy",
+  "searchable": true,
+  "pageDescription": "Find out where you can find {name} in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    },
+    "level": {
+      "required": true
+    },
+    "notes": {},
+    "category": {
+      "required": true
+    },
+    "subcategory": {
+      "required": true
+    },
+    "image": {},
+    "time": {}
+  }
+}

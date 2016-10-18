@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i41",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sharpening Stone",
+    "rarity": 1
+  }
+}

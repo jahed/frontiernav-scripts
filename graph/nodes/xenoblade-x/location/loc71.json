@@ -1,0 +1,12 @@
+{
+  "id": "loc71",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Devil's Colony",
+    "locationTypeId": "Area"
+  }
+}

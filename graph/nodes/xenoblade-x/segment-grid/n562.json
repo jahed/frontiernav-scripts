@@ -1,0 +1,24 @@
+{
+  "labels": {
+    "segmentGrids": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "segmentDimensions": {
+      "height": 10.7
+    },
+    "segmentInset": {
+      "x": 10,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 646,
+      "y": 953
+    },
+    "dimensions": {
+      "x": 10,
+      "y": 8
+    }
+  },
+  "id": "n562"
+}

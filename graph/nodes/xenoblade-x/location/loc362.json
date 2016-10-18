@@ -1,0 +1,11 @@
+{
+  "id": "loc362",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Skygazer's Atrium",
+    "locationTypeId": "Scenic"
+  }
+}

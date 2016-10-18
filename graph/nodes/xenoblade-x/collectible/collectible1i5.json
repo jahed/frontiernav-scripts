@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i5",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Deflection Shield Mirror",
+    "rarity": 1
+  }
+}

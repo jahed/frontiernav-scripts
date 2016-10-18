@@ -1,0 +1,11 @@
+{
+  "id": "loc34",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Big Arch",
+    "locationTypeId": "Area"
+  }
+}

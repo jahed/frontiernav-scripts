@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset5i9",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros Cave Areas",
+    "itemType": "collectibles"
+  }
+}

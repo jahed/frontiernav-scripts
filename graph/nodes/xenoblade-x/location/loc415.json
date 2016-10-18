@@ -1,0 +1,11 @@
+{
+  "id": "loc415",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "White Phosphor Lake",
+    "locationTypeId": "Scenic"
+  }
+}

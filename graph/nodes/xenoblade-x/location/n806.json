@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Port Side",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n806"
+}

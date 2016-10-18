@@ -1,0 +1,13 @@
+{
+  "id": "site511",
+  "labels": {
+    "sites": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "number": 511,
+    "production": "A",
+    "revenue": "C",
+    "combat_support": "A"
+  }
+}

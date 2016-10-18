@@ -1,0 +1,16 @@
+{
+  "id": "eTeUrtT7",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Eddy, the Electric Heat",
+    "level": 43,
+    "notes": "\"Eddy, the Electric Heat\" swims close to the lava underneath the rocky arch that holds up Titans Table in west Cauldros.",
+    "category": "Piscinoid",
+    "subcategory": "Scintimure",
+    "image": "eTeUrtT7"
+  }
+}

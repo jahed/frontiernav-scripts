@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i24",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Multi-Speckled Ladybug",
+    "rarity": 2
+  }
+}

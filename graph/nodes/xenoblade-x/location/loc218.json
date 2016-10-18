@@ -1,0 +1,11 @@
+{
+  "id": "loc218",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Great Trident Crossing",
+    "locationTypeId": "Area"
+  }
+}

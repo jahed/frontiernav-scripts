@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i4",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Shimmering Skin",
+    "rarity": 1
+  }
+}

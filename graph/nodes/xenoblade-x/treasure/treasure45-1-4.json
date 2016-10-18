@@ -1,0 +1,14 @@
+{
+  "id": "treasure45-1-4",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Strange Petrified Tree",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 5
+    }
+  }
+}

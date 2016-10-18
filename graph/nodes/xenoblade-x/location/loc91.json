@@ -1,0 +1,12 @@
+{
+  "id": "loc91",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Fallshorn Isle",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Water Purification Plant",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n784"
+}

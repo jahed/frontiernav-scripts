@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i13",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Crystal Butterfly",
+    "rarity": 4
+  }
+}

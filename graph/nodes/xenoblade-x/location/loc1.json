@@ -1,0 +1,12 @@
+{
+  "id": "loc1",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Abandoned Bivouac",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

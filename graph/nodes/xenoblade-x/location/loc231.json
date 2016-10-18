@@ -1,0 +1,11 @@
+{
+  "id": "loc231",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Infernal Ledges",
+    "locationTypeId": "Unexplored"
+  }
+}

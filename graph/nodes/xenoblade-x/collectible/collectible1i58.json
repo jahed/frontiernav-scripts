@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i58",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Goddess's Kiss",
+    "rarity": 4
+  }
+}

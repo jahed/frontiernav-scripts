@@ -1,0 +1,22 @@
+{
+  "id": "mxf3rsf3",
+  "labels": {
+    "maps": true,
+    "pokemonSeries": true,
+    "pokemonRBY": true
+  },
+  "data": {
+    "name": "Kanto",
+    "tileLayers": {
+      "normal": {
+        "folder": "pokemon-kanto",
+        "extension": "jpg",
+        "background": {
+          "color": "#ffffff"
+        }
+      }
+    },
+    "defaultZoom": 3,
+    "maxNativeZoom": 3
+  }
+}

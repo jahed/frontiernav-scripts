@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset5i7",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros White Phosphorus Area",
+    "itemType": "collectibles"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i50",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "White Iron Sand",
+    "rarity": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i16",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Anhydrous Radiator",
+    "rarity": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i38",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Blast Chard",
+    "rarity": 2
+  }
+}

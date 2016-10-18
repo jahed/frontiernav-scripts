@@ -1,0 +1,11 @@
+{
+  "id": "loc373",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Stickstone Rise",
+    "locationTypeId": "Area"
+  }
+}

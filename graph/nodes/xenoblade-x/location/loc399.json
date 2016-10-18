@@ -1,0 +1,11 @@
+{
+  "id": "loc399",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Twin Arches",
+    "locationTypeId": "Landmark"
+  }
+}

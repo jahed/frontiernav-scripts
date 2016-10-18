@@ -1,0 +1,16 @@
+{
+  "id": "ekE4eIsS",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Ald, the Extravagant",
+    "level": 61,
+    "notes": "\"Ald, the Extravagant\" is hiding in Quay Hollows in the south east of Sylvalum (accessed via the ocean side of the mountain near the giant sphere). It is in the same room as Du-rha, the Imprisoned in the north west corner behind a pillar on a high platform with an Archeological treasure.",
+    "category": "Insectoid",
+    "subcategory": "Blatta",
+    "image": "ekE4eIsS"
+  }
+}

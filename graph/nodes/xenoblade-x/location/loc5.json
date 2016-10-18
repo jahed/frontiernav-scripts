@@ -1,0 +1,11 @@
+{
+  "id": "loc5",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Ancient Warscape",
+    "locationTypeId": "Landmark"
+  }
+}

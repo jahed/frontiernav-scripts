@@ -1,0 +1,16 @@
+{
+  "id": "eMQTrTLW",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Elvira, the Talondrake",
+    "level": 90,
+    "notes": "\"Elvira, the Talondrake\" lives on the highest mountain in Primordia, accessible only by flight. During the day it sleeps in The Shaft and at night it can be found flying around it's high home.",
+    "category": "Piscinoid",
+    "subcategory": "Colubrim",
+    "image": "eMQTrTLW"
+  }
+}

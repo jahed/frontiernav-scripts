@@ -1,0 +1,11 @@
+{
+  "id": "loc4",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Alexander Ridge",
+    "locationTypeId": "Area"
+  }
+}

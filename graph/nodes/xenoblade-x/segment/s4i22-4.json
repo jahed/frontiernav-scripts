@@ -1,0 +1,13 @@
+{
+  "id": "s4i22-4",
+  "labels": {
+    "segments": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "q": 2,
+    "r": 2,
+    "s": -4,
+    "special": true
+  }
+}

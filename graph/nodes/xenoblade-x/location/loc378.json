@@ -1,0 +1,11 @@
+{
+  "id": "loc378",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sunset Falls",
+    "locationTypeId": "Landmark"
+  }
+}

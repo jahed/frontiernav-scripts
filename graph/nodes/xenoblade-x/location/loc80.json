@@ -1,0 +1,11 @@
+{
+  "id": "loc80",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "East Ciel Sandsea",
+    "locationTypeId": "Area"
+  }
+}

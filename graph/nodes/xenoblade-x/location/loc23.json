@@ -1,0 +1,12 @@
+{
+  "id": "loc23",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bedrock Hold Approach",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

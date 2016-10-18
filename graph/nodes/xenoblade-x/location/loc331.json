@@ -1,0 +1,12 @@
+{
+  "id": "loc331",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Rooney Cavern",
+    "locationTypeId": "Landmark"
+  }
+}

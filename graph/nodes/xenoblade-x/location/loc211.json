@@ -1,0 +1,11 @@
+{
+  "id": "loc211",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "G'nahan Villa",
+    "locationTypeId": "Area"
+  }
+}

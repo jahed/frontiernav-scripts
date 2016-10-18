@@ -1,0 +1,16 @@
+{
+  "id": "e1MeOmaU",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Wenzel, the Inebriated",
+    "level": 70,
+    "notes": "\"Wenzel, the Inebriated\" is up the top of the mountain directly to the south of Aaroy Plain in central Oblivia. Easy to kill. Flight required.",
+    "category": "Theroid",
+    "subcategory": "Saltat",
+    "image": "e1MeOmaU"
+  }
+}

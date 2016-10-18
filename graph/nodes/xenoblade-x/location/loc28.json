@@ -1,0 +1,12 @@
+{
+  "id": "loc28",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Biahno Grassland",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

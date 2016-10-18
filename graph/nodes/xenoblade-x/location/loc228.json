@@ -1,0 +1,11 @@
+{
+  "id": "loc228",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Hilal Stronghold",
+    "locationTypeId": "Area"
+  }
+}

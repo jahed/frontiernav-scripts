@@ -1,0 +1,17 @@
+{
+  "id": "ey2XY06P",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Fernando, the Immovable",
+    "level": 85,
+    "notes": "\"Fernando, the Immovable\" can be found during the day at Decapotamon around the centre of Noctilum.",
+    "category": "Theroid",
+    "subcategory": "Millesaur",
+    "time": "5:00 - 19:00",
+    "image": "ey2XY06P"
+  }
+}

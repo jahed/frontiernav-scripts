@@ -1,0 +1,17 @@
+{
+  "id": "eoK3gR82",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Piernus, the Scorcher",
+    "level": 57,
+    "notes": "\"Piernus, the Scorcher\" appears during the day in the middle of the lava between Ruined City of O'rrh Sim and Abandoned Bivouac in north Cauldros. During the night a different Petramand Tyrant appears on a rock nearby.",
+    "category": "Insectoid",
+    "subcategory": "Petramand",
+    "time": "5:00 - 19:00",
+    "image": "eoK3gR82"
+  }
+}

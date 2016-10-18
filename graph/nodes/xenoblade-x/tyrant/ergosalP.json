@@ -1,0 +1,17 @@
+{
+  "id": "ergosalP",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Hiro, the Priceless",
+    "level": 69,
+    "notes": "\"Hiro, the Priceless\" appears at night and clings to a green crystal in the south west corner of sandsprint cavity, the hidden room inside the mountain between Badr Basin and Lake Ciel in Sylvalum. It has to be provoked before it can be targeted. Get close or bump it with a Skell to do so. Despite being a golden Blatta it can be difficult to see. Access sandsprint cavity with a flying Skell at the passage to the south of Badr Basin.",
+    "category": "Insectoid",
+    "subcategory": "Blatta",
+    "time": "19:00 - 5:00",
+    "image": "ergosalP"
+  }
+}

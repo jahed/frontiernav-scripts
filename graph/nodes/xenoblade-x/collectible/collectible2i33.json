@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i33",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Galjim Crystal",
+    "rarity": 3
+  }
+}

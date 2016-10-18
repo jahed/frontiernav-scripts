@@ -1,0 +1,13 @@
+{
+  "id": "p400",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": -7.580327791330129,
+      "lng": -128.7158203125
+    }
+  }
+}

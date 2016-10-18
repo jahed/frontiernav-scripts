@@ -1,0 +1,11 @@
+{
+  "id": "loc360",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Silent Mire",
+    "locationTypeId": "Landmark"
+  }
+}

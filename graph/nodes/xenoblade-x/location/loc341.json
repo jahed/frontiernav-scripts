@@ -1,0 +1,11 @@
+{
+  "id": "loc341",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sapphire Table",
+    "locationTypeId": "Area"
+  }
+}

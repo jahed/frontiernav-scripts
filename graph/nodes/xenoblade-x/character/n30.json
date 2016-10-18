@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "characters": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Avatar",
+    "image": "avatar-banner",
+    "thumbnail": "avatar-face.png"
+  },
+  "id": "n30"
+}

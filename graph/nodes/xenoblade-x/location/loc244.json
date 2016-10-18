@@ -1,0 +1,11 @@
+{
+  "id": "loc244",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Jasper Incline",
+    "locationTypeId": "Area"
+  }
+}

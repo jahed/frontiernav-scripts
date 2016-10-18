@@ -1,0 +1,16 @@
+{
+  "id": "e41seEBe",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Ferdinand, the Fortuitus",
+    "level": 28,
+    "notes": "\"Ferdinand, the Fortuitus\"  is joyfully rolling around in the shadows of a bone filled passage near Lake Basel in Oblivia.",
+    "category": "Theroid",
+    "subcategory": "Mephite",
+    "image": "e41seEBe"
+  }
+}

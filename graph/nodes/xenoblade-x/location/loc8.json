@@ -1,0 +1,11 @@
+{
+  "id": "loc8",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Anvil Sandplain",
+    "locationTypeId": "Area"
+  }
+}

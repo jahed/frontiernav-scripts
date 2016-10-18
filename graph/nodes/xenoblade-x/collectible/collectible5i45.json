@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i45",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Gibney Jackal",
+    "rarity": 4
+  }
+}

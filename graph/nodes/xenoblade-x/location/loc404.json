@@ -1,0 +1,12 @@
+{
+  "id": "loc404",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Vitriol Cesspool",
+    "locationTypeId": "Area"
+  }
+}

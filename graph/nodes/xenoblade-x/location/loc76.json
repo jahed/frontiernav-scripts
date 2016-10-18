@@ -1,0 +1,11 @@
+{
+  "id": "loc76",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dragonbone Promontory",
+    "locationTypeId": "Landmark"
+  }
+}

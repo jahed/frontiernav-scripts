@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset2i7",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Noctilum Stream Area",
+    "itemType": "collectibles"
+  }
+}

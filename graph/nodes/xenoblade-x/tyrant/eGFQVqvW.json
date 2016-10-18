@@ -1,0 +1,16 @@
+{
+  "id": "eGFQVqvW",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lockhart, the Killer of Hope",
+    "level": 52,
+    "notes": "\"Lockhart, the Killer of Hope\" rarely appears near at the base of the tree that holds up the gigantic sphere in the south west of Sylvalum.",
+    "category": "Insectoid",
+    "subcategory": "Vivohast",
+    "image": "eGFQVqvW"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset3i5",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Oblivia Mountain Area",
+    "itemType": "collectibles"
+  }
+}

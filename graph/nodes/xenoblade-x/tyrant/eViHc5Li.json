@@ -1,0 +1,16 @@
+{
+  "id": "eViHc5Li",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dawid, the Destrier",
+    "level": 44,
+    "notes": "\"Dawid, the Destrier\" can be found up on the mountain that divides White Phosphor Lake and Emerian Battlegrounds in the west side of Cauldros.",
+    "category": "Theroid",
+    "subcategory": "Monoceros",
+    "image": "eViHc5Li"
+  }
+}

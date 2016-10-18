@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset1i4",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primordia Talon Rock Mountain Area",
+    "itemType": "collectibles"
+  }
+}

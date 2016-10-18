@@ -1,0 +1,13 @@
+{
+  "id": "treasure425-7",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Alien Container",
+    "requirements": {
+      "field_skill": "Mechanical"
+    }
+  }
+}

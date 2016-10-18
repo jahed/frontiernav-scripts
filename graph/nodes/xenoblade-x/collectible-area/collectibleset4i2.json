@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset4i2",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sylvalum Southeast-East Coast Area",
+    "itemType": "collectibles"
+  }
+}

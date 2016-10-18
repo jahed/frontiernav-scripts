@@ -1,0 +1,14 @@
+{
+  "id": "p92",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": 75.70478638174052,
+      "lng": 45.4833984375
+    },
+    "markerStyle": "text"
+  }
+}

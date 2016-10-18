@@ -1,0 +1,11 @@
+{
+  "id": "loc301",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Oblivia Base Camp 2",
+    "locationTypeId": "Camp"
+  }
+}

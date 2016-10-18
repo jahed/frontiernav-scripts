@@ -1,0 +1,11 @@
+{
+  "id": "loc395",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Ternion Fork",
+    "locationTypeId": "Area"
+  }
+}

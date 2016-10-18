@@ -1,0 +1,16 @@
+{
+  "id": "e1bxD7r5",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Goliath, the Stronghold",
+    "level": 50,
+    "notes": "\"Goliath, the Stronghold\" can be seen sitting down in the north cinderdunes to the north east of Anvil Sandplain in the northern tip of Sylvalum.",
+    "category": "Theroid",
+    "subcategory": "Vigent",
+    "image": "e1bxD7r5"
+  }
+}

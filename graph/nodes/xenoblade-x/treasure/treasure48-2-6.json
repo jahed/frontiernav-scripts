@@ -1,0 +1,14 @@
+{
+  "id": "treasure48-2-6",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Strange Petrified Tree",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 4
+    }
+  }
+}

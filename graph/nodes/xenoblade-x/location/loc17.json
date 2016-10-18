@@ -1,0 +1,11 @@
+{
+  "id": "loc17",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bandit's Refuge",
+    "locationTypeId": "Unexplored"
+  }
+}

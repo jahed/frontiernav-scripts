@@ -1,0 +1,16 @@
+{
+  "id": "eQRZnMAM",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Armed Recon Galdr",
+    "level": 65,
+    "notes": "\"Armed Recon Galdr\" is on a sandy island way out in the ocean to the south west of Cauldros. It rests in its transformed ship state until enemies get close. There is an archaeological 4 treasure on the island rewarding an Auto Attack Cooldown XX augment (20% faster auto attacks).",
+    "category": "Mechanoid",
+    "subcategory": "Galdr",
+    "image": "eQRZnMAM"
+  }
+}

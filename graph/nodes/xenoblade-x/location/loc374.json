@@ -1,0 +1,12 @@
+{
+  "id": "loc374",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Stonelattice Cavern",
+    "cave": true,
+    "locationTypeId": "Unexplored"
+  }
+}

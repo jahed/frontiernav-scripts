@@ -1,0 +1,12 @@
+{
+  "id": "loc21",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Beasts' Lair",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

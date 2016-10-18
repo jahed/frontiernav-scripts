@@ -1,0 +1,13 @@
+{
+  "id": "p11",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": -78.40253749367972,
+      "lng": 114.2578125
+    }
+  }
+}

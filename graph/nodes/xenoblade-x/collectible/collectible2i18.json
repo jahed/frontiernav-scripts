@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i18",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sleeping Amaryllis",
+    "rarity": 3
+  }
+}

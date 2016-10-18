@@ -1,0 +1,11 @@
+{
+  "id": "loc230",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Idyll Beach",
+    "locationTypeId": "Unexplored"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eTKvmOQo",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Polaris, the Firmamental",
+    "level": 63,
+    "notes": "\"Polaris, the Firmamental\" can be found during the night above the spiky building near Ruined City of O'rrh Sim in northern Cauldros.",
+    "category": "Piscinoid",
+    "subcategory": "Ceto",
+    "time": "19:00 - 5:00",
+    "image": "eTKvmOQo"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "loc226",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Headwater Summit",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

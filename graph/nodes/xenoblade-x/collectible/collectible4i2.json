@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i2",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dring Slick",
+    "rarity": 1
+  }
+}

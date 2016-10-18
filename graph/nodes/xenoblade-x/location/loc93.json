@@ -1,0 +1,11 @@
+{
+  "id": "loc93",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Floating Reef",
+    "locationTypeId": "Area"
+  }
+}

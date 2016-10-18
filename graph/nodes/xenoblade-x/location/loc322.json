@@ -1,0 +1,11 @@
+{
+  "id": "loc322",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primordia Base Camp 8",
+    "locationTypeId": "Camp"
+  }
+}

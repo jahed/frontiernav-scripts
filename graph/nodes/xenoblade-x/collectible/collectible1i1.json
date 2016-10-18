@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i1",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cranjelly",
+    "rarity": 1
+  }
+}

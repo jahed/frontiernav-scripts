@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "id": "n777",
+  "data": {
+    "name": "Locations",
+    "description": "Locations in BLADE Barracks",
+    "thumbnail": "view-locations"
+  }
+}

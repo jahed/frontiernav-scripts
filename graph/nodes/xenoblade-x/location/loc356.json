@@ -1,0 +1,12 @@
+{
+  "id": "loc356",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Shadow Rise",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

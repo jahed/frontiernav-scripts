@@ -1,0 +1,24 @@
+{
+  "id": "sg5",
+  "labels": {
+    "segmentGrids": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "segmentDimensions": {
+      "height": 4.062
+    },
+    "segmentInset": {
+      "x": 3,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 2388,
+      "y": 260
+    },
+    "dimensions": {
+      "x": 17,
+      "y": 11
+    }
+  }
+}

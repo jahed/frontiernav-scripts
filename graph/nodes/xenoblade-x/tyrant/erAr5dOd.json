@@ -1,0 +1,17 @@
+{
+  "id": "erAr5dOd",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sharnaak, the Technician",
+    "level": 46,
+    "notes": "\"Sharnaak, the Technician\" will appear at night on the southern path that ascends Mount M'gando in Cauldros (at the dormant Xe-dom). He is guarded by two Rhenium Oc-srvs.",
+    "category": "Humanoid",
+    "subcategory": "Milsaadi",
+    "time": "19:00 - 5:00",
+    "image": "erAr5dOd"
+  }
+}

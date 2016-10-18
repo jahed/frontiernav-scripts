@@ -1,0 +1,11 @@
+{
+  "id": "loc326",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Redsnake Pass",
+    "locationTypeId": "Area"
+  }
+}

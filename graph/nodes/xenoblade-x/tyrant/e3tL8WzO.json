@@ -1,0 +1,16 @@
+{
+  "id": "e3tL8WzO",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sheldon, the Dentally Challenged",
+    "level": 30,
+    "notes": "\"Sheldon, the Dentally Challenged\" can be found along a tight passageway to the east of Keegan Ridge in eastern Oblivia (or to the west of Central Ibra Ravine).",
+    "category": "Theroid",
+    "subcategory": "Dilus",
+    "image": "e3tL8WzO"
+  }
+}

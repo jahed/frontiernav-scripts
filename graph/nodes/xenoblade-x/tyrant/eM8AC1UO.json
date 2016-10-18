@@ -1,0 +1,17 @@
+{
+  "id": "eM8AC1UO",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Eustachio, the Eccentric",
+    "level": 43,
+    "notes": "\"Eustachio, the Eccentric\" stealthily poses during the night just outside the entrance to behemoth's shadows, an expansive cavern accessible above Sylvalum Searoad to the east of Sylvalum (at FN Site 420).",
+    "category": "Theroid",
+    "subcategory": "Cantor",
+    "time": "19:00 - 5:00",
+    "image": "eM8AC1UO"
+  }
+}

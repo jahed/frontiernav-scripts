@@ -1,0 +1,17 @@
+{
+  "id": "eJ1bAbEi",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Experimental Composite Qmoeva",
+    "level": 59,
+    "notes": "\"Experimental Composite Qmoeva\" can be found at night at talon rock summit atop the highest mountain in central Primordia (in the segment directly north of FN Site 110). Flight is required for at least the initial trip to the top of the mountain.",
+    "category": "Mechanoid",
+    "subcategory": "Qmoeva",
+    "time": "19:00 - 5:00",
+    "image": "eJ1bAbEi"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "pokemonSeries": true,
+    "pokemonRBY": true,
+    "locations": true
+  },
+  "data": {
+    "name": "Pallet Town",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n352"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i39",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Acorn Abacus",
+    "rarity": 3
+  }
+}

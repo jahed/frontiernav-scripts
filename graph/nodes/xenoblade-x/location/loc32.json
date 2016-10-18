@@ -1,0 +1,12 @@
+{
+  "id": "loc32",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Biahno Water-Purification Plant",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

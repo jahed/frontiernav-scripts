@@ -1,0 +1,16 @@
+{
+  "id": "e75t368x",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Enhanced Support Zig",
+    "level": 37,
+    "notes": "\"Enhanced Support Zig\" protects a teleporter along with two other Zigs and other minor mechanoids in the middle of Dragonbone Promontory in central Cauldros. The teleporter leads to the UFO directly above it.",
+    "category": "Mechanoid",
+    "subcategory": "Zig",
+    "image": "e75t368x"
+  }
+}

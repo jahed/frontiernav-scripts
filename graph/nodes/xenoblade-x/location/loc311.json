@@ -1,0 +1,11 @@
+{
+  "id": "loc311",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Orochi's Belly",
+    "locationTypeId": "Unexplored"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eT2nd2kJ",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Camus, the Treasured",
+    "level": 48,
+    "notes": "\"Camus, the Treasured\" lives inside a small tunnel at the back end of Beastial Utopia, a cave which can be entered from the north base of Mount M'gando in north east Cauldros.",
+    "category": "Insectoid",
+    "subcategory": "Blatta",
+    "image": "eT2nd2kJ"
+  }
+}

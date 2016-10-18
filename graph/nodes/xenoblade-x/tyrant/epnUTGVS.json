@@ -1,0 +1,16 @@
+{
+  "id": "epnUTGVS",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Climati, the Chilling Wind",
+    "level": 30,
+    "notes": "\"Climati, the Chilling Wind\" can be found strolling around the Central Ibra Ravine in eastern Oblivia.",
+    "category": "Humanoid",
+    "subcategory": "Sylooth",
+    "image": "epnUTGVS"
+  }
+}

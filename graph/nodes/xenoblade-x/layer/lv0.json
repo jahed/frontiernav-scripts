@@ -1,0 +1,12 @@
+{
+  "id": "lv0",
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Locations",
+    "icon": "compass",
+    "thumbnail": "view-locations"
+  }
+}

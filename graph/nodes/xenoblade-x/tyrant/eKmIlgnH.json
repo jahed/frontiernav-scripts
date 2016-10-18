@@ -1,0 +1,17 @@
+{
+  "id": "eKmIlgnH",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Florence, the Hell Maggot",
+    "level": 24,
+    "notes": "\"Florence, the Hell Maggot\" pretends to be larger than normal beautiful blossoming nocturnal plant close to the cliff wall in the south west of Hilal Meadow in Sylvalum. It won't attack Skells and as an ambush predator it cannot be targetted until it makes the first move so start the battle on foot.",
+    "category": "Insectoid",
+    "subcategory": "Germivore",
+    "time": "19:00 - 5:00",
+    "image": "eKmIlgnH"
+  }
+}

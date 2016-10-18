@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i7",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sacrificial Reactor",
+    "rarity": 1
+  }
+}

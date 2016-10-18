@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset2i8",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Noctilum Mountain Trail Area",
+    "itemType": "collectibles"
+  }
+}

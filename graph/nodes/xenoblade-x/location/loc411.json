@@ -1,0 +1,12 @@
+{
+  "id": "loc411",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "West Janpath Plain",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

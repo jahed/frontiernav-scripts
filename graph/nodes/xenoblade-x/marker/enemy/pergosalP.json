@@ -1,0 +1,13 @@
+{
+  "id": "pergosalP",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": 25.958044673317843,
+      "lng": 23.90625
+    }
+  }
+}

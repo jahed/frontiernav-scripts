@@ -1,0 +1,17 @@
+{
+  "id": "ew26lFck",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Vortice, the Deific Blast",
+    "level": 94,
+    "notes": "\"Vortice, the Deific Blast\" can be found during brimstone rain in the thick smoke above the Mount M'gando volcano in Cauldros. Has close to 8.5 million HP.",
+    "category": "Piscinoid",
+    "subcategory": "Colubrim",
+    "weather": "Brimstone Rain",
+    "image": "ew26lFck"
+  }
+}

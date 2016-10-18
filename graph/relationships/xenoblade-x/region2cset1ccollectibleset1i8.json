@@ -1,0 +1,6 @@
+{
+  "id": "region2cset1ccollectibleset1i8",
+  "start": "region1",
+  "end": "collectibleset1i8",
+  "type": "CONTAINS"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "loc417",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Wonderment Bluff",
+    "cave": false,
+    "locationTypeId": "Unexplored"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ezBfSySk",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Gadaf, the Pulverizer",
+    "level": 30,
+    "notes": "\"Gadaf, the Pulverizer\" can be found checking the falling sand in north ant's nest, a cave that can be accessed to the south of Cliffside Camp in Oblivia.",
+    "category": "Humanoid",
+    "subcategory": "Marnuck",
+    "image": "ezBfSySk"
+  }
+}

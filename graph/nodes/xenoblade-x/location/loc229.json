@@ -1,0 +1,11 @@
+{
+  "id": "loc229",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Humdrum Peaks",
+    "locationTypeId": "Area"
+  }
+}

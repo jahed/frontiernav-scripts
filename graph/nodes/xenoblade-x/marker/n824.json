@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": 75.07300992968266,
+      "lng": -111.4453125
+    },
+    "markerStyle": "text"
+  },
+  "id": "n824"
+}

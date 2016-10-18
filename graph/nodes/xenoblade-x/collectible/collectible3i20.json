@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i20",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dobobora Broccoli",
+    "rarity": 4
+  }
+}

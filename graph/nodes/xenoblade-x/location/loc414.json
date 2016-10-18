@@ -1,0 +1,12 @@
+{
+  "id": "loc414",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "cave": true,
+    "name": "Whale's Weeper",
+    "locationTypeId": "Unexplored"
+  }
+}

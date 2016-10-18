@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "characters": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Elma",
+    "gender": "Female",
+    "age": 29,
+    "species": "Human",
+    "image": "elma-banner",
+    "thumbnail": "elma-face.png"
+  },
+  "id": "n48"
+}

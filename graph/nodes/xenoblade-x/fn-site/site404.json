@@ -1,0 +1,14 @@
+{
+  "id": "site404",
+  "labels": {
+    "sites": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "number": 404,
+    "production": "B",
+    "revenue": "S",
+    "combat_support": "S",
+    "sightseeing_spots": 1
+  }
+}

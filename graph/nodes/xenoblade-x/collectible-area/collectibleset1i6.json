@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset1i6",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primordia Southeast Area",
+    "itemType": "collectibles"
+  }
+}

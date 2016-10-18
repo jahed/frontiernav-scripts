@@ -1,0 +1,16 @@
+{
+  "id": "e8vkLeC1",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bartley, the Conflagration",
+    "level": 31,
+    "notes": "\"Bartley, the Conflagration\" and its two cohorts love to jump up and down in place in the south of Dragonbone Promontory in Cauldros. Uses Virus.",
+    "category": "Insectoid",
+    "subcategory": "Gerrid",
+    "image": "e8vkLeC1"
+  }
+}

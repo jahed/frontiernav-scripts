@@ -1,0 +1,12 @@
+{
+  "id": "loc357",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Shark's Jaws",
+    "cave": true,
+    "locationTypeId": "Area"
+  }
+}

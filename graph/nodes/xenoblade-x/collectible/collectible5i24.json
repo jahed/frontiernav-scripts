@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i24",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Savage Claw",
+    "rarity": 1
+  }
+}

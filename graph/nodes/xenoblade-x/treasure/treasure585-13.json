@@ -1,0 +1,14 @@
+{
+  "id": "treasure585-13",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Lifepod",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 3
+    }
+  }
+}

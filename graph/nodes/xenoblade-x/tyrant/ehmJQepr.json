@@ -1,0 +1,16 @@
+{
+  "id": "ehmJQepr",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Angelita, the Blade Bouquet",
+    "level": 61,
+    "notes": "\"Angelita, the Blade Bouquet\" rests in the Mount M'gando Mineral Spring hidden at the top of Mount M'gando in Cauldos.",
+    "category": "Insectoid",
+    "subcategory": "Sacrifole",
+    "image": "ehmJQepr"
+  }
+}

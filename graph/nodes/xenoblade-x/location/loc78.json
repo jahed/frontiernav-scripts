@@ -1,0 +1,12 @@
+{
+  "id": "loc78",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Drop Shaft",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

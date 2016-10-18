@@ -1,0 +1,11 @@
+{
+  "id": "loc140",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "FN Site 301",
+    "locationTypeId": "MiraniumDeposit"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "m3530cgh",
+  "labels": {
+    "maps": true,
+    "pokemonSeries": true,
+    "pokemonSunMoon": true
+  },
+  "data": {
+    "name": "Alola",
+    "tileLayers": {
+      "normal": {
+        "folder": "pokemon-alola",
+        "extension": "jpg",
+        "background": {
+          "color": "#092844"
+        }
+      }
+    },
+    "defaultZoom": 3,
+    "maxNativeZoom": 4
+  }
+}

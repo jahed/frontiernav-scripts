@@ -1,0 +1,17 @@
+{
+  "id": "enOcYhtZ",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Night Combat Puge",
+    "level": 34,
+    "notes": "\"Night Combat Puge\" appears during the night on a walkway connected to the large spiky building in the north west of Cauldros.",
+    "category": "Mechanoid",
+    "subcategory": "Puge",
+    "time": "19:00 - 5:00",
+    "image": "enOcYhtZ"
+  }
+}

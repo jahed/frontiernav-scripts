@@ -1,0 +1,11 @@
+{
+  "id": "loc252",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lake Basel",
+    "locationTypeId": "Area"
+  }
+}

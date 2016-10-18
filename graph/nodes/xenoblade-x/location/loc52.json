@@ -1,0 +1,11 @@
+{
+  "id": "loc52",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cauldros Threshold",
+    "locationTypeId": "Landmark"
+  }
+}

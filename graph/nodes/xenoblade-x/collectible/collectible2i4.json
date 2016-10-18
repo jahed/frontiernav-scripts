@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i4",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Madness Hornet",
+    "rarity": 1
+  }
+}

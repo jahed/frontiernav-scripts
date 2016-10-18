@@ -1,0 +1,12 @@
+{
+  "id": "loc251",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "La Mancha",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

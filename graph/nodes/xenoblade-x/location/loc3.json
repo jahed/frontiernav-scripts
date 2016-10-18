@@ -1,0 +1,11 @@
+{
+  "id": "loc3",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Adder Byroad",
+    "locationTypeId": "Landmark"
+  }
+}

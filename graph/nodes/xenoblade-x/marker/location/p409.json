@@ -1,0 +1,14 @@
+{
+  "id": "p409",
+  "labels": {
+    "points": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": -78.08922921093165,
+      "lng": -53.701171875
+    },
+    "markerStyle": "text"
+  }
+}

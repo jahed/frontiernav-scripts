@@ -1,0 +1,12 @@
+{
+  "id": "loc257",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lesser Gemini Bridge",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

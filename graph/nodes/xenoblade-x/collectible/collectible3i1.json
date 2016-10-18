@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i1",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Doragaroo",
+    "rarity": 1
+  }
+}

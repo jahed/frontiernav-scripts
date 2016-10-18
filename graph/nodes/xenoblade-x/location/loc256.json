@@ -1,0 +1,11 @@
+{
+  "id": "loc256",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Lesser Anvil",
+    "locationTypeId": "Area"
+  }
+}

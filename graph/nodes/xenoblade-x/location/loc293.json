@@ -1,0 +1,11 @@
+{
+  "id": "loc293",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Northpointe Cove",
+    "locationTypeId": "Landmark"
+  }
+}

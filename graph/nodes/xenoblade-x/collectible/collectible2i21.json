@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i21",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Resonating Madonater",
+    "rarity": 4
+  }
+}

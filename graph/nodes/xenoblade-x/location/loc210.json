@@ -1,0 +1,11 @@
+{
+  "id": "loc210",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Fukai Pass",
+    "locationTypeId": "Area"
+  }
+}

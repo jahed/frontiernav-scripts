@@ -1,0 +1,11 @@
+{
+  "id": "loc36",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bloodpond Basin",
+    "locationTypeId": "Area"
+  }
+}

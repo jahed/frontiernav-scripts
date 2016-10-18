@@ -1,0 +1,12 @@
+{
+  "id": "loc398",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Turtle Nest",
+    "cave": false,
+    "locationTypeId": "Unexplored"
+  }
+}

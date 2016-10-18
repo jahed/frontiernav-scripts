@@ -1,0 +1,12 @@
+{
+  "id": "loc22",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bedrock Hold",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc281",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Noctilum Base Camp 7",
+    "locationTypeId": "Camp"
+  }
+}

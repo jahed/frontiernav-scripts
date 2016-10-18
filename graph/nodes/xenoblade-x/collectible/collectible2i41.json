@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i41",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Mirrored Peacock",
+    "rarity": 4
+  }
+}

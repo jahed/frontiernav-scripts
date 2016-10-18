@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i21",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cluster Papaya",
+    "rarity": 4
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i29",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Capricious Kettle",
+    "rarity": 2
+  }
+}

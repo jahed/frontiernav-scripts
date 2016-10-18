@@ -1,0 +1,16 @@
+{
+  "id": "eVmyL05H",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Enhanced Attack Range Zig",
+    "level": 37,
+    "notes": "\"Enhanced Attack Range Zig\" defends the interior of the O'rrh Sim Castle Ruins at Cauldros. From the O'rrh Sim Gate enter the larger of the two entrances (assuming you've already opened it during the story) and then turn to the left in this larger room to see a smaller passage which leads to another large room containing the Zig.",
+    "category": "Mechanoid",
+    "subcategory": "Zig",
+    "image": "eVmyL05H"
+  }
+}

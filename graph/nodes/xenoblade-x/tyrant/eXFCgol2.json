@@ -1,0 +1,16 @@
+{
+  "id": "eXFCgol2",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Luciel, the Eternal",
+    "level": 92,
+    "notes": "\"Luciel, the Eternal\" drinks from Janpath Lake in east Primordia. It can keep its foes toppled while trampling them to death.",
+    "category": "Theroid",
+    "subcategory": "Millisaur",
+    "image": "eXFCgol2"
+  }
+}

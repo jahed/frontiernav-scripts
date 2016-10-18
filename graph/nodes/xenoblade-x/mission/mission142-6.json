@@ -1,0 +1,11 @@
+{
+  "id": "mission142-6",
+  "labels": {
+    "missions": true,
+    "affinityMission": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "A Day in the Life"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc409",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "West Gate Plain",
+    "locationTypeId": "Landmark"
+  }
+}

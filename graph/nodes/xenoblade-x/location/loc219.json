@@ -1,0 +1,11 @@
+{
+  "id": "loc219",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Great Washington Isle",
+    "locationTypeId": "Unexplored"
+  }
+}

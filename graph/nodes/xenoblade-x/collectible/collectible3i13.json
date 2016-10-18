@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i13",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "L-002 Degeneration Reactor",
+    "rarity": 4
+  }
+}

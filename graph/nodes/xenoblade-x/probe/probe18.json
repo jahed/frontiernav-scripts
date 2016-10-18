@@ -1,0 +1,16 @@
+{
+  "id": "probe18",
+  "labels": {
+    "probes": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Booster Probe G1",
+    "type": 5,
+    "attributes": {
+      "production_multiplier": 0.1,
+      "revenue_multiplier": 0.1,
+      "neighbour_primary_multiplier": 1.5
+    }
+  }
+}

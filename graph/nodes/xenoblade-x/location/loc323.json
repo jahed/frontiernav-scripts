@@ -1,0 +1,11 @@
+{
+  "id": "loc323",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Qing Long Glade",
+    "locationTypeId": "Area"
+  }
+}

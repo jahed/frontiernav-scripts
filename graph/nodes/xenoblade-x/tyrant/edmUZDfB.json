@@ -1,0 +1,17 @@
+{
+  "id": "edmUZDfB",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Armored Cruiser Seidr",
+    "level": 61,
+    "notes": "\"Armored Cruiser Seidr\" will appear during the day near a large Guide Eagle Galdr that is parked on the top of the outer ring of the ganglion weapons hanger. Specifically the parked Guide Eagle Galdr that is on the southeast quadrant, not the Galdr along the south.",
+    "category": "Mechanoid",
+    "subcategory": "Seidr",
+    "time": "5:00 - 19:00",
+    "image": "edmUZDfB"
+  }
+}

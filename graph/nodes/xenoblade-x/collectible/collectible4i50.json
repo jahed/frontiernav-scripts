@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i50",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Pale Maize",
+    "rarity": 4
+  }
+}

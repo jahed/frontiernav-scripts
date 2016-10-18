@@ -1,0 +1,14 @@
+{
+  "id": "ev8slpfa",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Leva'el, the Terminus",
+    "level": 82,
+    "notes": "\"Leva'el, the Terminus\" is a postgame boss that can be found very high in the sky directly above a sandy island out in the ocean to the south west of Cauldros (the same island where Armed Recon Galdr can be found).",
+    "image": "ev8slpfa"
+  }
+}

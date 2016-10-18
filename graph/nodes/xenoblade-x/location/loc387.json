@@ -1,0 +1,11 @@
+{
+  "id": "loc387",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sylvalum Searoad",
+    "locationTypeId": "Area"
+  }
+}

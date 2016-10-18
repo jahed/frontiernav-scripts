@@ -1,0 +1,11 @@
+{
+  "id": "loc289",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "North Janpath Plain",
+    "locationTypeId": "Landmark"
+  }
+}

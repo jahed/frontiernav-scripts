@@ -1,0 +1,13 @@
+{
+  "id": "s1i33-6",
+  "labels": {
+    "segments": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "q": 3,
+    "r": 3,
+    "s": -6,
+    "special": true
+  }
+}

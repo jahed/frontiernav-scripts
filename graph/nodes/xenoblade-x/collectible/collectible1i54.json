@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i54",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Assassin Springtail",
+    "rarity": 4
+  }
+}

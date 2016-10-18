@@ -1,0 +1,11 @@
+{
+  "id": "loc291",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Northern Searoad",
+    "locationTypeId": "Area"
+  }
+}

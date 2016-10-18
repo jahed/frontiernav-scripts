@@ -1,0 +1,15 @@
+{
+  "id": "game",
+  "path": "games",
+  "name": "Game",
+  "pageDescription": "View a game from {name} and find out various points of interest in an interactive map!",
+  "schema": {
+    "name": {
+      "required": true
+    },
+    "defaultMapId": {
+      "required": true
+    },
+    "mapBackground": {}
+  }
+}

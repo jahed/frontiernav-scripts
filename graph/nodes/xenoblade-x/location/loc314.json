@@ -1,0 +1,11 @@
+{
+  "id": "loc314",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Primeval Meadow",
+    "locationTypeId": "Unexplored"
+  }
+}

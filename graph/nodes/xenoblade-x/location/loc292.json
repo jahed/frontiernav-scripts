@@ -1,0 +1,11 @@
+{
+  "id": "loc292",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Northpointe Beach",
+    "locationTypeId": "Landmark"
+  }
+}

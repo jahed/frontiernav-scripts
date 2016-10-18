@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i51",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Caseras Mushroom",
+    "rarity": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i35",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Spherical EM Motor",
+    "rarity": 4
+  }
+}

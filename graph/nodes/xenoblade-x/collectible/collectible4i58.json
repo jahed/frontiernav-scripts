@@ -1,0 +1,11 @@
+{
+  "id": "collectible4i58",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Glassy Cricket",
+    "rarity": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc295",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "O'rrh Sim Castle Ruins",
+    "locationTypeId": "Scenic"
+  }
+}

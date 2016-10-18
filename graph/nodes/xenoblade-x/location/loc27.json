@@ -1,0 +1,11 @@
+{
+  "id": "loc27",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Bestial Utopia",
+    "locationTypeId": "Landmark"
+  }
+}

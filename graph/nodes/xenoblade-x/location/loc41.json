@@ -1,0 +1,11 @@
+{
+  "id": "loc41",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Cascade Isle",
+    "locationTypeId": "Scenic"
+  }
+}

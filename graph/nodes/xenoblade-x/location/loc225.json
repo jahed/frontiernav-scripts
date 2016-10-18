@@ -1,0 +1,12 @@
+{
+  "id": "loc225",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Headwater Cliff",
+    "cave": false,
+    "locationTypeId": "Scenic"
+  }
+}

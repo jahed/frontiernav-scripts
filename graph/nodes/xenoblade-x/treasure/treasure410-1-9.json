@@ -1,0 +1,14 @@
+{
+  "id": "treasure410-1-9",
+  "labels": {
+    "treasures": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "object": "Alien Container",
+    "requirements": {
+      "field_skill": "Archaeological",
+      "field_skill_level": 4
+    }
+  }
+}

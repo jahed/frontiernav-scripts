@@ -1,0 +1,15 @@
+{
+  "id": "probe14",
+  "labels": {
+    "probes": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Research Probe G3",
+    "type": 2,
+    "attributes": {
+      "production_multiplier": 0.3,
+      "revenue_multiplier": 3
+    }
+  }
+}

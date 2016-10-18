@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i3",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Fullbelly Gecko",
+    "rarity": 1
+  }
+}

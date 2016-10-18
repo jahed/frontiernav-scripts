@@ -1,0 +1,11 @@
+{
+  "id": "loc55",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Celestial Cleave",
+    "locationTypeId": "Area"
+  }
+}

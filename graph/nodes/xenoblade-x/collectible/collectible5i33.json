@@ -1,0 +1,11 @@
+{
+  "id": "collectible5i33",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Dark Lantern",
+    "rarity": 1
+  }
+}

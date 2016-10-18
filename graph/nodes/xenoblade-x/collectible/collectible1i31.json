@@ -1,0 +1,11 @@
+{
+  "id": "collectible1i31",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "High Accelerator",
+    "rarity": 2
+  }
+}

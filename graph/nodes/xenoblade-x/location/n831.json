@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Repenta Diner",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n831"
+}

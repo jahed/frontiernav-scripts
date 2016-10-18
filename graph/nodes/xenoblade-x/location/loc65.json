@@ -1,0 +1,11 @@
+{
+  "id": "loc65",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Decapotamon",
+    "locationTypeId": "Area"
+  }
+}

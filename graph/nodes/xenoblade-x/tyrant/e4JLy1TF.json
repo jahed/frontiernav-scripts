@@ -1,0 +1,16 @@
+{
+  "id": "e4JLy1TF",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Megatonne, the Hell Express",
+    "level": 11,
+    "notes": "\"Megatonne, the Hell Express\" is a big piggy that can be found on the long dirt road around halfway between Biahno Hills and Grieving Plains in north west Primordia.",
+    "category": "Theroid",
+    "subcategory": "Suid",
+    "image": "e4JLy1TF"
+  }
+}

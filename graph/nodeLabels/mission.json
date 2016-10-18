@@ -1,0 +1,12 @@
+{
+  "id": "mission",
+  "path": "missions",
+  "name": "Mission",
+  "searchable": true,
+  "pageDescription": "Find out more about the mission '{name}' in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    }
+  }
+}

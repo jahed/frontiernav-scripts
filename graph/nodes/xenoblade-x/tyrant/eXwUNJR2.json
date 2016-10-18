@@ -1,0 +1,17 @@
+{
+  "id": "eXwUNJR2",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Prinsipe, the Ravenous",
+    "level": 44,
+    "notes": "\"Prinsipe, the Ravenous\" can be found at night on the ancient drilling platform to the north west of Slavebird Isle in Cauldros.",
+    "category": "Insectoid",
+    "subcategory": "Blatta",
+    "time": "19:00 - 5:00",
+    "image": "eXwUNJR2"
+  }
+}

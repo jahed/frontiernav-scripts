@@ -1,0 +1,11 @@
+{
+  "id": "collectibleset3i8",
+  "labels": {
+    "collectibleAreas": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Oblivia Floating Reef Area",
+    "itemType": "collectibles"
+  }
+}

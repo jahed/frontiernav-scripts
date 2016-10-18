@@ -1,0 +1,11 @@
+{
+  "id": "loc60",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Coil Tree Cape",
+    "locationTypeId": "Area"
+  }
+}

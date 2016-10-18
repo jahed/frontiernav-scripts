@@ -1,0 +1,12 @@
+{
+  "id": "lv2",
+  "labels": {
+    "layerViews": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Segments",
+    "icon": "th",
+    "thumbnail": "view-segments"
+  }
+}

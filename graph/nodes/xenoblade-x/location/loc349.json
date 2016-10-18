@@ -1,0 +1,11 @@
+{
+  "id": "loc349",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Seabound Coil Tree",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc69",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Demon's Pocket",
+    "locationTypeId": "Area"
+  }
+}

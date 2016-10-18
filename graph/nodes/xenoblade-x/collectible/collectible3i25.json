@@ -1,0 +1,11 @@
+{
+  "id": "collectible3i25",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Will Pepper",
+    "rarity": 3
+  }
+}

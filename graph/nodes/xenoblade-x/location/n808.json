@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Starboard",
+    "locationTypeId": "Landmark"
+  },
+  "id": "n808"
+}

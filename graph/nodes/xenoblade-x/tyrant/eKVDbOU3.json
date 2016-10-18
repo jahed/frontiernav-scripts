@@ -1,0 +1,17 @@
+{
+  "id": "eKVDbOU3",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Chantai, the Insect Maiden",
+    "level": 38,
+    "notes": "\"Chantai, the Insect Maiden\" can be found at night in the saucer high above Abandoned Bivouac in the north of Cauldros.",
+    "category": "Humanoid",
+    "subcategory": "Milsaadi",
+    "time": "19:00 - 5:00",
+    "image": "eKVDbOU3"
+  }
+}

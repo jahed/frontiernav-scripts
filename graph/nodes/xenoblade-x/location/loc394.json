@@ -1,0 +1,11 @@
+{
+  "id": "loc394",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Tengu's Playground",
+    "locationTypeId": "Area"
+  }
+}

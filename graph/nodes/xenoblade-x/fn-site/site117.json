@@ -1,0 +1,14 @@
+{
+  "id": "site117",
+  "labels": {
+    "sites": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "number": 117,
+    "production": "A",
+    "revenue": "D",
+    "combat_support": "A",
+    "sightseeing_spots": 1
+  }
+}

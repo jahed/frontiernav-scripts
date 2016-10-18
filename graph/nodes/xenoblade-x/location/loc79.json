@@ -1,0 +1,11 @@
+{
+  "id": "loc79",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Drowning Ring",
+    "locationTypeId": "Area"
+  }
+}

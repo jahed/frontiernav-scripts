@@ -1,0 +1,26 @@
+{
+  "labels": {
+    "maps": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "BLADE Barracks",
+    "tileLayers": {
+      "normal": {
+        "folder": "blade-barracks-hires",
+        "extension": "jpg",
+        "background": {
+          "image": "none",
+          "color": "#000000"
+        }
+      }
+    },
+    "center": {
+      "lat": 0,
+      "lng": 0
+    },
+    "defaultZoom": 1,
+    "maxNativeZoom": 3
+  },
+  "id": "n291"
+}

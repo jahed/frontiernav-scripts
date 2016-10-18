@@ -1,0 +1,14 @@
+{
+  "id": "shapelocloc237circ",
+  "labels": {
+    "shapes": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "latLng": {
+      "lat": -84.0571126831773,
+      "lng": -30.805664062500004
+    },
+    "radius": 20000
+  }
+}

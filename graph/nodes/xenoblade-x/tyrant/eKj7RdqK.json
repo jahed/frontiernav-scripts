@@ -1,0 +1,16 @@
+{
+  "id": "eKj7RdqK",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Vilem, the Gold-Scaled",
+    "level": 45,
+    "notes": "\"Vilem, the Gold-Scaled\" pops out of the water at the south east corner of Lake Basil in Oblvia.",
+    "category": "Piscinoid",
+    "subcategory": "Aetrygon",
+    "image": "eKj7RdqK"
+  }
+}

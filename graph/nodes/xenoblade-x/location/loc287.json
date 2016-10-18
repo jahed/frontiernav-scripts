@@ -1,0 +1,11 @@
+{
+  "id": "loc287",
+  "labels": {
+    "locations": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "North Coast",
+    "locationTypeId": "Landmark"
+  }
+}

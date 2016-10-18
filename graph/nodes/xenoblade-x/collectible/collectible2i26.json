@@ -1,0 +1,11 @@
+{
+  "id": "collectible2i26",
+  "labels": {
+    "collectibles": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Sour Plum",
+    "rarity": 3
+  }
+}

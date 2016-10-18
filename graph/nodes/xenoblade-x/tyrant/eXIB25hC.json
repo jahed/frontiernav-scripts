@@ -1,0 +1,16 @@
+{
+  "id": "eXIB25hC",
+  "labels": {
+    "enemies": true,
+    "tyrants": true,
+    "xenobladeX": true
+  },
+  "data": {
+    "name": "Camille, the Immortal",
+    "level": 19,
+    "notes": "\"Camille, the Immortal\" flutters back and forth in the centre of the pond at Cleansing Spring in Sylvaum.",
+    "category": "Theroid",
+    "subcategory": "Murra",
+    "image": "eXIB25hC"
+  }
+}
