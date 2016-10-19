@@ -13,6 +13,9 @@ All contributions are welcome. Simply fork the repo and submit pull requests. If
 
 If you're confused by how the data is structured, you can just provide the data however you want and someone else can transform it to the right format.
 
+If you are contributing, I highly recommend a text editor with Global Text Find & Replace which most IDEs and Advanced Text Editors have.
+This will help with finding where things are used and changing things in bulk.
+I suggest either [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/) or [Sublime Text](https://www.sublimetext.com/).
 
 ## Data Structure
 
