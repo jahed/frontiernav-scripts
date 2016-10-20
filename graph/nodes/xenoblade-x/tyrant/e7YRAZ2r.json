@@ -1,9 +1,11 @@
 {
-  "id": "e7YRAZ2r",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7YRAZ2r",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Dadaan, the Strongest Prone",

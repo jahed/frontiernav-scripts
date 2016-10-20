@@ -1,9 +1,11 @@
 {
-  "id": "eYej0FK4",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eYej0FK4",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Draken, the Drifting Cloud",

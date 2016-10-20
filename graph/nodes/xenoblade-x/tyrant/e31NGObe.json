@@ -1,9 +1,11 @@
 {
-  "id": "e31NGObe",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e31NGObe",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Na-mulk, the Rebellious",

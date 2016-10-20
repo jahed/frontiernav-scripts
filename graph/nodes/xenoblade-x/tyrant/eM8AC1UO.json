@@ -1,9 +1,11 @@
 {
-  "id": "eM8AC1UO",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eM8AC1UO",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Eustachio, the Eccentric",

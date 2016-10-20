@@ -1,8 +1,10 @@
 {
-  "id": "loc372",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc372",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Starfall Basin",

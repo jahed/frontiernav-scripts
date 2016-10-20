@@ -1,8 +1,10 @@
 {
-  "id": "collectible3i35",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible3i35",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Kepha Holly",

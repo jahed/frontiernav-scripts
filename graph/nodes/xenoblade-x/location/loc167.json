@@ -1,8 +1,10 @@
 {
-  "id": "loc167",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc167",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "FN Site 406",

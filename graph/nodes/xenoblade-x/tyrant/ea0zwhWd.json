@@ -1,9 +1,11 @@
 {
-  "id": "ea0zwhWd",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ea0zwhWd",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Stola, the Champion",

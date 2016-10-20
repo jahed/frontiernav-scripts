@@ -1,8 +1,10 @@
 {
-  "id": "mission254-9",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission254-9",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Art of War"

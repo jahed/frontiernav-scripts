@@ -1,8 +1,10 @@
 {
-  "id": "loc256",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc256",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lesser Anvil",

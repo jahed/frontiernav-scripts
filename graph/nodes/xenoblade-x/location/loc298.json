@@ -1,8 +1,10 @@
 {
-  "id": "loc298",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc298",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "O'rrh Sim Keep",

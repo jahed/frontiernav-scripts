@@ -1,8 +1,10 @@
 {
-  "id": "miscind355",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscind355",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Data Probe Evolution"

@@ -1,8 +1,10 @@
 {
-  "id": "pr8",
-  "labels": {
-    "preciousResources": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "pr8",
+    "labels": [
+      "preciousResources",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Infernium",

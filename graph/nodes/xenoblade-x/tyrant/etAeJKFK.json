@@ -1,9 +1,11 @@
 {
-  "id": "etAeJKFK",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "etAeJKFK",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Frontline Surveillance Zig",

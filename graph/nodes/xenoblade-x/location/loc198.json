@@ -1,8 +1,10 @@
 {
-  "id": "loc198",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc198",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Forgotten Mining Frigate 1",

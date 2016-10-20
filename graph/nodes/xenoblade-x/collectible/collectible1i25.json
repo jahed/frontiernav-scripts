@@ -1,8 +1,10 @@
 {
-  "id": "collectible1i25",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible1i25",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Centrifugal Beam Generator",

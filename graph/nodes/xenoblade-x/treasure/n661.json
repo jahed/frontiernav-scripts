@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n661",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Trailer",
@@ -9,6 +12,5 @@
       "field_skill": "Mechanical",
       "field_skill_level": 2
     }
-  },
-  "id": "n661"
+  }
 }

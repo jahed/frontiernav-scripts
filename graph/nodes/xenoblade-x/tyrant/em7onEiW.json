@@ -1,9 +1,11 @@
 {
-  "id": "em7onEiW",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "em7onEiW",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Badul, the One-Eyed",

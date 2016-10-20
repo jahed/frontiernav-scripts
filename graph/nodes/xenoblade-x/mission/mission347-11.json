@@ -1,8 +1,10 @@
 {
-  "id": "mission347-11",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission347-11",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Prone Sweet Prone"

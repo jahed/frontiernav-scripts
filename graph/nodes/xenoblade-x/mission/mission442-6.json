@@ -1,8 +1,10 @@
 {
-  "id": "mission442-6",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission442-6",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Plans of Attack"

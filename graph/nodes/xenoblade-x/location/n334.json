@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n334",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "BLADE Concourse",
     "locationTypeId": "Landmark"
-  },
-  "id": "n334"
+  }
 }

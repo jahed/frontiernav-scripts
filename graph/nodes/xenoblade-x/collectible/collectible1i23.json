@@ -1,8 +1,10 @@
 {
-  "id": "collectible1i23",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible1i23",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Stretching Locust",

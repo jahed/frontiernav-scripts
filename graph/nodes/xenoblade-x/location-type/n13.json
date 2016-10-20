@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "locationType": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n13",
+    "labels": [
+      "locationType",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Landmark"
-  },
-  "id": "n13"
+  }
 }

@@ -1,7 +1,9 @@
 {
-  "id": "rf02gsdf",
+  "metadata": {
+    "id": "rf02gsdf",
+    "type": "HAS"
+  },
   "start": "pokemon-sun-moon",
   "end": "alola-map",
-  "data": {},
-  "type": "HAS"
+  "data": {}
 }

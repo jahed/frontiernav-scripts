@@ -1,8 +1,10 @@
 {
-  "id": "collectible2i8",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible2i8",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Chameleon Creeping Plant",

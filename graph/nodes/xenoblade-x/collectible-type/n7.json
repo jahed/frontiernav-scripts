@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "collectibleCategory": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n7",
+    "labels": [
+      "collectibleCategory",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Wreckage"
-  },
-  "id": "n7"
+  }
 }

@@ -1,8 +1,10 @@
 {
-  "id": "collectible2i17",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible2i17",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mk. IX Hypercooler",

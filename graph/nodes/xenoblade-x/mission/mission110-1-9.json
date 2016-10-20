@@ -1,9 +1,11 @@
 {
-  "id": "mission110-1-9",
-  "labels": {
-    "missions": true,
-    "affinityMission": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission110-1-9",
+    "labels": [
+      "missions",
+      "affinityMission",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Nagi's Time"

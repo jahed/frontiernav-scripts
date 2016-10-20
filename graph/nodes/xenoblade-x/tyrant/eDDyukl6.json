@@ -1,9 +1,11 @@
 {
-  "id": "eDDyukl6",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eDDyukl6",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Demetrio, the Tempestuous",

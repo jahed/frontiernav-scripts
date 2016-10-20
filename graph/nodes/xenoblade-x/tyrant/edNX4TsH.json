@@ -1,9 +1,11 @@
 {
-  "id": "edNX4TsH",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "edNX4TsH",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Planetes, the Torrential",

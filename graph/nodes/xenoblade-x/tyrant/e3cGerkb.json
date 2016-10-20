@@ -1,9 +1,11 @@
 {
-  "id": "e3cGerkb",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e3cGerkb",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Griffus, the Tartarean",

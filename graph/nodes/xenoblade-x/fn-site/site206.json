@@ -1,8 +1,10 @@
 {
-  "id": "site206",
-  "labels": {
-    "sites": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "site206",
+    "labels": [
+      "sites",
+      "xenobladeX"
+    ]
   },
   "data": {
     "number": 206,

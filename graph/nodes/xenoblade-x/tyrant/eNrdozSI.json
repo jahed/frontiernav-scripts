@@ -1,9 +1,11 @@
 {
-  "id": "eNrdozSI",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eNrdozSI",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Yelena, the Sequestered",

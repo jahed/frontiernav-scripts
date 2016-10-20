@@ -1,8 +1,10 @@
 {
-  "id": "lv4",
-  "labels": {
-    "layerViews": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "lv4",
+    "labels": [
+      "layerViews",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Enemies",

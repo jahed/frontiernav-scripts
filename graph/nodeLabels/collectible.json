@@ -1,5 +1,7 @@
 {
-  "id": "collectible",
+  "metadata": {
+    "id": "collectible"
+  },
   "path": "collectibles",
   "name": "Collectible",
   "searchable": true,

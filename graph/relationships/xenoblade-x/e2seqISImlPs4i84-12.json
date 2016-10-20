@@ -1,6 +1,8 @@
 {
-  "id": "e2seqISImlPs4i84-12",
-  "type": "GOAL",
+  "metadata": {
+    "id": "e2seqISImlPs4i84-12",
+    "type": "GOAL"
+  },
   "data": {},
   "start": "s4i84-12",
   "end": "eqISImlP"

@@ -1,9 +1,11 @@
 {
-  "id": "eeNh781b",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eeNh781b",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Casper, the Unhealthy Eater",

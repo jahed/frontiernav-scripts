@@ -1,6 +1,8 @@
 {
-  "id": "e2leAPZpcdl232",
-  "type": "HAS",
+  "metadata": {
+    "id": "e2leAPZpcdl232",
+    "type": "HAS"
+  },
   "data": {},
   "start": "eAPZpcdl",
   "end": "loc232"

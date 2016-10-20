@@ -1,9 +1,11 @@
 {
-  "id": "e2GJ6HWV",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e2GJ6HWV",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Manuelita, the Affectionate",

@@ -1,8 +1,10 @@
 {
-  "id": "mission1131-14",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission1131-14",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Nine Lives"

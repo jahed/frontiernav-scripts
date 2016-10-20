@@ -1,8 +1,10 @@
 {
-  "id": "loc393",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc393",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Talon Rock Third Terrane",

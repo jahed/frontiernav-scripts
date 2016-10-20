@@ -1,9 +1,11 @@
 {
-  "id": "e5UWCR4R",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e5UWCR4R",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Vendura, the Spellbinder",

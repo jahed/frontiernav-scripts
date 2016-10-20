@@ -1,9 +1,11 @@
 {
-  "id": "kanto-map",
-  "labels": {
-    "maps": true,
-    "pokemonSeries": true,
-    "pokemonRBY": true
+  "metadata": {
+    "id": "kanto-map",
+    "labels": [
+      "maps",
+      "pokemonSeries",
+      "pokemonRBY"
+    ]
   },
   "data": {
     "name": "Kanto",

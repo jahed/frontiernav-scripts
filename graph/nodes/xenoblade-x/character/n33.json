@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n33",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Hope Alanzi",
     "image": "hope-banner",
     "thumbnail": "hope-face.png"
-  },
-  "id": "n33"
+  }
 }

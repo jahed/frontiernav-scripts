@@ -1,8 +1,10 @@
 {
-  "id": "pr10",
-  "labels": {
-    "preciousResources": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "pr10",
+    "labels": [
+      "preciousResources",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ouroboros Crystal",

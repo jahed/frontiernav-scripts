@@ -1,8 +1,10 @@
 {
-  "id": "collectible1i34",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible1i34",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Flecked Bottle",

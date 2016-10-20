@@ -1,8 +1,10 @@
 {
-  "id": "misccomm855",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "misccomm855",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Trade Agreement"

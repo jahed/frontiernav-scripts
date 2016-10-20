@@ -1,8 +1,10 @@
 {
-  "id": "shape3i48",
-  "labels": {
-    "shapes": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "shape3i48",
+    "labels": [
+      "shapes",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLngs": [

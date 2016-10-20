@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n27",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sharon \"Murderess\" Effinger",
     "image": "murderess-banner",
     "thumbnail": "murderess-face.png"
-  },
-  "id": "n27"
+  }
 }

@@ -1,9 +1,11 @@
 {
-  "id": "euZGxTrc",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "euZGxTrc",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Vegetal, the Heatcrux",

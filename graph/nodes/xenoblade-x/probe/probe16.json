@@ -1,8 +1,10 @@
 {
-  "id": "probe16",
-  "labels": {
-    "probes": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "probe16",
+    "labels": [
+      "probes",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Research Probe G5",

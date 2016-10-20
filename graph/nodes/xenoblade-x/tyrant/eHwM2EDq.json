@@ -1,9 +1,11 @@
 {
-  "id": "eHwM2EDq",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eHwM2EDq",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Eutropio, the Sea Rumble",

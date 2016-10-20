@@ -1,9 +1,11 @@
 {
-  "id": "eSTn9LsE",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eSTn9LsE",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Seti, the Light of Stars",

@@ -1,8 +1,10 @@
 {
-  "id": "treasure513-4",
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "treasure513-4",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "White Whale Debris",

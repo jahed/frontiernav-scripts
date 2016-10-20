@@ -1,8 +1,10 @@
 {
-  "id": "mission2713-20",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission2713-20",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "A Proper Chopper"

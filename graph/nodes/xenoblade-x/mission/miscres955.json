@@ -1,8 +1,10 @@
 {
-  "id": "miscres955",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscres955",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Bug Whisperer"

@@ -1,8 +1,10 @@
 {
-  "id": "collectible1i6",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible1i6",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "L-002 Fuel Tank",

@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r515",
+    "type": "HAS"
+  },
   "start": "kanto-map",
   "end": "kanto-location-layer",
-  "type": "HAS",
-  "id": "r515",
   "data": {}
 }

@@ -1,9 +1,11 @@
 {
-  "id": "eCxEDC2y",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eCxEDC2y",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Schneider, the Cliffpercher",

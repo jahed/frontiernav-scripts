@@ -1,8 +1,10 @@
 {
-  "id": "treasure452-7",
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "treasure452-7",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Alien Container",

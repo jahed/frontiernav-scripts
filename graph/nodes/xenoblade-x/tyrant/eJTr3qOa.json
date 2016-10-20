@@ -1,9 +1,11 @@
 {
-  "id": "eJTr3qOa",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eJTr3qOa",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Xair, the Cerulean Walker",

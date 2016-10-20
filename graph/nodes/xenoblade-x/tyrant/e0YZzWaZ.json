@@ -1,9 +1,11 @@
 {
-  "id": "e0YZzWaZ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e0YZzWaZ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Alexei, the Jade",

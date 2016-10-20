@@ -1,9 +1,11 @@
 {
-  "id": "eTeUrtT7",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eTeUrtT7",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Eddy, the Electric Heat",

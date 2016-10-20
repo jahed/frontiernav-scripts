@@ -1,8 +1,10 @@
 {
-  "id": "pr9",
-  "labels": {
-    "preciousResources": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "pr9",
+    "labels": [
+      "preciousResources",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Enduron Lead",

@@ -1,9 +1,11 @@
 {
-  "id": "e7j9EHuB",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7j9EHuB",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Yuiro, the Luxuriant",

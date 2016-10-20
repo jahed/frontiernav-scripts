@@ -1,9 +1,11 @@
 {
-  "id": "eAZPnzTQ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eAZPnzTQ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gerhardt, the Lone and Proud",

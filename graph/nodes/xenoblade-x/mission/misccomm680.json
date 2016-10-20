@@ -1,8 +1,10 @@
 {
-  "id": "misccomm680",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "misccomm680",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "A Hero's Ride"

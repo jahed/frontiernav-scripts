@@ -1,9 +1,11 @@
 {
-  "id": "ev8slpfa",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ev8slpfa",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Leva'el, the Terminus",

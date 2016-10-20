@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n337",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "East Gate",
     "locationTypeId": "Landmark"
-  },
-  "id": "n337"
+  }
 }

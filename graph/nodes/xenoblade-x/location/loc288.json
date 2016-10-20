@@ -1,8 +1,10 @@
 {
-  "id": "loc288",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc288",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "North Hardheart Canyon",

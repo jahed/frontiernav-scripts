@@ -1,8 +1,10 @@
 {
-  "id": "loc263",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc263",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "M'gando Volcanic Crater",

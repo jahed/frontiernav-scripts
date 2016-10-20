@@ -1,5 +1,7 @@
 {
-  "id": "collectibleCategory",
+  "metadata": {
+    "id": "collectibleCategory"
+  },
   "path": "collectibleCategory",
   "name": "Collectible Category",
   "searchable": true,

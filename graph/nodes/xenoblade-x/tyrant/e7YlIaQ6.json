@@ -1,9 +1,11 @@
 {
-  "id": "e7YlIaQ6",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7YlIaQ6",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ga-uhl, the Precept-Keeper",

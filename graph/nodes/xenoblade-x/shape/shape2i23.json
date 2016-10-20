@@ -1,8 +1,10 @@
 {
-  "id": "shape2i23",
-  "labels": {
-    "shapes": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "shape2i23",
+    "labels": [
+      "shapes",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLngs": [

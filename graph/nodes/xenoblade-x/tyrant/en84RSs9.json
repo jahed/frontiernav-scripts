@@ -1,9 +1,11 @@
 {
-  "id": "en84RSs9",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "en84RSs9",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Durvin, the Perceptive",

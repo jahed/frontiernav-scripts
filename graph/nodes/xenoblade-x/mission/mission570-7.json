@@ -1,8 +1,10 @@
 {
-  "id": "mission570-7",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission570-7",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Duel (Part IV)"

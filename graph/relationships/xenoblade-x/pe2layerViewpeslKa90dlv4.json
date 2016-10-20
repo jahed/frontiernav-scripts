@@ -1,6 +1,8 @@
 {
-  "id": "pe2layerViewpeslKa90dlv4",
-  "type": "HAS",
+  "metadata": {
+    "id": "pe2layerViewpeslKa90dlv4",
+    "type": "HAS"
+  },
   "data": {},
   "start": "peslKa90d",
   "end": "lv4"

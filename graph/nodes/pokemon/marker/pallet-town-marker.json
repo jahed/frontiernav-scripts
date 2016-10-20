@@ -1,6 +1,9 @@
 {
-  "labels": {
-    "points": true
+  "metadata": {
+    "id": "pallet-town-marker",
+    "labels": [
+      "points"
+    ]
   },
   "data": {
     "latLng": {
@@ -8,6 +11,5 @@
       "lng": -32.34375000000001
     },
     "markerStyle": "text"
-  },
-  "id": "pallet-town-marker"
+  }
 }

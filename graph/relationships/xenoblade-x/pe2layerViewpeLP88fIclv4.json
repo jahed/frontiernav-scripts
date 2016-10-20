@@ -1,6 +1,8 @@
 {
-  "id": "pe2layerViewpeLP88fIclv4",
-  "type": "HAS",
+  "metadata": {
+    "id": "pe2layerViewpeLP88fIclv4",
+    "type": "HAS"
+  },
   "data": {},
   "start": "peLP88fIc",
   "end": "lv4"

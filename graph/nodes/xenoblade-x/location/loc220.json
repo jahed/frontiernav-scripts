@@ -1,8 +1,10 @@
 {
-  "id": "loc220",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc220",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Greater Gemini Bridge",

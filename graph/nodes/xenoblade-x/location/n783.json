@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n783",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ishmael Hills",
     "locationTypeId": "Landmark"
-  },
-  "id": "n783"
+  }
 }

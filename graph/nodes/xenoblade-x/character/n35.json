@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n35",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Kentaro Nagi",
     "image": "nagi-banner",
     "thumbnail": "nagi-face.png"
-  },
-  "id": "n35"
+  }
 }

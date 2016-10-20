@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "segments": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n597",
+    "labels": [
+      "segments",
+      "xenobladeX"
+    ]
   },
   "data": {
     "q": 4,
     "r": 0,
     "s": -4
-  },
-  "id": "n597"
+  }
 }

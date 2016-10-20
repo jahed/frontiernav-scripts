@@ -1,8 +1,10 @@
 {
-  "id": "pr0",
-  "labels": {
-    "preciousResources": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "pr0",
+    "labels": [
+      "preciousResources",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Arc Sand Ore",

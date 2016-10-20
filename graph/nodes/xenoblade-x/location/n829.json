@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n829",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Integrated Production Plant",
     "locationTypeId": "Landmark"
-  },
-  "id": "n829"
+  }
 }

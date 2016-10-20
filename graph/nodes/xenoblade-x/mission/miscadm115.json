@@ -1,8 +1,10 @@
 {
-  "id": "miscadm115",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscadm115",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Waste Not, Want Not"

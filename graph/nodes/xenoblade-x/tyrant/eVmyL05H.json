@@ -1,9 +1,11 @@
 {
-  "id": "eVmyL05H",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eVmyL05H",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Enhanced Attack Range Zig",

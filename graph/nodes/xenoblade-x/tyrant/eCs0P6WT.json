@@ -1,9 +1,11 @@
 {
-  "id": "eCs0P6WT",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eCs0P6WT",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Zorn, the Wanderer",

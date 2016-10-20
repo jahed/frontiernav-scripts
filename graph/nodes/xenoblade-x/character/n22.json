@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n22",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Doug Barrett",
     "image": "doug-banner",
     "thumbnail": "doug-face.png"
-  },
-  "id": "n22"
+  }
 }

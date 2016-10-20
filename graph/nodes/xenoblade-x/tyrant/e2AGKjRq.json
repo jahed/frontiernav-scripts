@@ -1,9 +1,11 @@
 {
-  "id": "e2AGKjRq",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e2AGKjRq",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Etutanne, the Bloodthirsty",

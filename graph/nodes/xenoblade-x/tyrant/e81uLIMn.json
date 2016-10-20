@@ -1,9 +1,11 @@
 {
-  "id": "e81uLIMn",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e81uLIMn",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ilithios, the Enlightened",

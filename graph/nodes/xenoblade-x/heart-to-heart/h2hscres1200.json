@@ -1,9 +1,11 @@
 {
-  "id": "h2hscres1200",
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "h2hscres1200",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Murderess' 1st Heart-to-Heart"

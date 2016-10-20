@@ -1,8 +1,10 @@
 {
-  "id": "mission267-13",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission267-13",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "No-show Nen'celeg"

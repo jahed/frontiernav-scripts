@@ -1,9 +1,11 @@
 {
-  "id": "e1vJTVJQ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e1vJTVJQ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Hephaestus, the Absconder",

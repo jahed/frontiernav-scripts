@@ -1,9 +1,11 @@
 {
-  "id": "mission573-10",
-  "labels": {
-    "missions": true,
-    "affinityMission": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission573-10",
+    "labels": [
+      "missions",
+      "affinityMission",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "To Serve Nopon"

@@ -1,8 +1,10 @@
 {
-  "id": "s3i87-15",
-  "labels": {
-    "segments": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "s3i87-15",
+    "labels": [
+      "segments",
+      "xenobladeX"
+    ]
   },
   "data": {
     "q": 8,

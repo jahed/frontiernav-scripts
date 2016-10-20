@@ -1,8 +1,10 @@
 {
-  "id": "treasure21012-22",
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "treasure21012-22",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Skell Wreckage",

@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n345",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Container",
@@ -9,6 +12,5 @@
       "field_skill": "Mechanical",
       "field_skill_level": 3
     }
-  },
-  "id": "n345"
+  }
 }

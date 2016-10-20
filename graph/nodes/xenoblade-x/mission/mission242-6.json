@@ -1,9 +1,11 @@
 {
-  "id": "mission242-6",
-  "labels": {
-    "missions": true,
-    "affinityMission": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission242-6",
+    "labels": [
+      "missions",
+      "affinityMission",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Nopon Heir"

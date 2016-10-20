@@ -1,9 +1,11 @@
 {
-  "id": "eJxPhBKm",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eJxPhBKm",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ernest, the Comptemplative",

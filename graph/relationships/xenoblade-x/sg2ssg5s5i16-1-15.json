@@ -1,6 +1,8 @@
 {
-  "id": "sg2ssg5s5i16-1-15",
-  "type": "HAS",
+  "metadata": {
+    "id": "sg2ssg5s5i16-1-15",
+    "type": "HAS"
+  },
   "data": {},
   "start": "sg5",
   "end": "s5i16-1-15"

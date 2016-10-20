@@ -1,7 +1,9 @@
 {
-  "type": "HAS",
+  "metadata": {
+    "id": "r968",
+    "type": "HAS"
+  },
   "start": "kanto-location-layer",
   "end": "pallet-town-marker",
-  "id": "r968",
   "data": {}
 }

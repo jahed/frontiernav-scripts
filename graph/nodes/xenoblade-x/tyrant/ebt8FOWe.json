@@ -1,9 +1,11 @@
 {
-  "id": "ebt8FOWe",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ebt8FOWe",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lomoth, the Beast-Eater",

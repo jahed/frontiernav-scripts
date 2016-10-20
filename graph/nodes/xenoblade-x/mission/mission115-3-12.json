@@ -1,8 +1,10 @@
 {
-  "id": "mission115-3-12",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission115-3-12",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Muimui's Meltdown"

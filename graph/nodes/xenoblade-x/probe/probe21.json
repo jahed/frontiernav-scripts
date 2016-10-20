@@ -1,8 +1,10 @@
 {
-  "id": "probe21",
-  "labels": {
-    "probes": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "probe21",
+    "labels": [
+      "probes",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Storage Probe",

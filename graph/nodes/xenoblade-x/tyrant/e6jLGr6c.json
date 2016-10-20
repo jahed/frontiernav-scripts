@@ -1,9 +1,11 @@
 {
-  "id": "e6jLGr6c",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e6jLGr6c",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lambert, the Divine Wind",

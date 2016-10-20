@@ -1,8 +1,10 @@
 {
-  "id": "mission153-8",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission153-8",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Cinicula Assault"

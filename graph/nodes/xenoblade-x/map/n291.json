@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "maps": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n291",
+    "labels": [
+      "maps",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "BLADE Barracks",
@@ -21,6 +24,5 @@
     },
     "defaultZoom": 1,
     "maxNativeZoom": 3
-  },
-  "id": "n291"
+  }
 }

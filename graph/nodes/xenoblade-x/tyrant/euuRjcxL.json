@@ -1,9 +1,11 @@
 {
-  "id": "euuRjcxL",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "euuRjcxL",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Enhanced Attack Seidr",

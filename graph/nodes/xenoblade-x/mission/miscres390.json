@@ -1,8 +1,10 @@
 {
-  "id": "miscres390",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscres390",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Herbivores, Unite!"

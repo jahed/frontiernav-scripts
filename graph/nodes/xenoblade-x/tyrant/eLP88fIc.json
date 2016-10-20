@@ -1,9 +1,11 @@
 {
-  "id": "eLP88fIc",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eLP88fIc",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "High-Output Pugilith",

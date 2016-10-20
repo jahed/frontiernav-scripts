@@ -1,8 +1,10 @@
 {
-  "id": "shapelocloc233circ",
-  "labels": {
-    "shapes": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "shapelocloc233circ",
+    "labels": [
+      "shapes",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLng": {

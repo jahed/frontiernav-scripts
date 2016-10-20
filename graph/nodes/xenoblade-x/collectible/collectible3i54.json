@@ -1,8 +1,10 @@
 {
-  "id": "collectible3i54",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible3i54",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ouroboros Bracelet",

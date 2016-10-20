@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r431",
+    "type": "HAS"
+  },
   "start": "game0",
-  "type": "HAS",
   "end": "n291",
-  "data": {},
-  "id": "r431"
+  "data": {}
 }

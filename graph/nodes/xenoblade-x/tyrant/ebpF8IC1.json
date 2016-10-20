@@ -1,9 +1,11 @@
 {
-  "id": "ebpF8IC1",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ebpF8IC1",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Feliciano, the All-Seeing",

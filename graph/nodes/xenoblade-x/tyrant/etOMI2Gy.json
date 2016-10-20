@@ -1,9 +1,11 @@
 {
-  "id": "etOMI2Gy",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "etOMI2Gy",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Elaine, the Lunar Eclipse",

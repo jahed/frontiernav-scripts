@@ -1,9 +1,11 @@
 {
-  "id": "h2hscres695",
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "h2hscres695",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Nagi's 5th Heart-to-Heart"

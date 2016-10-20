@@ -1,9 +1,11 @@
 {
-  "id": "enOcYhtZ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "enOcYhtZ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Night Combat Puge",

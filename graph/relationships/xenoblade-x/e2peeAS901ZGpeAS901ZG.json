@@ -1,6 +1,8 @@
 {
-  "id": "e2peeAS901ZGpeAS901ZG",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "e2peeAS901ZGpeAS901ZG",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "eAS901ZG",
   "end": "peAS901ZG"

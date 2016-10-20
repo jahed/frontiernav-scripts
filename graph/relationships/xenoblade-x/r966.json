@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r966",
+    "type": "GOAL"
+  },
   "start": "afmisscadm950",
-  "type": "GOAL",
   "end": "n492",
-  "data": {},
-  "id": "r966"
+  "data": {}
 }

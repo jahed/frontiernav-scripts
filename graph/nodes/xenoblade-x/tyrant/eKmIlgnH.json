@@ -1,9 +1,11 @@
 {
-  "id": "eKmIlgnH",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eKmIlgnH",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Florence, the Hell Maggot",

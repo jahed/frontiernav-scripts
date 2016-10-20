@@ -1,9 +1,11 @@
 {
-  "id": "mission126-8",
-  "labels": {
-    "missions": true,
-    "affinityMission": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission126-8",
+    "labels": [
+      "missions",
+      "affinityMission",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Repair Job"

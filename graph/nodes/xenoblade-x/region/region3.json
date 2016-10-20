@@ -1,8 +1,10 @@
 {
-  "id": "region3",
-  "labels": {
-    "regions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "region3",
+    "labels": [
+      "regions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Oblivia",

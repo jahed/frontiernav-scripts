@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "points": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n338",
+    "labels": [
+      "points",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLng": {
@@ -10,6 +13,5 @@
     },
     "markerStyle": "circle",
     "radius": 70
-  },
-  "id": "n338"
+  }
 }

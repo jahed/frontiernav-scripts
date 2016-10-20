@@ -1,9 +1,11 @@
 {
-  "id": "eWQ5CRpy",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eWQ5CRpy",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Edgardo, the Carefree",

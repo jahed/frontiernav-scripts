@@ -1,9 +1,11 @@
 {
-  "id": "mission257-12",
-  "labels": {
-    "missions": true,
-    "affinityMission": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission257-12",
+    "labels": [
+      "missions",
+      "affinityMission",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "My Dream"

@@ -1,9 +1,11 @@
 {
-  "id": "e7OWJ5a0",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7OWJ5a0",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Muruse, the Opulent",

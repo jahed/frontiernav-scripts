@@ -1,9 +1,11 @@
 {
-  "id": "eTKvmOQo",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eTKvmOQo",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Polaris, the Firmamental",

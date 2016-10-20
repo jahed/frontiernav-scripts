@@ -1,9 +1,11 @@
 {
-  "id": "eGL2Bq96",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eGL2Bq96",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Latis, the Bristle-Scaled",

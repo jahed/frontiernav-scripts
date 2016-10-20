@@ -1,9 +1,11 @@
 {
-  "id": "e9D3FEE0",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9D3FEE0",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Falchion, the Vibrant",

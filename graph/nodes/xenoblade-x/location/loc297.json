@@ -1,8 +1,10 @@
 {
-  "id": "loc297",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc297",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "O'rrh Sim Gate",

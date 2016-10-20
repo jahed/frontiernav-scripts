@@ -1,8 +1,10 @@
 {
-  "id": "mission2810-18",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission2810-18",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lone Survivors"

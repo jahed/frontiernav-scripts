@@ -1,5 +1,7 @@
 {
-  "id": "collectibleArea",
+  "metadata": {
+    "id": "collectibleArea"
+  },
   "path": "collectibleAreas",
   "name": "Collectible Area",
   "searchable": true,

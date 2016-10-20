@@ -1,9 +1,11 @@
 {
-  "id": "eeqBxODc",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eeqBxODc",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Yessenia, the Husky-Voiced",

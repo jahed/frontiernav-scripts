@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n31",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Frye Christoph",
     "image": "frye-banner",
     "thumbnail": "frye-face.png"
-  },
-  "id": "n31"
+  }
 }

@@ -1,8 +1,10 @@
 {
-  "id": "loc415",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc415",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "White Phosphor Lake",

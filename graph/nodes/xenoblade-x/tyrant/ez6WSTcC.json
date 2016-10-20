@@ -1,9 +1,11 @@
 {
-  "id": "ez6WSTcC",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ez6WSTcC",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Jia Mian, the Beloved",

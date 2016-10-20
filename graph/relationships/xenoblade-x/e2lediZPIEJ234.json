@@ -1,6 +1,8 @@
 {
-  "id": "e2lediZPIEJ234",
-  "type": "HAS",
+  "metadata": {
+    "id": "e2lediZPIEJ234",
+    "type": "HAS"
+  },
   "data": {},
   "start": "ediZPIEJ",
   "end": "loc234"

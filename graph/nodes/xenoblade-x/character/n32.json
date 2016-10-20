@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n32",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Hector \"H.B.\" Birtwhistle",
     "image": "hb-banner",
     "thumbnail": "hb-face.png"
-  },
-  "id": "n32"
+  }
 }

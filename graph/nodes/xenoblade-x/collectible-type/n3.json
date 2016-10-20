@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "collectibleCategory": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n3",
+    "labels": [
+      "collectibleCategory",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Fruits"
-  },
-  "id": "n3"
+  }
 }

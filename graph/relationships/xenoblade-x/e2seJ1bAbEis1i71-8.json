@@ -1,6 +1,8 @@
 {
-  "id": "e2seJ1bAbEis1i71-8",
-  "type": "GOAL",
+  "metadata": {
+    "id": "e2seJ1bAbEis1i71-8",
+    "type": "GOAL"
+  },
   "data": {},
   "start": "s1i71-8",
   "end": "eJ1bAbEi"

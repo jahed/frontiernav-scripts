@@ -1,8 +1,10 @@
 {
-  "id": "collectible2i25",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible2i25",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Logunie's Driftwood Boat",

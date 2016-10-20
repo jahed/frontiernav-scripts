@@ -1,9 +1,11 @@
 {
-  "id": "ecPb6QDd",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ecPb6QDd",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Leandro, the Sneering",

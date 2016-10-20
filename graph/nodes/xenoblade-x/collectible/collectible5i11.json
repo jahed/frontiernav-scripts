@@ -1,8 +1,10 @@
 {
-  "id": "collectible5i11",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible5i11",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Megajolt Rattle",

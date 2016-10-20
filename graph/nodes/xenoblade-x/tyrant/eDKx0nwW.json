@@ -1,9 +1,11 @@
 {
-  "id": "eDKx0nwW",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eDKx0nwW",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Diogenes, the Covetous",

@@ -1,9 +1,11 @@
 {
-  "id": "e9P0kEp4",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9P0kEp4",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Poppy, the Pyromaniac",

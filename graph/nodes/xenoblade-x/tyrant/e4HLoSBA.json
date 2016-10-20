@@ -1,9 +1,11 @@
 {
-  "id": "e4HLoSBA",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e4HLoSBA",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Barnabas, the Despot",

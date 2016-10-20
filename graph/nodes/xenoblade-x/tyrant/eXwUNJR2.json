@@ -1,9 +1,11 @@
 {
-  "id": "eXwUNJR2",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eXwUNJR2",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Prinsipe, the Ravenous",

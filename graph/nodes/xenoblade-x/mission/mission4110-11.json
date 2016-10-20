@@ -1,8 +1,10 @@
 {
-  "id": "mission4110-11",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission4110-11",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Sword of Legendaryness"

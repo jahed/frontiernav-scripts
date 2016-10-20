@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n845",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Going Viral"
-  },
-  "id": "n845"
+  }
 }

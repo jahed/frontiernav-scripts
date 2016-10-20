@@ -1,8 +1,10 @@
 {
-  "id": "map2layer1lv5",
+  "metadata": {
+    "id": "map2layer1lv5",
+    "type": "HAS"
+  },
   "start": "map1",
   "end": "lv5",
-  "type": "HAS",
   "data": {
     "order": 2
   }

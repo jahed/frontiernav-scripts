@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n861",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Celica's 4th Heart-to-Heart"
-  },
-  "id": "n861"
+  }
 }

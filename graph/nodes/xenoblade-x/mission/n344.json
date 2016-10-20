@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n344",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Turf War"
-  },
-  "id": "n344"
+  }
 }

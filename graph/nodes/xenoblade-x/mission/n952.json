@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n952",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Fortun and Glory"
-  },
-  "id": "n952"
+  }
 }

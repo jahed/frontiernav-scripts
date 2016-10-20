@@ -1,9 +1,11 @@
 {
-  "id": "eqlRd6EH",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eqlRd6EH",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Pharsis, the Everqueen",

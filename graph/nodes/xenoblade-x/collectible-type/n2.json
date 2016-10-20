@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "collectibleCategory": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n2",
+    "labels": [
+      "collectibleCategory",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Insects"
-  },
-  "id": "n2"
+  }
 }

@@ -1,9 +1,11 @@
 {
-  "id": "h2hscres690",
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "h2hscres690",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gwin's 3rd Heart-to-Heart"

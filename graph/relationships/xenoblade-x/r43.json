@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r43",
+    "type": "CONTAINS"
+  },
   "start": "collectibleset5i3",
-  "type": "CONTAINS",
   "end": "n11",
-  "data": {},
-  "id": "r43"
+  "data": {}
 }

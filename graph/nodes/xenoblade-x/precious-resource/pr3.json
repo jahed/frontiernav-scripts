@@ -1,8 +1,10 @@
 {
-  "id": "pr3",
-  "labels": {
-    "preciousResources": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "pr3",
+    "labels": [
+      "preciousResources",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Dawnstone",

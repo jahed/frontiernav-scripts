@@ -1,6 +1,8 @@
 {
-  "id": "rlp86p86",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "rlp86p86",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "loc86",
   "end": "p86"

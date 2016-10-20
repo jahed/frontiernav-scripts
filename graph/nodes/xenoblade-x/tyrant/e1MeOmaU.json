@@ -1,9 +1,11 @@
 {
-  "id": "e1MeOmaU",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e1MeOmaU",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Wenzel, the Inebriated",

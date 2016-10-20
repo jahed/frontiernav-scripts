@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n819",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Tree-mendous"
-  },
-  "id": "n819"
+  }
 }

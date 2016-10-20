@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r444",
+    "type": "HAS"
+  },
   "start": "n293",
   "end": "n305",
-  "type": "HAS",
-  "id": "r444",
   "data": {}
 }

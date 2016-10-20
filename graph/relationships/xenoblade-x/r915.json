@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r915",
+    "type": "GOAL"
+  },
   "start": "afshiftsccomm995",
-  "type": "GOAL",
   "end": "n257",
-  "data": {},
-  "id": "r915"
+  "data": {}
 }

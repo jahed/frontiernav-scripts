@@ -1,9 +1,11 @@
 {
-  "id": "eSJSsg9g",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eSJSsg9g",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Andrea, the Famished Hunter",

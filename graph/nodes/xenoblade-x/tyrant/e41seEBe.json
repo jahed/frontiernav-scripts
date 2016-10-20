@@ -1,9 +1,11 @@
 {
-  "id": "e41seEBe",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e41seEBe",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ferdinand, the Fortuitus",

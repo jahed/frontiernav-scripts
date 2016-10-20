@@ -1,6 +1,8 @@
 {
-  "id": "p2layerViewp398lv0",
-  "type": "HAS",
+  "metadata": {
+    "id": "p2layerViewp398lv0",
+    "type": "HAS"
+  },
   "data": {},
   "start": "p398",
   "end": "lv0"

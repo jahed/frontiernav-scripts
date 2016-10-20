@@ -1,9 +1,11 @@
 {
-  "id": "eoj6M0mv",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eoj6M0mv",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Izgnanie, the Smoldering",

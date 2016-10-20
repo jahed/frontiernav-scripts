@@ -1,9 +1,11 @@
 {
-  "id": "exApO4qv",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "exApO4qv",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Aria, the Zauberflote",

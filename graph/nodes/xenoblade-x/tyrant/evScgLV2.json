@@ -1,9 +1,11 @@
 {
-  "id": "evScgLV2",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "evScgLV2",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Berthold, the Blue-Eyed",

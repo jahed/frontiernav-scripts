@@ -1,8 +1,10 @@
 {
-  "id": "collectible4i32",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible4i32",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mizaria Celery",

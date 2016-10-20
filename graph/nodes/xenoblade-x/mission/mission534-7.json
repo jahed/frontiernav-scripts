@@ -1,8 +1,10 @@
 {
-  "id": "mission534-7",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission534-7",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sparking a Smile"

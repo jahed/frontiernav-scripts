@@ -1,8 +1,10 @@
 {
-  "id": "loc274",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc274",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Noctilucent Sphere Interior",

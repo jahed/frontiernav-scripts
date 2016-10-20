@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "pokemonSeries": true,
-    "pokemonRBY": true,
-    "locations": true
+  "metadata": {
+    "id": "pallet-town",
+    "labels": [
+      "pokemonSeries",
+      "pokemonRBY",
+      "locations"
+    ]
   },
   "data": {
     "name": "Pallet Town",
     "locationTypeId": "Landmark"
-  },
-  "id": "pallet-town"
+  }
 }

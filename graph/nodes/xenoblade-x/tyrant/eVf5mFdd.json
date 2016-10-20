@@ -1,9 +1,11 @@
 {
-  "id": "eVf5mFdd",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eVf5mFdd",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Shuravas, the Enraged",

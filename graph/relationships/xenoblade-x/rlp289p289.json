@@ -1,6 +1,8 @@
 {
-  "id": "rlp289p289",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "rlp289p289",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "loc289",
   "end": "p289"

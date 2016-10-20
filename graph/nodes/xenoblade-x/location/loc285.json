@@ -1,8 +1,10 @@
 {
-  "id": "loc285",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc285",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "North Ciel Sandsea",

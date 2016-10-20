@@ -1,9 +1,11 @@
 {
-  "id": "eKlVsEFo",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eKlVsEFo",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Stola, the Unchained",

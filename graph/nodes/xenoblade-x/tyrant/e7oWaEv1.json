@@ -1,9 +1,11 @@
 {
-  "id": "e7oWaEv1",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7oWaEv1",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Squallo, the Sand-Mirer",

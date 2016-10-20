@@ -1,9 +1,11 @@
 {
-  "id": "e7iVvEF7",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7iVvEF7",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Nardacyon, the Shadowless",

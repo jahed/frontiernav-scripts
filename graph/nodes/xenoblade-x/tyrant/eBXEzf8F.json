@@ -1,9 +1,11 @@
 {
-  "id": "eBXEzf8F",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eBXEzf8F",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Luxaar's Xern",

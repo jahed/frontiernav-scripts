@@ -1,8 +1,10 @@
 {
-  "id": "loc346",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc346",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Scholes Battlegrounds",

@@ -1,8 +1,10 @@
 {
-  "id": "loc257",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc257",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lesser Gemini Bridge",

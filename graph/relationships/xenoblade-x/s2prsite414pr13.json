@@ -1,6 +1,8 @@
 {
-  "id": "s2prsite414pr13",
-  "type": "HAS",
+  "metadata": {
+    "id": "s2prsite414pr13",
+    "type": "HAS"
+  },
   "data": {},
   "start": "site414",
   "end": "pr13"

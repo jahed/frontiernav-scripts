@@ -1,8 +1,10 @@
 {
-  "id": "loc92",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc92",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Far Isle of Tzu'o",

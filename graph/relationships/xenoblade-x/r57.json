@@ -1,6 +1,8 @@
 {
-  "type": "HAS",
+  "metadata": {
+    "id": "r57",
+    "type": "HAS"
+  },
   "start": "lv5",
-  "end": "n56",
-  "id": "r57"
+  "end": "n56"
 }

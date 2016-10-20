@@ -1,8 +1,10 @@
 {
-  "id": "loc299",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc299",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "O'rrh Sim Watchtowers",

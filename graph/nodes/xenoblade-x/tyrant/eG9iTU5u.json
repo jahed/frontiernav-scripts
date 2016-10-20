@@ -1,9 +1,11 @@
 {
-  "id": "eG9iTU5u",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eG9iTU5u",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Olegario, the Iron-Helmed",

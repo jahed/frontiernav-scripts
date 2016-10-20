@@ -1,9 +1,11 @@
 {
-  "id": "eQds7gwi",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eQds7gwi",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Roderick, the Fleet-Footed",

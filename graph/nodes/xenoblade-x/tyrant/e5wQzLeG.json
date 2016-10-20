@@ -1,9 +1,11 @@
 {
-  "id": "e5wQzLeG",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e5wQzLeG",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Go-rha, the Guardian Deity",

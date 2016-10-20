@@ -1,9 +1,11 @@
 {
-  "id": "ejNS0KUu",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ejNS0KUu",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Frontline Medic Quo",

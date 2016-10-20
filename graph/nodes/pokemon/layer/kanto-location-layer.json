@@ -1,8 +1,10 @@
 {
-  "labels": {
-    "layerViews": true
+  "metadata": {
+    "id": "kanto-location-layer",
+    "labels": [
+      "layerViews"
+    ]
   },
-  "id": "kanto-location-layer",
   "data": {
     "name": "Locations",
     "description": "Locations in Kanto"

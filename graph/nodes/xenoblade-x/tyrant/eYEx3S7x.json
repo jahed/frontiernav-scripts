@@ -1,9 +1,11 @@
 {
-  "id": "eYEx3S7x",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eYEx3S7x",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Balduino, the Wicked-Eyed",

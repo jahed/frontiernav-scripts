@@ -1,9 +1,11 @@
 {
-  "id": "ePYTHeTD",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ePYTHeTD",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lugalbanda, the Wanderer-King",

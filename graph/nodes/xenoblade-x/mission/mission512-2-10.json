@@ -1,8 +1,10 @@
 {
-  "id": "mission512-2-10",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission512-2-10",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "The Queen Is Dead"

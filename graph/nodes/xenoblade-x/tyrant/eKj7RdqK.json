@@ -1,9 +1,11 @@
 {
-  "id": "eKj7RdqK",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eKj7RdqK",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Vilem, the Gold-Scaled",

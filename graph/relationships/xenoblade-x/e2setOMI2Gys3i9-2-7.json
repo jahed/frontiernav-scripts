@@ -1,6 +1,8 @@
 {
-  "id": "e2setOMI2Gys3i9-2-7",
-  "type": "GOAL",
+  "metadata": {
+    "id": "e2setOMI2Gys3i9-2-7",
+    "type": "GOAL"
+  },
   "data": {},
   "start": "s3i9-2-7",
   "end": "etOMI2Gy"

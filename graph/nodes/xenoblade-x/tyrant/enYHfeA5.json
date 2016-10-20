@@ -1,9 +1,11 @@
 {
-  "id": "enYHfeA5",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "enYHfeA5",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Dieter, the Epicure",

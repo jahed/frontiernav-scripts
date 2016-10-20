@@ -1,9 +1,11 @@
 {
-  "id": "eKVtq2RV",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eKVtq2RV",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lyla's Galdr",

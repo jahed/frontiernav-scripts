@@ -1,9 +1,11 @@
 {
-  "id": "e1bxD7r5",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e1bxD7r5",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Goliath, the Stronghold",

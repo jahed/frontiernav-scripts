@@ -1,8 +1,10 @@
 {
-  "id": "mission256-11",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission256-11",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Rescue at the Ensconced Citadel"

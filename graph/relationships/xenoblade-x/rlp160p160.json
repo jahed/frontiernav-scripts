@@ -1,6 +1,8 @@
 {
-  "id": "rlp160p160",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "rlp160p160",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "loc160",
   "end": "p160"

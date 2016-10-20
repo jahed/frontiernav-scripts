@@ -1,5 +1,7 @@
 {
-  "id": "mission",
+  "metadata": {
+    "id": "mission"
+  },
   "path": "missions",
   "name": "Mission",
   "searchable": true,

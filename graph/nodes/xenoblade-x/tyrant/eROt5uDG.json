@@ -1,9 +1,11 @@
 {
-  "id": "eROt5uDG",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eROt5uDG",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Albin, the Wicked Meddler",

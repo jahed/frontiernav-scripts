@@ -1,9 +1,11 @@
 {
-  "id": "eH1R2E5f",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eH1R2E5f",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Roimi, the Affluent",

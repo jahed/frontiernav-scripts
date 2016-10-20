@@ -1,9 +1,11 @@
 {
-  "id": "edkrUj71",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "edkrUj71",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Desdemona, the Subterraanean",

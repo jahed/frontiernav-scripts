@@ -1,9 +1,11 @@
 {
-  "id": "h2hscres1100",
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "h2hscres1100",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Phog's 5th Heart-to-Heart"

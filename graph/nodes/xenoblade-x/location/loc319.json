@@ -1,8 +1,10 @@
 {
-  "id": "loc319",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc319",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Primordia Base Camp 5",

@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r804",
+    "type": "HAS"
+  },
   "start": "map2",
-  "type": "HAS",
   "end": "n338",
-  "data": {},
-  "id": "r804"
+  "data": {}
 }

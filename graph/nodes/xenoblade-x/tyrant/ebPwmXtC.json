@@ -1,9 +1,11 @@
 {
-  "id": "ebPwmXtC",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ebPwmXtC",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Hartmut, the Calamity",

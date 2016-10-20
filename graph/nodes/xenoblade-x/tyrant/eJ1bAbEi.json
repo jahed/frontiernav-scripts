@@ -1,9 +1,11 @@
 {
-  "id": "eJ1bAbEi",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eJ1bAbEi",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Experimental Composite Qmoeva",

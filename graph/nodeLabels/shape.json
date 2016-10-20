@@ -1,5 +1,7 @@
 {
-  "id": "shape",
+  "metadata": {
+    "id": "shape"
+  },
   "path": "shapes",
   "name": "Map Area",
   "pageDescription": "Use various area markers to see areas of interest in Xenoblade Chronicles X.",

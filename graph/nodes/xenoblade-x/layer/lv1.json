@@ -1,8 +1,10 @@
 {
-  "id": "lv1",
-  "labels": {
-    "layerViews": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "lv1",
+    "labels": [
+      "layerViews",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Collectibles",

@@ -1,8 +1,10 @@
 {
-  "id": "char1lin",
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "char1lin",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lin Lee Koo",

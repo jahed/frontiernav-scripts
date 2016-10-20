@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "collectibleCategory": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n10",
+    "labels": [
+      "collectibleCategory",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Curios"
-  },
-  "id": "n10"
+  }
 }

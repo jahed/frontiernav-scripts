@@ -1,9 +1,11 @@
 {
-  "id": "eTDgAowk",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eTDgAowk",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mesgen, the Fairweathered",

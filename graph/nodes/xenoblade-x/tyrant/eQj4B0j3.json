@@ -1,9 +1,11 @@
 {
-  "id": "eQj4B0j3",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eQj4B0j3",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Vendura's Galdr",

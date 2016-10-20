@@ -1,6 +1,8 @@
 {
-  "id": "s2treasures4i83-11treasure483-11",
-  "type": "GOAL",
+  "metadata": {
+    "id": "s2treasures4i83-11treasure483-11",
+    "type": "GOAL"
+  },
   "data": {},
   "start": "s4i83-11",
   "end": "treasure483-11"

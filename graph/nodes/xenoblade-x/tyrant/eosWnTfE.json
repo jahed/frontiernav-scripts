@@ -1,9 +1,11 @@
 {
-  "id": "eosWnTfE",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eosWnTfE",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Experimental Second-Gen Zig",

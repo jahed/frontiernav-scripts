@@ -1,9 +1,11 @@
 {
-  "id": "e2uhRxMj",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e2uhRxMj",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Katerina, the Cliffhanger",

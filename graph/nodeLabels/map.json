@@ -1,5 +1,7 @@
 {
-  "id": "map",
+  "metadata": {
+    "id": "map"
+  },
   "path": "maps",
   "name": "Map",
   "searchable": true,

@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n880",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Alien Wreckage",
@@ -9,6 +12,5 @@
       "field_skill": "Archaeological",
       "field_skill_level": 2
     }
-  },
-  "id": "n880"
+  }
 }

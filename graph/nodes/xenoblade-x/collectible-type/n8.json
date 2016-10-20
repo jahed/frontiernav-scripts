@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "collectibleCategory": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n8",
+    "labels": [
+      "collectibleCategory",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Relics"
-  },
-  "id": "n8"
+  }
 }

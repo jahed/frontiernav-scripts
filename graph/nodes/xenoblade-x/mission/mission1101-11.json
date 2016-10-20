@@ -1,8 +1,10 @@
 {
-  "id": "mission1101-11",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission1101-11",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Welcome Back, Conner"

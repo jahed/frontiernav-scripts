@@ -1,6 +1,8 @@
 {
-  "id": "e2semKl8xTms5i11-1-10",
-  "type": "GOAL",
+  "metadata": {
+    "id": "e2semKl8xTms5i11-1-10",
+    "type": "GOAL"
+  },
   "data": {},
   "start": "s5i11-1-10",
   "end": "emKl8xTm"

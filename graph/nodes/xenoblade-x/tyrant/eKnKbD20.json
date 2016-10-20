@@ -1,9 +1,11 @@
 {
-  "id": "eKnKbD20",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eKnKbD20",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Jarosch, the Sensational",

@@ -1,8 +1,10 @@
 {
-  "id": "map0",
-  "labels": {
-    "maps": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "map0",
+    "labels": [
+      "maps",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mira",

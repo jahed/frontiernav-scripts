@@ -1,9 +1,11 @@
 {
-  "id": "e9xg57mL",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9xg57mL",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Frajeel, the Purgatorial",

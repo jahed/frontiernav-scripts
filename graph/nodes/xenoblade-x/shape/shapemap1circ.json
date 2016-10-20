@@ -1,8 +1,10 @@
 {
-  "id": "shapemap1circ",
-  "labels": {
-    "shapes": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "shapemap1circ",
+    "labels": [
+      "shapes",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLng": {

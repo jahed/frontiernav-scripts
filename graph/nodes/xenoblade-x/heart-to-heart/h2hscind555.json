@@ -1,9 +1,11 @@
 {
-  "id": "h2hscind555",
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "h2hscind555",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mia's 3rd Heart-to-Heart"

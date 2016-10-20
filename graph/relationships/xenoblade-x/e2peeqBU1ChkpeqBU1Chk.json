@@ -1,6 +1,8 @@
 {
-  "id": "e2peeqBU1ChkpeqBU1Chk",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "e2peeqBU1ChkpeqBU1Chk",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "eqBU1Chk",
   "end": "peqBU1Chk"
