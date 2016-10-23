@@ -48,11 +48,18 @@ describe(`Graph (${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relat
         nodes.forEach(node => {
             node.content.metadata.labels.forEach(label => {
                 const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.metadata.id === label)
-                assert.ok(
-                    labelExists,
-                    `Node(${node.content.metadata.id}) has unknown Label(${label})`
-                )
+                assert.ok(labelExists, `Node(${node.content.metadata.id}) has unknown Label(${label})`)
             })
+        })
+    })
+
+    it('nodes assigned to relationships should be defined', () => {
+        relationships.forEach(relationship => {
+            const nodesExist = _(nodes)
+                .map(node => node.content.metadata.id)
+                .includes(relationship.content.start, relationship.content.end)
+
+            assert.ok(nodesExist, `Relationship(${relationship.content.metadata.id}) has unknown nodes`)
         })
     })
 })
