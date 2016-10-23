@@ -2,47 +2,57 @@ const fs = require('fs')
 const file = require('file')
 const path = require('path')
 const assert = require('assert')
+const _ = require('lodash')
 
 const graphPath = './graph'
 
-let graphObjects
-file.walkSync(path.resolve(graphPath), (dirPath, dirs, filePaths) => {
-    graphObjects = filePaths
-        .filter(filePath => path.extname(filePath) === '.json')
-        .map(filePath => {
-            const absoluteFilePath =  path.resolve(dirPath, filePath)
-            const fileContent = fs.readFileSync(absoluteFilePath, { encoding: 'utf8' })
-            const content = JSON.parse(fileContent)
-            return {
-                absoluteFilePath,
-                content
-            }
-        })
-})
+const nodeLabels = readGraphObjects('nodeLabels')
+const nodes = readGraphObjects('nodes')
+const relationships = readGraphObjects('relationships')
+const relationshipTypes = readGraphObjects('relationshipTypes')
 
-describe(`Graph (${graphObjects.length} objects)`, () => {
+function readGraphObjects(type) {
+    let result = []
+    file.walkSync(path.resolve(graphPath, type), (dirPath, dirs, filePaths) => {
+        result = result.concat(
+            filePaths
+                .filter(filePath => path.extname(filePath) === '.json')
+                .map(filePath => {
+                    const absoluteFilePath =  path.resolve(dirPath, filePath)
+                    const fileContent = fs.readFileSync(absoluteFilePath, { encoding: 'utf8' })
+                    const content = JSON.parse(fileContent)
+                    return {
+                        absoluteFilePath,
+                        content
+                    }
+                })
+        )
+    })
+    return result
+}
 
-    it('object filenames should match assigned IDs', () => {
-        graphObjects.forEach(graphObject => {
+describe(`Graph (${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relationships.length} relationships, ${relationshipTypes.length} relationshipTypes)`, () => {
+
+    it('filenames should match assigned IDs', () => {
+        const assertIdsMatch = graphObject => {
             assert.strictEqual(graphObject.content.metadata.id, path.basename(graphObject.absoluteFilePath, '.json'))
-        })
+        }
+
+        nodeLabels.forEach(assertIdsMatch)
+        nodes.forEach(assertIdsMatch)
+        relationships.forEach(assertIdsMatch)
+        relationshipTypes.forEach(assertIdsMatch)
     })
 
     it('labels assigned to nodes should be defined', () => {
-        graphObjects.forEach(graphObject => {
-            if(graphObject.content.metadata.labels) {
-                graphObject.content.metadata.labels.forEach(label => {
-                    assert.doesNotThrow(
-                        () => {
-                            fs.accessSync(
-                                path.resolve(graphPath, 'nodeLabels', `${label}.json`),
-                                fs.constants.F_OK
-                            )
-                        },
-                        `Node(${graphObject.content.metadata.id}) has unknown Label(${label})`
-                    )
-                })
-            }
+        nodes.forEach(node => {
+            node.content.metadata.labels.forEach(label => {
+                const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.metadata.id === label)
+                assert.ok(
+                    labelExists,
+                    `Node(${node.content.metadata.id}) has unknown Label(${label})`
+                )
+            })
         })
     })
 })
