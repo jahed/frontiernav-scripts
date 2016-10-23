@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "id": "lv3",
+    "labels": [
+      "MapLayer",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Probes",
+    "icon": "line-chart",
+    "thumbnail": "view-probes"
+  }
+}

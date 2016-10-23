@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "id": "SegmentGrid"
+  },
+  "path": "SegmentGrid",
+  "name": "Segment Grid",
+  "pageDescription": "Segment Grids cover regions with segments to explore.",
+  "schema": {
+    "segmentDimensions": {
+      "required": true
+    },
+    "segmentInset": {
+      "required": true
+    },
+    "topLeft": {
+      "required": true
+    },
+    "dimensions": {
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "Map"
+  },
+  "name": "Map",
+  "searchable": true,
+  "pageDescription": "View an interactive map of {name} in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    },
+    "tileLayers": {
+      "required": true
+    },
+    "center": {
+      "required": true
+    },
+    "defaultZoom": {
+      "required": true
+    },
+    "maxNativeZoom": {
+      "required": true
+    }
+  }
+}

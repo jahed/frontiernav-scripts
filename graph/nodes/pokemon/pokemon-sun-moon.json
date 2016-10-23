@@ -2,9 +2,9 @@
   "metadata": {
     "id": "pokemon-sun-moon",
     "labels": [
-      "games",
-      "pokemonSeries",
-      "pokemonSunMoon"
+      "Game",
+      "PokemonSeries",
+      "PokemonSunMoon"
     ]
   },
   "data": {
@@ -22,8 +22,8 @@
       "color": "#092844"
     },
     "searchLabels": {
-      "pokemonSeries": true,
-      "pokemonSunMoon": true
+      "PokemonSeries": true,
+      "PokemonSunMoon": true
     }
   }
 }

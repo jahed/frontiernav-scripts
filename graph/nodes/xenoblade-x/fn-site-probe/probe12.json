@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "id": "probe12",
+    "labels": [
+      "FNSiteProbe",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Research Probe G1",
+    "type": 2,
+    "attributes": {
+      "production_multiplier": 0.3,
+      "revenue_multiplier": 2
+    }
+  }
+}

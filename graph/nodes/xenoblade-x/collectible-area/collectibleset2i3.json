@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset2i3",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Noctilum Lake Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

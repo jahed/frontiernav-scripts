@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "id": "FNSiteGraph"
+  },
+  "name": "Site Graph",
+  "pageDescription": "Site Graphs cover regions with sites to place probes and optimise income.",
+  "schema": {
+    "name": {
+      "required": true
+    }
+  }
+}

@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset4i4",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Sylvalum Lake Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

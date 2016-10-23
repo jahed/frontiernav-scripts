@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "id": "lv0",
+    "labels": [
+      "MapLayer",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Locations",
+    "icon": "compass",
+    "thumbnail": "view-locations"
+  }
+}

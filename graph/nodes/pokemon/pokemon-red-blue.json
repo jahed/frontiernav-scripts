@@ -2,9 +2,9 @@
   "metadata": {
     "id": "pokemon-red-blue",
     "labels": [
-      "games",
-      "pokemonSeries",
-      "pokemonRBY"
+      "Game",
+      "PokemonSeries",
+      "PokemonRBY"
     ]
   },
   "data": {
@@ -22,8 +22,8 @@
       "color": "#ffffff"
     },
     "searchLabels": {
-      "pokemonSeries": true,
-      "pokemonRBY": true
+      "PokemonSeries": true,
+      "PokemonRBY": true
     }
   }
 }

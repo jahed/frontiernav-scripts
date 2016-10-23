@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset5i2",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Cauldros Kw'arah Cloister Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

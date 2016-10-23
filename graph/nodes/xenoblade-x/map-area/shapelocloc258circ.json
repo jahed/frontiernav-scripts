@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "id": "shapelocloc258circ",
+    "labels": [
+      "MapArea",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "latLng": {
+      "lat": 75.62863223279015,
+      "lng": -45.1318359375
+    },
+    "radius": 210000
+  }
+}

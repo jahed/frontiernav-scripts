@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset2i2",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Noctilum North Forest Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

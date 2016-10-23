@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "id": "n290",
+    "labels": [
+      "MapLayer",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters in BLADE Barracks"
+  }
+}

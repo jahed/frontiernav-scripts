@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "probe19",
+    "labels": [
+      "FNSiteProbe",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Booster Probe G2",
+    "type": 5,
+    "attributes": {
+      "production_multiplier": 0.1,
+      "revenue_multiplier": 0.1,
+      "neighbour_primary_multiplier": 2
+    }
+  }
+}

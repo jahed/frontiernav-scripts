@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "id": "probe10",
+    "labels": [
+      "FNSiteProbe",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Mining Probe G9",
+    "type": 1,
+    "attributes": {
+      "production_multiplier": 2.7,
+      "revenue_multiplier": 0.3
+    }
+  }
+}

@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset3i4",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Oblivia Southern Coast Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

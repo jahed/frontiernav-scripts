@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset5i3",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Cauldros Castle Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

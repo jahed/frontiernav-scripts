@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset2i5",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Noctilum Rocky Mountain Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

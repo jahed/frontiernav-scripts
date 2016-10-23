@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset4i5",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Sylvalum Northern Sands Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

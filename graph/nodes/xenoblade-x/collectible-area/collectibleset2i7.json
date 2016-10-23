@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset2i7",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Noctilum Stream Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }
