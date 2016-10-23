@@ -1,8 +1,10 @@
 {
-  "id": "miscadm1030",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscadm1030",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Planetary Pioneer (Part II)"

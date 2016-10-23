@@ -1,8 +1,10 @@
 {
-  "id": "loc309",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc309",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Old Ceremonial Hollow",

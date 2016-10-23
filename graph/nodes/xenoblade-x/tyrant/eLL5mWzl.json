@@ -1,9 +1,11 @@
 {
-  "id": "eLL5mWzl",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eLL5mWzl",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Si-el, the Vacuous",

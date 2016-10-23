@@ -1,9 +1,11 @@
 {
-  "id": "ezdfgzch",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ezdfgzch",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Bohdan, the Mistral",

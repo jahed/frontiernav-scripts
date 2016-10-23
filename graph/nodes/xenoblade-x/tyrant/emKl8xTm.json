@@ -1,9 +1,11 @@
 {
-  "id": "emKl8xTm",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "emKl8xTm",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Terenty, the Blademaster",

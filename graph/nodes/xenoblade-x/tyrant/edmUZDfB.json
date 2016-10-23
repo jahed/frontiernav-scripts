@@ -1,9 +1,11 @@
 {
-  "id": "edmUZDfB",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "edmUZDfB",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Armored Cruiser Seidr",

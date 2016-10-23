@@ -1,9 +1,11 @@
 {
-  "id": "ehmJQepr",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ehmJQepr",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Angelita, the Blade Bouquet",

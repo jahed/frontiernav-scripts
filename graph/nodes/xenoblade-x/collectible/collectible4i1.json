@@ -1,8 +1,10 @@
 {
-  "id": "collectible4i1",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible4i1",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "White Sand Beetle",

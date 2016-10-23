@@ -1,8 +1,10 @@
 {
-  "id": "loc412",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc412",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "cave": true,

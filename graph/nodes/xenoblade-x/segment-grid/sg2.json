@@ -1,8 +1,10 @@
 {
-  "id": "sg2",
-  "labels": {
-    "segmentGrids": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "sg2",
+    "labels": [
+      "segmentGrids",
+      "xenobladeX"
+    ]
   },
   "data": {
     "segmentDimensions": {

@@ -1,9 +1,11 @@
 {
-  "id": "erbDHQPX",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "erbDHQPX",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sadar, the Unhinged",

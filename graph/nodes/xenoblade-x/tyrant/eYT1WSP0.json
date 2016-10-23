@@ -1,9 +1,11 @@
 {
-  "id": "eYT1WSP0",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eYT1WSP0",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gesserith, the Wileworm",

@@ -1,9 +1,11 @@
 {
-  "id": "eY5sZTDp",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eY5sZTDp",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Nahum, the Red Hare",

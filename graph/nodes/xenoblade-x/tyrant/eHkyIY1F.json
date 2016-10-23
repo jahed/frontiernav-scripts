@@ -1,9 +1,11 @@
 {
-  "id": "eHkyIY1F",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eHkyIY1F",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Elena, the Infernal",

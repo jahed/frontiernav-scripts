@@ -1,8 +1,10 @@
 {
-  "id": "mission49-2-7",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission49-2-7",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Special Delivery"

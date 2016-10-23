@@ -1,8 +1,10 @@
 {
-  "id": "collectibleset4i9",
-  "labels": {
-    "collectibleAreas": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectibleset4i9",
+    "labels": [
+      "collectibleAreas",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sylvalum Cave Areas",

@@ -1,9 +1,11 @@
 {
-  "id": "eeIypT3A",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eeIypT3A",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Armed Destroyer Galdr",

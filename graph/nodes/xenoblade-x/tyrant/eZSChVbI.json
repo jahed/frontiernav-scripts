@@ -1,9 +1,11 @@
 {
-  "id": "eZSChVbI",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eZSChVbI",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Pyotr, the Shepherd",

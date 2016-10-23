@@ -1,5 +1,7 @@
 {
-  "id": "treasure",
+  "metadata": {
+    "id": "treasure"
+  },
   "path": "treasures",
   "name": "Treasure",
   "searchable": true,

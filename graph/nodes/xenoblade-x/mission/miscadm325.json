@@ -1,8 +1,10 @@
 {
-  "id": "miscadm325",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscadm325",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "White Lifehold"

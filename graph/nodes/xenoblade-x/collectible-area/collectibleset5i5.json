@@ -1,8 +1,10 @@
 {
-  "id": "collectibleset5i5",
-  "labels": {
-    "collectibleAreas": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectibleset5i5",
+    "labels": [
+      "collectibleAreas",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Cauldros Magma Area",

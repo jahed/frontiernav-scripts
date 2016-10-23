@@ -1,5 +1,7 @@
 {
-  "id": "site",
+  "metadata": {
+    "id": "site"
+  },
   "path": "sites",
   "name": "Site",
   "searchable": true,

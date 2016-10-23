@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n28",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Alexa",
     "image": "alexa-banner",
     "thumbnail": "alexa-face.png"
-  },
-  "id": "n28"
+  }
 }

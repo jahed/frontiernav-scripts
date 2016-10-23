@@ -1,9 +1,11 @@
 {
-  "id": "eZVAABnX",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eZVAABnX",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Agnes, the Divine-Scaled",

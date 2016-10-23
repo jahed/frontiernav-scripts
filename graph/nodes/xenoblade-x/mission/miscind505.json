@@ -1,8 +1,10 @@
 {
-  "id": "miscind505",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscind505",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Rise of the Blood Lobster"

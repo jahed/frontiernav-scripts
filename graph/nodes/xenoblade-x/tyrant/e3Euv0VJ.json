@@ -1,9 +1,11 @@
 {
-  "id": "e3Euv0VJ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e3Euv0VJ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Caranau, the Water Drake",

@@ -1,8 +1,10 @@
 {
-  "id": "lv5",
-  "labels": {
-    "layerViews": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "lv5",
+    "labels": [
+      "layerViews",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Recruits",

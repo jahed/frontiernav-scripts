@@ -1,8 +1,10 @@
 {
-  "id": "loc295",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc295",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "O'rrh Sim Castle Ruins",

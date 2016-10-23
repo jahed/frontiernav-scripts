@@ -1,9 +1,11 @@
 {
-  "id": "eHvkVL5I",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eHvkVL5I",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sven, the Sturdy",

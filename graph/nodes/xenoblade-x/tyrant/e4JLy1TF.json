@@ -1,9 +1,11 @@
 {
-  "id": "e4JLy1TF",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e4JLy1TF",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Megatonne, the Hell Express",

@@ -1,8 +1,10 @@
 {
-  "id": "loc388",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc388",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "T'phnom Shelf",

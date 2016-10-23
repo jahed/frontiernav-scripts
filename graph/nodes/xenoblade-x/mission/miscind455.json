@@ -1,8 +1,10 @@
 {
-  "id": "miscind455",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscind455",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Professorial (aka The Disappearance of Doctor B)"

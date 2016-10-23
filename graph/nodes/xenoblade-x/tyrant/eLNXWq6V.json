@@ -1,9 +1,11 @@
 {
-  "id": "eLNXWq6V",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eLNXWq6V",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Candelario, the Bronze",

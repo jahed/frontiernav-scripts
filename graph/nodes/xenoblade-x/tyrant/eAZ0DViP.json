@@ -1,9 +1,11 @@
 {
-  "id": "eAZ0DViP",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eAZ0DViP",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Necro, the Cavelord",

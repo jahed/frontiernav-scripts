@@ -1,9 +1,11 @@
 {
-  "id": "e9PZwMfd",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9PZwMfd",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Andrei, the Cunning",

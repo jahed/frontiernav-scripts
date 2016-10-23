@@ -1,9 +1,11 @@
 {
-  "id": "e1gt4vKn",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e1gt4vKn",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sviatoslav, the Reproachful",

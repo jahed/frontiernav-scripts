@@ -1,9 +1,11 @@
 {
-  "id": "e6941nAx",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e6941nAx",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ya-rhat, the Thundercloud",

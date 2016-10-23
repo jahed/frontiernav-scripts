@@ -1,9 +1,11 @@
 {
-  "id": "ehwEGFBp",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ehwEGFBp",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "No-dhor, the Shadowcaster",

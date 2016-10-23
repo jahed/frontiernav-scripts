@@ -1,8 +1,10 @@
 {
-  "id": "mission463-9",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission463-9",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Serial Thriller"

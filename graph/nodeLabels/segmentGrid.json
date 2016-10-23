@@ -1,5 +1,7 @@
 {
-  "id": "segmentGrid",
+  "metadata": {
+    "id": "segmentGrid"
+  },
   "path": "segmentGrids",
   "name": "Segment Grid",
   "pageDescription": "Segment Grids cover regions with segments to explore.",

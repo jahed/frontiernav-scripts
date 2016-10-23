@@ -1,5 +1,7 @@
 {
-  "id": "tyrant",
+  "metadata": {
+    "id": "tyrant"
+  },
   "path": "tyrants",
   "name": "Tyrant",
   "searchable": true,

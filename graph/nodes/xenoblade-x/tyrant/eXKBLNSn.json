@@ -1,9 +1,11 @@
 {
-  "id": "eXKBLNSn",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eXKBLNSn",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Zohan, the thunderbolt",

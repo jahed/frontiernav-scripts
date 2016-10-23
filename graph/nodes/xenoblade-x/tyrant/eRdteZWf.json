@@ -1,9 +1,11 @@
 {
-  "id": "eRdteZWf",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eRdteZWf",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Laurencio, the Fog Bow",

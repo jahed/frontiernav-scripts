@@ -1,8 +1,10 @@
 {
-  "id": "region5",
-  "labels": {
-    "regions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "region5",
+    "labels": [
+      "regions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Cauldros",

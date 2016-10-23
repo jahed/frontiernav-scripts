@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n48",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Elma",
@@ -10,6 +13,5 @@
     "species": "Human",
     "image": "elma-banner",
     "thumbnail": "elma-face.png"
-  },
-  "id": "n48"
+  }
 }

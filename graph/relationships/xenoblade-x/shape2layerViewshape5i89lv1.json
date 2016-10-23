@@ -1,6 +1,8 @@
 {
-  "id": "shape2layerViewshape5i89lv1",
-  "type": "HAS",
+  "metadata": {
+    "id": "shape2layerViewshape5i89lv1",
+    "type": "HAS"
+  },
   "data": {},
   "start": "shape5i89",
   "end": "lv1"

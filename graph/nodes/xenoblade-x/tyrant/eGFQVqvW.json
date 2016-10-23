@@ -1,9 +1,11 @@
 {
-  "id": "eGFQVqvW",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eGFQVqvW",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lockhart, the Killer of Hope",

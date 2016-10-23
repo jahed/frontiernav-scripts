@@ -1,9 +1,11 @@
 {
-  "id": "ehHJjUg2",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ehHJjUg2",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gotthard, the Intimidating",

@@ -1,8 +1,10 @@
 {
-  "id": "map1",
-  "labels": {
-    "maps": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "map1",
+    "labels": [
+      "maps",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "NLA",

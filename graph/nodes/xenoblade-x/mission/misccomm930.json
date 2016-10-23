@@ -1,8 +1,10 @@
 {
-  "id": "misccomm930",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "misccomm930",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Emotion Commotion"

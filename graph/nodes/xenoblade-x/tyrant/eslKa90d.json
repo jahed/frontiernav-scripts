@@ -1,9 +1,11 @@
 {
-  "id": "eslKa90d",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eslKa90d",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Feld, the Indigo-Clad",

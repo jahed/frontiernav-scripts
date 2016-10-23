@@ -1,9 +1,11 @@
 {
-  "id": "ediZPIEJ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ediZPIEJ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Infantry Support Qmoeva",

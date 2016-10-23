@@ -1,6 +1,8 @@
 {
-  "id": "e2pee9D3FEE0pe9D3FEE0",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "e2pee9D3FEE0pe9D3FEE0",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "e9D3FEE0",
   "end": "pe9D3FEE0"

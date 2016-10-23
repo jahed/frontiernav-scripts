@@ -1,8 +1,10 @@
 {
-  "id": "mission21014-24",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission21014-24",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Data Miner"

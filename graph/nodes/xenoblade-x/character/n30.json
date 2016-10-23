@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n30",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Avatar",
     "image": "avatar-banner",
     "thumbnail": "avatar-face.png"
-  },
-  "id": "n30"
+  }
 }

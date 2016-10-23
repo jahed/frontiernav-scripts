@@ -1,8 +1,10 @@
 {
-  "id": "collectibleset4i3",
-  "labels": {
-    "collectibleAreas": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectibleset4i3",
+    "labels": [
+      "collectibleAreas",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sylvalum Western Sands Area",

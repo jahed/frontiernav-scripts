@@ -1,9 +1,11 @@
 {
-  "id": "eK1rJoRq",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eK1rJoRq",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ahama, the Covetous",

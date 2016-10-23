@@ -1,9 +1,11 @@
 {
-  "id": "et0GKuHZ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "et0GKuHZ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Libra, the Long-Lived",

@@ -1,8 +1,10 @@
 {
-  "id": "pe5wQzLeG",
-  "labels": {
-    "points": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "pe5wQzLeG",
+    "labels": [
+      "points",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLng": {

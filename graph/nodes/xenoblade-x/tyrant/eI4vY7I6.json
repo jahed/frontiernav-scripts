@@ -1,9 +1,11 @@
 {
-  "id": "eI4vY7I6",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eI4vY7I6",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Rodriguez, the Twin-Tusked",

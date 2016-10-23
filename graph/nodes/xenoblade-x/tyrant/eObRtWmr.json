@@ -1,9 +1,11 @@
 {
-  "id": "eObRtWmr",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eObRtWmr",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Daemon, the Undertaker",

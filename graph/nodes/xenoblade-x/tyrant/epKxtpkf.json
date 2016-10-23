@@ -1,9 +1,11 @@
 {
-  "id": "epKxtpkf",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "epKxtpkf",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Chantai's Galdr",

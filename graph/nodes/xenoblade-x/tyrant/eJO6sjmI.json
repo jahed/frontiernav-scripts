@@ -1,9 +1,11 @@
 {
-  "id": "eJO6sjmI",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eJO6sjmI",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Shatskikh, the Flash",

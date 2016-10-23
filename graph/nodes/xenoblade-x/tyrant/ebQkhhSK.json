@@ -1,9 +1,11 @@
 {
-  "id": "ebQkhhSK",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ebQkhhSK",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sirene, the Lost",

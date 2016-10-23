@@ -1,6 +1,8 @@
 {
-  "id": "rcshapecollectibleset3i1shape3i41",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "rcshapecollectibleset3i1shape3i41",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "collectibleset3i1",
   "end": "shape3i41"

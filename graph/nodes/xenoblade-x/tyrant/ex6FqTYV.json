@@ -1,9 +1,11 @@
 {
-  "id": "ex6FqTYV",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ex6FqTYV",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Archibolt, the Revolutionary",

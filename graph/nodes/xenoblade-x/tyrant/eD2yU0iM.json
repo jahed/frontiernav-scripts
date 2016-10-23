@@ -1,9 +1,11 @@
 {
-  "id": "eD2yU0iM",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eD2yU0iM",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Armed Engineer Galdr",

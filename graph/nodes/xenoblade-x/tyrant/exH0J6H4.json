@@ -1,9 +1,11 @@
 {
-  "id": "exH0J6H4",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "exH0J6H4",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Buchwald, the Guardian",

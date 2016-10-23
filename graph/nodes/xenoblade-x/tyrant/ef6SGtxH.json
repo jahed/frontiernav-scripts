@@ -1,9 +1,11 @@
 {
-  "id": "ef6SGtxH",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ef6SGtxH",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Blaudolch, the Chalcedony",

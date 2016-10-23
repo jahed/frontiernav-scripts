@@ -1,9 +1,11 @@
 {
-  "id": "eaebLbms",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eaebLbms",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Germaine, the Treasure Keeper",

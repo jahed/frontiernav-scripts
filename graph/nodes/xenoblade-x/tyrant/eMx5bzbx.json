@@ -1,9 +1,11 @@
 {
-  "id": "eMx5bzbx",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eMx5bzbx",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Rolf, the Sonorous",

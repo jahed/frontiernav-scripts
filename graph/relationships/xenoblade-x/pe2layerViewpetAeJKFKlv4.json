@@ -1,6 +1,8 @@
 {
-  "id": "pe2layerViewpetAeJKFKlv4",
-  "type": "HAS",
+  "metadata": {
+    "id": "pe2layerViewpetAeJKFKlv4",
+    "type": "HAS"
+  },
   "data": {},
   "start": "petAeJKFK",
   "end": "lv4"

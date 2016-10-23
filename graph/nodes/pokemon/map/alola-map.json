@@ -1,9 +1,11 @@
 {
-  "id": "alola-map",
-  "labels": {
-    "maps": true,
-    "pokemonSeries": true,
-    "pokemonSunMoon": true
+  "metadata": {
+    "id": "alola-map",
+    "labels": [
+      "maps",
+      "pokemonSeries",
+      "pokemonSunMoon"
+    ]
   },
   "data": {
     "name": "Alola",

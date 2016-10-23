@@ -1,9 +1,11 @@
 {
-  "id": "eAu7hnD5",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eAu7hnD5",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Behemoth, the Netherdweller",

@@ -1,6 +1,8 @@
 {
-  "id": "siteGraph2sgsiteGraph0sg5",
-  "type": "HAS",
+  "metadata": {
+    "id": "siteGraph2sgsiteGraph0sg5",
+    "type": "HAS"
+  },
   "data": {},
   "start": "siteGraph0",
   "end": "sg5"

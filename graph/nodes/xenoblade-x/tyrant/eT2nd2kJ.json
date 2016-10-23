@@ -1,9 +1,11 @@
 {
-  "id": "eT2nd2kJ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eT2nd2kJ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Camus, the Treasured",

@@ -1,7 +1,10 @@
 {
-  "labels": {
-    "segmentGrids": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n203",
+    "labels": [
+      "segmentGrids",
+      "xenobladeX"
+    ]
   },
   "data": {
     "segmentDimensions": {
@@ -19,6 +22,5 @@
       "x": 11,
       "y": 6
     }
-  },
-  "id": "n203"
+  }
 }

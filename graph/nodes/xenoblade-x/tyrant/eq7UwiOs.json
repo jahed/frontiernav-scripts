@@ -1,9 +1,11 @@
 {
-  "id": "eq7UwiOs",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eq7UwiOs",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Valeriano, the Rolling Thunder",

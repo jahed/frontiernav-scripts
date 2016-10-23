@@ -1,9 +1,11 @@
 {
-  "id": "e9h0xkHW",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9h0xkHW",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Baabara, the Evangelical",

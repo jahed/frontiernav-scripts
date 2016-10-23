@@ -1,8 +1,10 @@
 {
-  "id": "loc23",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc23",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Bedrock Hold Approach",

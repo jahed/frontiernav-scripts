@@ -1,6 +1,8 @@
 {
-  "id": "pe2layerViewpe1pCimqplv4",
-  "type": "HAS",
+  "metadata": {
+    "id": "pe2layerViewpe1pCimqplv4",
+    "type": "HAS"
+  },
   "data": {},
   "start": "pe1pCimqp",
   "end": "lv4"

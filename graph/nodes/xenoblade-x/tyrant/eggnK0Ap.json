@@ -1,9 +1,11 @@
 {
-  "id": "eggnK0Ap",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eggnK0Ap",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sapara, the Laconic",

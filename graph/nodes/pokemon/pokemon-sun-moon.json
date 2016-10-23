@@ -1,9 +1,11 @@
 {
-  "id": "pokemon-sun-moon",
-  "labels": {
-    "games": true,
-    "pokemonSeries": true,
-    "pokemonSunMoon": true
+  "metadata": {
+    "id": "pokemon-sun-moon",
+    "labels": [
+      "games",
+      "pokemonSeries",
+      "pokemonSunMoon"
+    ]
   },
   "data": {
     "name": "Pokémon Sun & Moon",

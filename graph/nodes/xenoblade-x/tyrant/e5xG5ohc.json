@@ -1,9 +1,11 @@
 {
-  "id": "e5xG5ohc",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e5xG5ohc",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Clemente, the Iron Meteor",

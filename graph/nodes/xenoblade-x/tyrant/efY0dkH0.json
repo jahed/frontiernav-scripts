@@ -1,9 +1,11 @@
 {
-  "id": "efY0dkH0",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "efY0dkH0",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sadar's Qmoeva",

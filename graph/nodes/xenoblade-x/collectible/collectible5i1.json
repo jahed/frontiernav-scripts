@@ -1,8 +1,10 @@
 {
-  "id": "collectible5i1",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible5i1",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Rod of Brutality +10",

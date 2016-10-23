@@ -1,9 +1,11 @@
 {
-  "id": "eTiobayu",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eTiobayu",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ji-ett, the Thunderclap",

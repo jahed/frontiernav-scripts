@@ -1,5 +1,7 @@
 {
-  "id": "siteGraph",
+  "metadata": {
+    "id": "siteGraph"
+  },
   "path": "siteGraphs",
   "name": "Site Graph",
   "pageDescription": "Site Graphs cover regions with sites to place probes and optimise income.",

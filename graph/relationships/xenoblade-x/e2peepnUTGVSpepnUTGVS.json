@@ -1,6 +1,8 @@
 {
-  "id": "e2peepnUTGVSpepnUTGVS",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "e2peepnUTGVSpepnUTGVS",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "epnUTGVS",
   "end": "pepnUTGVS"

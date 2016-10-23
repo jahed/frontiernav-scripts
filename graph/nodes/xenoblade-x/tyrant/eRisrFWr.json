@@ -1,9 +1,11 @@
 {
-  "id": "eRisrFWr",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eRisrFWr",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Kringe, the Hunting Arrow",

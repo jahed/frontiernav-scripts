@@ -1,8 +1,10 @@
 {
-  "id": "mission116-2-14",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission116-2-14",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Stop, Thief!"

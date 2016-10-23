@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r943",
+    "type": "GOAL"
+  },
   "start": "afmisscres775",
-  "type": "GOAL",
   "end": "n108",
-  "data": {},
-  "id": "r943"
+  "data": {}
 }

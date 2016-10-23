@@ -1,9 +1,11 @@
 {
-  "id": "ef6HbkjL",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ef6HbkjL",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Experimental Flight Shrad",

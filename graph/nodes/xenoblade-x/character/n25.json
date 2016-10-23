@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n25",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Celica",
     "image": "celica-banner",
     "thumbnail": "celica-face.png"
-  },
-  "id": "n25"
+  }
 }

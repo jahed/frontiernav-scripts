@@ -1,6 +1,8 @@
 {
-  "id": "e2leJTr3qOa238",
-  "type": "HAS",
+  "metadata": {
+    "id": "e2leJTr3qOa238",
+    "type": "HAS"
+  },
   "data": {},
   "start": "eJTr3qOa",
   "end": "loc238"

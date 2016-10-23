@@ -1,6 +1,8 @@
 {
-  "id": "loc2segfasttravloc32s1i44-8",
-  "type": "FAST_TRAVEL",
+  "metadata": {
+    "id": "loc2segfasttravloc32s1i44-8",
+    "type": "FAST_TRAVEL"
+  },
   "data": {},
   "start": "loc32",
   "end": "s1i44-8"

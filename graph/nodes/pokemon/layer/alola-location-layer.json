@@ -1,8 +1,10 @@
 {
-  "labels": {
-    "layerViews": true
+  "metadata": {
+    "id": "alola-location-layer",
+    "labels": [
+      "layerViews"
+    ]
   },
-  "id": "alola-location-layer",
   "data": {
     "name": "Locations",
     "thumbnail": ""

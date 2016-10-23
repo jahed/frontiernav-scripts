@@ -1,8 +1,10 @@
 {
-  "id": "miscadm375",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscadm375",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "BLADE Level Basics"

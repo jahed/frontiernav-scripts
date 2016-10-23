@@ -1,8 +1,10 @@
 {
-  "id": "loc262",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc262",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "M'gando Mineral Spring",

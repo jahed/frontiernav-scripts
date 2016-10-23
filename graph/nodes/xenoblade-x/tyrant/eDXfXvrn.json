@@ -1,9 +1,11 @@
 {
-  "id": "eDXfXvrn",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eDXfXvrn",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Du-rha, the Imprisoned",

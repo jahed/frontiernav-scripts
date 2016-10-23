@@ -1,8 +1,10 @@
 {
-  "id": "map2layer0lv3",
+  "metadata": {
+    "id": "map2layer0lv3",
+    "type": "HAS"
+  },
   "start": "map0",
   "end": "lv3",
-  "type": "HAS",
   "data": {
     "order": 3
   }

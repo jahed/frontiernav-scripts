@@ -1,8 +1,10 @@
 {
-  "id": "collectible1i42",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible1i42",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Heatproof Inox Pipe",

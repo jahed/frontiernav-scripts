@@ -1,9 +1,11 @@
 {
-  "id": "e7V9v4Pa",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e7V9v4Pa",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Intermediate Arsenal Qmoeva",

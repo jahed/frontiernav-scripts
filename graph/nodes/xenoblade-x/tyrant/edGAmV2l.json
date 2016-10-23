@@ -1,9 +1,11 @@
 {
-  "id": "edGAmV2l",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "edGAmV2l",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Eisen, the Ebon Rock",

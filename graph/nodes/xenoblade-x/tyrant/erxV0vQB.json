@@ -1,9 +1,11 @@
 {
-  "id": "erxV0vQB",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "erxV0vQB",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Anselm, the Triumphant",

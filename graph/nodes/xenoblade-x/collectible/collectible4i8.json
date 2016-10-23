@@ -1,8 +1,10 @@
 {
-  "id": "collectible4i8",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible4i8",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Exploding Pansy",

@@ -1,9 +1,11 @@
 {
-  "id": "eMRfJj9j",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eMRfJj9j",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Bogdan, the Dense",

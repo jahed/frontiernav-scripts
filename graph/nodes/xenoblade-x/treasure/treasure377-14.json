@@ -1,8 +1,10 @@
 {
-  "id": "treasure377-14",
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "treasure377-14",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Trailer Wreckage",

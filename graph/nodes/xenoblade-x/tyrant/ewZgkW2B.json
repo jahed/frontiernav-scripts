@@ -1,9 +1,11 @@
 {
-  "id": "ewZgkW2B",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ewZgkW2B",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Melanya, the Sound Sleeper",

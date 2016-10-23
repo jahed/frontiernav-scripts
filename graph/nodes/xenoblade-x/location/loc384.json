@@ -1,8 +1,10 @@
 {
-  "id": "loc384",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc384",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sylvalum Base Camp 6",

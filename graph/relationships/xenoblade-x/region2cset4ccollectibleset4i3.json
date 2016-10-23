@@ -1,6 +1,8 @@
 {
-  "id": "region2cset4ccollectibleset4i3",
+  "metadata": {
+    "id": "region2cset4ccollectibleset4i3",
+    "type": "CONTAINS"
+  },
   "start": "region4",
-  "end": "collectibleset4i3",
-  "type": "CONTAINS"
+  "end": "collectibleset4i3"
 }

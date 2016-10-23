@@ -1,8 +1,10 @@
 {
-  "id": "lv3",
-  "labels": {
-    "layerViews": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "lv3",
+    "labels": [
+      "layerViews",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Probes",

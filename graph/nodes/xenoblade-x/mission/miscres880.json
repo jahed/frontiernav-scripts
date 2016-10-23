@@ -1,8 +1,10 @@
 {
-  "id": "miscres880",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscres880",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Planetary Pioneer (Part V)"

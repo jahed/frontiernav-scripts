@@ -1,5 +1,7 @@
 {
-  "id": "affinityMission",
+  "metadata": {
+    "id": "affinityMission"
+  },
   "path": "affinityMission",
   "name": "Affinity Mission",
   "searchable": true,

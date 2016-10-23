@@ -1,5 +1,7 @@
 {
-  "id": "point",
+  "metadata": {
+    "id": "point"
+  },
   "path": "points",
   "name": "Map Marker",
   "pageDescription": "Use various map markers to see points of interest in Xenoblade Chronicles X.",

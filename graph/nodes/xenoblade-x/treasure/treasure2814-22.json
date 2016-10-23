@@ -1,8 +1,10 @@
 {
-  "id": "treasure2814-22",
-  "labels": {
-    "treasures": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "treasure2814-22",
+    "labels": [
+      "treasures",
+      "xenobladeX"
+    ]
   },
   "data": {
     "object": "Strange Tree",

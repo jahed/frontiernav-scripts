@@ -1,8 +1,10 @@
 {
-  "id": "textmarkermap1circ",
-  "labels": {
-    "points": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "textmarkermap1circ",
+    "labels": [
+      "points",
+      "xenobladeX"
+    ]
   },
   "data": {
     "latLng": {

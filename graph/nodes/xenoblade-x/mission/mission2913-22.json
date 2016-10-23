@@ -1,8 +1,10 @@
 {
-  "id": "mission2913-22",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission2913-22",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Missing in Action"

@@ -1,6 +1,8 @@
 {
-  "id": "rlp103p103",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "rlp103p103",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "loc103",
   "end": "p103"

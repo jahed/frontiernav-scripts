@@ -1,6 +1,8 @@
 {
-  "id": "e2leQRZnMAM240",
-  "type": "HAS",
+  "metadata": {
+    "id": "e2leQRZnMAM240",
+    "type": "HAS"
+  },
   "data": {},
   "start": "eQRZnMAM",
   "end": "loc240"

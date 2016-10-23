@@ -1,8 +1,10 @@
 {
-  "id": "loc32",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc32",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Biahno Water-Purification Plant",

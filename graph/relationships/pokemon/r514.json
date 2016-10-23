@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r514",
+    "type": "HAS"
+  },
   "start": "alola-map",
   "end": "alola-location-layer",
-  "type": "HAS",
-  "id": "r514",
   "data": {}
 }

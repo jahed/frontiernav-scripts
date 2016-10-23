@@ -1,8 +1,10 @@
 {
-  "id": "collectible5i15",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible5i15",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Iron Akebi Fruit",

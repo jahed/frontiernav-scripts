@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "locationType": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n17",
+    "labels": [
+      "locationType",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Area"
-  },
-  "id": "n17"
+  }
 }

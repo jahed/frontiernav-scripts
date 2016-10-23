@@ -1,9 +1,11 @@
 {
-  "id": "eRSO6Ze1",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eRSO6Ze1",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Nu-rhor, the Dark Deity",

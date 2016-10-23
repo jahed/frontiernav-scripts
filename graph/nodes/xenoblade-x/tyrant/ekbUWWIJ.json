@@ -1,9 +1,11 @@
 {
-  "id": "ekbUWWIJ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ekbUWWIJ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Trueno, the Cataclysm",

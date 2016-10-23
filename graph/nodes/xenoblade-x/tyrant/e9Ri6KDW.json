@@ -1,9 +1,11 @@
 {
-  "id": "e9Ri6KDW",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9Ri6KDW",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lask, the Unscrupulous",

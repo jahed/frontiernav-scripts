@@ -1,8 +1,10 @@
 {
-  "id": "miscind115",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscind115",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Entrepreneurial Spirit"

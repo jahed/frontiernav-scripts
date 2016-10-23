@@ -1,6 +1,8 @@
 {
-  "id": "sg2layerViewsg2lv2",
-  "type": "HAS",
+  "metadata": {
+    "id": "sg2layerViewsg2lv2",
+    "type": "HAS"
+  },
   "data": {},
   "start": "sg2",
   "end": "lv2"

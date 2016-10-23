@@ -1,8 +1,10 @@
 {
-  "id": "mission241-5",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission241-5",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "A Fateful Choice"

@@ -1,9 +1,11 @@
 {
-  "id": "ew1SHvVt",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ew1SHvVt",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ruth, the Shunner of Light",

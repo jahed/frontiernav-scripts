@@ -1,6 +1,8 @@
 {
-  "id": "pe2layerViewperAr5dOdlv4",
-  "type": "HAS",
+  "metadata": {
+    "id": "pe2layerViewperAr5dOdlv4",
+    "type": "HAS"
+  },
   "data": {},
   "start": "perAr5dOd",
   "end": "lv4"

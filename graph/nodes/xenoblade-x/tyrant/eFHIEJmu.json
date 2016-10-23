@@ -1,9 +1,11 @@
 {
-  "id": "eFHIEJmu",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eFHIEJmu",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Vittorio, the Battle-Scarred",

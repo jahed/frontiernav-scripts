@@ -1,5 +1,7 @@
 # FrontierNav Data
 
+[![Travis Build Status](https://img.shields.io/travis/frontiernav/frontiernav-data/master.svg)](https://travis-ci.org/frontiernav/frontiernav-data/branches/master)
+
 The data here is made to work with FrontierNav, however you're free to re-use the data for your own projects. Consider contributing to help fill in the gaps.
 
 There may be data specific to FrontierNav but the plan is to move that data into a different repo so that this repo is strictly representing the video game multi-verse.

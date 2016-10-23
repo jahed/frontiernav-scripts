@@ -1,5 +1,7 @@
 {
-  "id": "region",
+  "metadata": {
+    "id": "region"
+  },
   "path": "regions",
   "name": "Region",
   "searchable": true,

@@ -1,8 +1,10 @@
 {
-  "id": "collectible1i7",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible1i7",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "L-002 Space Analyzer",

@@ -1,9 +1,11 @@
 {
-  "id": "enkPTyQM",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "enkPTyQM",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ro-darm, the Demon Claw",

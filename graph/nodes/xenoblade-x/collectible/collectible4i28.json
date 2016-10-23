@@ -1,8 +1,10 @@
 {
-  "id": "collectible4i28",
-  "labels": {
-    "collectibles": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "collectible4i28",
+    "labels": [
+      "collectibles",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Intelligent Liquid Metal",

@@ -1,9 +1,11 @@
 {
-  "id": "eEz2rUst",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eEz2rUst",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Langul, the Alien Payload",

@@ -1,8 +1,10 @@
 {
-  "id": "mission424-6",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission424-6",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Lesson from the Grave"

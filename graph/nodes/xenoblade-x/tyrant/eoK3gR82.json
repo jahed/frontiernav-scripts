@@ -1,9 +1,11 @@
 {
-  "id": "eoK3gR82",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eoK3gR82",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Piernus, the Scorcher",

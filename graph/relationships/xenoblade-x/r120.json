@@ -1,7 +1,9 @@
 {
+  "metadata": {
+    "id": "r120",
+    "type": "GOAL"
+  },
   "start": "miscind165",
-  "type": "GOAL",
   "end": "n173",
-  "data": {},
-  "id": "r120"
+  "data": {}
 }

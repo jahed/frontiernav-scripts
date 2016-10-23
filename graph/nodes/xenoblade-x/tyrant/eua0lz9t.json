@@ -1,9 +1,11 @@
 {
-  "id": "eua0lz9t",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eua0lz9t",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Celestin, the Spring Storm",

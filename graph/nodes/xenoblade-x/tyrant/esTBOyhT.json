@@ -1,9 +1,11 @@
 {
-  "id": "esTBOyhT",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "esTBOyhT",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Vorpall, the Sickle-Fanged",

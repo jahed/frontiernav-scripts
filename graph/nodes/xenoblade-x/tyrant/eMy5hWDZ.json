@@ -1,9 +1,11 @@
 {
-  "id": "eMy5hWDZ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eMy5hWDZ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Zdenka, the Raucous",

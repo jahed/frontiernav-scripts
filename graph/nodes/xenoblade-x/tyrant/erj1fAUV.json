@@ -1,9 +1,11 @@
 {
-  "id": "erj1fAUV",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "erj1fAUV",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Coil, the Never-Ending",

@@ -1,9 +1,11 @@
 {
-  "id": "e8v1VKQJ",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e8v1VKQJ",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Tormenta, the Scarlet-Clad",

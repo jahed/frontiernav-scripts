@@ -1,8 +1,10 @@
 {
-  "id": "mission428-10",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission428-10",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Bottoms Up"

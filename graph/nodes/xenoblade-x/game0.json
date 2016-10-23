@@ -1,8 +1,10 @@
 {
-  "id": "game0",
-  "labels": {
-    "games": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "game0",
+    "labels": [
+      "games",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Xenoblade Chronicles X",

@@ -1,6 +1,8 @@
 {
-  "id": "region2loc2lloc55",
+  "metadata": {
+    "id": "region2loc2lloc55",
+    "type": "HAS"
+  },
   "start": "region2",
-  "end": "loc55",
-  "type": "HAS"
+  "end": "loc55"
 }

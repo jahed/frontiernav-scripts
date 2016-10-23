@@ -1,12 +1,14 @@
 {
-  "labels": {
-    "characters": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n34",
+    "labels": [
+      "characters",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "L'cirufe \"L\"",
     "image": "l-banner",
     "thumbnail": "l-face.png"
-  },
-  "id": "n34"
+  }
 }

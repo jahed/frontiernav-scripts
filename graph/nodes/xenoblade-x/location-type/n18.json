@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "locationType": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n18",
+    "labels": [
+      "locationType",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Miranium Deposit"
-  },
-  "id": "n18"
+  }
 }

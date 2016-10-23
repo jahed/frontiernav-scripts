@@ -1,8 +1,10 @@
 {
-  "id": "loc276",
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "loc276",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Noctilum Base Camp 2",

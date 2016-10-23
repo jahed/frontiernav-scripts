@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n324",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Two Peas in a Pod"
-  },
-  "id": "n324"
+  }
 }

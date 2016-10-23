@@ -1,10 +1,12 @@
 {
-  "labels": {
-    "locationType": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n14",
+    "labels": [
+      "locationType",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Scenic Viewpoint"
-  },
-  "id": "n14"
+  }
 }

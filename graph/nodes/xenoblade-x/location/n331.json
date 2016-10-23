@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "locations": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n331",
+    "labels": [
+      "locations",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mimeosome Maintenance Center",
     "locationTypeId": "Landmark"
-  },
-  "id": "n331"
+  }
 }

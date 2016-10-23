@@ -1,9 +1,11 @@
 {
-  "id": "e3tL8WzO",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e3tL8WzO",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sheldon, the Dentally Challenged",

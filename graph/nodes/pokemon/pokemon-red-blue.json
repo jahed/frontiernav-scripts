@@ -1,9 +1,11 @@
 {
-  "id": "pokemon-red-blue",
-  "labels": {
-    "games": true,
-    "pokemonSeries": true,
-    "pokemonRBY": true
+  "metadata": {
+    "id": "pokemon-red-blue",
+    "labels": [
+      "games",
+      "pokemonSeries",
+      "pokemonRBY"
+    ]
   },
   "data": {
     "name": "Pokémon Red, Blue & Yellow",

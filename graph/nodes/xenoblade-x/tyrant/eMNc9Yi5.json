@@ -1,9 +1,11 @@
 {
-  "id": "eMNc9Yi5",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eMNc9Yi5",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ludvik, the Picky Eater",

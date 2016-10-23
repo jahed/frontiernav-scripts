@@ -1,9 +1,11 @@
 {
-  "id": "ejrMYaUD",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ejrMYaUD",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Froste, the Courteous",

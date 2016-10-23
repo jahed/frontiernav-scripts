@@ -1,11 +1,13 @@
 {
-  "labels": {
-    "affinityMission": true,
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "n839",
+    "labels": [
+      "affinityMission",
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gwin's 1st Heart-to-Heart"
-  },
-  "id": "n839"
+  }
 }

@@ -1,9 +1,11 @@
 {
-  "id": "exPt3YBG",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "exPt3YBG",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Pizelle, the Purple Lightning",

@@ -3,3 +3,5 @@ Thumbs.db
 
 .idea
 tmp
+
+node_modules

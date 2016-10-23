@@ -1,8 +1,10 @@
 {
-  "id": "s1i10-5-5",
-  "labels": {
-    "segments": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "s1i10-5-5",
+    "labels": [
+      "segments",
+      "xenobladeX"
+    ]
   },
   "data": {
     "q": 10,

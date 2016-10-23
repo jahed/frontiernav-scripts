@@ -1,9 +1,11 @@
 {
-  "id": "e1I5R1p3",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e1I5R1p3",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Brandys, the Spectral Light",

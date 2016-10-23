@@ -1,9 +1,11 @@
 {
-  "id": "ewAerc8P",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ewAerc8P",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Pelicollo, the Panzer",

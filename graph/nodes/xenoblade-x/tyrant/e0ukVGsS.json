@@ -1,9 +1,11 @@
 {
-  "id": "e0ukVGsS",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e0ukVGsS",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Enhanced Search Zig",

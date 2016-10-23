@@ -1,8 +1,10 @@
 {
-  "id": "misccomm95",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "misccomm95",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "No Ma-non Need Apply"

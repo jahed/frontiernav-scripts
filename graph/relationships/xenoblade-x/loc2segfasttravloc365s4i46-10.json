@@ -1,6 +1,8 @@
 {
-  "id": "loc2segfasttravloc365s4i46-10",
-  "type": "FAST_TRAVEL",
+  "metadata": {
+    "id": "loc2segfasttravloc365s4i46-10",
+    "type": "FAST_TRAVEL"
+  },
   "data": {},
   "start": "loc365",
   "end": "s4i46-10"

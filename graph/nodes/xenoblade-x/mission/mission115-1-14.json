@@ -1,8 +1,10 @@
 {
-  "id": "mission115-1-14",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission115-1-14",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Training Day"

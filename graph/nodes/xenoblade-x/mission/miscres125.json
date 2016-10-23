@@ -1,8 +1,10 @@
 {
-  "id": "miscres125",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "miscres125",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Off the Record (Mechanical)"

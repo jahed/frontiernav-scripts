@@ -1,8 +1,10 @@
 {
+  "metadata": {
+    "id": "r465",
+    "type": "HAS"
+  },
   "start": "map1",
   "end": "n323",
-  "type": "HAS",
-  "id": "r465",
   "data": {
     "order": 0
   }

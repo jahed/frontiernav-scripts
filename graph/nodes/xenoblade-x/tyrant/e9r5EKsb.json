@@ -1,9 +1,11 @@
 {
-  "id": "e9r5EKsb",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "e9r5EKsb",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gi-zho, the Iron Deity",

@@ -1,8 +1,10 @@
 {
-  "id": "region2",
-  "labels": {
-    "regions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "region2",
+    "labels": [
+      "regions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Noctilum",

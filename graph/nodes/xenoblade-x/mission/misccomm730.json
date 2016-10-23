@@ -1,8 +1,10 @@
 {
-  "id": "misccomm730",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "misccomm730",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Better Latte Than Never"

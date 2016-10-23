@@ -1,9 +1,11 @@
 {
-  "id": "ehGFxdIV",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ehGFxdIV",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Tourteau, the Delectable",

@@ -1,6 +1,8 @@
 {
-  "id": "rlp52p52",
-  "type": "MAP_LINK",
+  "metadata": {
+    "id": "rlp52p52",
+    "type": "MAP_LINK"
+  },
   "data": {},
   "start": "loc52",
   "end": "p52"

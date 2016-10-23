@@ -1,9 +1,11 @@
 {
-  "id": "eqISImlP",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eqISImlP",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Thaddaeus, the Ultramafic",

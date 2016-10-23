@@ -1,9 +1,11 @@
 {
-  "id": "etSU74VR",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "etSU74VR",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Mikulas, the Keystone",

@@ -1,9 +1,11 @@
 {
-  "id": "ezBfSySk",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ezBfSySk",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Gadaf, the Pulverizer",

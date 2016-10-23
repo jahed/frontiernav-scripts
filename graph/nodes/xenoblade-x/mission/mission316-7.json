@@ -1,8 +1,10 @@
 {
-  "id": "mission316-7",
-  "labels": {
-    "missions": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "mission316-7",
+    "labels": [
+      "missions",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sun'celeg Rises"

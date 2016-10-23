@@ -1,9 +1,11 @@
 {
-  "id": "eNnePZmc",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eNnePZmc",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Sarcosuchus, the Iron-Eater",

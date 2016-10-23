@@ -1,9 +1,11 @@
 {
-  "id": "eMQTrTLW",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "eMQTrTLW",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Elvira, the Talondrake",

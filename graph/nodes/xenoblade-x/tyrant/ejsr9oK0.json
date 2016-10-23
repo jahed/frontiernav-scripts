@@ -1,9 +1,11 @@
 {
-  "id": "ejsr9oK0",
-  "labels": {
-    "enemies": true,
-    "tyrants": true,
-    "xenobladeX": true
+  "metadata": {
+    "id": "ejsr9oK0",
+    "labels": [
+      "enemies",
+      "tyrants",
+      "xenobladeX"
+    ]
   },
   "data": {
     "name": "Ignit, the Ultimate Chaos",
