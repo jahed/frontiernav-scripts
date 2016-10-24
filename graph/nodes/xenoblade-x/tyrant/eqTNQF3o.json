@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eqTNQF3o",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eqTNQF3o",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Duran's Galdr",
     "level": 40,

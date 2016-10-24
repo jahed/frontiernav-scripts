@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i2",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i2",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zesian Fleawort",
     "rarity": 1

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i6",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i6",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "L-002 Fuel Tank",
     "rarity": 1

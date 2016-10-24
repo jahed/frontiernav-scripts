@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr6",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr6",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cimmerian Cinnabar",
     "rarity": 0

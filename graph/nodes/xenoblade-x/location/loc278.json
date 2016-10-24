@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc278",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc278",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilum Base Camp 4",
     "locationTypeId": "Camp"

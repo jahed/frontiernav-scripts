@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i11",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i11",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shia Cattleya",
     "rarity": 3

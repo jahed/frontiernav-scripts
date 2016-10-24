@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission576-13",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission576-13",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Black Lifehold"
   }

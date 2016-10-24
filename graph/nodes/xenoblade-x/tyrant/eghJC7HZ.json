@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eghJC7HZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eghJC7HZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sector Security Shrad",
     "level": 46,

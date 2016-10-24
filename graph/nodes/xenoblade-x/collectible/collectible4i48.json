@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i48",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i48",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Affinity Soulchain",
     "rarity": 3

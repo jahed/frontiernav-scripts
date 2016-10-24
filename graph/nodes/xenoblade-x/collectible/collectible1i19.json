@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i19",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i19",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zizi Rabbit",
     "rarity": 3

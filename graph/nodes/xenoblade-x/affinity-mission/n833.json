@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "n833",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n833",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Blitzkrieg"
   }

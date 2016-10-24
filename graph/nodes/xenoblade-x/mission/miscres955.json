@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscres955",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscres955",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Bug Whisperer"
   }

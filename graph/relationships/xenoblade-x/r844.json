@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r844",
-    "type": "GOAL"
-  },
+  "id": "r844",
+  "type": "GOAL",
   "start": "n36",
   "end": "n42",
   "data": {}

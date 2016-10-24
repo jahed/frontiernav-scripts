@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission566-12",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission566-12",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Old Gods"
   }

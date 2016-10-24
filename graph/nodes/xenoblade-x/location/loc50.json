@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc50",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc50",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cauldros Base Camp 8",
     "locationTypeId": "Camp"

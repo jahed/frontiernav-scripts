@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ehHJjUg2",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ehHJjUg2",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gotthard, the Intimidating",
     "level": 61,

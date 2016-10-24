@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKtGB1uW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKtGB1uW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Support Trainee Qmoeva",
     "level": 50,

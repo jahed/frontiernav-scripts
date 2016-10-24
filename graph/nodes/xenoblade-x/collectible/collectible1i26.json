@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i26",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i26",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vagabond Ant",
     "rarity": 3

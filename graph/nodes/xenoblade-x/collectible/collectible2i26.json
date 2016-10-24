@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i26",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i26",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sour Plum",
     "rarity": 3

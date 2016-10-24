@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n652",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n652",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "North Founders Street",
     "locationTypeId": "Landmark"

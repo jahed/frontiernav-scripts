@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eGFQVqvW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eGFQVqvW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lockhart, the Killer of Hope",
     "level": 52,

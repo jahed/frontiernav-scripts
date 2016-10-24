@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr5",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr5",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "White Cometite",
     "rarity": 0

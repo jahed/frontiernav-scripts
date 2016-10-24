@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eua0lz9t",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eua0lz9t",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Celestin, the Spring Storm",
     "level": 50,

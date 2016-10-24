@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n17",
-    "labels": [
-      "LocationType",
-      "XenobladeX"
-    ]
-  },
+  "id": "n17",
+  "labels": [
+    "LocationType",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Area"
   }

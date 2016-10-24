@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ergosalP",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ergosalP",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hiro, the Priceless",
     "level": 69,

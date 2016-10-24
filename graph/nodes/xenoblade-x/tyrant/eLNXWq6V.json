@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eLNXWq6V",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eLNXWq6V",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Candelario, the Bronze",
     "level": 47,

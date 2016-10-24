@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "em7onEiW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "em7onEiW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Badul, the One-Eyed",
     "level": 46,

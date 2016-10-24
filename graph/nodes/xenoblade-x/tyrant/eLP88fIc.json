@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eLP88fIc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eLP88fIc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "High-Output Pugilith",
     "level": 47,

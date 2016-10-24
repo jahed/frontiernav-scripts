@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eZVAABnX",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eZVAABnX",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Agnes, the Divine-Scaled",
     "level": 67,

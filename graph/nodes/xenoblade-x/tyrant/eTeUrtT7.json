@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eTeUrtT7",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eTeUrtT7",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eddy, the Electric Heat",
     "level": 43,

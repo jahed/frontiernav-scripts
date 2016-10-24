@@ -1,10 +1,8 @@
 {
-  "metadata": {
-    "id": "alola-location-layer",
-    "labels": [
-      "MapLayer"
-    ]
-  },
+  "id": "alola-location-layer",
+  "labels": [
+    "MapLayer"
+  ],
   "data": {
     "name": "Locations",
     "thumbnail": ""

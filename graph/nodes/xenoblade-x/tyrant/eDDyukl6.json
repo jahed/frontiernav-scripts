@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eDDyukl6",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eDDyukl6",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Demetrio, the Tempestuous",
     "level": 28,

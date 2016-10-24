@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eqlRd6EH",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eqlRd6EH",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pharsis, the Everqueen",
     "level": 97,

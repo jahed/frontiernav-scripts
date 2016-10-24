@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eDJsXphU",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eDJsXphU",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Daril, the Eradicator",
     "level": 29,

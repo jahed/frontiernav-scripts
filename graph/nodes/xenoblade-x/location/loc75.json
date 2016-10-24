@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc75",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc75",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dorian Caravan",
     "locationTypeId": "Landmark"

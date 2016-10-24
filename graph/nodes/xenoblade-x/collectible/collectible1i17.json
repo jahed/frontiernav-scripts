@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i17",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i17",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Kiran Catnip",
     "rarity": 2

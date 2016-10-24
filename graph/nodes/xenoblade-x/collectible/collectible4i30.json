@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i30",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i30",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cordless Transformer",
     "rarity": 2

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ecb3fovB",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ecb3fovB",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Heidi, the Lively",
     "level": 60,

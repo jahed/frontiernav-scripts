@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "enOcYhtZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "enOcYhtZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Night Combat Puge",
     "level": 34,

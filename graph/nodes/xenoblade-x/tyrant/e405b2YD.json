@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e405b2YD",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e405b2YD",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Oskar, the Summer Squall",
     "level": 11,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "petSU74VR",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "petSU74VR",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": 24.206889622398023,

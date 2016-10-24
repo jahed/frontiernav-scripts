@@ -35,7 +35,7 @@ describe(`Graph (${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relat
 
     it('filenames should match assigned IDs', () => {
         const assertIdsMatch = graphObject => {
-            assert.strictEqual(graphObject.content.metadata.id, path.basename(graphObject.absoluteFilePath, '.json'))
+            assert.strictEqual(graphObject.content.id, path.basename(graphObject.absoluteFilePath, '.json'))
         }
 
         nodeLabels.forEach(assertIdsMatch)
@@ -46,9 +46,9 @@ describe(`Graph (${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relat
 
     it('labels assigned to nodes should be defined', () => {
         nodes.forEach(node => {
-            node.content.metadata.labels.forEach(label => {
-                const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.metadata.id === label)
-                assert.ok(labelExists, `Node(${node.content.metadata.id}) has unknown Label(${label})`)
+            node.content.labels.forEach(label => {
+                const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.id === label)
+                assert.ok(labelExists, `Node(${node.content.id}) has unknown Label(${label})`)
             })
         })
     })
@@ -56,10 +56,10 @@ describe(`Graph (${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relat
     it('nodes assigned to relationships should be defined', () => {
         relationships.forEach(relationship => {
             const nodesExist = _(nodes)
-                .map(node => node.content.metadata.id)
+                .map(node => node.content.id)
                 .includes(relationship.content.start, relationship.content.end)
 
-            assert.ok(nodesExist, `Relationship(${relationship.content.metadata.id}) has unknown nodes`)
+            assert.ok(nodesExist, `Relationship(${relationship.content.id}) has unknown nodes`)
         })
     })
 })

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXk9r8vP",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXk9r8vP",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ridill, the Arrogant",
     "level": 58,

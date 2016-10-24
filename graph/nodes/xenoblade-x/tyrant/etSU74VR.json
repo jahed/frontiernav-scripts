@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "etSU74VR",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "etSU74VR",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mikulas, the Keystone",
     "level": 34,

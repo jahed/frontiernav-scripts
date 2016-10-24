@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e4HLoSBA",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e4HLoSBA",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Barnabas, the Despot",
     "level": 65,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission424-6",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission424-6",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lesson from the Grave"
   }

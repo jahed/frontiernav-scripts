@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7oWaEv1",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7oWaEv1",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Squallo, the Sand-Mirer",
     "level": 65,

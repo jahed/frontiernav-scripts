@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc56",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc56",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Central Ibra Ravine",
     "locationTypeId": "Landmark"

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n349",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "n349",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Large Container",
     "requirements": {

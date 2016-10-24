@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc18",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc18",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Banshee Cave",

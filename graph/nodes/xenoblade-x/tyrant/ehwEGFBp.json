@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ehwEGFBp",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ehwEGFBp",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "No-dhor, the Shadowcaster",
     "level": 30,

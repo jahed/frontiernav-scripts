@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r359",
-    "type": "HAS"
-  },
+  "id": "r359",
+  "type": "HAS",
   "start": "n130",
   "end": "n153",
   "data": {}

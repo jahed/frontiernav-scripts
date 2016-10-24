@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i15",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i15",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Spore Balloon",
     "rarity": 1

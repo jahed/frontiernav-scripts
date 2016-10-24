@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rcshapecollectibleset4i8shape4i62",
-    "type": "MAP_LINK"
-  },
+  "id": "rcshapecollectibleset4i8shape4i62",
+  "type": "MAP_LINK",
   "data": {},
   "start": "collectibleset4i8",
   "end": "shape4i62"

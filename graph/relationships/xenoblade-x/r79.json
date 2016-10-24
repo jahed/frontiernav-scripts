@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r79",
-    "type": "HAS"
-  },
+  "id": "r79",
+  "type": "HAS",
   "start": "map1",
   "end": "n38",
   "data": {

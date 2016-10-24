@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i26",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i26",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Grandan Rock",
     "rarity": 3

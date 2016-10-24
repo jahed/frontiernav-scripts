@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e9Ri6KDW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e9Ri6KDW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lask, the Unscrupulous",
     "level": 48,

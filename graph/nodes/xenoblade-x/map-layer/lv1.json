@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "lv1",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "lv1",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Collectibles",
     "icon": "book",

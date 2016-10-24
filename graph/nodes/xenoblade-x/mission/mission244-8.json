@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission244-8",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission244-8",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "House Call"
   }

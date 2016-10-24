@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "etAeJKFK",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "etAeJKFK",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Frontline Surveillance Zig",
     "level": 74,

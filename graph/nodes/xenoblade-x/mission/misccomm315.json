@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "misccomm315",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "misccomm315",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Unsatisfied Customer"
   }

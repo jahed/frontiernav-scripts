@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eP9XVV3k",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eP9XVV3k",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Joker, the Unknowable",
     "level": 90,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc412",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc412",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Whale's Gullet",

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eObdOOcz",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eObdOOcz",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Calore, the Lava Walker",
     "level": 62,

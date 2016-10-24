@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i0",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i0",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zalon Dirt",
     "rarity": 1

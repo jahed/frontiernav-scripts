@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "p2layerViewp264lv0",
-    "type": "HAS"
-  },
+  "id": "p2layerViewp264lv0",
+  "type": "HAS",
   "data": {},
   "start": "p264",
   "end": "lv0"

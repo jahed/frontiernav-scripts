@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc225",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc225",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Headwater Cliff",
     "cave": false,

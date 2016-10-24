@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i19",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i19",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Myuena Cactus",
     "rarity": 4

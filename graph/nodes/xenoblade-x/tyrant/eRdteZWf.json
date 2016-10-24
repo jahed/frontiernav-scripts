@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eRdteZWf",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eRdteZWf",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Laurencio, the Fog Bow",
     "level": 59,

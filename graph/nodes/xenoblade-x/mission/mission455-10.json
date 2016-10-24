@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission455-10",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission455-10",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hair Apparent"
   }

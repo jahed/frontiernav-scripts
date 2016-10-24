@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i55",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i55",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Medusa Squid",
     "rarity": 3

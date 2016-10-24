@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "probe19",
-    "labels": [
-      "FNSiteProbe",
-      "XenobladeX"
-    ]
-  },
+  "id": "probe19",
+  "labels": [
+    "FNSiteProbe",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Booster Probe G2",
     "type": 5,

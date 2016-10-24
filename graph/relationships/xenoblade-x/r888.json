@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r888",
-    "type": "GOAL"
-  },
+  "id": "r888",
+  "type": "GOAL",
   "start": "afshiftsccomm840",
   "end": "n221",
   "data": {}

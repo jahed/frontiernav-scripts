@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i43",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i43",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rock-Orange",
     "rarity": 1

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "euZGxTrc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "euZGxTrc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vegetal, the Heatcrux",
     "level": 49,

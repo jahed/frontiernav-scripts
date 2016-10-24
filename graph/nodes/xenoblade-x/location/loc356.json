@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc356",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc356",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shadow Rise",
     "cave": false,

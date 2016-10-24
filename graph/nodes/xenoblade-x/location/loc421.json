@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc421",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc421",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yawning Giant",
     "locationTypeId": "Area"

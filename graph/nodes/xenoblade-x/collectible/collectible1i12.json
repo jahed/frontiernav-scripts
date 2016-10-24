@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i12",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i12",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Golden Sardine",
     "rarity": 3

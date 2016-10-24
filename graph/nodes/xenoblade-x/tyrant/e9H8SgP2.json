@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e9H8SgP2",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e9H8SgP2",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Truppe, the Ceaseless Dark",
     "level": 53,

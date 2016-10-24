@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eeNh781b",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eeNh781b",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Casper, the Unhealthy Eater",
     "level": 13,

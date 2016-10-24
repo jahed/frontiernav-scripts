@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n806",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n806",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Port Side",
     "locationTypeId": "Landmark"

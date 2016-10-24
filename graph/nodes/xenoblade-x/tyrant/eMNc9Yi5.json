@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eMNc9Yi5",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eMNc9Yi5",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ludvik, the Picky Eater",
     "level": 29,

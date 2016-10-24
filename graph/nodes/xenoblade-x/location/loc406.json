@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc406",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc406",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Weeping Whitewood",
     "locationTypeId": "Landmark"

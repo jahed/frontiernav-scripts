@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i5",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i5",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ultra Filter",
     "rarity": 1

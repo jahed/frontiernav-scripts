@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n20",
-    "labels": [
-      "LocationType",
-      "XenobladeX"
-    ]
-  },
+  "id": "n20",
+  "labels": [
+    "LocationType",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Forgotten Mining Frigate"
   }

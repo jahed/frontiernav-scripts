@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission574-11",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission574-11",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rites of Ruin"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "elDAmgyY",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "elDAmgyY",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Urdu's Qmoeva",
     "level": 55,

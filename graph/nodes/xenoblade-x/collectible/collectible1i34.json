@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i34",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i34",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Flecked Bottle",
     "rarity": 4

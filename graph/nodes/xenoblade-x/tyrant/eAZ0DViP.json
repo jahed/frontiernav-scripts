@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eAZ0DViP",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eAZ0DViP",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Necro, the Cavelord",
     "level": 69,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n29",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n29",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bozé Lowes",
     "image": "boze-banner",

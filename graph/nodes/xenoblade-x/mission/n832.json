@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n832",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n832",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Party Line"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eYT1WSP0",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eYT1WSP0",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gesserith, the Wileworm",
     "level": 76,

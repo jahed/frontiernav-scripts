@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i33",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i33",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dark Lantern",
     "rarity": 1

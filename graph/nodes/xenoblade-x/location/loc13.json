@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc13",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc13",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Badr Basin",
     "locationTypeId": "Landmark"

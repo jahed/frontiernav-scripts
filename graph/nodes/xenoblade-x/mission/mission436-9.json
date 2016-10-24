@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission436-9",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission436-9",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Castle in the Sky"
   }

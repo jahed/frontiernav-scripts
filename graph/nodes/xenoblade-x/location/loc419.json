@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc419",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc419",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Xanadu Overlook",
     "locationTypeId": "Unexplored"

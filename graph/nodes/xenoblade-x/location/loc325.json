@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc325",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc325",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Quay Hollows",

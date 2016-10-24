@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc6",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc6",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Anvil Rock One",
     "locationTypeId": "Landmark"

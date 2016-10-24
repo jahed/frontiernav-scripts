@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc378",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc378",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sunset Falls",
     "locationTypeId": "Landmark"

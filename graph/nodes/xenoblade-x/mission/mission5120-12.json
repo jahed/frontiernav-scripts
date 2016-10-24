@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission5120-12",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission5120-12",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Alex's Last Stand"
   }

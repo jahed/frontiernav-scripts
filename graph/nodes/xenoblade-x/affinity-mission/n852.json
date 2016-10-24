@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "n852",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n852",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Frye's 1st Heart-to-Heart"
   }

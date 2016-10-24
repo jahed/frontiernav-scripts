@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n291",
-    "labels": [
-      "Map",
-      "XenobladeX"
-    ]
-  },
+  "id": "n291",
+  "labels": [
+    "Map",
+    "XenobladeX"
+  ],
   "data": {
     "name": "BLADE Barracks",
     "tileLayers": {

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eObRtWmr",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eObRtWmr",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Daemon, the Undertaker",
     "level": 39,

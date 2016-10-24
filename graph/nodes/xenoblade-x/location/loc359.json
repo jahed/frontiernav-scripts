@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc359",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc359",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sickle Rock Rise",
     "locationTypeId": "Landmark"

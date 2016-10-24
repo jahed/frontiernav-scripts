@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n850",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n850",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gold Rush"
   }

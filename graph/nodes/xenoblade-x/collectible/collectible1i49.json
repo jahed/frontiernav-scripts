@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i49",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i49",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Tractor Beetle",
     "rarity": 1

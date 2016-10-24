@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i39",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i39",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Suna Watermelon",
     "requirements": true,

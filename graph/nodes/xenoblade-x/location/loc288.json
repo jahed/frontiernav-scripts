@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc288",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc288",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "North Hardheart Canyon",
     "locationTypeId": "Landmark"

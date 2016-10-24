@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n336",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n336",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Division Drive",
     "locationTypeId": "Landmark"

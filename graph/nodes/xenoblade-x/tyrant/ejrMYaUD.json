@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ejrMYaUD",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ejrMYaUD",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Froste, the Courteous",
     "level": 50,

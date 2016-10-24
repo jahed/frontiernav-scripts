@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i36",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i36",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shinuyuni Garlic",
     "rarity": 1

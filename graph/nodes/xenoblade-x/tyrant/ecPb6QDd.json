@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ecPb6QDd",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ecPb6QDd",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Leandro, the Sneering",
     "level": 49,

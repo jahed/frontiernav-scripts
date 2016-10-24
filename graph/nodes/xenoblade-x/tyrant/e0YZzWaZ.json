@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e0YZzWaZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e0YZzWaZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Alexei, the Jade",
     "level": 35,

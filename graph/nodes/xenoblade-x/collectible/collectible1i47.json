@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i47",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i47",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ashizel",
     "rarity": 3

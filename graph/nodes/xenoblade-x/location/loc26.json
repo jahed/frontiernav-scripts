@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc26",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc26",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Beneath O'rrh Sim Keep",
     "locationTypeId": "Scenic"

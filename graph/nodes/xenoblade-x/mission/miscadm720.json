@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm720",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm720",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Handy Ma-non"
   }

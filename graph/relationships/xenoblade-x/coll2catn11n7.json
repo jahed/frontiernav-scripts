@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "coll2catn11n7",
-    "type": "CATEGORY"
-  },
+  "id": "coll2catn11n7",
+  "type": "CATEGORY",
   "start": "n11",
   "end": "n7",
   "data": {}

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i35",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i35",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noranlily",
     "rarity": 1

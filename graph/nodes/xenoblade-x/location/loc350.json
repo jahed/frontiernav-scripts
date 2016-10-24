@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc350",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc350",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Seaswept Base",
     "cave": false,

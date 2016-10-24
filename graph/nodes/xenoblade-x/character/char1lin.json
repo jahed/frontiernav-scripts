@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "char1lin",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "char1lin",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lin Lee Koo",
     "gender": "Female",

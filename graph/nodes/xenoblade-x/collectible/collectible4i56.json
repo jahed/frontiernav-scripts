@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i56",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i56",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Emerald Grape",
     "rarity": 4

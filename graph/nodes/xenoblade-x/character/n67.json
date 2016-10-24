@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n67",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n67",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yelv",
     "image": "yelv-banner",

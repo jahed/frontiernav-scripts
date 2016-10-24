@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "s2i119-20x",
-    "labels": [
-      "Segment",
-      "XenobladeX"
-    ]
-  },
+  "id": "s2i119-20x",
+  "labels": [
+    "Segment",
+    "XenobladeX"
+  ],
   "data": {
     "q": 1,
     "r": 19,

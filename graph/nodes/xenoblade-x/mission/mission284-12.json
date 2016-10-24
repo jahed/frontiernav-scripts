@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission284-12",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission284-12",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Murder Most Foul"
   }

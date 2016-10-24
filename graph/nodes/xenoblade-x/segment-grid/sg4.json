@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "sg4",
-    "labels": [
-      "SegmentGrid",
-      "XenobladeX"
-    ]
-  },
+  "id": "sg4",
+  "labels": [
+    "SegmentGrid",
+    "XenobladeX"
+  ],
   "data": {
     "segmentDimensions": {
       "height": 4.062

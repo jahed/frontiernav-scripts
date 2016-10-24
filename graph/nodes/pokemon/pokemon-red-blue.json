@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "pokemon-red-blue",
-    "labels": [
-      "Game",
-      "PokemonSeries",
-      "PokemonRBY"
-    ]
-  },
+  "id": "pokemon-red-blue",
+  "labels": [
+    "Game",
+    "PokemonSeries",
+    "PokemonRBY"
+  ],
   "data": {
     "name": "Pokémon Red, Blue & Yellow",
     "boxart": "pokemon-rby-boxart.jpg",

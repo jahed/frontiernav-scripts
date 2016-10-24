@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i30",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i30",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zagyrin Cragstone",
     "rarity": 3

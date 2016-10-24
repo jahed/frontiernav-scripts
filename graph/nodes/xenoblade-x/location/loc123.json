@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc123",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc123",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "FN Site 209",
     "locationTypeId": "MiraniumDeposit"

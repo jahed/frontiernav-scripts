@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ebPwmXtC",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ebPwmXtC",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hartmut, the Calamity",
     "level": 91,

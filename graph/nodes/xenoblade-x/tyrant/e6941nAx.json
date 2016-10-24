@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e6941nAx",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e6941nAx",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ya-rhat, the Thundercloud",
     "level": 49,

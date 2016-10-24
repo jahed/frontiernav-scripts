@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eSJSsg9g",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eSJSsg9g",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Andrea, the Famished Hunter",
     "level": 51,

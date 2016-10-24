@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n289",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "n289",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Segments",
     "description": "Segments on the Manon Ship",

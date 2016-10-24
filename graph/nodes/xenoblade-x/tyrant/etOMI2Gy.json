@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "etOMI2Gy",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "etOMI2Gy",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Elaine, the Lunar Eclipse",
     "level": 55,

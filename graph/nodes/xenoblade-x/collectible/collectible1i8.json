@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i8",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i8",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lacey Potato",
     "rarity": 1

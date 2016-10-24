@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7YlIaQ6",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7YlIaQ6",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ga-uhl, the Precept-Keeper",
     "level": 50,

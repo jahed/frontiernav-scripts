@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n562",
-    "labels": [
-      "SegmentGrid",
-      "XenobladeX"
-    ]
-  },
+  "id": "n562",
+  "labels": [
+    "SegmentGrid",
+    "XenobladeX"
+  ],
   "data": {
     "segmentDimensions": {
       "height": 10.7

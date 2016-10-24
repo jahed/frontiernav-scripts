@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "probe21",
-    "labels": [
-      "FNSiteProbe",
-      "XenobladeX"
-    ]
-  },
+  "id": "probe21",
+  "labels": [
+    "FNSiteProbe",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Storage Probe",
     "type": 4,

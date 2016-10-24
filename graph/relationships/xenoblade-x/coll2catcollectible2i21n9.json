@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "coll2catcollectible2i21n9",
-    "type": "CATEGORY"
-  },
+  "id": "coll2catcollectible2i21n9",
+  "type": "CATEGORY",
   "start": "collectible2i21",
   "end": "n9",
   "data": {}

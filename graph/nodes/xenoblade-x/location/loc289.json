@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc289",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc289",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "North Janpath Plain",
     "locationTypeId": "Landmark"

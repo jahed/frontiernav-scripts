@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscind305",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscind305",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Data Probe Progress"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "emKl8xTm",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "emKl8xTm",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Terenty, the Blademaster",
     "level": 72,

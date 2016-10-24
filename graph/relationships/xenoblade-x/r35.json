@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r35",
-    "type": "SIGHTSEEING"
-  },
+  "id": "r35",
+  "type": "SIGHTSEEING",
   "start": "site505",
   "end": "loc26",
   "data": {}

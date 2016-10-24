@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n16",
-    "labels": [
-      "LocationType",
-      "XenobladeX"
-    ]
-  },
+  "id": "n16",
+  "labels": [
+    "LocationType",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Base Camp"
   }

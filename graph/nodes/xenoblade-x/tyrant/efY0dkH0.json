@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "efY0dkH0",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "efY0dkH0",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sadar's Qmoeva",
     "level": 44,

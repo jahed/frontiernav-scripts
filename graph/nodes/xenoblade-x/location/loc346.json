@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc346",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc346",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Scholes Battlegrounds",
     "locationTypeId": "Landmark"

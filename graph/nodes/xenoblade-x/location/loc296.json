@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc296",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc296",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "O'rrh Sim Castle Ruins Area",
     "locationTypeId": "Area"

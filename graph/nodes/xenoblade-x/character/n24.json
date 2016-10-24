@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n24",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n24",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mia",
     "image": "mia-banner",

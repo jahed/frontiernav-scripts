@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eJxPhBKm",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eJxPhBKm",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ernest, the Comptemplative",
     "level": 36,

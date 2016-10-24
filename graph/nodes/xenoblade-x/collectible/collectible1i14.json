@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i14",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i14",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Arnacian Orewood",
     "requirements": true,

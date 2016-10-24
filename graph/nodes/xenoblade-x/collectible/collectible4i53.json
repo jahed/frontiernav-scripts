@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i53",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i53",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shido Persimmon",
     "rarity": 2

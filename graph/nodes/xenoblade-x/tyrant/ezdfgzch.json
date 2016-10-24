@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ezdfgzch",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ezdfgzch",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bohdan, the Mistral",
     "level": 37,

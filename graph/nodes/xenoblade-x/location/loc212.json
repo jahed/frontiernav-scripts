@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc212",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc212",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Ganglion Antropolis",

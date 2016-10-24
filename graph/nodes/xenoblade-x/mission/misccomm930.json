@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "misccomm930",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "misccomm930",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Emotion Commotion"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ewKfhOnJ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ewKfhOnJ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sacrum, the Noctilucent",
     "level": 50,

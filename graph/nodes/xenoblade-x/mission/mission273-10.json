@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission273-10",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission273-10",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Manhunt"
   }

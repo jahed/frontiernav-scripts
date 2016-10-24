@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc259",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc259",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lotus Keep Building Site",
     "locationTypeId": "Area"

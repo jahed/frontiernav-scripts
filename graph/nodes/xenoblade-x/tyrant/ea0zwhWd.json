@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ea0zwhWd",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ea0zwhWd",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Stola, the Champion",
     "level": 57,

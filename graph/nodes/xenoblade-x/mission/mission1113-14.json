@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission1113-14",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission1113-14",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "An Ancient Legend"
   }

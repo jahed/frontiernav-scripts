@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr8",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr8",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Infernium",
     "rarity": 0

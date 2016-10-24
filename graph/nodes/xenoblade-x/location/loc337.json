@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc337",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc337",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Samuel Incline",
     "locationTypeId": "Area"

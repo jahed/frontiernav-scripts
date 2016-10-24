@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eaA3U7MW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eaA3U7MW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eckart, the Indestructible",
     "level": 50,

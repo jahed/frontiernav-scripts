@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc380",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc380",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sylvalum Base Camp 2",
     "locationTypeId": "Camp"

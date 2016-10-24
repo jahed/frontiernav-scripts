@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ezBfSySk",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ezBfSySk",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gadaf, the Pulverizer",
     "level": 30,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n38",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "n38",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Segments",
     "description": "Segments in NLA",

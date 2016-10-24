@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "euESYAgS",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "euESYAgS",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Alithios, the Indignant",
     "level": 81,

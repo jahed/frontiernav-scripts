@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "e2peedGAmV2lpedGAmV2l",
-    "type": "MAP_LINK"
-  },
+  "id": "e2peedGAmV2lpedGAmV2l",
+  "type": "MAP_LINK",
   "data": {},
   "start": "edGAmV2l",
   "end": "pedGAmV2l"

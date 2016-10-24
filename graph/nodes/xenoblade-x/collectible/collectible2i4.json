@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i4",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i4",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Madness Hornet",
     "rarity": 1

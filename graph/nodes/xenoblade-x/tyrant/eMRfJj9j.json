@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eMRfJj9j",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eMRfJj9j",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bogdan, the Dense",
     "level": 49,

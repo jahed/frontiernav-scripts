@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i45",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i45",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sese Lily",
     "rarity": 1

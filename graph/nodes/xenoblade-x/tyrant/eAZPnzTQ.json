@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eAZPnzTQ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eAZPnzTQ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gerhardt, the Lone and Proud",
     "level": 12,

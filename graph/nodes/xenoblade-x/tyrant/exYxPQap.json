@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "exYxPQap",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "exYxPQap",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Claire, the Sheltered",
     "level": 60,

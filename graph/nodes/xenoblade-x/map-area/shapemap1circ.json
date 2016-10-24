@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "shapemap1circ",
-    "labels": [
-      "MapArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "shapemap1circ",
+  "labels": [
+    "MapArea",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": -80.9,

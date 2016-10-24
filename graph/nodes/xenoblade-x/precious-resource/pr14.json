@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr14",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr14",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bonjelium",
     "rarity": 0

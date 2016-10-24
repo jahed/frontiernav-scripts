@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "exApO4qv",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "exApO4qv",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Aria, the Zauberflote",
     "level": 13,

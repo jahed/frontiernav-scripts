@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rprb2knt",
-    "type": "HAS"
-  },
+  "id": "rprb2knt",
+  "type": "HAS",
   "start": "pokemon-red-blue",
   "end": "kanto-map",
   "data": {}

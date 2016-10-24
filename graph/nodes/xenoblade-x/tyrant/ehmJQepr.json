@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ehmJQepr",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ehmJQepr",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Angelita, the Blade Bouquet",
     "level": 61,

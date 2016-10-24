@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e2GJ6HWV",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e2GJ6HWV",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Manuelita, the Affectionate",
     "level": 47,

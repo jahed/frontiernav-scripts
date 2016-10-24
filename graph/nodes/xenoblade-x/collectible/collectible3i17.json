@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i17",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i17",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Common Stick Insect",
     "rarity": 3

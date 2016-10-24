@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eZUvn1To",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eZUvn1To",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Radovan, the Sky Baron",
     "level": 37,

@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "site2segmentsite303s3i27-9",
-    "type": "GOAL"
-  },
+  "id": "site2segmentsite303s3i27-9",
+  "type": "GOAL",
   "data": {},
   "start": "s3i27-9",
   "end": "site303"

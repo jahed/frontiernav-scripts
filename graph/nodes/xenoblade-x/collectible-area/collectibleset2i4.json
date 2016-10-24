@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset2i4",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset2i4",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilum Falls Area",
     "itemType": "Collectible"

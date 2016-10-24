@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc294",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc294",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "O'rrh Sim Capital Remains",
     "locationTypeId": "Landmark"

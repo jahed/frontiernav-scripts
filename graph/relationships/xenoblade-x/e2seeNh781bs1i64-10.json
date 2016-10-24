@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "e2seeNh781bs1i64-10",
-    "type": "GOAL"
-  },
+  "id": "e2seeNh781bs1i64-10",
+  "type": "GOAL",
   "data": {},
   "start": "s1i64-10",
   "end": "eeNh781b"

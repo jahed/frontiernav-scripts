@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission461-7",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission461-7",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Law and Orders"
   }

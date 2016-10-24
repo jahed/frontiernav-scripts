@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission144-8",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission144-8",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Haywire!"
   }

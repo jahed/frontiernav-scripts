@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pe3cGerkb",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "pe3cGerkb",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": -13.068776734357682,

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eqMU7a0Q",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eqMU7a0Q",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Jindriska, the Serene",
     "level": 26,

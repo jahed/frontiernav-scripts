@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i11",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i11",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Multi-Mirror Solar Drone",
     "rarity": 3

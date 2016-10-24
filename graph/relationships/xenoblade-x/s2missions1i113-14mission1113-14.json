@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "s2missions1i113-14mission1113-14",
-    "type": "GOAL"
-  },
+  "id": "s2missions1i113-14mission1113-14",
+  "type": "GOAL",
   "data": {},
   "start": "s1i113-14",
   "end": "mission1113-14"

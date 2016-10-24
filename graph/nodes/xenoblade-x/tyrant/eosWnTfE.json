@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eosWnTfE",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eosWnTfE",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Experimental Second-Gen Zig",
     "level": 58,

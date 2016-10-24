@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXFCgol2",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXFCgol2",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Luciel, the Eternal",
     "level": 92,

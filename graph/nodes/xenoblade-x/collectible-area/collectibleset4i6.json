@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset4i6",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset4i6",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sylvalum Great Sand Hill Area",
     "itemType": "Collectible"

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i38",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i38",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Brain Terminal",
     "rarity": 2

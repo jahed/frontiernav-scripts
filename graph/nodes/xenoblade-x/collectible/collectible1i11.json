@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i11",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i11",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sweet Nerine",
     "rarity": 2

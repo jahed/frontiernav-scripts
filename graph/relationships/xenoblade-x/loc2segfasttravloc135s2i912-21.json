@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "loc2segfasttravloc135s2i912-21",
-    "type": "FAST_TRAVEL"
-  },
+  "id": "loc2segfasttravloc135s2i912-21",
+  "type": "FAST_TRAVEL",
   "data": {},
   "start": "loc135",
   "end": "s2i912-21"

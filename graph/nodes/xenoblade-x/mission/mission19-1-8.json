@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission19-1-8",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission19-1-8",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Good Thief"
   }

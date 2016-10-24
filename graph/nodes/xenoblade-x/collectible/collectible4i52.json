@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i52",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i52",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Detilid Device",
     "rarity": 1

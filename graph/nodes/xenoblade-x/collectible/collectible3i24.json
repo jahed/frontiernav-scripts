@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i24",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i24",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Wainess Fossil",
     "rarity": 2

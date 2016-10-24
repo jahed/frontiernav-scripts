@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i5",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i5",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Double Helical Salt",
     "rarity": 1

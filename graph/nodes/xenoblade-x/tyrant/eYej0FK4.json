@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eYej0FK4",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eYej0FK4",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Draken, the Drifting Cloud",
     "level": 85,

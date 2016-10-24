@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "id": "Mission"
-  },
+  "id": "Mission",
   "name": "Mission",
   "searchable": true,
   "pageDescription": "Find out more about the mission '{name}' in Xenoblade Chronicles X.",

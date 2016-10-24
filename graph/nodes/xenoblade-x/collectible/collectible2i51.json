@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i51",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i51",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Caseras Mushroom",
     "rarity": 2

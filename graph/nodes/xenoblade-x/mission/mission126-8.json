@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission126-8",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission126-8",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Repair Job"
   }

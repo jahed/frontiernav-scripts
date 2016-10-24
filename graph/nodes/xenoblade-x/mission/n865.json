@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n865",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n865",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Gauntlet"
   }

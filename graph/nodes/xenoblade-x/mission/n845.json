@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n845",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n845",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Going Viral"
   }

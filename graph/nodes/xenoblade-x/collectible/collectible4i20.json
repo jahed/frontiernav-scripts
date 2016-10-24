@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i20",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i20",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Trying Crown",
     "rarity": 4

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eViHc5Li",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eViHc5Li",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dawid, the Destrier",
     "level": 44,

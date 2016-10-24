@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ekbUWWIJ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ekbUWWIJ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Trueno, the Cataclysm",
     "level": 60,

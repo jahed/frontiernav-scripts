@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "site101",
-    "labels": [
-      "FNSite",
-      "XenobladeX"
-    ]
-  },
+  "id": "site101",
+  "labels": [
+    "FNSite",
+    "XenobladeX"
+  ],
   "data": {
     "number": 101,
     "revenue": "S",

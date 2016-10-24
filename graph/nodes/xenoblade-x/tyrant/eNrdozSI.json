@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eNrdozSI",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eNrdozSI",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yelena, the Sequestered",
     "level": 34,

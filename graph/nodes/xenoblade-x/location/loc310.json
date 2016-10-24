@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc310",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc310",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Old Dragontail Tree",
     "locationTypeId": "Landmark"

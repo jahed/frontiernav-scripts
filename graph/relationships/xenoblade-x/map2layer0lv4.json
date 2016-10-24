@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "map2layer0lv4",
-    "type": "HAS"
-  },
+  "id": "map2layer0lv4",
+  "type": "HAS",
   "start": "map0",
   "end": "lv4",
   "data": {

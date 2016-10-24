@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ezGi2egz",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ezGi2egz",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Caesar, the Hundred-Eyed",
     "level": 68,

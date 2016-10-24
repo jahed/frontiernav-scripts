@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ef6HbkjL",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ef6HbkjL",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Experimental Flight Shrad",
     "level": 48,

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hscadm215",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hscadm215",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Frye's 2nd Heart-to-Heart"
   }

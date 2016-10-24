@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i37",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i37",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pardo Spider",
     "rarity": 2

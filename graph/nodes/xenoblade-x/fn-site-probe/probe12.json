@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "probe12",
-    "labels": [
-      "FNSiteProbe",
-      "XenobladeX"
-    ]
-  },
+  "id": "probe12",
+  "labels": [
+    "FNSiteProbe",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Research Probe G1",
     "type": 2,

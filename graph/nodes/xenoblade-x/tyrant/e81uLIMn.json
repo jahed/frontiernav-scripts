@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e81uLIMn",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e81uLIMn",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ilithios, the Enlightened",
     "level": 48,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "lv2",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "lv2",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Segments",
     "icon": "th",

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i5",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i5",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Deflection Shield Mirror",
     "rarity": 1

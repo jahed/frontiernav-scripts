@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i15",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i15",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nostalgia L-002",
     "rarity": 1

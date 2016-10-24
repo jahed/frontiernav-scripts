@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i41",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i41",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Missile Wiring",
     "rarity": 2

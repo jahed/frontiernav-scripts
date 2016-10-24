@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc328",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc328",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rock Cavern",
     "cave": true,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc403",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc403",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Victory Rock",
     "locationTypeId": "Area"

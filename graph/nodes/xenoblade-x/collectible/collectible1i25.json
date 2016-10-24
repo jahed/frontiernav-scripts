@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i25",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i25",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Centrifugal Beam Generator",
     "rarity": 2

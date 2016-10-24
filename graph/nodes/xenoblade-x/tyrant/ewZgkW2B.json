@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ewZgkW2B",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ewZgkW2B",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Melanya, the Sound Sleeper",
     "level": 20,

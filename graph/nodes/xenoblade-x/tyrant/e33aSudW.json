@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e33aSudW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e33aSudW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Legato, the Sky Watcher",
     "level": 45,

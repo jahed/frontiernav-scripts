@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e6v70t3k",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e6v70t3k",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eliane, the Unmoved",
     "level": 29,

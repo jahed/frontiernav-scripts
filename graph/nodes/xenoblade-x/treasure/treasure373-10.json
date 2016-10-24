@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure373-10",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure373-10",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Indigen Dung",
     "requirements": {

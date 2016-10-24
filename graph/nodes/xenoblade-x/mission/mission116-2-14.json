@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission116-2-14",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission116-2-14",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Stop, Thief!"
   }

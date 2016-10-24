@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXIB25hC",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXIB25hC",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Camille, the Immortal",
     "level": 19,

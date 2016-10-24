@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure47-2-5",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure47-2-5",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Skell Wreckage",
     "requirements": {

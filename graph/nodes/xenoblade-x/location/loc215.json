@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc215",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc215",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gehenna Span",
     "locationTypeId": "Landmark"

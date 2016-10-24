@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i43",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i43",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Thunderbolt Emblem",
     "rarity": 3

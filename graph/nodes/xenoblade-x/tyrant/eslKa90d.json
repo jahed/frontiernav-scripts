@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eslKa90d",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eslKa90d",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Feld, the Indigo-Clad",
     "level": 31,

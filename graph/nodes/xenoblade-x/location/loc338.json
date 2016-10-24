@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc338",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc338",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sandsprint Cavity",
     "locationTypeId": "Scenic"

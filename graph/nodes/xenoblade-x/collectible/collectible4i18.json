@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i18",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i18",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Jagitos Copper",
     "rarity": 3

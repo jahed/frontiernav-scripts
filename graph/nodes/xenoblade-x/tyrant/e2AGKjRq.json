@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e2AGKjRq",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e2AGKjRq",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Etutanne, the Bloodthirsty",
     "level": 33,

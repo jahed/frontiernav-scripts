@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscind1040",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscind1040",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Good Neighbors"
   }

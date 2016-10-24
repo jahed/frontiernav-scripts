@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n344",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n344",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Turf War"
   }

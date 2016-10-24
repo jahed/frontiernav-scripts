@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc399",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc399",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Twin Arches",
     "locationTypeId": "Landmark"

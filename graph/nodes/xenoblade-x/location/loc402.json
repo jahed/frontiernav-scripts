@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc402",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc402",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Upper Hush Flood",
     "locationTypeId": "Area"

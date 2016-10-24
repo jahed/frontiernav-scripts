@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "enkPTyQM",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "enkPTyQM",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ro-darm, the Demon Claw",
     "level": 38,

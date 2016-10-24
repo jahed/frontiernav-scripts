@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc361",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc361",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Skybound Coil Tree",
     "locationTypeId": "Area"

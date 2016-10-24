@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i48",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i48",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "T-Ray Light",
     "rarity": 4

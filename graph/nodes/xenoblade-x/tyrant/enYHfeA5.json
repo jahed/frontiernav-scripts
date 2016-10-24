@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "enYHfeA5",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "enYHfeA5",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dieter, the Epicure",
     "level": 39,

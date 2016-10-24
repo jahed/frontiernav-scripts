@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "n341",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n341",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Affinity Shift: Zurranik"
   }

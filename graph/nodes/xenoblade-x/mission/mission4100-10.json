@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission4100-10",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission4100-10",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Orphe Pluck"
   }

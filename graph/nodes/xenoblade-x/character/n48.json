@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n48",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n48",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Elma",
     "gender": "Female",

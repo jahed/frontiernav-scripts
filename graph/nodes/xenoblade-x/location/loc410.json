@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc410",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc410",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "West Ibra Ravine",
     "locationTypeId": "Area"

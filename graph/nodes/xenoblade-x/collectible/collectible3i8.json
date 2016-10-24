@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i8",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i8",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cruise Deflector AiR",
     "rarity": 2

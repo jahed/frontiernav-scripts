@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eVf5mFdd",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eVf5mFdd",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shuravas, the Enraged",
     "level": 65,

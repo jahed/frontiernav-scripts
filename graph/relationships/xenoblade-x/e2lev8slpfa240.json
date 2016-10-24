@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "e2lev8slpfa240",
-    "type": "HAS"
-  },
+  "id": "e2lev8slpfa240",
+  "type": "HAS",
   "data": {},
   "start": "ev8slpfa",
   "end": "loc240"

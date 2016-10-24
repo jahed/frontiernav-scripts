@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i17",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i17",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Starmaker",
     "rarity": 2

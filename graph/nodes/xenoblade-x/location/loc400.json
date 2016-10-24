@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc400",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc400",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Twin Hammers",
     "locationTypeId": "Area"

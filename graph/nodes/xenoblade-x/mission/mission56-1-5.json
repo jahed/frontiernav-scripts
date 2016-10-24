@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission56-1-5",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission56-1-5",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Definian Downfall"
   }

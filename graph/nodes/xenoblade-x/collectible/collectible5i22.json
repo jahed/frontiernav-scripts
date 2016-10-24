@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i22",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i22",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Book of Death and Rebirth",
     "rarity": 4

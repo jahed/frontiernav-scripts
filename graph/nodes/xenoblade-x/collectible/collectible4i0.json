@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i0",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i0",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bude Mugwort",
     "rarity": 1

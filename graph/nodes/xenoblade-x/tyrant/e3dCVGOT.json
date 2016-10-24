@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e3dCVGOT",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e3dCVGOT",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Atreides, the Distinguished",
     "level": 74,

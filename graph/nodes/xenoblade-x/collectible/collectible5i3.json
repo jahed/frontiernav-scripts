@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i3",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i3",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Poron Tulip",
     "rarity": 2

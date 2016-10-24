@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ebpF8IC1",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ebpF8IC1",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Feliciano, the All-Seeing",
     "level": 70,

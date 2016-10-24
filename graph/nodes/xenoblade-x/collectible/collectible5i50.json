@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i50",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i50",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bullet Fly",
     "rarity": 3

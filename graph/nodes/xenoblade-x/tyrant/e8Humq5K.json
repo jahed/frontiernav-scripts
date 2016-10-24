@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e8Humq5K",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e8Humq5K",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Asana, the Azura Star",
     "level": 30,

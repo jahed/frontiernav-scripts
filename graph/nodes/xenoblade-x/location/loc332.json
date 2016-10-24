@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc332",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc332",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ruined City of O'rrh Sim",
     "locationTypeId": "Landmark"

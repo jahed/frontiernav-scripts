@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKj7RdqK",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKj7RdqK",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vilem, the Gold-Scaled",
     "level": 45,

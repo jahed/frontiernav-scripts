@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n810",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n810",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Myles to Go"
   }

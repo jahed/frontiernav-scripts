@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e3Euv0VJ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e3Euv0VJ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Caranau, the Water Drake",
     "level": 10,

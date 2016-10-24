@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eRSO6Ze1",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eRSO6Ze1",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nu-rhor, the Dark Deity",
     "level": 65,

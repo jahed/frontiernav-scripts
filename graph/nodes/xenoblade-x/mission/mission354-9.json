@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission354-9",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission354-9",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Foggy Dilemma"
   }

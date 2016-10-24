@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset3i3",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset3i3",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Oblivia Stream Area",
     "itemType": "Collectible"

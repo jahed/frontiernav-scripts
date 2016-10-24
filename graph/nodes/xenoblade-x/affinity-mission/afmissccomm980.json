@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "afmissccomm980",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "afmissccomm980",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Matchmaker"
   }

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n9",
-    "labels": [
-      "CollectibleCategory",
-      "XenobladeX"
-    ]
-  },
+  "id": "n9",
+  "labels": [
+    "CollectibleCategory",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Xenotech"
   }

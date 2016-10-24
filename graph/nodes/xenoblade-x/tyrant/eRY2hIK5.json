@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eRY2hIK5",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eRY2hIK5",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Tico, the Precious",
     "level": 30,

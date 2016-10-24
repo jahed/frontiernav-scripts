@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n876",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n876",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Off the Record (Biological)"
   }

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc58",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc58",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cliffside Beach",
     "cave": false,

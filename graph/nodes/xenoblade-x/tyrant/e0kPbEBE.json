@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e0kPbEBE",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e0kPbEBE",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Drake, the Waypost",
     "level": 29,

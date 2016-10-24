@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n952",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n952",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fortun and Glory"
   }

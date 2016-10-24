@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7OWJ5a0",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7OWJ5a0",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Muruse, the Opulent",
     "level": 56,

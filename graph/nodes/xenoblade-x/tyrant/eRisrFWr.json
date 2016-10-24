@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eRisrFWr",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eRisrFWr",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Kringe, the Hunting Arrow",
     "level": 40,

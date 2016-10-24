@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i37",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i37",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Logunie's Driftwood",
     "rarity": 2

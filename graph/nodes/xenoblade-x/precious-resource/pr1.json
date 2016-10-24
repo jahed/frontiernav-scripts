@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr1",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr1",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Aurorite",
     "rarity": 0

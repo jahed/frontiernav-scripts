@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i39",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i39",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Acton Rock Shards",
     "rarity": 1

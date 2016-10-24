@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rccollectiblecollectibleset2i3collectible2i5",
-    "type": "CONTAINS"
-  },
+  "id": "rccollectiblecollectibleset2i3collectible2i5",
+  "type": "CONTAINS",
   "data": {},
   "start": "collectibleset2i3",
   "end": "collectible2i5"

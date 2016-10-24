@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure132-5",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure132-5",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Strange Instect Nest",
     "requirements": {

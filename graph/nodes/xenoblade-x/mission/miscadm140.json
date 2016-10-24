@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm140",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm140",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cavern Crushers"
   }

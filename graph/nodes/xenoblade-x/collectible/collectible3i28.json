@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i28",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i28",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nopolith",
     "rarity": 4

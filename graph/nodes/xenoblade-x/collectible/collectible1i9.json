@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i9",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i9",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Strawlenny",
     "rarity": 1

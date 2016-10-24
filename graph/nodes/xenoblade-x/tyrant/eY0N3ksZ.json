@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eY0N3ksZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eY0N3ksZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Enhanced Defense Seidr",
     "level": 59,

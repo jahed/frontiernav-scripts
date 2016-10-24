@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rlp360p360",
-    "type": "MAP_LINK"
-  },
+  "id": "rlp360p360",
+  "type": "MAP_LINK",
   "data": {},
   "start": "loc360",
   "end": "p360"

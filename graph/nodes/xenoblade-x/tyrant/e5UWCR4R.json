@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e5UWCR4R",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e5UWCR4R",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vendura, the Spellbinder",
     "level": 20,

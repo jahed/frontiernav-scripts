@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "edmUZDfB",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "edmUZDfB",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Armored Cruiser Seidr",
     "level": 61,

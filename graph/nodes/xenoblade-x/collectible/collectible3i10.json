@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i10",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i10",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Magical Finding Rod",
     "rarity": 3

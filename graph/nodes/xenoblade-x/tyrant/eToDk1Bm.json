@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eToDk1Bm",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eToDk1Bm",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Prototype Puge",
     "level": 49,

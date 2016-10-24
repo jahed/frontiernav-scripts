@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i49",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i49",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rainy Cricket",
     "requirements": true,

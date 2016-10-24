@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "p48",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "p48",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": 66.47820814385636,

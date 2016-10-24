@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ePYTHeTD",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ePYTHeTD",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lugalbanda, the Wanderer-King",
     "level": 88,

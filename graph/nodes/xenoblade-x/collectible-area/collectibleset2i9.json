@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset2i9",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset2i9",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilum Cave Areas",
     "itemType": "Collectible"

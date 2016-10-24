@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr2",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr2",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Foucaultium",
     "rarity": 0

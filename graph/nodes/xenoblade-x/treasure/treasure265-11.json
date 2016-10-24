@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure265-11",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure265-11",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Vehicle Wreckage",
     "requirements": {

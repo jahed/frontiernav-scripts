@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "et0GKuHZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "et0GKuHZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Libra, the Long-Lived",
     "level": 20,

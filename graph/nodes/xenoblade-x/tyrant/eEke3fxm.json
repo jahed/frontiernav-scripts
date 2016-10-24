@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eEke3fxm",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eEke3fxm",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Uluora, the Burgeoning",
     "level": 22,

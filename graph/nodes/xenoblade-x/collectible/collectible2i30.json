@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i30",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i30",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Strobing Horsefly",
     "rarity": 1

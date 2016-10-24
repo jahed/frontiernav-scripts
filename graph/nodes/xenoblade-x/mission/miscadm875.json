@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm875",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm875",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cooking Schooled"
   }

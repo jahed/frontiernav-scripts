@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr11",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr11",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Boiled-Egg Ore",
     "rarity": 0

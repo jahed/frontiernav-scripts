@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eCs0P6WT",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eCs0P6WT",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zorn, the Wanderer",
     "level": 56,

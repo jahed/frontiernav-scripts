@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc351",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc351",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Seaswept Ridge",
     "cave": false,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i42",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i42",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Spiked Pomegranate",
     "rarity": 4

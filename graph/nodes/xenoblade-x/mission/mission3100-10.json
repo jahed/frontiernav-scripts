@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission3100-10",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission3100-10",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bread and a Circus"
   }

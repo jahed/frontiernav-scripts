@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e5wQzLeG",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e5wQzLeG",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Go-rha, the Guardian Deity",
     "level": 60,

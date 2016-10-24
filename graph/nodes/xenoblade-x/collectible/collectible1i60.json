@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i60",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i60",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mirage Scope",
     "rarity": 3

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eHwM2EDq",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eHwM2EDq",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eutropio, the Sea Rumble",
     "level": 45,

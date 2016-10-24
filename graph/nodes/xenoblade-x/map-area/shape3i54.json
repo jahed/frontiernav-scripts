@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "shape3i54",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "shape3i54",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": -81.37447872367567,

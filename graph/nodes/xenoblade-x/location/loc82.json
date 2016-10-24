@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc82",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc82",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "East Ibra Ravine",
     "locationTypeId": "Area"

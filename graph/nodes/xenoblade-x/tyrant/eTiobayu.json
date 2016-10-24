@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eTiobayu",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eTiobayu",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ji-ett, the Thunderclap",
     "level": 72,

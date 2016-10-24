@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ejsr9oK0",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ejsr9oK0",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ignit, the Ultimate Chaos",
     "level": 88,

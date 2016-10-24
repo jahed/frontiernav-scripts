@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc374",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc374",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Stonelattice Cavern",
     "cave": true,

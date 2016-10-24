@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i52",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i52",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sonar Lemon",
     "rarity": 3

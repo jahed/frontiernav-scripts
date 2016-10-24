@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i42",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i42",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sibercaseras Mushroom",
     "rarity": 4

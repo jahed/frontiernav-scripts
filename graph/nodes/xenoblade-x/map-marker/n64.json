@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n64",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "n64",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": 26.86328062676624,

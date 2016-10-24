@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n5",
-    "labels": [
-      "CollectibleCategory",
-      "XenobladeX"
-    ]
-  },
+  "id": "n5",
+  "labels": [
+    "CollectibleCategory",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fauna"
   }

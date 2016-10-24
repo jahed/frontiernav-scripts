@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset1i9",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset1i9",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Primordia Cave Areas",
     "itemType": "Collectible"

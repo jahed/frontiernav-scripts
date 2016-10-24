@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "map2",
-    "labels": [
-      "Map",
-      "XenobladeX"
-    ]
-  },
+  "id": "map2",
+  "labels": [
+    "Map",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ma-non Ship",
     "defaultZoom": 2,

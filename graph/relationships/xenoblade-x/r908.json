@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r908",
-    "type": "GOAL"
-  },
+  "id": "r908",
+  "type": "GOAL",
   "start": "mission552-7",
   "end": "n249",
   "data": {}

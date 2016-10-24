@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i16",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i16",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Anhydrous Radiator",
     "rarity": 1

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKVDbOU3",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKVDbOU3",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Chantai, the Insect Maiden",
     "level": 38,

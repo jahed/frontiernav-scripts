@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rlp32p32",
-    "type": "MAP_LINK"
-  },
+  "id": "rlp32p32",
+  "type": "MAP_LINK",
   "data": {},
   "start": "loc32",
   "end": "p32"

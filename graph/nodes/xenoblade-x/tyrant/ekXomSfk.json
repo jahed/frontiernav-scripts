@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ekXomSfk",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ekXomSfk",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Berserker Marnuck",
     "level": 45,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc66",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc66",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Decapotamon Vista",
     "locationTypeId": "Scenic"

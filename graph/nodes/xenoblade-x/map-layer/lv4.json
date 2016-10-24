@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "lv4",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "lv4",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Enemies",
     "icon": "shield",

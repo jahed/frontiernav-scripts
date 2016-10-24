@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eK1rJoRq",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eK1rJoRq",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ahama, the Covetous",
     "level": 60,

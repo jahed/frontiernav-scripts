@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i11",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i11",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "False Cedar",
     "rarity": 3

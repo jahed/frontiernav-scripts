@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc407",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc407",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "West Ciel Sandsea",
     "locationTypeId": "Landmark"

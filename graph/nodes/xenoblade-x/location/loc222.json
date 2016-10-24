@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc222",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc222",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Grieving Plains",
     "locationTypeId": "Landmark"

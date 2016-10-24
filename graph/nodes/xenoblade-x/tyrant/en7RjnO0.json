@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "en7RjnO0",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "en7RjnO0",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Valyrion, the Iron Cleaver",
     "level": 48,

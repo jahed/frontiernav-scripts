@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eTKvmOQo",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eTKvmOQo",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Polaris, the Firmamental",
     "level": 63,

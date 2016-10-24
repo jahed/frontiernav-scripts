@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "probe22",
-    "labels": [
-      "FNSiteProbe",
-      "XenobladeX"
-    ]
-  },
+  "id": "probe22",
+  "labels": [
+    "FNSiteProbe",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Any Combat Probe",
     "type": 3,

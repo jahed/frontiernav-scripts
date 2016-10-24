@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7YRAZ2r",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7YRAZ2r",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dadaan, the Strongest Prone",
     "level": 77,

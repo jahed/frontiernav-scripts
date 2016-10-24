@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXKBLNSn",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXKBLNSn",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zohan, the thunderbolt",
     "level": 64,

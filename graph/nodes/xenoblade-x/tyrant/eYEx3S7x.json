@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eYEx3S7x",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eYEx3S7x",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Balduino, the Wicked-Eyed",
     "level": 89,

@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "pe2layerViewpeWIdRvhwlv4",
-    "type": "HAS"
-  },
+  "id": "pe2layerViewpeWIdRvhwlv4",
+  "type": "HAS",
   "data": {},
   "start": "peWIdRvhw",
   "end": "lv4"

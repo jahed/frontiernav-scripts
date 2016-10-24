@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ey2XY06P",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ey2XY06P",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fernando, the Immovable",
     "level": 85,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc366",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc366",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "South Cinderdunes",
     "locationTypeId": "Landmark"

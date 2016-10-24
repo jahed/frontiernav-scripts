@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "elGi6omr",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "elGi6omr",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Daril's Qmoeva",
     "level": 54,

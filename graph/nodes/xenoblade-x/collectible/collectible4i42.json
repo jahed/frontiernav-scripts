@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i42",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i42",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Berzerker Unit",
     "rarity": 2

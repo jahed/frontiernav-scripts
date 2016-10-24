@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "region4",
-    "labels": [
-      "Region",
-      "XenobladeX"
-    ]
-  },
+  "id": "region4",
+  "labels": [
+    "Region",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sylvalum",
     "center": {

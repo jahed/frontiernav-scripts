@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i34",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i34",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hard Skin",
     "rarity": 2

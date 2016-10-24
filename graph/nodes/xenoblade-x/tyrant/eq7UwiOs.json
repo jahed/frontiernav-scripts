@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eq7UwiOs",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eq7UwiOs",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Valeriano, the Rolling Thunder",
     "level": 26,

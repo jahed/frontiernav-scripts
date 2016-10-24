@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eqBU1Chk",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eqBU1Chk",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Silvestre, the Morning Light",
     "level": 48,

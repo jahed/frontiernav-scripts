@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eWQ5CRpy",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eWQ5CRpy",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Edgardo, the Carefree",
     "level": 18,
