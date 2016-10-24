@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset3i6",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Oblivia Lake Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

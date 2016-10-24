@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "id": "n292",
+    "labels": [
+      "MapLayer",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Segments",
+    "description": "Segments in BLADE Barracks",
+    "thumbnail": "view-segments"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "id": "lv5",
+    "labels": [
+      "MapLayer",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters in NLA",
+    "icon": "compass"
+  }
+}

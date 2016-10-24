@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "id": "n777",
+    "labels": [
+      "MapLayer",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Locations",
+    "description": "Locations in BLADE Barracks",
+    "thumbnail": "view-locations"
+  }
+}

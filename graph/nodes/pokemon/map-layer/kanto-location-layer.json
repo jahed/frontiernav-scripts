@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "id": "kanto-location-layer",
+    "labels": [
+      "MapLayer"
+    ]
+  },
+  "data": {
+    "name": "Locations",
+    "description": "Locations in Kanto"
+  }
+}

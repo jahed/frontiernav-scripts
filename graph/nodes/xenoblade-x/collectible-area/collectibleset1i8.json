@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset1i8",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Primordia North Shore Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

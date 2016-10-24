@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset5i6",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Cauldros Solitary Island Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

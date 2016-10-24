@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset2i6",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Noctilum Ravine Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

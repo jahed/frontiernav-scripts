@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset5i8",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Cauldros Old Battleground Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "id": "MapArea"
+  },
+  "name": "Map Area",
+  "pageDescription": "Use various area markers to see areas of interest in Xenoblade Chronicles X.",
+  "schema": {
+    "latLngs": {
+      "required": true
+    }
+  }
+}

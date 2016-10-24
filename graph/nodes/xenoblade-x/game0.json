@@ -2,8 +2,8 @@
   "metadata": {
     "id": "game0",
     "labels": [
-      "games",
-      "xenobladeX"
+      "Game",
+      "XenobladeX"
     ]
   },
   "data": {
@@ -57,7 +57,7 @@
     ],
     "searchLabels": {
       "xenobladeSeries": true,
-      "xenobladeX": true
+      "XenobladeX": true
     }
   }
 }

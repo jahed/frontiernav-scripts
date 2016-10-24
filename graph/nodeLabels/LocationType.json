@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "id": "LocationType"
+  },
+  "name": "Location Type",
+  "searchable": true,
+  "pageDescription": "Here's what a list of {name} locations in Xenoblade Chronicles X.",
+  "schema": {
+    "name": {
+      "required": true
+    }
+  }
+}

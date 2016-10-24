@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "id": "textmarkermap1circ",
+    "labels": [
+      "MapMarker",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "latLng": {
+      "lat": -81.06826656005543,
+      "lng": -33.26796875
+    },
+    "className": "map-marker-nla",
+    "markerStyle": "text"
+  }
+}

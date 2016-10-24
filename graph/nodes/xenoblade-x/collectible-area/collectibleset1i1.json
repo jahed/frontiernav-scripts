@@ -2,12 +2,12 @@
   "metadata": {
     "id": "collectibleset1i1",
     "labels": [
-      "collectibleAreas",
-      "xenobladeX"
+      "CollectibleArea",
+      "XenobladeX"
     ]
   },
   "data": {
     "name": "Primordia Southwest Area",
-    "itemType": "collectibles"
+    "itemType": "Collectible"
   }
 }

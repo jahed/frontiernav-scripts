@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "id": "probe22",
+    "labels": [
+      "FNSiteProbe",
+      "XenobladeX"
+    ]
+  },
+  "data": {
+    "name": "Any Combat Probe",
+    "type": 3,
+    "attributes": {
+      "production_multiplier": 0.1,
+      "revenue_multiplier": 0.1
+    }
+  }
+}
