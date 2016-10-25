@@ -1,5 +1,5 @@
 const _ = require('lodash')
-const transformAll = require('./lib/transformAll')
+const transformAll = require('./helpers/transformAll')
 
 transformAll('./graph', '.json', node => {
     return _(node.metadata)

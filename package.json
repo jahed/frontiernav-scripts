@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Data for FrontierNav",
   "scripts": {
-    "test": "mocha ./tests"
+    "test": "mocha ./tests/suites"
   },
   "repository": {
     "type": "git",
