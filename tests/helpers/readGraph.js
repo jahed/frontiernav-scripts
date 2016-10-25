@@ -3,7 +3,6 @@ const file = require('file')
 const path = require('path')
 const toml = require('toml')
 
-const graphPath = './graph'
 const parsers = {
     '.toml': toml.parse,
     '.json': JSON.parse
