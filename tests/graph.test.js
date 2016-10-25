@@ -3,8 +3,13 @@ const file = require('file')
 const path = require('path')
 const assert = require('assert')
 const _ = require('lodash')
+const toml = require('toml')
 
 const graphPath = './graph'
+const parsers = {
+    '.toml': toml.parse,
+    '.json': JSON.parse
+}
 
 const nodeLabels = readGraphObjects('nodeLabels')
 const nodes = readGraphObjects('nodes')
@@ -16,11 +21,14 @@ function readGraphObjects(type) {
     file.walkSync(path.resolve(graphPath, type), (dirPath, dirs, filePaths) => {
         result = result.concat(
             filePaths
-                .filter(filePath => path.extname(filePath) === '.json')
+                .filter(filePath => !!parsers[path.extname(filePath)])
                 .map(filePath => {
                     const absoluteFilePath =  path.resolve(dirPath, filePath)
                     const fileContent = fs.readFileSync(absoluteFilePath, { encoding: 'utf8' })
-                    const content = JSON.parse(fileContent)
+
+                    const parser = parsers[path.extname(filePath)]
+                    const content = parser(fileContent)
+
                     return {
                         absoluteFilePath,
                         content
@@ -35,13 +43,27 @@ describe(`Graph (${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relat
 
     it('filenames should match assigned IDs', () => {
         const assertIdsMatch = graphObject => {
-            assert.strictEqual(graphObject.content.id, path.basename(graphObject.absoluteFilePath, '.json'))
+            assert.strictEqual(
+                graphObject.content.id,
+                path.basename(graphObject.absoluteFilePath, path.extname(graphObject.absoluteFilePath))
+            )
         }
 
         nodeLabels.forEach(assertIdsMatch)
         nodes.forEach(assertIdsMatch)
         relationships.forEach(assertIdsMatch)
         relationshipTypes.forEach(assertIdsMatch)
+    })
+
+    it('IDs should be unique', () => {
+        const dupes = _(nodes)
+            .groupBy('content.id')
+            .mapValues(group => group.length)
+            .pickBy(length => length > 1)
+            .keys()
+            .value()
+
+        assert.deepStrictEqual(dupes, [])
     })
 
     it('labels assigned to nodes should be defined', () => {

@@ -1,0 +1,6 @@
+id     = "pallet-town"
+labels = ["Location", "PokemonSeries", "PokemonRBY"]
+
+[data]
+name           = "Pallet Town"
+locationTypeId = "Landmark"
