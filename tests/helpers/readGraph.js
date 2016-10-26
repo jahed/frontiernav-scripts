@@ -8,7 +8,7 @@ const parsers = {
     '.json': JSON.parse
 }
 
-function readGraphObjects(objectsPath) {
+function readGraphObjects(objectsPath, mapResult) {
     let result = []
     file.walkSync(objectsPath, (dirPath, dirs, filePaths) => {
         result = result.concat(
@@ -21,22 +21,22 @@ function readGraphObjects(objectsPath) {
                     const parser = parsers[path.extname(filePath)]
                     const content = parser(fileContent)
 
-                    return {
+                    return mapResult({
                         absoluteFilePath,
                         content
-                    }
+                    })
                 })
         )
     })
     return result
 }
 
-module.exports = function readGraph(graphPath) {
+module.exports = function readGraph(graphPath, mapResult = i => i) {
     return {
-        nodeLabels:        readGraphObjects(path.resolve(graphPath, 'nodeLabels')),
-        nodes:             readGraphObjects(path.resolve(graphPath, 'nodes')),
-        relationships:     readGraphObjects(path.resolve(graphPath, 'relationships')),
-        relationshipTypes: readGraphObjects(path.resolve(graphPath, 'relationshipTypes')),
+        nodeLabels:        readGraphObjects(path.resolve(graphPath, 'nodeLabels'), mapResult),
+        nodes:             readGraphObjects(path.resolve(graphPath, 'nodes'), mapResult),
+        relationships:     readGraphObjects(path.resolve(graphPath, 'relationships'), mapResult),
+        relationshipTypes: readGraphObjects(path.resolve(graphPath, 'relationshipTypes'), mapResult),
     }
 
 }
