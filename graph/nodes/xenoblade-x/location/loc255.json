@@ -7,5 +7,10 @@
   "data": {
     "name": "Leaning Ring",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Anello Arcano"
+    }
   }
 }

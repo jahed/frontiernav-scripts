@@ -7,5 +7,10 @@
   "data": {
     "name": "Fillal Filth",
     "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Residuo cristallino"
+    }
   }
 }

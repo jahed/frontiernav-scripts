@@ -10,6 +10,9 @@
   "locale": {
     "de": {
       "name": "Gemüse"
+    },
+    "it": {
+      "name": "Vegetali"
     }
   }
 }

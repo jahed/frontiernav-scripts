@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Data Miner"
+  },
+  "locale": {
+    "it": {
+      "name": "Estrattore di dati"
+    }
   }
 }

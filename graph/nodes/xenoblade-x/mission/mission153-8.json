@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Cinicula Assault"
+  },
+  "locale": {
+    "it": {
+      "name": "Assalto alla Cinicula"
+    }
   }
 }

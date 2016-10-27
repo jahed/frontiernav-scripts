@@ -7,5 +7,10 @@
   "data": {
     "name": "Rock-Orange",
     "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Rocciarancia"
+    }
   }
 }

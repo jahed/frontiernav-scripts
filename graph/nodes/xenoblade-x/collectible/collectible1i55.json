@@ -7,5 +7,10 @@
   "data": {
     "name": "US-X Space Suit",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Tuta spaziale US-X"
+    }
   }
 }

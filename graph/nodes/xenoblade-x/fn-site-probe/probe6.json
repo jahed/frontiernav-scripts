@@ -11,5 +11,10 @@
       "production_multiplier": 1.8,
       "revenue_multiplier": 0.3
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda da estrazione G5"
+    }
   }
 }

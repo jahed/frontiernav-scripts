@@ -7,5 +7,10 @@
   "data": {
     "name": "Water Purification Plant",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Impianto purif. acqua"
+    }
   }
 }

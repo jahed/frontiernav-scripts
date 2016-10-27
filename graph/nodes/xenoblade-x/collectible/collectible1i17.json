@@ -7,5 +7,10 @@
   "data": {
     "name": "Kiran Catnip",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Erba gatta Kiran"
+    }
   }
 }

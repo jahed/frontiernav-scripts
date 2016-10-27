@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Straße der Divisionen"
+    },
+    "it": {
+      "name": "Via delle Divisioni"
     }
   }
 }

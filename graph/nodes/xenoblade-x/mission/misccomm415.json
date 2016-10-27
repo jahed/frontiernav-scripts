@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Planetary Pioneer (Part III)"
+  },
+  "locale": {
+    "it": {
+      "name": "Pionieri planetari (Part III)"
+    }
   }
 }

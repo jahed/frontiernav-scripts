@@ -13,5 +13,10 @@
     "subcategory": "Qmoeva",
     "time": "19:00 - 5:00",
     "image": "eJ1bAbEi"
+  },
+  "locale": {
+    "it": {
+      "name": "Qmoeva composito sperimentale"
+    }
   }
 }

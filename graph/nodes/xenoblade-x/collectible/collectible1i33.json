@@ -7,5 +7,10 @@
   "data": {
     "name": "Sanelac Pearl",
     "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Perla Sanelac"
+    }
   }
 }

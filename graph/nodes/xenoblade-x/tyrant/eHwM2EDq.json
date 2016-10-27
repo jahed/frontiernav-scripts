@@ -12,5 +12,10 @@
     "category": "Insectoid",
     "subcategory": "Levitath",
     "image": "eHwM2EDq"
+  },
+  "locale": {
+    "it": {
+      "name": "Eutropio la Burrasca Marina"
+    }
   }
 }

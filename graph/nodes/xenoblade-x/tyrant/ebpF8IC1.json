@@ -13,5 +13,10 @@
     "subcategory": "Sphinx",
     "time": "5:00 - 19:00",
     "image": "ebpF8IC1"
+  },
+  "locale": {
+    "it": {
+      "name": "Feliciano il Chiaroveggente"
+    }
   }
 }

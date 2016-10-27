@@ -7,5 +7,10 @@
   "data": {
     "name": "Sonar Lemon",
     "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Limone sonar"
+    }
   }
 }

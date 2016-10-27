@@ -7,5 +7,10 @@
   "data": {
     "name": "Twin Arches",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Archi Gemelli"
+    }
   }
 }

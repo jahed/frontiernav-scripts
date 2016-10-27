@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Wartungszentrum"
+    },
+    "it": {
+      "name": "Centro manutenzione"
     }
   }
 }

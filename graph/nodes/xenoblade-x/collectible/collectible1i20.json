@@ -10,5 +10,10 @@
     "rarity": 3,
     "time": "Early Morning",
     "weather": "Rain"
+  },
+  "locale": {
+    "it": {
+      "name": "Richiamo primordiale"
+    }
   }
 }

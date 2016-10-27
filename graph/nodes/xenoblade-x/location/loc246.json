@@ -7,5 +7,10 @@
   "data": {
     "name": "King's Falls",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Cascate del Re"
+    }
   }
 }

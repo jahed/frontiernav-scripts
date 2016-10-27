@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Welcome Back, Conner"
+  },
+  "locale": {
+    "it": {
+      "name": "Bentornato, Conner!"
+    }
   }
 }

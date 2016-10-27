@@ -12,5 +12,10 @@
     "category": "Theroid",
     "subcategory": "Millisaur",
     "image": "eXFCgol2"
+  },
+  "locale": {
+    "it": {
+      "name": "Luciel l'Eterno"
+    }
   }
 }

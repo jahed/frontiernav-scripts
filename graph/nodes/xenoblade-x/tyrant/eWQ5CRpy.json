@@ -12,5 +12,10 @@
     "category": "Insectoid",
     "subcategory": "Thallus",
     "image": "eWQ5CRpy"
+  },
+  "locale": {
+    "it": {
+      "name": "Edgardo lo Spensierato"
+    }
   }
 }

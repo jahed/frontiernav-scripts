@@ -26,6 +26,9 @@
   "locale": {
     "de": {
       "name": "BLADE-Quartier"
+    },
+    "it": {
+      "name": "Caserma BLADE"
     }
   }
 }

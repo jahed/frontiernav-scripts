@@ -7,5 +7,10 @@
   "data": {
     "name": "Rustpool Banks",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Pozze di Ruggine"
+    }
   }
 }

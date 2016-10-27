@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Abwehrschildspiegel"
+    },
+    "it": {
+      "name": "Specchioscudo deflettore"
     }
   }
 }

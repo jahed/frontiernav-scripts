@@ -7,5 +7,10 @@
   ],
   "data": {
     "name": "The Ties That Bind"
+  },
+  "locale": {
+    "it": {
+      "name": "I legami che uniscono"
+    }
   }
 }

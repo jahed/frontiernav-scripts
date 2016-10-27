@@ -7,5 +7,10 @@
   "data": {
     "name": "Keegan Ridge",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Crinale Keegan"
+    }
   }
 }

@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "The Probe-fessional"
+  },
+  "locale": {
+    "it": {
+      "name": "Il professionista delle sonde"
+    }
   }
 }

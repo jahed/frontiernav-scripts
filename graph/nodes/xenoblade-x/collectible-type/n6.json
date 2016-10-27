@@ -10,6 +10,9 @@
   "locale": {
     "de": {
       "name": "Natur"
+    },
+    "it": {
+      "name": "Artefatti naturali"
     }
   }
 }

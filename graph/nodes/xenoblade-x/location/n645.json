@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "BLADE-Quartier"
+    },
+    "it": {
+      "name": "Interno della caserma"
     }
   }
 }

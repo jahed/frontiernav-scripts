@@ -7,5 +7,10 @@
   "data": {
     "name": "Northpointe Beach",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Litorale Puntanord"
+    }
   }
 }

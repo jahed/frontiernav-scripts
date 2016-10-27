@@ -7,5 +7,10 @@
   "data": {
     "name": "North Janpath Plain",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Piana nord Janpath"
+    }
   }
 }

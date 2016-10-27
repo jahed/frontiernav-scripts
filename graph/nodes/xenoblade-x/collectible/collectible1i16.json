@@ -7,5 +7,10 @@
   "data": {
     "name": "Anhydrous Radiator",
     "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Radiatore anidro"
+    }
   }
 }

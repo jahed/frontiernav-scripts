@@ -7,5 +7,10 @@
   "data": {
     "name": "Central Melville Street",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Via Melville centrale"
+    }
   }
 }

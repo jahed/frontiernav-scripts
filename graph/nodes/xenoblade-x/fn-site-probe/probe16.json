@@ -11,5 +11,10 @@
       "production_multiplier": 0.3,
       "revenue_multiplier": 4
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda di ricerca G5"
+    }
   }
 }

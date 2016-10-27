@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Industriegebiet Zentrum"
+    },
+    "it": {
+      "name": "Zona industriale centro"
     }
   }
 }

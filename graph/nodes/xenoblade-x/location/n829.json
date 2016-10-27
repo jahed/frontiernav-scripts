@@ -7,5 +7,10 @@
   "data": {
     "name": "Integrated Production Plant",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Centro produz. integrata"
+    }
   }
 }

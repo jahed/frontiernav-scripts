@@ -12,5 +12,10 @@
     "category": "Theroid",
     "subcategory": "Potamus",
     "image": "eTDgAowk"
+  },
+  "locale": {
+    "it": {
+      "name": "Mesgen l'Opportunista"
+    }
   }
 }

@@ -8,5 +8,10 @@
     "name": "Talon Rock Second Terrane",
     "cave": false,
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Roccia Sperone piana II"
+    }
   }
 }

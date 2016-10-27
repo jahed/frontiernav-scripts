@@ -7,5 +7,10 @@
   "data": {
     "name": "FN Site 503",
     "locationTypeId": "MiraniumDeposit"
+  },
+  "locale": {
+    "it": {
+      "name": "Sito FN 503"
+    }
   }
 }

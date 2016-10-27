@@ -7,5 +7,10 @@
   "data": {
     "name": "Sickle Rock Rise",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Colle Roccafalce"
+    }
   }
 }

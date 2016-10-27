@@ -7,5 +7,10 @@
   "data": {
     "name": "Barbarich Desert",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Deserto Barbarich"
+    }
   }
 }

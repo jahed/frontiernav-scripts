@@ -10,6 +10,9 @@
   "locale": {
     "de": {
       "name": "Insekten"
+    },
+    "it": {
+      "name": "Insetti"
     }
   }
 }

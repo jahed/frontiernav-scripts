@@ -7,5 +7,10 @@
   "data": {
     "name": "Mosa Cabbage",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Cavolo Mosa"
+    }
   }
 }

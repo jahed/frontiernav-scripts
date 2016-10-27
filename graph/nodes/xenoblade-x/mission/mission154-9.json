@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Renewed Will"
+  },
+  "locale": {
+    "it": {
+      "name": "Rinnovata volontà"
+    }
   }
 }

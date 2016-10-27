@@ -7,5 +7,10 @@
   "data": {
     "name": "Tractor Beetle",
     "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Scarabeo trattore"
+    }
   }
 }

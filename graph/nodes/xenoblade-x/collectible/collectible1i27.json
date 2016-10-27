@@ -7,5 +7,10 @@
   "data": {
     "name": "Amidresian Tomato",
     "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Pomodoro Amidoresia"
+    }
   }
 }

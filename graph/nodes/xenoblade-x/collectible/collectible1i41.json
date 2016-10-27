@@ -7,5 +7,10 @@
   "data": {
     "name": "Auroran Bone",
     "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Osso d'Aurora"
+    }
   }
 }

@@ -11,5 +11,10 @@
       "production_multiplier": 0.3,
       "revenue_multiplier": 3
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda di ricerca G3"
+    }
   }
 }

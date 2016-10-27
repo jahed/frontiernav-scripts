@@ -7,5 +7,10 @@
   ],
   "data": {
     "name": "We Were Soldiers"
+  },
+  "locale": {
+    "it": {
+      "name": "Una volta eravamo soldati"
+    }
   }
 }

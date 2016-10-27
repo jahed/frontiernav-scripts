@@ -7,5 +7,10 @@
   "data": {
     "name": "Deliverance Park",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Parco della Salvezza"
+    }
   }
 }

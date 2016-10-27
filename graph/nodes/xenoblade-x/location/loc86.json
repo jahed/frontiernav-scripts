@@ -7,5 +7,10 @@
   "data": {
     "name": "Elephant's Trunk",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Lunga Proboscide"
+    }
   }
 }

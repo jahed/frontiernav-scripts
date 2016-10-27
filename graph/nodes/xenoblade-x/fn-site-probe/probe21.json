@@ -12,5 +12,10 @@
       "revenue_multiplier": 0.1,
       "storage_bonus": 3000
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda di stoccaggio"
+    }
   }
 }

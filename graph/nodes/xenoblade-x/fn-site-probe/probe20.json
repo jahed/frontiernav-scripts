@@ -11,5 +11,10 @@
       "production_multiplier": 0,
       "revenue_multiplier": 0
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda copia"
+    }
   }
 }

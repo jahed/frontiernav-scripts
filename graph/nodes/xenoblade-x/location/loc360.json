@@ -7,5 +7,10 @@
   "data": {
     "name": "Silent Mire",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Palude Silente"
+    }
   }
 }

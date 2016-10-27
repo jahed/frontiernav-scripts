@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Mayday"
+  },
+  "locale": {
+    "it": {
+      "name": "Richiesta d'aiuto"
+    }
   }
 }

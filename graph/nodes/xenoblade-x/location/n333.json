@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Arsenal-Allee"
+    },
+    "it": {
+      "name": "Via dell'Armeria"
     }
   }
 }

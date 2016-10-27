@@ -7,5 +7,10 @@
   "data": {
     "name": "Cliffside Camp",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Campo sul Baratro"
+    }
   }
 }

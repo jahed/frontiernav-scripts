@@ -8,5 +8,10 @@
     "name": "Roof Rock",
     "cave": false,
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Tetto di Roccia"
+    }
   }
 }

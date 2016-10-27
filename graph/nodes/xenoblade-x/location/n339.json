@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Westtor"
+    },
+    "it": {
+      "name": "Cancello ovest"
     }
   }
 }

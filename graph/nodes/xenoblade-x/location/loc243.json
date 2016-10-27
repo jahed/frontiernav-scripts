@@ -7,5 +7,10 @@
   "data": {
     "name": "Janpath Lake",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Lago Janpath"
+    }
   }
 }

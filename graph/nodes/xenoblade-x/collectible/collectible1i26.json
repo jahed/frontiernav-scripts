@@ -7,5 +7,10 @@
   "data": {
     "name": "Vagabond Ant",
     "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Formica errante"
+    }
   }
 }

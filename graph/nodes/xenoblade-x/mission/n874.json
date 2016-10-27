@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Yardley's Scheme"
+  },
+  "locale": {
+    "it": {
+      "name": "Il piano di Yardley"
+    }
   }
 }

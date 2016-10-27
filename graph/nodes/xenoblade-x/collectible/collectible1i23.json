@@ -7,5 +7,10 @@
   "data": {
     "name": "Stretching Locust",
     "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Locusta elastica"
+    }
   }
 }

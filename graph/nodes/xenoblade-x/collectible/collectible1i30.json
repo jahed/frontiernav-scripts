@@ -7,5 +7,10 @@
   "data": {
     "name": "Meditation Powder",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Polvere di meditazione"
+    }
   }
 }

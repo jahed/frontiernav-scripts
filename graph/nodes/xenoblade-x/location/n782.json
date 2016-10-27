@@ -7,5 +7,10 @@
   "data": {
     "name": "Sports Complex",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Centro sportivo"
+    }
   }
 }

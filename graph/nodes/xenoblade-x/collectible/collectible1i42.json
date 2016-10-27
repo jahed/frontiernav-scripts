@@ -7,5 +7,10 @@
   "data": {
     "name": "Heatproof Inox Pipe",
     "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Tubo inossidabile isolante"
+    }
   }
 }

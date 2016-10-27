@@ -10,6 +10,9 @@
   "locale": {
     "de": {
       "name": "Reisepunkt"
+    },
+    "it": {
+      "name": "Punti di Riferimento"
     }
   }
 }

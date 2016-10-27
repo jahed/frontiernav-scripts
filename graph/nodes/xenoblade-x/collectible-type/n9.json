@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Xenotech"
+  },
+  "locale": {
+    "it": {
+      "name": "Tecnologie Xeno"
+    }
   }
 }

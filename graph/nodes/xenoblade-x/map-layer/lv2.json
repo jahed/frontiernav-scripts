@@ -12,6 +12,9 @@
   "locale": {
     "de": {
       "name": "Segmente"
+    },
+    "it": {
+      "name": "Settori"
     }
   }
 }

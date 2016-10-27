@@ -13,5 +13,10 @@
     "subcategory": "Blatta",
     "time": "19:00 - 5:00",
     "image": "eeNh781b"
+  },
+  "locale": {
+    "it": {
+      "name": "Casper l'Ingordo"
+    }
   }
 }

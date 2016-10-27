@@ -7,5 +7,10 @@
   "data": {
     "name": "Oblivia Ingress",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Le Porte di Oblivia"
+    }
   }
 }

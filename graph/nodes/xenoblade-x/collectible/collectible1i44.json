@@ -10,5 +10,10 @@
     "rarity": 2,
     "time": "Early Morning",
     "weather": "Rain"
+  },
+  "locale": {
+    "it": {
+      "name": "Lattuga Sadelana"
+    }
   }
 }

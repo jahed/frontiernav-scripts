@@ -7,5 +7,10 @@
   "data": {
     "name": "East Melville Street",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Via Melville est"
+    }
   }
 }

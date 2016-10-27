@@ -7,5 +7,10 @@
   "data": {
     "name": "White Iron Sand",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Sabbia ferrifera bianca"
+    }
   }
 }

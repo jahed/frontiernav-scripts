@@ -7,5 +7,10 @@
   "data": {
     "name": "North Founders Street",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Prima Nord"
+    }
   }
 }

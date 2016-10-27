@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "BLADE-Sammelpunkt"
+    },
+    "it": {
+      "name": "Ingresso BLADE"
     }
   }
 }

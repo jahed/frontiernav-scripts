@@ -7,5 +7,10 @@
   "data": {
     "name": "Mondcherry",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Mondociliegia"
+    }
   }
 }

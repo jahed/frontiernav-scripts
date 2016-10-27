@@ -8,5 +8,10 @@
     "name": "Headwater Summit",
     "cave": false,
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Vetta Sorgente"
+    }
   }
 }

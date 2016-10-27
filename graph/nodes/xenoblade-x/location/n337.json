@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Osttor"
+    },
+    "it": {
+      "name": "Cancello est"
     }
   }
 }

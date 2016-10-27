@@ -12,5 +12,10 @@
       "revenue_multiplier": 0.1,
       "neighbour_primary_multiplier": 1.5
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda potenziatrice G1"
+    }
   }
 }

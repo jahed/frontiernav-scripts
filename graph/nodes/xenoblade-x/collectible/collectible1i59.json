@@ -7,5 +7,10 @@
   "data": {
     "name": "California Sunset",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Tramonto californiano"
+    }
   }
 }

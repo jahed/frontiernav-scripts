@@ -7,5 +7,10 @@
   "data": {
     "name": "Aaroy Plain",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Pianura Aaroy"
+    }
   }
 }

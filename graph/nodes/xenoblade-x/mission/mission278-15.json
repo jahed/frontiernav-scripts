@@ -7,5 +7,10 @@
   ],
   "data": {
     "name": "Close Comrades"
+  },
+  "locale": {
+    "it": {
+      "name": "Compagni affiatati"
+    }
   }
 }

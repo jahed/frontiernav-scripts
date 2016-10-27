@@ -13,5 +13,10 @@
     "subcategory": "Auravis",
     "time": "5:00 - 19:00",
     "image": "ezdfgzch"
+  },
+  "locale": {
+    "it": {
+      "name": "Bohdan il Maestrale"
+    }
   }
 }

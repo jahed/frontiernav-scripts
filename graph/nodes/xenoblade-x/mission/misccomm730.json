@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Better Latte Than Never"
+  },
+  "locale": {
+    "it": {
+      "name": "La barista maldestra"
+    }
   }
 }

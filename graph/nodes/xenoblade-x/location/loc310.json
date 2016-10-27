@@ -7,5 +7,10 @@
   "data": {
     "name": "Old Dragontail Tree",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Vetustalbero Dragospino"
+    }
   }
 }

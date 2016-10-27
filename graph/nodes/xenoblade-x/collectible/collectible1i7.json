@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Biosphärenprüfer L-002"
+    },
+    "it": {
+      "name": "Spaziometro L-002"
     }
   }
 }

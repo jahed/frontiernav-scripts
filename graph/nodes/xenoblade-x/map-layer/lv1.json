@@ -12,6 +12,9 @@
   "locale": {
     "de": {
       "name": "Sammel-Items"
+    },
+    "it": {
+      "name": "Collezionabili"
     }
   }
 }

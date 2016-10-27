@@ -7,5 +7,10 @@
   "data": {
     "name": "Humdrum Peaks",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Vette Monotone"
+    }
   }
 }

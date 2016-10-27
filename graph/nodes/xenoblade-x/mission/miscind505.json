@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Rise of the Blood Lobster"
+  },
+  "locale": {
+    "it": {
+      "name": "L'ascesa dell'Astice sanguinario"
+    }
   }
 }
