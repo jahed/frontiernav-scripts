@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Fruits"
+  },
+  "locale": {
+    "de": {
+      "name": "Obst"
+    }
   }
 }

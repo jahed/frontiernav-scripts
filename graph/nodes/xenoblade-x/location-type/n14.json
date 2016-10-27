@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Scenic Viewpoint"
+  },
+  "locale": {
+    "de": {
+      "name": "Aussichtspunkt"
+    }
   }
 }

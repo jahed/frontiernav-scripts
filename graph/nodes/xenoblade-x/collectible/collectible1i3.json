@@ -7,5 +7,10 @@
   "data": {
     "name": "Rizattice",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Risateidechse"
+    }
   }
 }

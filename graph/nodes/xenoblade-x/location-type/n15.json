@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Unexplored Territory"
+  },
+  "locale": {
+    "de": {
+      "name": "Geheimnisvoller Ort"
+    }
   }
 }

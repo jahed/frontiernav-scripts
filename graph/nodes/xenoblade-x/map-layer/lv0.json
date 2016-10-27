@@ -8,5 +8,10 @@
     "name": "Locations",
     "icon": "compass",
     "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
   }
 }

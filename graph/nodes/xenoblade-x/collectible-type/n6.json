@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Natural Artifacts"
+  },
+  "locale": {
+    "de": {
+      "name": "Natur"
+    }
   }
 }

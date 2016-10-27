@@ -7,5 +7,10 @@
   "data": {
     "name": "Lacey Potato",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Spitzkartoffel"
+    }
   }
 }

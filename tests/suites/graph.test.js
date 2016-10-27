@@ -3,11 +3,16 @@ const assert = require('assert')
 const _ = require('lodash')
 const readGraph = require('../helpers/readGraph')
 const countGraph = require('../helpers/countGraph')
+const locales = require('../data/locales.json')
 
 const graph = readGraph('./graph')
 const { nodeLabels, nodes, relationships, relationshipTypes } = graph
 
-describe(`Graph (${countGraph(graph)})`, () => {
+describe('Graph', () => {
+
+    it(`read (${countGraph(graph)})`, () => {
+
+    })
 
     it('filenames should match assigned IDs', () => {
         const assertIdsMatch = graphObject => {
@@ -50,6 +55,36 @@ describe(`Graph (${countGraph(graph)})`, () => {
                 .includes(relationship.content.start, relationship.content.end)
 
             assert.ok(nodesExist, `Relationship(${relationship.content.id}) has unknown nodes`)
+        })
+    })
+
+    describe('locale', () => {
+
+        it('codes should be ISO 639-1 codes', () => {
+            _(nodes)
+                .map('content')
+                .filter('locale')
+                .forEach(node => {
+                    _.forEach(node.locale, (localeData, code) => {
+                        assert.ok(!!locales[code], `Unknown language code "${code}" found in Node(${node.id})`)
+                    })
+                })
+        })
+
+        it('field names should match base data field names', () => {
+            _(nodes)
+                .map('content')
+                .filter('locale')
+                .forEach(node => {
+                    _.forEach(node.locale, (localeData, code) => {
+                        const unknownFieldNames = _(localeData)
+                            .keys()
+                            .filter(fieldName => !node.data[fieldName])
+                            .value()
+
+                        assert.deepStrictEqual(unknownFieldNames, [], `Unknown fields found in Node(${node.id})'s "${code}" locale.`)
+                    })
+                })
         })
     })
 })

@@ -7,5 +7,10 @@
   "data": {
     "name": "BLADE Tower",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Turm"
+    }
   }
 }

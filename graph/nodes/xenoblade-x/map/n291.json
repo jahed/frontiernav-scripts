@@ -22,5 +22,10 @@
     },
     "defaultZoom": 1,
     "maxNativeZoom": 3
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Quartier"
+    }
   }
 }

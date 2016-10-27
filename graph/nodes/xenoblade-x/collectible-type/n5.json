@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Fauna"
+  },
+  "locale": {
+    "de": {
+      "name": "Kleintiere"
+    }
   }
 }

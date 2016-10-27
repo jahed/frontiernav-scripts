@@ -8,5 +8,10 @@
     "name": "Collectibles",
     "icon": "book",
     "thumbnail": "view-collectibles"
+  },
+  "locale": {
+    "de": {
+      "name": "Sammel-Items"
+    }
   }
 }

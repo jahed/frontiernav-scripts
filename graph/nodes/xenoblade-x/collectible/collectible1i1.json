@@ -7,5 +7,10 @@
   "data": {
     "name": "Cranjelly",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Glibberbeere"
+    }
   }
 }

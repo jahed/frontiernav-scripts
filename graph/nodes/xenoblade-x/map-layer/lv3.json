@@ -8,5 +8,10 @@
     "name": "Probes",
     "icon": "line-chart",
     "thumbnail": "view-probes"
+  },
+  "locale": {
+    "de": {
+      "name": "Sonden"
+    }
   }
 }

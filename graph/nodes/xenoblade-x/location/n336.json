@@ -7,5 +7,10 @@
   "data": {
     "name": "Division Drive",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Straße der Divisionen"
+    }
   }
 }

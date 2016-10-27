@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Wreckage"
+  },
+  "locale": {
+    "de": {
+      "name": "Trümmer"
+    }
   }
 }

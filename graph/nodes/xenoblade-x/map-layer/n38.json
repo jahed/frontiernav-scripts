@@ -8,5 +8,10 @@
     "name": "Segments",
     "description": "Segments in NLA",
     "thumbnail": "view-segments"
+  },
+  "locale": {
+    "de": {
+      "name": "Segmente"
+    }
   }
 }

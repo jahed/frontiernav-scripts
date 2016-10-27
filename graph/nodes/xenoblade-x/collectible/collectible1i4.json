@@ -7,5 +7,10 @@
   "data": {
     "name": "Ball Mosquito",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Kugelmoskito"
+    }
   }
 }

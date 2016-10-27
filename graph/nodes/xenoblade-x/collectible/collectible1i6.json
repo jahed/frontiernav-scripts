@@ -7,5 +7,10 @@
   "data": {
     "name": "L-002 Fuel Tank",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Treibstofftank L-002"
+    }
   }
 }

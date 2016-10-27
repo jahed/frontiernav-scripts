@@ -7,5 +7,10 @@
   "data": {
     "name": "East Gate",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Osttor"
+    }
   }
 }

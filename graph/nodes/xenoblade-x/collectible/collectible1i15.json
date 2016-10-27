@@ -7,5 +7,10 @@
   "data": {
     "name": "Hummingstone",
     "rarity": 4
+  },
+  "locale": {
+    "de": {
+      "name": "Summsummstein"
+    }
   }
 }

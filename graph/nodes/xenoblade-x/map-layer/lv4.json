@@ -8,5 +8,10 @@
     "name": "Enemies",
     "icon": "shield",
     "thumbnail": "view-enemies"
+  },
+  "locale": {
+    "de": {
+      "name": "Gegner"
+    }
   }
 }

@@ -8,5 +8,10 @@
     "name": "Segments",
     "icon": "th",
     "thumbnail": "view-segments"
+  },
+  "locale": {
+    "de": {
+      "name": "Segmente"
+    }
   }
 }

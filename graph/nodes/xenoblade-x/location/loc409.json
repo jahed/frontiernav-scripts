@@ -7,5 +7,10 @@
   "data": {
     "name": "West Gate Plain",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Westtorsteppe"
+    }
   }
 }

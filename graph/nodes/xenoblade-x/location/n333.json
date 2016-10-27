@@ -7,5 +7,10 @@
   "data": {
     "name": "Armory Alley",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Arsenal-Allee"
+    }
   }
 }

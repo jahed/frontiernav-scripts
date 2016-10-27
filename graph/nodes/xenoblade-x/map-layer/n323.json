@@ -8,5 +8,10 @@
     "name": "Locations",
     "description": "Locations in NLA",
     "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
   }
 }

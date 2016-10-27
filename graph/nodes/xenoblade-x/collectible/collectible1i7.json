@@ -7,5 +7,10 @@
   "data": {
     "name": "L-002 Space Analyzer",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Biosphärenprüfer L-002"
+    }
   }
 }

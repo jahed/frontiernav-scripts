@@ -8,5 +8,10 @@
     "name": "Starfall Basin",
     "cave": false,
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Kometenkessel"
+    }
   }
 }

@@ -7,5 +7,10 @@
   "data": {
     "name": "Central Industrial District",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Industriegebiet Zentrum"
+    }
   }
 }

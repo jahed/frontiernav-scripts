@@ -7,5 +7,10 @@
   "data": {
     "name": "Sweet Nerine",
     "rarity": 2
+  },
+  "locale": {
+    "de": {
+      "name": "Honigkuchenblume"
+    }
   }
 }

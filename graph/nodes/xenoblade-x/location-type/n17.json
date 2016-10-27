@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Area"
+  },
+  "locale": {
+    "de": {
+      "name": "Gebiet"
+    }
   }
 }

@@ -6,5 +6,10 @@
   ],
   "data": {
     "name": "Flora"
+  },
+  "locale": {
+    "de": {
+      "name": "Blumen"
+    }
   }
 }

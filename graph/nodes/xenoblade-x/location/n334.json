@@ -7,5 +7,10 @@
   "data": {
     "name": "BLADE Concourse",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Sammelpunkt"
+    }
   }
 }

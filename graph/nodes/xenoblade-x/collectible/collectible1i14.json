@@ -10,5 +10,10 @@
     "rarity": 4,
     "time": "Early Morning",
     "weather": "Rain"
+  },
+  "locale": {
+    "de": {
+      "name": "Arnasisches Wiederz"
+    }
   }
 }

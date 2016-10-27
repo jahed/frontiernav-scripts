@@ -7,5 +7,10 @@
   "data": {
     "name": "Strawlenny",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Xerdbeere"
+    }
   }
 }

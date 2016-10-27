@@ -7,5 +7,10 @@
   "data": {
     "name": "Primordia Base Camp 1",
     "locationTypeId": "Camp"
+  },
+  "locale": {
+    "de": {
+      "name": "AP Halbdunkelsteige"
+    }
   }
 }

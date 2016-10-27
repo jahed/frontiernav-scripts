@@ -7,5 +7,10 @@
   "data": {
     "name": "Golden Sardine",
     "rarity": 3
+  },
+  "locale": {
+    "de": {
+      "name": "Goldsardine"
+    }
   }
 }

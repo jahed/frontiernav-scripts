@@ -7,5 +7,10 @@
   "data": {
     "name": "Barracks Interior",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Quartier"
+    }
   }
 }

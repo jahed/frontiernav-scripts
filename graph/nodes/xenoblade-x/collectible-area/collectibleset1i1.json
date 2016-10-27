@@ -7,5 +7,10 @@
   "data": {
     "name": "Primordia Southwest Area",
     "itemType": "Collectible"
+  },
+  "locale": {
+    "de": {
+      "name": "Primordia Südwestliches Gebiet"
+    }
   }
 }
