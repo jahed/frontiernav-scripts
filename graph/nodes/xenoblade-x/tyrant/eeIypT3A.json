@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eeIypT3A",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eeIypT3A",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Armed Destroyer Galdr",
     "level": 45,

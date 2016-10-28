@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ejNS0KUu",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ejNS0KUu",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Frontline Medic Quo",
     "level": 40,

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eM6VHCHk",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eM6VHCHk",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shinhwa, the Sagacious",
     "level": 24,

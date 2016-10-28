@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission297-16",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission297-16",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Duel (Part II)"
   }

@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "collectible1i13",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i13",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Keppo Carrot",
     "rarity": 3
+  },
+  "locale": {
+    "de": {
+      "name": "Keppokarotte"
+    },
+    "it": {
+      "name": "Carota Keppo"
+    }
   }
 }

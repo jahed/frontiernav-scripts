@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission551-6",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission551-6",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Bodyguard"
   }

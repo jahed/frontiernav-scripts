@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr9",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr9",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Enduron Lead",
     "rarity": 0

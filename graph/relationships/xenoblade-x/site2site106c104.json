@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "site2site106c104",
-    "type": "HAS"
-  },
+  "id": "site2site106c104",
+  "type": "HAS",
   "data": {},
   "start": "site106",
   "end": "site104"

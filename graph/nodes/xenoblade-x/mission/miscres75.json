@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscres75",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscres75",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "New Frontier"
   }

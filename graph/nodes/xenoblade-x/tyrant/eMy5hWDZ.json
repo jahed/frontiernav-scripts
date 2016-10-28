@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eMy5hWDZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eMy5hWDZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Zdenka, the Raucous",
     "level": 60,

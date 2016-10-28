@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure456-11",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure456-11",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Patrol Chopper Wreckage",
     "requirements": {

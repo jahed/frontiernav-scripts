@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc61",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc61",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Crater Oasis",
     "locationTypeId": "Unexplored"

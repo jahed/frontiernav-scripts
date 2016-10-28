@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc74",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc74",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dopang Caravan",
     "locationTypeId": "Area"

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc307",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc307",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Oblivia Base Camp 8",
     "locationTypeId": "Camp"

@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "id": "Location"
-  },
+  "id": "Location",
   "name": "Location",
   "searchable": true,
   "pageDescription": "Here's what you can find in and around {name} in Xenoblade Chronicles X.",

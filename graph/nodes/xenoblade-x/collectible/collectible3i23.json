@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i23",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i23",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sandstone Etching",
     "rarity": 2

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n782",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n782",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sports Complex",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Centro sportivo"
+    }
   }
 }

@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "siteGraph0",
-    "labels": [
-      "FNSiteGraph",
-      "XenobladeX"
-    ]
-  },
+  "id": "siteGraph0",
+  "labels": [
+    "FNSiteGraph",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Default (Jahed's Layout)"
+  },
+  "locale": {
+    "de": {
+      "name": "Standard (Jaheds Layout)"
+    }
   }
 }

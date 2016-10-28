@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eoj6M0mv",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eoj6M0mv",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Izgnanie, the Smoldering",
     "level": 64,

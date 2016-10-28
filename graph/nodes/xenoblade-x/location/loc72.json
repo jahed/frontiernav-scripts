@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc72",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc72",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Divine Roost",
     "locationTypeId": "Area"

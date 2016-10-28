@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc367",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc367",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "South Coast",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Costa Sud"
+    }
   }
 }

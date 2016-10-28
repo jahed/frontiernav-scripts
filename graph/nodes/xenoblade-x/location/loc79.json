@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc79",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc79",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Drowning Ring",
     "locationTypeId": "Area"

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eeqBxODc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eeqBxODc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yessenia, the Husky-Voiced",
     "level": 23,

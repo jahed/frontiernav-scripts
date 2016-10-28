@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset1i2",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset1i2",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Primordia Northwest Area",
     "itemType": "Collectible"

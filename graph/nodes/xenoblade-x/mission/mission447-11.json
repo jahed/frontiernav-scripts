@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission447-11",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission447-11",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Line of Fire"
   }

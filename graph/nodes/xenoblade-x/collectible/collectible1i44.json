@@ -1,16 +1,19 @@
 {
-  "metadata": {
-    "id": "collectible1i44",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i44",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sadelana Lettuce",
     "requirements": true,
     "rarity": 2,
     "time": "Early Morning",
     "weather": "Rain"
+  },
+  "locale": {
+    "it": {
+      "name": "Lattuga Sadelana"
+    }
   }
 }

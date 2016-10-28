@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "misccomm680",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "misccomm680",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "A Hero's Ride"
+  },
+  "locale": {
+    "it": {
+      "name": "Soccorso eroico"
+    }
   }
 }

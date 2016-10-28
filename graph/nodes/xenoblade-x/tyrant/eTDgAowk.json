@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eTDgAowk",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eTDgAowk",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mesgen, the Fairweathered",
     "level": 28,
@@ -14,5 +12,10 @@
     "category": "Theroid",
     "subcategory": "Potamus",
     "image": "eTDgAowk"
+  },
+  "locale": {
+    "it": {
+      "name": "Mesgen l'Opportunista"
+    }
   }
 }

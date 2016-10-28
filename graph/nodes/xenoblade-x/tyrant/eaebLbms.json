@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eaebLbms",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eaebLbms",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Germaine, the Treasure Keeper",
     "level": 35,

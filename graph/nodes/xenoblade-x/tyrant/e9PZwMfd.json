@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e9PZwMfd",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e9PZwMfd",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Andrei, the Cunning",
     "level": 40,

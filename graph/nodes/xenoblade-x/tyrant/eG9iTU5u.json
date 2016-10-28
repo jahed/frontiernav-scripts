@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eG9iTU5u",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eG9iTU5u",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Olegario, the Iron-Helmed",
     "level": 50,

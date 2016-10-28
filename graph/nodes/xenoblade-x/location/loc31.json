@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc31",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc31",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Biahno River",
     "cave": false,

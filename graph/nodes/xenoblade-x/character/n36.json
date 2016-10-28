@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n36",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n36",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Phog Christoph",
     "image": "phog-banner",

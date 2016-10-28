@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r330",
-    "type": "HAS"
-  },
+  "id": "r330",
+  "type": "HAS",
   "start": "n203",
   "end": "n264",
   "data": {}

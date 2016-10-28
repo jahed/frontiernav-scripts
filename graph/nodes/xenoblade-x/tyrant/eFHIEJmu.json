@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eFHIEJmu",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eFHIEJmu",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vittorio, the Battle-Scarred",
     "level": 28,

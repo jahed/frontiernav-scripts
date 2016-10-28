@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eI4vY7I6",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eI4vY7I6",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rodriguez, the Twin-Tusked",
     "level": 35,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i27",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i27",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eternal Moss",
     "rarity": 4

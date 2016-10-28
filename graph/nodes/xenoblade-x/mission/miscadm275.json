@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm275",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm275",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "House of Cards"
   }

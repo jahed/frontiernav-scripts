@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "petOMI2Gy",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "petOMI2Gy",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": -62.59334083012023,

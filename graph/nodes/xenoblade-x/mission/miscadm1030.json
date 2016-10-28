@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "miscadm1030",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm1030",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Planetary Pioneer (Part II)"
+  },
+  "locale": {
+    "it": {
+      "name": "Pionieri planetari (Part II)"
+    }
   }
 }

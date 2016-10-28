@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i8",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i8",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Elemental Battery",
     "rarity": 1

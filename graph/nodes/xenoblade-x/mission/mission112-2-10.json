@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "mission112-2-10",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission112-2-10",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "We Were Soldiers"
+  },
+  "locale": {
+    "it": {
+      "name": "Una volta eravamo soldati"
+    }
   }
 }

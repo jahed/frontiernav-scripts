@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure593-12",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure593-12",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Lifepod",
     "requirements": {

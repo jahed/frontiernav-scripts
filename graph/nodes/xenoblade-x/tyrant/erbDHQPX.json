@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "erbDHQPX",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "erbDHQPX",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sadar, the Unhinged",
     "level": 35,

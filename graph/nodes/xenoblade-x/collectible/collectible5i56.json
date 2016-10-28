@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i56",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i56",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lava Fox",
     "rarity": 4

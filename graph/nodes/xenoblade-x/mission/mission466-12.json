@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission466-12",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission466-12",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "It's-a Mia!"
   }

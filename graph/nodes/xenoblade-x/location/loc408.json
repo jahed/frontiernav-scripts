@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc408",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc408",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "West Cinderdunes",
     "locationTypeId": "Area"

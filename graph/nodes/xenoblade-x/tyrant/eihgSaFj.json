@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eihgSaFj",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eihgSaFj",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Natt, the Inestimable",
     "level": 41,

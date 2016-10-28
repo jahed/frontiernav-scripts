@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e5xG5ohc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e5xG5ohc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Clemente, the Iron Meteor",
     "level": 22,

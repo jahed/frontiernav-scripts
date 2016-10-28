@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eHvkVL5I",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eHvkVL5I",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sven, the Sturdy",
     "level": 59,

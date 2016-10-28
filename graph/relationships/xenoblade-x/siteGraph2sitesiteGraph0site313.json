@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "siteGraph2sitesiteGraph0site313",
-    "type": "HAS"
-  },
+  "id": "siteGraph2sitesiteGraph0site313",
+  "type": "HAS",
   "data": {},
   "start": "siteGraph0",
   "end": "site313"

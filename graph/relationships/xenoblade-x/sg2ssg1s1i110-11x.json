@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "sg2ssg1s1i110-11x",
-    "type": "HAS"
-  },
+  "id": "sg2ssg1s1i110-11x",
+  "type": "HAS",
   "data": {},
   "start": "sg1",
   "end": "s1i110-11x"

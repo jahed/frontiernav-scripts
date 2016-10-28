@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc268",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc268",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Molten Hollow",
     "cave": true,

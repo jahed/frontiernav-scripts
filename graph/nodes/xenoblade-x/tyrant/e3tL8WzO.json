@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e3tL8WzO",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e3tL8WzO",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sheldon, the Dentally Challenged",
     "level": 30,

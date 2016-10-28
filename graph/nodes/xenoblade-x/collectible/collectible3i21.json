@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i21",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i21",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Phantom Tanuki",
     "rarity": 1

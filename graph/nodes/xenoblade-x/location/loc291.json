@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc291",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc291",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Northern Searoad",
     "locationTypeId": "Area"

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc255",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc255",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Leaning Ring",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Anello Arcano"
+    }
   }
 }

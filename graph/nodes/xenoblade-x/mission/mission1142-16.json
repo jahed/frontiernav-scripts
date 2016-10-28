@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission1142-16",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission1142-16",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "A Dubious Operation"
   }

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr13",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr13",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Marine Rutile",
     "rarity": 0

@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "e2peelGi6omrpelGi6omr",
-    "type": "MAP_LINK"
-  },
+  "id": "e2peelGi6omrpelGi6omr",
+  "type": "MAP_LINK",
   "data": {},
   "start": "elGi6omr",
   "end": "pelGi6omr"

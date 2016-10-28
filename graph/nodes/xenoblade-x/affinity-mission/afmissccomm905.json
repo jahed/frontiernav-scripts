@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "afmissccomm905",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "afmissccomm905",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Ties That Bind"
+  },
+  "locale": {
+    "it": {
+      "name": "I legami che uniscono"
+    }
   }
 }

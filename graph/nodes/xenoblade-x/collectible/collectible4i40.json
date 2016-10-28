@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i40",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i40",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Brilliant Green Liquid",
     "rarity": 1

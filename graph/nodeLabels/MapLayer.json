@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "id": "MapLayer"
-  },
+  "id": "MapLayer",
   "name": "Map Layer",
   "pageDescription": "Map Layers are used to create various views on top of a map.",
   "schema": {

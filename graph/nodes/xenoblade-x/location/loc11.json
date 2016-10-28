@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc11",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc11",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Atop the Giant Ring",
     "locationTypeId": "Scenic"

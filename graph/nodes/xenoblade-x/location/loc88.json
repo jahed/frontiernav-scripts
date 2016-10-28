@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc88",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc88",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Ensanguined Font",

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eHwM2EDq",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eHwM2EDq",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eutropio, the Sea Rumble",
     "level": 45,
@@ -14,5 +12,10 @@
     "category": "Insectoid",
     "subcategory": "Levitath",
     "image": "eHwM2EDq"
+  },
+  "locale": {
+    "it": {
+      "name": "Eutropio la Burrasca Marina"
+    }
   }
 }

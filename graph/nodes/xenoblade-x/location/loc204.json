@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc204",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc204",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Forgotten Mining Frigate 4",
     "locationTypeId": "MiningFrigate",

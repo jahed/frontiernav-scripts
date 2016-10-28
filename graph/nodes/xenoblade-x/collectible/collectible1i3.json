@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i3",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i3",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rizattice",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Risateidechse"
+    }
   }
 }

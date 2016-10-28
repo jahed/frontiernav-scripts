@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "n332",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n332",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "BLADE Tower",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Turm"
+    },
+    "it": {
+      "name": "Torre BLADE"
+    }
   }
 }

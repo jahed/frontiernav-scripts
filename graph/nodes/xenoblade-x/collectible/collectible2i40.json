@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i40",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i40",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lava Mango",
     "rarity": 3

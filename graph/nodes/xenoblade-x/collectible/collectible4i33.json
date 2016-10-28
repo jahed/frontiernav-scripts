@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i33",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i33",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Flowering Egg",
     "rarity": 1

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eQds7gwi",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eQds7gwi",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Roderick, the Fleet-Footed",
     "level": 11,

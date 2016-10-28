@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ediN8eEc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ediN8eEc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yune, the Ambusher",
     "level": 20,

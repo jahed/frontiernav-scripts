@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission45-2-3",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission45-2-3",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Unknown Assailant"
   }

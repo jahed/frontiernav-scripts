@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "epKxtpkf",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "epKxtpkf",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Chantai's Galdr",
     "level": 47,

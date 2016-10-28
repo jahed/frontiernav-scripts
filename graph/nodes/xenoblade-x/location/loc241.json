@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc241",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc241",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Island 9",
     "locationTypeId": "Island"

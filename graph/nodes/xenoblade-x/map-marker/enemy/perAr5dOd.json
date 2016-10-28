@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "perAr5dOd",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "perAr5dOd",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": 71.13098770917023,

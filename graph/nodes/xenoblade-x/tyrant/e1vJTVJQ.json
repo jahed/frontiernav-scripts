@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e1vJTVJQ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e1vJTVJQ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hephaestus, the Absconder",
     "level": 25,

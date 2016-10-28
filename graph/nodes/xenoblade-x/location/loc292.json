@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc292",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc292",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Northpointe Beach",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Litorale Puntanord"
+    }
   }
 }

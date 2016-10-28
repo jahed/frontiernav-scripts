@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n492",
-    "labels": [
-      "Segment",
-      "XenobladeX"
-    ]
-  },
+  "id": "n492",
+  "labels": [
+    "Segment",
+    "XenobladeX"
+  ],
   "data": {
     "q": 5,
     "r": 5,

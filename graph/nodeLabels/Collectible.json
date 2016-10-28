@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "id": "Collectible"
-  },
+  "id": "Collectible",
   "name": "Collectible",
   "searchable": true,
   "pageDescription": "Find out where you can find {name} in Xenoblade Chronicles X.",

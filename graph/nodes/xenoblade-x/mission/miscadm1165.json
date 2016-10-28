@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm1165",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm1165",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Root of All Evil"
   }

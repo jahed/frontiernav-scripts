@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i24",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i24",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gesture Glove",
     "rarity": 2

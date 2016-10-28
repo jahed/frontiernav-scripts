@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eHCcJvQw",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eHCcJvQw",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rajidi, the Cumuliform",
     "level": 52,

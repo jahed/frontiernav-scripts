@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e0ukVGsS",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e0ukVGsS",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Enhanced Search Zig",
     "level": 48,

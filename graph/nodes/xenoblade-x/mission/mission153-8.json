@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "mission153-8",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission153-8",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cinicula Assault"
+  },
+  "locale": {
+    "it": {
+      "name": "Assalto alla Cinicula"
+    }
   }
 }

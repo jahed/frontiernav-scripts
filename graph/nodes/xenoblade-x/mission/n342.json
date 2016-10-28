@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n342",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n342",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "A New Life"
   }

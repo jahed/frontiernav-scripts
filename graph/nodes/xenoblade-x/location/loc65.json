@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc65",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc65",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Decapotamon",
     "locationTypeId": "Area"

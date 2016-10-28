@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure2814-22",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure2814-22",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Strange Tree",
     "requirements": {

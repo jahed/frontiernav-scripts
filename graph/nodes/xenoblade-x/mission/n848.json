@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n848",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n848",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Professor B's Return"
   }

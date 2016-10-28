@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e4xa1mim",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e4xa1mim",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Duran, the Draconian",
     "level": 38,

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "en84RSs9",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "en84RSs9",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Durvin, the Perceptive",
     "level": 70,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i47",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i47",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Stargazer",
     "rarity": 2

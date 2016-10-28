@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "misccomm730",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "misccomm730",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Better Latte Than Never"
+  },
+  "locale": {
+    "it": {
+      "name": "La barista maldestra"
+    }
   }
 }

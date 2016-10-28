@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc283",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc283",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nopon Highroad",
     "locationTypeId": "Area"

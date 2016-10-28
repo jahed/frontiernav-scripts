@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ew26lFck",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ew26lFck",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vortice, the Deific Blast",
     "level": 94,

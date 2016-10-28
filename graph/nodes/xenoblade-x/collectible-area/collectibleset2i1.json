@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset2i1",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset2i1",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilum South Forest Area",
     "itemType": "Collectible"

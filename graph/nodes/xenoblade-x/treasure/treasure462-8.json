@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure462-8",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure462-8",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Strange Petrified Tree",
     "requirements": {

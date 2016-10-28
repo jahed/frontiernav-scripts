@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset1i3",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset1i3",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Primordia Middle Area",
     "itemType": "Collectible"

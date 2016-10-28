@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i26",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i26",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Royal Grape",
     "rarity": 3

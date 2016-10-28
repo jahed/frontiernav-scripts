@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hsccomm1215",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hsccomm1215",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Elma's 3rd Heart-to-Heart"
   }

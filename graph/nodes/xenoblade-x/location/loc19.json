@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc19",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc19",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Barbarich Desert",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Deserto Barbarich"
+    }
   }
 }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eDKx0nwW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eDKx0nwW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Diogenes, the Covetous",
     "level": 28,

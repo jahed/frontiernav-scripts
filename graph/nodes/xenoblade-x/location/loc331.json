@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc331",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc331",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Rooney Cavern",

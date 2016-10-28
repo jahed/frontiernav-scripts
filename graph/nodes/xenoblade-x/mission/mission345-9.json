@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission345-9",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission345-9",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "A Dish Served Cold"
   }

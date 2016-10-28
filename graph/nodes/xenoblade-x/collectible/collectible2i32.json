@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i32",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i32",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fraudulent Mirror",
     "requirements": true,

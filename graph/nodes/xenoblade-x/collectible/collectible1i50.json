@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i50",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i50",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "White Iron Sand",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Sabbia ferrifera bianca"
+    }
   }
 }

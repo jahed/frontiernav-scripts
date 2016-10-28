@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission242-6",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission242-6",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Nopon Heir"
   }

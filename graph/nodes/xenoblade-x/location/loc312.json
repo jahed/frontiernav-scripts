@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc312",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc312",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Plundered Ruin",
     "cave": false,

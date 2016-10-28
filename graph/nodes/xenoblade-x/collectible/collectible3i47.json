@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i47",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i47",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Beagflea Squash",
     "requirements": true,

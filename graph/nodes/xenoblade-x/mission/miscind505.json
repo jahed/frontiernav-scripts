@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "miscind505",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscind505",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rise of the Blood Lobster"
+  },
+  "locale": {
+    "it": {
+      "name": "L'ascesa dell'Astice sanguinario"
+    }
   }
 }

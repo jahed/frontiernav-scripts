@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc14",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc14",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Badr Strongbridge",
     "locationTypeId": "Landmark"

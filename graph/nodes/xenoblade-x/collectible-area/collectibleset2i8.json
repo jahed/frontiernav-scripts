@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset2i8",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset2i8",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilum Mountain Trail Area",
     "itemType": "Collectible"

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "etgZ8iwO",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "etgZ8iwO",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Agito, the Golden",
     "level": 38,

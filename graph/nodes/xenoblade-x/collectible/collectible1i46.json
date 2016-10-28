@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i46",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i46",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Doga Dandelion",
     "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Tarassaco Doga"
+    }
   }
 }

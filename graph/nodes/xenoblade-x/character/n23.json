@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n23",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n23",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lao Huang",
     "image": "lao-banner",

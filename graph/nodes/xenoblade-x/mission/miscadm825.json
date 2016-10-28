@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm825",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm825",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ovah and Out"
   }

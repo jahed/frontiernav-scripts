@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i39",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i39",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nightmare Pineapple",
     "rarity": 4

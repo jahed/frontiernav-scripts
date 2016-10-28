@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e41seEBe",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e41seEBe",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ferdinand, the Fortuitus",
     "level": 28,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n12",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "n12",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Doom Mask",
     "rarity": 3

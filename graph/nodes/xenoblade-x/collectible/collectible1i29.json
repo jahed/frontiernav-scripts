@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i29",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i29",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Coaletri",
     "rarity": 1

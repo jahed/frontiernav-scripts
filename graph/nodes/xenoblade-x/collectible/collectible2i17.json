@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i17",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i17",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mk. IX Hypercooler",
     "rarity": 2

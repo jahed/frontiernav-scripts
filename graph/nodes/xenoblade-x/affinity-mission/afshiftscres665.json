@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "afshiftscres665",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "afshiftscres665",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Affinity Shift: Wendy"
   }

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc10",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc10",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Arendt Bridge",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Ponte Arendt"
+    }
   }
 }

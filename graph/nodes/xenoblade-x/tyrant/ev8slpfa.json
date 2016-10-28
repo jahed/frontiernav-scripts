@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ev8slpfa",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ev8slpfa",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Leva'el, the Terminus",
     "level": 82,

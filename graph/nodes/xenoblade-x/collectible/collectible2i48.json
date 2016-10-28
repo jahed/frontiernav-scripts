@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i48",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i48",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Continental Jellyfish",
     "rarity": 4

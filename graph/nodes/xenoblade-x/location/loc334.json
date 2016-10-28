@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc334",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc334",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ruins on the Sandbank",
     "locationTypeId": "Landmark"

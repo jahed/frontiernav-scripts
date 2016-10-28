@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "id": "PreciousResource"
-  },
+  "id": "PreciousResource",
   "name": "Precious Resource",
   "searchable": true,
   "pageDescription": "Find out where you can find {name} in Xenoblade Chronicles X.",

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e8vkLeC1",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e8vkLeC1",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bartley, the Conflagration",
     "level": 31,

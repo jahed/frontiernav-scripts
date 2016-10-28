@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission1110-11",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission1110-11",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Here Come the Brides"
   }

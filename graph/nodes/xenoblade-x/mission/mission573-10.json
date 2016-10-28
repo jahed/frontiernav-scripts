@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission573-10",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission573-10",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "To Serve Nopon"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hscres1395",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hscres1395",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hope's 1st Heart-to-Heart"
   }

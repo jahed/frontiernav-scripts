@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "n4",
-    "labels": [
-      "CollectibleCategory",
-      "XenobladeX"
-    ]
-  },
+  "id": "n4",
+  "labels": [
+    "CollectibleCategory",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Flora"
+  },
+  "locale": {
+    "de": {
+      "name": "Blumen"
+    }
   }
 }

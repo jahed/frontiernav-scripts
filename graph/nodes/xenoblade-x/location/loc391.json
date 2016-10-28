@@ -1,14 +1,17 @@
 {
-  "metadata": {
-    "id": "loc391",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc391",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Talon Rock Second Terrane",
     "cave": false,
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Roccia Sperone piana II"
+    }
   }
 }

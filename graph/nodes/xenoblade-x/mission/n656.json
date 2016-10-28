@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "n656",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n656",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Planetary Pioneer (Part IV)"
+  },
+  "locale": {
+    "it": {
+      "name": "Pionieri planetari (Part IV)"
+    }
   }
 }

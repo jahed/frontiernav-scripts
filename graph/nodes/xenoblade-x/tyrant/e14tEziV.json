@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e14tEziV",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e14tEziV",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Unlimited Output Zig",
     "level": 43,

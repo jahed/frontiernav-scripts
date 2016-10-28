@@ -1,14 +1,17 @@
 {
-  "metadata": {
-    "id": "n323",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "n323",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Locations",
     "description": "Locations in NLA",
     "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
   }
 }

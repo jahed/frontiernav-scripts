@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "siteGraph2site0s107START",
-    "type": "START"
-  },
+  "id": "siteGraph2site0s107START",
+  "type": "START",
   "start": "siteGraph0",
   "end": "site107"
 }

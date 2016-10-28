@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "euo2fuHI",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "euo2fuHI",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Spaniel, the Obedient",
     "level": 40,

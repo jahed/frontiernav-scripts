@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "edkrUj71",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "edkrUj71",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Desdemona, the Subterraanean",
     "level": 11,

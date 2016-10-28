@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission313-2-11",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission313-2-11",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Trading Floor"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ekE4eIsS",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ekE4eIsS",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ald, the Extravagant",
     "level": 61,

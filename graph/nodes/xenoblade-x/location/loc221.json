@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc221",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc221",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Green Threshold",
     "cave": false,

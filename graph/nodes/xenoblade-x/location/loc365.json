@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc365",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc365",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "South Ciel Sandsea",
     "locationTypeId": "Landmark"

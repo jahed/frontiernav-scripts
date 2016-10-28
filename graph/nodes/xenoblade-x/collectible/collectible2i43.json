@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i43",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i43",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "HI9 Ion Thruster",
     "rarity": 1

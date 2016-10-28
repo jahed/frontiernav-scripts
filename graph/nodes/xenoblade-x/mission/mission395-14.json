@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission395-14",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission395-14",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "A Great Divide"
   }

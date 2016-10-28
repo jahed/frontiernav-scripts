@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rlp232p232",
-    "type": "MAP_LINK"
-  },
+  "id": "rlp232p232",
+  "type": "MAP_LINK",
   "data": {},
   "start": "loc232",
   "end": "p232"

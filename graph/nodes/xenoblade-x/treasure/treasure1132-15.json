@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure1132-15",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure1132-15",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Alien Wreckage",
     "requirements": {

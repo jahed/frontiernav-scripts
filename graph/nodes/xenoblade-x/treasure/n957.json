@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n957",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "n957",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Trailer",
     "requirements": {

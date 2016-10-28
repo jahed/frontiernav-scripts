@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i34",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i34",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shooting Firefly",
     "rarity": 1

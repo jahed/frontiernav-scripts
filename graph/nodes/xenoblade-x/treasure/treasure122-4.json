@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure122-4",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure122-4",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Alien Container",
     "requirements": {

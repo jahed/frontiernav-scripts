@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "edNX4TsH",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "edNX4TsH",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Planetes, the Torrential",
     "level": 50,

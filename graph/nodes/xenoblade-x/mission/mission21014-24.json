@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "mission21014-24",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission21014-24",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Data Miner"
+  },
+  "locale": {
+    "it": {
+      "name": "Estrattore di dati"
+    }
   }
 }

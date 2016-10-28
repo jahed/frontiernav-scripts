@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "site506",
-    "labels": [
-      "FNSite",
-      "XenobladeX"
-    ]
-  },
+  "id": "site506",
+  "labels": [
+    "FNSite",
+    "XenobladeX"
+  ],
   "data": {
     "number": 506,
     "production": "C",

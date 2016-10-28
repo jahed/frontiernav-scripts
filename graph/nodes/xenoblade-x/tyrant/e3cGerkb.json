@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e3cGerkb",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e3cGerkb",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Griffus, the Tartarean",
     "level": 49,

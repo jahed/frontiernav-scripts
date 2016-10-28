@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n658",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n658",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Pip-Squeak"
   }

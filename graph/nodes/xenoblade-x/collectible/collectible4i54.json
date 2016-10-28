@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i54",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i54",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yaya Sesame",
     "rarity": 3

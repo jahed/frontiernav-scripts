@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7FiP5hl",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7FiP5hl",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Air Support Galdr",
     "level": 54,

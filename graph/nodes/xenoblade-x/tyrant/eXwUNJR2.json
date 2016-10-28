@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXwUNJR2",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXwUNJR2",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Prinsipe, the Ravenous",
     "level": 44,

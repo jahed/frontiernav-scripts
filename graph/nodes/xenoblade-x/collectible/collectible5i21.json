@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i21",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i21",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Voltant Scanner",
     "rarity": 4

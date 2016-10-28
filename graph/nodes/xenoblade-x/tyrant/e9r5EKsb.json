@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e9r5EKsb",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e9r5EKsb",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gi-zho, the Iron Deity",
     "level": 79,

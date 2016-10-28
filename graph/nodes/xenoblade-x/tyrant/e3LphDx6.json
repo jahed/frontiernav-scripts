@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e3LphDx6",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e3LphDx6",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gadaf's Qmoeva",
     "level": 31,

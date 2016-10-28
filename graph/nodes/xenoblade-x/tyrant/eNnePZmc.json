@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eNnePZmc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eNnePZmc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sarcosuchus, the Iron-Eater",
     "level": 39,

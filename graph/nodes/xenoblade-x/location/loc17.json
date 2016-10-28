@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc17",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc17",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bandit's Refuge",
     "locationTypeId": "Unexplored"

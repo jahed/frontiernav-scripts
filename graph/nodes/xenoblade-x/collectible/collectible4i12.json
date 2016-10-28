@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i12",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i12",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pomio Spore",
     "rarity": 3

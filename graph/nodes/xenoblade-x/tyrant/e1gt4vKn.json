@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e1gt4vKn",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e1gt4vKn",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sviatoslav, the Reproachful",
     "level": 39,

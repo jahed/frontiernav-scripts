@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure564-10",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure564-10",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Alien Reliquary",
     "requirements": {

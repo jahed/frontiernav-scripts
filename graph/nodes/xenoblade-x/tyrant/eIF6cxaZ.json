@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eIF6cxaZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eIF6cxaZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Damaged Zig",
     "level": 35,

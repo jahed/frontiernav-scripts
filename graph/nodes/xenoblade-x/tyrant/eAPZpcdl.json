@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eAPZpcdl",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eAPZpcdl",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bressole, the Fugitive",
     "level": 55,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i3",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i3",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilucent Dragonfly",
     "rarity": 1

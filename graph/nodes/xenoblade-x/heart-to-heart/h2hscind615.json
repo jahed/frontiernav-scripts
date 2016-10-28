@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hscind615",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hscind615",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hope's 3rd Heart-to-Heart"
   }

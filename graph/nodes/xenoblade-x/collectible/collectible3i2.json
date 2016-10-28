@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i2",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i2",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Jet Turtle",
     "rarity": 1

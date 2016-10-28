@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "pe2layerViewpe6941nAxlv4",
-    "type": "HAS"
-  },
+  "id": "pe2layerViewpe6941nAxlv4",
+  "type": "HAS",
   "data": {},
   "start": "pe6941nAx",
   "end": "lv4"

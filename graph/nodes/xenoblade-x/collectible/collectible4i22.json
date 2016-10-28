@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i22",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i22",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Straw Buoy",
     "rarity": 1

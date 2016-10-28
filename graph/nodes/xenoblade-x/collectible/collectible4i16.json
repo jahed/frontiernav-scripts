@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i16",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i16",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cold Berry",
     "rarity": 2

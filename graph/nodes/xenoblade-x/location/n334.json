@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "n334",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n334",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "BLADE Concourse",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Sammelpunkt"
+    },
+    "it": {
+      "name": "Ingresso BLADE"
+    }
   }
 }

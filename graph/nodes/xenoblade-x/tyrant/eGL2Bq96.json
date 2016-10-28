@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eGL2Bq96",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eGL2Bq96",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Latis, the Bristle-Scaled",
     "level": 39,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n264",
-    "labels": [
-      "Segment",
-      "XenobladeX"
-    ]
-  },
+  "id": "n264",
+  "labels": [
+    "Segment",
+    "XenobladeX"
+  ],
   "data": {
     "q": 10,
     "r": -5,

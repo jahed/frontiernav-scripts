@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hscres340",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hscres340",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gwin's 2nd Heart-to-Heart"
   }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eJO6sjmI",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eJO6sjmI",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shatskikh, the Flash",
     "level": 25,

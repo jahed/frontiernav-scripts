@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ef6SGtxH",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ef6SGtxH",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Blaudolch, the Chalcedony",
     "level": 20,

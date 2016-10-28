@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i33",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i33",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Galjim Crystal",
     "rarity": 3

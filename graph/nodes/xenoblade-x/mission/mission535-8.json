@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission535-8",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission535-8",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Slovity's Revenge"
   }

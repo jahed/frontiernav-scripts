@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "erAr5dOd",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "erAr5dOd",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sharnaak, the Technician",
     "level": 46,

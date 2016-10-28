@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset5i9",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset5i9",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cauldros Cave Areas",
     "itemType": "Collectible"

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eU3q2pvr",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eU3q2pvr",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Badul's Seidr",
     "level": 61,

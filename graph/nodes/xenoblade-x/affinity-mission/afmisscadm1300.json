@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "afmisscadm1300",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "afmisscadm1300",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "L's Conundrum"
   }

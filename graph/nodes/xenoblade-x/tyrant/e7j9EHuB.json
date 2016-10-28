@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7j9EHuB",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7j9EHuB",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yuiro, the Luxuriant",
     "level": 51,

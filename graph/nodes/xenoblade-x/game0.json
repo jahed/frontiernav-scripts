@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "game0",
-    "labels": [
-      "Game",
-      "XenobladeX"
-    ]
-  },
+  "id": "game0",
+  "labels": [
+    "Game",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Xenoblade Chronicles X",
     "boxart": "x-boxart.jpg",

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i16",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i16",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Exalting Paint",
     "rarity": 1

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc373",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc373",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Stickstone Rise",
     "locationTypeId": "Area"

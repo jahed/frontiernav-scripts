@@ -1,12 +1,18 @@
 {
-  "metadata": {
-    "id": "n2",
-    "labels": [
-      "CollectibleCategory",
-      "XenobladeX"
-    ]
-  },
+  "id": "n2",
+  "labels": [
+    "CollectibleCategory",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Insects"
+  },
+  "locale": {
+    "de": {
+      "name": "Insekten"
+    },
+    "it": {
+      "name": "Insetti"
+    }
   }
 }

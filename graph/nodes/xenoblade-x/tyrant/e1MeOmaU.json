@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e1MeOmaU",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e1MeOmaU",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Wenzel, the Inebriated",
     "level": 70,

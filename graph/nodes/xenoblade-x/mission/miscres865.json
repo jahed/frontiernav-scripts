@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscres865",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscres865",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Divine Nopopon"
   }

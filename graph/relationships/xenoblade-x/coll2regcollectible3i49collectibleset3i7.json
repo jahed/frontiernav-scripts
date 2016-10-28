@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "coll2regcollectible3i49collectibleset3i7",
-    "type": "REGION"
-  },
+  "id": "coll2regcollectible3i49collectibleset3i7",
+  "type": "REGION",
   "start": "collectible3i49",
   "end": "region3",
   "data": {}

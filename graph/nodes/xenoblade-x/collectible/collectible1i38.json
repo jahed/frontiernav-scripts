@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible1i38",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i38",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Crush Ring",
     "requirements": true,

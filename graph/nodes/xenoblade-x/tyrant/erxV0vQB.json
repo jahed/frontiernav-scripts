@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "erxV0vQB",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "erxV0vQB",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Anselm, the Triumphant",
     "level": 58,

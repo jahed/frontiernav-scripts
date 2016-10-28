@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eD2yU0iM",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eD2yU0iM",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Armed Engineer Galdr",
     "level": 41,

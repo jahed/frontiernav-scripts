@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i26",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i26",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cooling Lava",
     "rarity": 1

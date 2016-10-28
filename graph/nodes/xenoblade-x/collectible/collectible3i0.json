@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i0",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i0",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gubura Cabbage Leaf",
     "rarity": 1

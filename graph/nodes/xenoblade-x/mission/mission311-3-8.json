@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission311-3-8",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission311-3-8",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dorian Caravan"
   }

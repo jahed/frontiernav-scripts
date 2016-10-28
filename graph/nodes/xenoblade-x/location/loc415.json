@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc415",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc415",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "White Phosphor Lake",
     "locationTypeId": "Scenic"

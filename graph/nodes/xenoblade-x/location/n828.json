@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n828",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n828",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Outfitters Test Hangar",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Hangar test Outfitter"
+    }
   }
 }

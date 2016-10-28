@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc59",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc59",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cliffside Camp",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Campo sul Baratro"
+    }
   }
 }

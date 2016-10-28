@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eLL5mWzl",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eLL5mWzl",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Si-el, the Vacuous",
     "level": 19,

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n651",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n651",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Barista Court",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Piazza Frappè"
+    }
   }
 }

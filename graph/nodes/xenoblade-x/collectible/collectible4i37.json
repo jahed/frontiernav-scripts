@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i37",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i37",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "L-002 Dagoo Heat Ray",
     "requirements": true,

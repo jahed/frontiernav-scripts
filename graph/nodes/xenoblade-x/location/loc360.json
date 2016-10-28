@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc360",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc360",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Silent Mire",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Palude Silente"
+    }
   }
 }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ebt8FOWe",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ebt8FOWe",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lomoth, the Beast-Eater",
     "level": 28,

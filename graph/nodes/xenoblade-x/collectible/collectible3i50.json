@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i50",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i50",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gudo Rocambole",
     "rarity": 2

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "epgKSDfZ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "epgKSDfZ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hayreddin, the Territorial",
     "level": 81,

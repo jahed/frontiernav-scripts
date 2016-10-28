@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i29",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i29",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Baibai Beetle",
     "rarity": 1

@@ -1,14 +1,20 @@
 {
-  "metadata": {
-    "id": "lv1",
-    "labels": [
-      "MapLayer",
-      "XenobladeX"
-    ]
-  },
+  "id": "lv1",
+  "labels": [
+    "MapLayer",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Collectibles",
     "icon": "book",
     "thumbnail": "view-collectibles"
+  },
+  "locale": {
+    "de": {
+      "name": "Sammel-Items"
+    },
+    "it": {
+      "name": "Collezionabili"
+    }
   }
 }

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ez6WSTcC",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ez6WSTcC",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Jia Mian, the Beloved",
     "level": 50,

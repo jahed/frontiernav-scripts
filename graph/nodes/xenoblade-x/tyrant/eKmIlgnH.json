@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKmIlgnH",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKmIlgnH",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Florence, the Hell Maggot",
     "level": 24,

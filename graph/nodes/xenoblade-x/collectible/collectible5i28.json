@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i28",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i28",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lava Chestnut",
     "rarity": 2

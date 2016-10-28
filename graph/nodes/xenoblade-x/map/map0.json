@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "map0",
-    "labels": [
-      "Map",
-      "XenobladeX"
-    ]
-  },
+  "id": "map0",
+  "labels": [
+    "Map",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mira",
     "tileLayers": {

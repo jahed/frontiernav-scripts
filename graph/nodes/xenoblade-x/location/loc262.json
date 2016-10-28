@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc262",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc262",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "M'gando Mineral Spring",
     "locationTypeId": "Unexplored"

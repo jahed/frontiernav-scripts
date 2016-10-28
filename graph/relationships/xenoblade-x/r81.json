@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r81",
-    "type": "MAP_LINK"
-  },
+  "id": "r81",
+  "type": "MAP_LINK",
   "start": "n24",
   "end": "n79",
   "data": {}

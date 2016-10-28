@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc257",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc257",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lesser Gemini Bridge",
     "cave": false,

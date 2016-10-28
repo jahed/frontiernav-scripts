@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission112-3",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission112-3",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Snipe Hunt"
   }

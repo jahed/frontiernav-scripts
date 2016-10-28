@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i52",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i52",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Exubera Stalactite",
     "rarity": 3

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eQRZnMAM",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eQRZnMAM",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Armed Recon Galdr",
     "level": 65,

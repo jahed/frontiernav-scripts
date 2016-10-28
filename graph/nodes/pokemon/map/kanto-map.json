@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "kanto-map",
-    "labels": [
-      "Map",
-      "PokemonSeries",
-      "PokemonRBY"
-    ]
-  },
+  "id": "kanto-map",
+  "labels": [
+    "Map",
+    "PokemonSeries",
+    "PokemonRBY"
+  ],
   "data": {
     "name": "Kanto",
     "tileLayers": {

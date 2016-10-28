@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eAu7hnD5",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eAu7hnD5",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Behemoth, the Netherdweller",
     "level": 60,

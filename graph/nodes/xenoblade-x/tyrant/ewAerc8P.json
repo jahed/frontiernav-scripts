@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ewAerc8P",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ewAerc8P",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pelicollo, the Panzer",
     "level": 36,

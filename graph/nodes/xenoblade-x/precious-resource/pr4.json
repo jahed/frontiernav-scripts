@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr4",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr4",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lionbone Bort",
     "rarity": 0

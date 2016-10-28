@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i15",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i15",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hummingstone",
     "rarity": 4
+  },
+  "locale": {
+    "de": {
+      "name": "Summsummstein"
+    }
   }
 }

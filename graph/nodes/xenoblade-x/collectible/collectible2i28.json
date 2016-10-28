@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i28",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i28",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Primitive Colossus Statue",
     "rarity": 4

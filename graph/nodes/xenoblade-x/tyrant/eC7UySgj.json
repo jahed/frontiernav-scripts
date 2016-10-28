@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eC7UySgj",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eC7UySgj",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Giraffin, the Old Hand",
     "level": 41,

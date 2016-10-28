@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "exH0J6H4",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "exH0J6H4",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Buchwald, the Guardian",
     "level": 77,

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n829",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n829",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Integrated Production Plant",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Centro produz. integrata"
+    }
   }
 }

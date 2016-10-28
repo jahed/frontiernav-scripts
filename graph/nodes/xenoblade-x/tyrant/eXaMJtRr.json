@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXaMJtRr",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXaMJtRr",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Clara, the Pure White",
     "level": 21,

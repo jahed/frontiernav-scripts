@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i30",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i30",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Jobo Primrose",
     "rarity": 2

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pr12",
-    "labels": [
-      "PreciousResource",
-      "XenobladeX"
-    ]
-  },
+  "id": "pr12",
+  "labels": [
+    "PreciousResource",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Parhelion Platinum",
     "rarity": 0

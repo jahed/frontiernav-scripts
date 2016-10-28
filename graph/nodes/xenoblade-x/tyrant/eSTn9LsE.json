@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eSTn9LsE",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eSTn9LsE",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Seti, the Light of Stars",
     "level": 50,

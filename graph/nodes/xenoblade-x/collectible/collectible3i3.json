@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i3",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i3",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fullbelly Gecko",
     "rarity": 1

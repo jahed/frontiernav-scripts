@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "misccomm365",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "misccomm365",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Fashionista"
   }

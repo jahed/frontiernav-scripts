@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eQacmJWT",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eQacmJWT",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Yama, the Obliviator",
     "level": 33,

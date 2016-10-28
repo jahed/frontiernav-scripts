@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i19",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i19",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Planter",
     "rarity": 3

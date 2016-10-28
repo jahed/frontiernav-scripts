@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc343",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc343",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Sayram Lake",
     "locationTypeId": "Area"

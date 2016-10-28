@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKnKbD20",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKnKbD20",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Jarosch, the Sensational",
     "level": 23,

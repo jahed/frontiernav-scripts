@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n831",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n831",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Repenta Diner",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Tavola calda Repenta"
+    }
   }
 }

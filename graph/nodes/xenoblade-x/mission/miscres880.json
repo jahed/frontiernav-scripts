@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "miscres880",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscres880",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Planetary Pioneer (Part V)"
+  },
+  "locale": {
+    "it": {
+      "name": "Pionieri planetari (Part V)"
+    }
   }
 }

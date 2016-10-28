@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc398",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc398",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Turtle Nest",
     "cave": false,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i4",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i4",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shimmering Skin",
     "rarity": 1

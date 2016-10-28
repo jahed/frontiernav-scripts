@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc0",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc0",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Aaroy Plain",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Pianura Aaroy"
+    }
   }
 }

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i45",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i45",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mondcherry",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Mondociliegia"
+    }
   }
 }

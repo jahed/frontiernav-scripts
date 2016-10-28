@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i50",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i50",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pale Maize",
     "rarity": 4

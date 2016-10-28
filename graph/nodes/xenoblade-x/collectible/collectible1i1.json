@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "collectible1i1",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i1",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cranjelly",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Glibberbeere"
+    },
+    "it": {
+      "name": "Mirtillograno"
+    }
   }
 }

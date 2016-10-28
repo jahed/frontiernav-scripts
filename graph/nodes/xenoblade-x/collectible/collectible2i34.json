@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i34",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i34",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hexagauge",
     "rarity": 3

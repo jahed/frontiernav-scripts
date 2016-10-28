@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i51",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i51",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Penginion",
     "rarity": 4

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n325",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n325",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fathers and Sons"
+  },
+  "locale": {
+    "it": {
+      "name": "Padri e figli"
+    }
   }
 }

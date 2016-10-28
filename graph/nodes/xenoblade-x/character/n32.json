@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n32",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n32",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Hector \"H.B.\" Birtwhistle",
     "image": "hb-banner",

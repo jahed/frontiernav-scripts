@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "n830",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n830",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Central Industrial District",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Industriegebiet Zentrum"
+    },
+    "it": {
+      "name": "Zona industriale centro"
+    }
   }
 }

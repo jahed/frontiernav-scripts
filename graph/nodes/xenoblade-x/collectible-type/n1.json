@@ -1,12 +1,18 @@
 {
-  "metadata": {
-    "id": "n1",
-    "labels": [
-      "CollectibleCategory",
-      "XenobladeX"
-    ]
-  },
+  "id": "n1",
+  "labels": [
+    "CollectibleCategory",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vegetables"
+  },
+  "locale": {
+    "de": {
+      "name": "Gemüse"
+    },
+    "it": {
+      "name": "Vegetali"
+    }
   }
 }

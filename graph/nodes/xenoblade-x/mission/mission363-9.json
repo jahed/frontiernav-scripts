@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "mission363-9",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission363-9",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mayday"
+  },
+  "locale": {
+    "it": {
+      "name": "Richiesta d'aiuto"
+    }
   }
 }

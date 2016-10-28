@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eAS901ZG",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eAS901ZG",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "WR512: Urdu",
     "level": 62,

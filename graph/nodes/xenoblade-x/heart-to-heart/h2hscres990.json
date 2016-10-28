@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hscres990",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hscres990",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mia's 5th Heart-to-Heart"
   }

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i37",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i37",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Brambloo Shoot",
     "rarity": 3

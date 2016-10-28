@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc15",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc15",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Badr Stronghold",
     "locationTypeId": "Area"

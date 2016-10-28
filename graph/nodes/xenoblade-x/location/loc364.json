@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc364",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc364",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "South Ant's Nest",

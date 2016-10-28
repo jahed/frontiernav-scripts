@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc78",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc78",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Drop Shaft",
     "cave": true,

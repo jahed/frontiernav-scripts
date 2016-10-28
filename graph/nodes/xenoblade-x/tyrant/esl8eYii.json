@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "esl8eYii",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "esl8eYii",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dui, the Invaluable",
     "level": 21,

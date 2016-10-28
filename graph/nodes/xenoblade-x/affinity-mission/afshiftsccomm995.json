@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "afshiftsccomm995",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "afshiftsccomm995",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Affinity Shift: Beats"
   }

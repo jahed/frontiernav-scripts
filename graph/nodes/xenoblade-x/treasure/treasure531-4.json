@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "treasure531-4",
-    "labels": [
-      "Treasure",
-      "XenobladeX"
-    ]
-  },
+  "id": "treasure531-4",
+  "labels": [
+    "Treasure",
+    "XenobladeX"
+  ],
   "data": {
     "object": "Indigen Nest",
     "requirements": {

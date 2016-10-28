@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eXFCgol2",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eXFCgol2",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Luciel, the Eternal",
     "level": 92,
@@ -14,5 +12,10 @@
     "category": "Theroid",
     "subcategory": "Millisaur",
     "image": "eXFCgol2"
+  },
+  "locale": {
+    "it": {
+      "name": "Luciel l'Eterno"
+    }
   }
 }

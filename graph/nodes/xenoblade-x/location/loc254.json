@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc254",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc254",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lakeview Stronghold",
     "locationTypeId": "Area"

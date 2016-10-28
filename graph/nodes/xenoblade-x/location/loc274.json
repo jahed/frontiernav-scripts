@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc274",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc274",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noctilucent Sphere Interior",
     "locationTypeId": "Unexplored"

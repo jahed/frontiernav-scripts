@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eM8AC1UO",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eM8AC1UO",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Eustachio, the Eccentric",
     "level": 43,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i1",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i1",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "White Sand Beetle",
     "rarity": 1

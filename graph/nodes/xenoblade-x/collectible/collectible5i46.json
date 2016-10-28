@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i46",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i46",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Abyssal Cricket",
     "rarity": 1

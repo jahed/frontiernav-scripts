@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e4i0wARc",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e4i0wARc",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ahama's Seidr",
     "level": 84,

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e31NGObe",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e31NGObe",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Na-mulk, the Rebellious",
     "level": 47,

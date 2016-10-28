@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "exPt3YBG",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "exPt3YBG",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pizelle, the Purple Lightning",
     "level": 40,

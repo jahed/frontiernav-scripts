@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "shape1i2",
-    "labels": [
-      "MapArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "shape1i2",
+  "labels": [
+    "MapArea",
+    "XenobladeX"
+  ],
   "data": {
     "latLngs": [
       {

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "mission278-15",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission278-15",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Close Comrades"
+  },
+  "locale": {
+    "it": {
+      "name": "Compagni affiatati"
+    }
   }
 }

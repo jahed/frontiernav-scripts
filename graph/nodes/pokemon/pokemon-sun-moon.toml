@@ -1,0 +1,23 @@
+id     = "pokemon-sun-moon"
+labels = ["Game", "PokemonSeries", "PokemonSunMoon"]
+
+[data]
+name           = "Pokémon Sun & Moon"
+platform       = "Nintendo 3DS"
+initialRelease = "2016"
+
+image  = "pokemon-alola-banner.jpg"
+boxart = "pokemon-sun-moon-boxart.jpg"
+
+worldName = "Alola"
+
+[data.mapBackground]
+color = "#092844"
+
+[data.searchLabels]
+PokemonSeries  = true
+PokemonSunMoon = true
+
+[data.theme]
+mainColor  = "#092844"
+stylesheet = "alola"

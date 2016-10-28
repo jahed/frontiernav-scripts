@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "peTiobayu",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "peTiobayu",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": -80.823901471943,

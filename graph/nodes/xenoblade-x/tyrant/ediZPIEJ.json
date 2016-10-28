@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ediZPIEJ",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ediZPIEJ",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Infantry Support Qmoeva",
     "level": 80,

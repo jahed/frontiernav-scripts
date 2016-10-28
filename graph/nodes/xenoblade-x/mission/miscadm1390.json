@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm1390",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm1390",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lend an Ear"
   }

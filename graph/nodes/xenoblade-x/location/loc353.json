@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc353",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc353",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Secluded Lava Lake",

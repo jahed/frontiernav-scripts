@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc418",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc418",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Wrothian Stronghold",
     "locationTypeId": "Area"

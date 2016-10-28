@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc89",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc89",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ensconced Citadel",
     "locationTypeId": "Area"

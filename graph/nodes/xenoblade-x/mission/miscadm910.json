@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscadm910",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm910",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "That's In-Credible!"
   }

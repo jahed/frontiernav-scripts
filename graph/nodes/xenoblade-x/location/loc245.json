@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc245",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc245",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Keegan Ridge",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Crinale Keegan"
+    }
   }
 }

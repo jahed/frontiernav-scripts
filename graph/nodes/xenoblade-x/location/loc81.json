@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc81",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc81",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "East Gate Plain",
     "locationTypeId": "Area"

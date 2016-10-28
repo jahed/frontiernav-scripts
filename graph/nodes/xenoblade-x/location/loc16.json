@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc16",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc16",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Balance Rock",
     "locationTypeId": "Landmark"

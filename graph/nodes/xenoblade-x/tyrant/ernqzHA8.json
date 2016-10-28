@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ernqzHA8",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ernqzHA8",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vainamo, the Bellower",
     "level": 39,

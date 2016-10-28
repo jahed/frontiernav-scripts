@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i52",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i52",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Noka Mirrorstone",
     "rarity": 2

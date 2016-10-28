@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "mission1101-11",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission1101-11",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Welcome Back, Conner"
+  },
+  "locale": {
+    "it": {
+      "name": "Bentornato, Conner!"
+    }
   }
 }

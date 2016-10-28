@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n78",
-    "labels": [
-      "Character",
-      "XenobladeX"
-    ]
-  },
+  "id": "n78",
+  "labels": [
+    "Character",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Irina Akulov",
     "image": "irina-banner",

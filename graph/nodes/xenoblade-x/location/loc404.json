@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc404",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc404",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "cave": true,
     "name": "Vitriol Cesspool",

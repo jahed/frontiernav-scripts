@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission3103-13",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission3103-13",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Shotgun Diplomacy"
   }

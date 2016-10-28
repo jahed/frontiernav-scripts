@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i6",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i6",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Queen's Rapture",
     "rarity": 1

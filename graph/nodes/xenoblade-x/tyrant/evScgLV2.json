@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "evScgLV2",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "evScgLV2",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Berthold, the Blue-Eyed",
     "level": 75,

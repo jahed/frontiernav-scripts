@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKVtq2RV",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKVtq2RV",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Lyla's Galdr",
     "level": 55,

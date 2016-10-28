@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "epnUTGVS",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "epnUTGVS",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Climati, the Chilling Wind",
     "level": 30,

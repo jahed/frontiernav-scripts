@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "n846",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n846",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Murderess' 3rd Heart-to-Heart"
   }

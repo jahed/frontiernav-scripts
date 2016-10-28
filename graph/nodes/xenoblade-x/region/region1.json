@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "region1",
-    "labels": [
-      "Region",
-      "XenobladeX"
-    ]
-  },
+  "id": "region1",
+  "labels": [
+    "Region",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Primordia",
     "center": {

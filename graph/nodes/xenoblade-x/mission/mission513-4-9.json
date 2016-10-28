@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission513-4-9",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission513-4-9",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Unbreakable Sword"
   }

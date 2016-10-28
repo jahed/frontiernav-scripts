@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "miscadm465",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm465",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Probe-fessional"
+  },
+  "locale": {
+    "it": {
+      "name": "Il professionista delle sonde"
+    }
   }
 }

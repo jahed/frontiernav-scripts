@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i54",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i54",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ouroboros Bracelet",
     "rarity": 4

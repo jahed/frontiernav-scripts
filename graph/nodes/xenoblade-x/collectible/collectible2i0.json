@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i0",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i0",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Socha Guava",
     "rarity": 1

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eqISImlP",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eqISImlP",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Thaddaeus, the Ultramafic",
     "level": 42,

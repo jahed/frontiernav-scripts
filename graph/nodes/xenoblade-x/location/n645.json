@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "n645",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n645",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Barracks Interior",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Quartier"
+    },
+    "it": {
+      "name": "Interno della caserma"
+    }
   }
 }

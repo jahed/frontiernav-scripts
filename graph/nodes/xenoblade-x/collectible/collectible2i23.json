@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i23",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i23",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Loathsome Blob",
     "rarity": 2

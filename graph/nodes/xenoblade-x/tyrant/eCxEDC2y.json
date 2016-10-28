@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eCxEDC2y",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eCxEDC2y",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Schneider, the Cliffpercher",
     "level": 10,

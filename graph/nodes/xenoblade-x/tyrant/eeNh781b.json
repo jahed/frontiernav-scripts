@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eeNh781b",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eeNh781b",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Casper, the Unhealthy Eater",
     "level": 13,
@@ -15,5 +13,10 @@
     "subcategory": "Blatta",
     "time": "19:00 - 5:00",
     "image": "eeNh781b"
+  },
+  "locale": {
+    "it": {
+      "name": "Casper l'Ingordo"
+    }
   }
 }

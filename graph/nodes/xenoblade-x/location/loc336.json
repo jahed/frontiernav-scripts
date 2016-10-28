@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc336",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc336",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Rustpool Banks",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Pozze di Ruggine"
+    }
   }
 }

@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "loc409",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc409",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "West Gate Plain",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Westtorsteppe"
+    },
+    "it": {
+      "name": "Pianura cancello ovest"
+    }
   }
 }

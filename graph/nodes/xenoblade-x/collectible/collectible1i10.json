@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "collectible1i10",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i10",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Starlight Apple",
     "rarity": 2
+  },
+  "locale": {
+    "de": {
+      "name": "Sternkernapfel"
+    },
+    "it": {
+      "name": "Mela lucente"
+    }
   }
 }

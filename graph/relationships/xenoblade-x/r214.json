@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r214",
-    "type": "FAST_TRAVEL"
-  },
+  "id": "r214",
+  "type": "FAST_TRAVEL",
   "start": "n645",
   "end": "n303",
   "data": {}

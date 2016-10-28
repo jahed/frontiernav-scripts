@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i31",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i31",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Decoy DNA",
     "rarity": 3

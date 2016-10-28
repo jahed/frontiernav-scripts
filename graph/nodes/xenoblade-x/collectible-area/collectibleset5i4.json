@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset5i4",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset5i4",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cauldros Distant Area",
     "itemType": "Collectible"

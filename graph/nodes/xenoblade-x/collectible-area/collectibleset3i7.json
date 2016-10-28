@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset3i7",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset3i7",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Oblivia Cove Area",
     "itemType": "Collectible"

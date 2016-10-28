@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eQj4B0j3",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eQj4B0j3",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Vendura's Galdr",
     "level": 50,

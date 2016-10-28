@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc33",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc33",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Bident Crossing",
     "locationTypeId": "Landmark"

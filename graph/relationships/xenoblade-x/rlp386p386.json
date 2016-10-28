@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "rlp386p386",
-    "type": "MAP_LINK"
-  },
+  "id": "rlp386p386",
+  "type": "MAP_LINK",
   "data": {},
   "start": "loc386",
   "end": "p386"

@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "collectible1i0",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i0",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ajira Melon",
     "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Ajiramelone"
+    },
+    "it": {
+      "name": "Melone Ajira"
+    }
   }
 }

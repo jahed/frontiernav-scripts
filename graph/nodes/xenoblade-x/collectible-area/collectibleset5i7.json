@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset5i7",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset5i7",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Cauldros White Phosphorus Area",
     "itemType": "Collectible"

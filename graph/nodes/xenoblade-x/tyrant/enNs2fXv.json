@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "enNs2fXv",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "enNs2fXv",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Alfombra, the Transcendent",
     "level": 14,

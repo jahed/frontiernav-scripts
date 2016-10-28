@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ex6FqTYV",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ex6FqTYV",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Archibolt, the Revolutionary",
     "level": 11,

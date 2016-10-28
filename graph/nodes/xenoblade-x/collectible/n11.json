@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n11",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "n11",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "FN Prototype 3",
     "rarity": 3

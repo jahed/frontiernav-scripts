@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eH1R2E5f",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eH1R2E5f",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Roimi, the Affluent",
     "level": 31,

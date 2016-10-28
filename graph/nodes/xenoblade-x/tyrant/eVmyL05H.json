@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eVmyL05H",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eVmyL05H",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Enhanced Attack Range Zig",
     "level": 37,

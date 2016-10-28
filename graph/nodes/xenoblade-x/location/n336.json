@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "n336",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n336",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Division Drive",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Straße der Divisionen"
+    },
+    "it": {
+      "name": "Via delle Divisioni"
+    }
   }
 }

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i20",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i20",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fodornallow Greens",
     "rarity": 4

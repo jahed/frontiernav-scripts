@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "id": "Game"
-  },
+  "id": "Game",
   "name": "Game",
   "pageDescription": "View a game from {name} and find out various points of interest in an interactive map!",
   "schema": {

@@ -1,10 +1,8 @@
 {
-  "metadata": {
-    "id": "pallet-town-marker",
-    "labels": [
-      "MapMarker"
-    ]
-  },
+  "id": "pallet-town-marker",
+  "labels": [
+    "MapMarker"
+  ],
   "data": {
     "latLng": {
       "lat": -33.87041555094183,

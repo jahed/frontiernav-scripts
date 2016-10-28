@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e8DVsgmW",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e8DVsgmW",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Raider Pugilith",
     "level": 22,

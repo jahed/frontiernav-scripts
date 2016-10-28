@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "n650",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n650",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "East Melville Street",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Via Melville est"
+    }
   }
 }

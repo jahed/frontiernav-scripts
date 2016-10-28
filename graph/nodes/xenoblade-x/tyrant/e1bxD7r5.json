@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e1bxD7r5",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e1bxD7r5",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Goliath, the Stronghold",
     "level": 50,

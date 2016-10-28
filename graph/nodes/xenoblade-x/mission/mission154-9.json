@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "mission154-9",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission154-9",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Renewed Will"
+  },
+  "locale": {
+    "it": {
+      "name": "Rinnovata volontà"
+    }
   }
 }

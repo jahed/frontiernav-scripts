@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i19",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i19",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Flowering Morrow Fern",
     "requirements": true,

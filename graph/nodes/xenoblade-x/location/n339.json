@@ -1,13 +1,19 @@
 {
-  "metadata": {
-    "id": "n339",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n339",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "West Gate",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Westtor"
+    },
+    "it": {
+      "name": "Cancello ovest"
+    }
   }
 }

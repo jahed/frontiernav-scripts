@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ehGFxdIV",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ehGFxdIV",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Tourteau, the Delectable",
     "level": 8,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i29",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i29",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Denemozumi Mouse",
     "rarity": 1

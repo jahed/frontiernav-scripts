@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eROt5uDG",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eROt5uDG",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Albin, the Wicked Meddler",
     "level": 51,

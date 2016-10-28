@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i1",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i1",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Timid Sunflower",
     "rarity": 1

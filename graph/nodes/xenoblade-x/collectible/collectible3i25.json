@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i25",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i25",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Will Pepper",
     "rarity": 3

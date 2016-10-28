@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i54",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i54",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Assassin Springtail",
     "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Collembolo assassino"
+    }
   }
 }

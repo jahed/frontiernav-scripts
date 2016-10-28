@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "e2peeqISImlPpeqISImlP",
-    "type": "MAP_LINK"
-  },
+  "id": "e2peeqISImlPpeqISImlP",
+  "type": "MAP_LINK",
   "data": {},
   "start": "eqISImlP",
   "end": "peqISImlP"

@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "h2hsccomm230",
-    "labels": [
-      "AffinityMission",
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "h2hsccomm230",
+  "labels": [
+    "AffinityMission",
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mia's 4th Heart-to-Heart"
   }

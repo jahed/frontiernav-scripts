@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission384-12",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission384-12",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "A Grim Undertaking"
   }

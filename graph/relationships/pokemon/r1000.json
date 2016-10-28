@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r1000",
-    "type": "MAP_LINK"
-  },
+  "id": "r1000",
+  "type": "MAP_LINK",
   "start": "pallet-town",
   "end": "pallet-town-marker",
   "data": {}

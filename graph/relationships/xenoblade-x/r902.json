@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r902",
-    "type": "GOAL"
-  },
+  "id": "r902",
+  "type": "GOAL",
   "start": "misccomm365",
   "end": "n236",
   "data": {}

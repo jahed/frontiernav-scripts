@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n819",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "n819",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Tree-mendous"
   }

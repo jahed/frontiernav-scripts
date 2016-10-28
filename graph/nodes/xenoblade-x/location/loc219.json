@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc219",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc219",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Great Washington Isle",
     "locationTypeId": "Unexplored"

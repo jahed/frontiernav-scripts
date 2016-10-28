@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "miscres200",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscres200",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Off the Record (Archaeological)"
   }

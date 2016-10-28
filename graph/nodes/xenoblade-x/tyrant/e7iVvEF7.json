@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e7iVvEF7",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e7iVvEF7",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nardacyon, the Shadowless",
     "level": 96,

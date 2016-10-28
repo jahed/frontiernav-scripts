@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r954",
-    "type": "GOAL"
-  },
+  "id": "r954",
+  "type": "GOAL",
   "start": "afshiftscres1185",
   "end": "n119",
   "data": {}

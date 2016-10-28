@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i32",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i32",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Fillal Filth",
     "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Residuo cristallino"
+    }
   }
 }

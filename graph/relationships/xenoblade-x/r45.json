@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "r45",
-    "type": "REGION"
-  },
+  "id": "r45",
+  "type": "REGION",
   "start": "n11",
   "end": "region5",
   "data": {}

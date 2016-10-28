@@ -1,16 +1,19 @@
 {
-  "metadata": {
-    "id": "collectible1i20",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i20",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ancient Allure",
     "requirements": true,
     "rarity": 3,
     "time": "Early Morning",
     "weather": "Rain"
+  },
+  "locale": {
+    "it": {
+      "name": "Richiamo primordiale"
+    }
   }
 }

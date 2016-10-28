@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc87",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc87",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Emerian Battlegrounds",
     "locationTypeId": "Landmark"

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible5i36",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible5i36",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Gyulali",
     "rarity": 2

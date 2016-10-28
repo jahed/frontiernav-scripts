@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eVrTPo8Q",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eVrTPo8Q",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Telethia, the Endbringer",
     "level": 99,

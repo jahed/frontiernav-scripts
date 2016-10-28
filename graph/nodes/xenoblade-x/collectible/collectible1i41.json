@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i41",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i41",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Auroran Bone",
     "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Osso d'Aurora"
+    }
   }
 }

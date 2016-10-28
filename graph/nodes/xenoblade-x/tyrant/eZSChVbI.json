@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eZSChVbI",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eZSChVbI",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Pyotr, the Shepherd",
     "level": 74,

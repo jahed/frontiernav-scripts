@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i57",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i57",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Muneria Flower",
     "rarity": 2

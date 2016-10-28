@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "n808",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "n808",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Starboard",
     "locationTypeId": "Landmark"

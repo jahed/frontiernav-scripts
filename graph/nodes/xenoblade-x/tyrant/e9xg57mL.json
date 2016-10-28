@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "e9xg57mL",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "e9xg57mL",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Frajeel, the Purgatorial",
     "level": 50,

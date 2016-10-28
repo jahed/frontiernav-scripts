@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible2i12",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible2i12",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Iguari",
     "requirements": true,

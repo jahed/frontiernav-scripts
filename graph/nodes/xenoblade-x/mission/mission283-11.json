@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission283-11",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission283-11",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dead Men Tell No Tales"
   }

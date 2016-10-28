@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eHkyIY1F",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eHkyIY1F",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Elena, the Infernal",
     "level": 79,

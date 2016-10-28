@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible4i27",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible4i27",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Spirit Wand",
     "rarity": 4

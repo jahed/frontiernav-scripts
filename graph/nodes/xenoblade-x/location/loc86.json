@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc86",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc86",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Elephant's Trunk",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Lunga Proboscide"
+    }
   }
 }

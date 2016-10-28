@@ -1,12 +1,18 @@
 {
-  "metadata": {
-    "id": "n7",
-    "labels": [
-      "CollectibleCategory",
-      "XenobladeX"
-    ]
-  },
+  "id": "n7",
+  "labels": [
+    "CollectibleCategory",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Wreckage"
+  },
+  "locale": {
+    "de": {
+      "name": "Trümmer"
+    },
+    "it": {
+      "name": "Rottami"
+    }
   }
 }

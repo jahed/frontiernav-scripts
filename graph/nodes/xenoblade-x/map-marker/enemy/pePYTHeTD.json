@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "pePYTHeTD",
-    "labels": [
-      "MapMarker",
-      "XenobladeX"
-    ]
-  },
+  "id": "pePYTHeTD",
+  "labels": [
+    "MapMarker",
+    "XenobladeX"
+  ],
   "data": {
     "latLng": {
       "lat": -40.17887331434695,

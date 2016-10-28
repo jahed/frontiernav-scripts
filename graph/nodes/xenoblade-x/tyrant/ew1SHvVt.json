@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "ew1SHvVt",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "ew1SHvVt",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Ruth, the Shunner of Light",
     "level": 42,

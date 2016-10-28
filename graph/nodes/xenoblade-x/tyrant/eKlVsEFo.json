@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eKlVsEFo",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eKlVsEFo",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Stola, the Unchained",
     "level": 57,

@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "miscadm375",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "miscadm375",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "BLADE Level Basics"
+  },
+  "locale": {
+    "it": {
+      "name": "Livello BLADE: Le basi"
+    }
   }
 }

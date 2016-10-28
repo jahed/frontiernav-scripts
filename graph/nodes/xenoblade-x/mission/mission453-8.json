@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "mission453-8",
-    "labels": [
-      "Mission",
-      "AffinityMission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission453-8",
+  "labels": [
+    "Mission",
+    "AffinityMission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Soldier of the Harriers"
   }

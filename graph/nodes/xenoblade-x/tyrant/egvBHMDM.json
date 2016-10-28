@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "egvBHMDM",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "egvBHMDM",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Dobromila, the Alluring",
     "level": 63,

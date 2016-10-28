@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eEz2rUst",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eEz2rUst",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Langul, the Alien Payload",
     "level": 11,

@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "loc265",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc265",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Middle Hushflood",
     "locationTypeId": "Area"

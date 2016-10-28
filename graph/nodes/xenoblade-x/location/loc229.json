@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "loc229",
-    "labels": [
-      "Location",
-      "XenobladeX"
-    ]
-  },
+  "id": "loc229",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Humdrum Peaks",
     "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Vette Monotone"
+    }
   }
 }

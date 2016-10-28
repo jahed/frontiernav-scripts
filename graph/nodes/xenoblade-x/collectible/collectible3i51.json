@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectible3i51",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible3i51",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Steel Tail Sheath",
     "rarity": 2

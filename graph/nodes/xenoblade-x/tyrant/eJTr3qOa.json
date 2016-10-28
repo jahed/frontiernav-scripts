@@ -1,12 +1,10 @@
 {
-  "metadata": {
-    "id": "eJTr3qOa",
-    "labels": [
-      "Enemy",
-      "Tyrant",
-      "XenobladeX"
-    ]
-  },
+  "id": "eJTr3qOa",
+  "labels": [
+    "Enemy",
+    "Tyrant",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Xair, the Cerulean Walker",
     "level": 75,

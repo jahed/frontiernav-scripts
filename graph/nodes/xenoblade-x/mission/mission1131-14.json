@@ -1,12 +1,15 @@
 {
-  "metadata": {
-    "id": "mission1131-14",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission1131-14",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Nine Lives"
+  },
+  "locale": {
+    "it": {
+      "name": "Nove vite"
+    }
   }
 }

@@ -1,13 +1,16 @@
 {
-  "metadata": {
-    "id": "collectible1i51",
-    "labels": [
-      "Collectible",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectible1i51",
+  "labels": [
+    "Collectible",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Mosa Cabbage",
     "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Cavolo Mosa"
+    }
   }
 }

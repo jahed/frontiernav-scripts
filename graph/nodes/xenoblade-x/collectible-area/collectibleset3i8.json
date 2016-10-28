@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "collectibleset3i8",
-    "labels": [
-      "CollectibleArea",
-      "XenobladeX"
-    ]
-  },
+  "id": "collectibleset3i8",
+  "labels": [
+    "CollectibleArea",
+    "XenobladeX"
+  ],
   "data": {
     "name": "Oblivia Floating Reef Area",
     "itemType": "Collectible"

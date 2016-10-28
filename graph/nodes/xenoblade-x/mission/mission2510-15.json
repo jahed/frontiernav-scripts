@@ -1,11 +1,9 @@
 {
-  "metadata": {
-    "id": "mission2510-15",
-    "labels": [
-      "Mission",
-      "XenobladeX"
-    ]
-  },
+  "id": "mission2510-15",
+  "labels": [
+    "Mission",
+    "XenobladeX"
+  ],
   "data": {
     "name": "The Voltant Visionary"
   }
