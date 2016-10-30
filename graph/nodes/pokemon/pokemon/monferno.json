@@ -1,0 +1,45 @@
+{
+  "id": "monferno",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 391,
+    "height": 9,
+    "weight": 220,
+    "base_experience": 142,
+    "name": "Monferno",
+    "genus": "Playful"
+  },
+  "locale": {
+    "ja": {
+      "name": "モウカザル",
+      "genus": "やんちゃ"
+    },
+    "ko": {
+      "name": "파이숭이",
+      "genus": "개구쟁이"
+    },
+    "zh": {
+      "name": "猛火猴",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Chimpenfeu",
+      "genus": "Garnement"
+    },
+    "de": {
+      "name": "Panpyro",
+      "genus": "Verspielt"
+    },
+    "es": {
+      "name": "Monferno",
+      "genus": "Juguetón"
+    },
+    "it": {
+      "name": "Monferno",
+      "genus": "Briccone"
+    }
+  }
+}

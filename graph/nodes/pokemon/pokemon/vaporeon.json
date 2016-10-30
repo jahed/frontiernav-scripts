@@ -1,0 +1,45 @@
+{
+  "id": "vaporeon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 134,
+    "height": 10,
+    "weight": 290,
+    "base_experience": 184,
+    "name": "Vaporeon",
+    "genus": "Bubble Jet"
+  },
+  "locale": {
+    "ja": {
+      "name": "シャワーズ",
+      "genus": "あわはき"
+    },
+    "ko": {
+      "name": "샤미드",
+      "genus": "거품뿜기"
+    },
+    "zh": {
+      "name": "水精靈",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Aquali",
+      "genus": "Bulleur"
+    },
+    "de": {
+      "name": "Aquana",
+      "genus": "Blubblase"
+    },
+    "es": {
+      "name": "Vaporeon",
+      "genus": "Burbuja"
+    },
+    "it": {
+      "name": "Vaporeon",
+      "genus": "Bollajet"
+    }
+  }
+}

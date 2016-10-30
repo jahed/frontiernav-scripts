@@ -1,0 +1,41 @@
+{
+  "id": "carbink",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 703,
+    "height": 3,
+    "weight": 57,
+    "base_experience": 100,
+    "name": "Carbink",
+    "genus": "Jewel"
+  },
+  "locale": {
+    "ja": {
+      "name": "メレシー",
+      "genus": "ほうせき"
+    },
+    "ko": {
+      "name": "멜리시",
+      "genus": "보석"
+    },
+    "fr": {
+      "name": "Strassie",
+      "genus": "Joyau"
+    },
+    "de": {
+      "name": "Rocara",
+      "genus": "Edelstein"
+    },
+    "es": {
+      "name": "Carbink",
+      "genus": "Joya"
+    },
+    "it": {
+      "name": "Carbink",
+      "genus": "Gemma"
+    }
+  }
+}

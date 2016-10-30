@@ -1,0 +1,45 @@
+{
+  "id": "grumpig",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 326,
+    "height": 9,
+    "weight": 715,
+    "base_experience": 165,
+    "name": "Grumpig",
+    "genus": "Manipulate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ブーピッグ",
+      "genus": "あやつり"
+    },
+    "ko": {
+      "name": "피그킹",
+      "genus": "조작"
+    },
+    "zh": {
+      "name": "噗噗豬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Groret",
+      "genus": "Magouilleur"
+    },
+    "de": {
+      "name": "Groink",
+      "genus": "Manipulator"
+    },
+    "es": {
+      "name": "Grumpig",
+      "genus": "Manipulador"
+    },
+    "it": {
+      "name": "Grumpig",
+      "genus": "Raggiro"
+    }
+  }
+}

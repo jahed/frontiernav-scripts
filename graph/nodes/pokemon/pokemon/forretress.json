@@ -1,0 +1,45 @@
+{
+  "id": "forretress",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 205,
+    "height": 12,
+    "weight": 1258,
+    "base_experience": 163,
+    "name": "Forretress",
+    "genus": "Bagworm"
+  },
+  "locale": {
+    "ja": {
+      "name": "フォレトス",
+      "genus": "みのむし"
+    },
+    "ko": {
+      "name": "쏘콘",
+      "genus": "도롱이벌레"
+    },
+    "zh": {
+      "name": "佛烈托斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Foretress",
+      "genus": "Ver Caché"
+    },
+    "de": {
+      "name": "Forstellka",
+      "genus": "Beutelwurm"
+    },
+    "es": {
+      "name": "Forretress",
+      "genus": "Larva"
+    },
+    "it": {
+      "name": "Forretress",
+      "genus": "Larva"
+    }
+  }
+}

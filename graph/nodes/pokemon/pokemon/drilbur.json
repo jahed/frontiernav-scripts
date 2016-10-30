@@ -1,0 +1,41 @@
+{
+  "id": "drilbur",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 529,
+    "height": 3,
+    "weight": 85,
+    "base_experience": 66,
+    "name": "Drilbur",
+    "genus": "Mole"
+  },
+  "locale": {
+    "ja": {
+      "name": "モグリュー",
+      "genus": "もぐら"
+    },
+    "ko": {
+      "name": "두더류",
+      "genus": "두더지"
+    },
+    "fr": {
+      "name": "Rototaupe",
+      "genus": "Taupe"
+    },
+    "de": {
+      "name": "Rotomurf",
+      "genus": "Maulwurf"
+    },
+    "es": {
+      "name": "Drilbur",
+      "genus": "Topo"
+    },
+    "it": {
+      "name": "Drilbur",
+      "genus": "Talpa"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "floette",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 670,
+    "height": 2,
+    "weight": 9,
+    "base_experience": 130,
+    "name": "Floette",
+    "genus": "Single Bloom"
+  },
+  "locale": {
+    "ja": {
+      "name": "フラエッテ",
+      "genus": "いちりん"
+    },
+    "ko": {
+      "name": "플라엣테",
+      "genus": "한송이"
+    },
+    "fr": {
+      "name": "Floette",
+      "genus": "Uniflore"
+    },
+    "de": {
+      "name": "Floette",
+      "genus": "Einblütler"
+    },
+    "es": {
+      "name": "Floette",
+      "genus": "Monoflor"
+    },
+    "it": {
+      "name": "Floette",
+      "genus": "Monofiore"
+    }
+  }
+}

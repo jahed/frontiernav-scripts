@@ -1,0 +1,45 @@
+{
+  "id": "ninjask",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 291,
+    "height": 8,
+    "weight": 120,
+    "base_experience": 160,
+    "name": "Ninjask",
+    "genus": "Ninja"
+  },
+  "locale": {
+    "ja": {
+      "name": "テッカニン",
+      "genus": "しのび"
+    },
+    "ko": {
+      "name": "아이스크",
+      "genus": "시노비"
+    },
+    "zh": {
+      "name": "鐵面忍者",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ninjask",
+      "genus": "Ninja"
+    },
+    "de": {
+      "name": "Ninjask",
+      "genus": "Ninja"
+    },
+    "es": {
+      "name": "Ninjask",
+      "genus": "Ninja"
+    },
+    "it": {
+      "name": "Ninjask",
+      "genus": "Ninja"
+    }
+  }
+}

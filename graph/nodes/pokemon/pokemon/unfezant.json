@@ -1,0 +1,41 @@
+{
+  "id": "unfezant",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 521,
+    "height": 12,
+    "weight": 290,
+    "base_experience": 220,
+    "name": "Unfezant",
+    "genus": "Proud"
+  },
+  "locale": {
+    "ja": {
+      "name": "ケンホロウ",
+      "genus": "プライド"
+    },
+    "ko": {
+      "name": "켄호로우",
+      "genus": "프라이드"
+    },
+    "fr": {
+      "name": "Déflaisan",
+      "genus": "Fier"
+    },
+    "de": {
+      "name": "Fasasnob",
+      "genus": "Stolz"
+    },
+    "es": {
+      "name": "Unfezant",
+      "genus": "Altanero"
+    },
+    "it": {
+      "name": "Unfezant",
+      "genus": "Orgoglio"
+    }
+  }
+}

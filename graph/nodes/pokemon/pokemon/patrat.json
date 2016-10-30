@@ -1,0 +1,41 @@
+{
+  "id": "patrat",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 504,
+    "height": 5,
+    "weight": 116,
+    "base_experience": 51,
+    "name": "Patrat",
+    "genus": "Scout"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミネズミ",
+      "genus": "みはり"
+    },
+    "ko": {
+      "name": "보르쥐",
+      "genus": "망보기"
+    },
+    "fr": {
+      "name": "Ratentif",
+      "genus": "Espion"
+    },
+    "de": {
+      "name": "Nagelotz",
+      "genus": "Späher"
+    },
+    "es": {
+      "name": "Patrat",
+      "genus": "Explorador"
+    },
+    "it": {
+      "name": "Patrat",
+      "genus": "Esplorante"
+    }
+  }
+}

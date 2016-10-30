@@ -1,0 +1,45 @@
+{
+  "id": "mankey",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 56,
+    "height": 5,
+    "weight": 280,
+    "base_experience": 61,
+    "name": "Mankey",
+    "genus": "Pig Monkey"
+  },
+  "locale": {
+    "ja": {
+      "name": "マンキー",
+      "genus": "ぶたざる"
+    },
+    "ko": {
+      "name": "망키",
+      "genus": "돈숭이"
+    },
+    "zh": {
+      "name": "猴怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Férosinge",
+      "genus": "Porsinge"
+    },
+    "de": {
+      "name": "Menki",
+      "genus": "Schw./ Affe"
+    },
+    "es": {
+      "name": "Mankey",
+      "genus": "Mono Cerdo"
+    },
+    "it": {
+      "name": "Mankey",
+      "genus": "Suinpanzé"
+    }
+  }
+}

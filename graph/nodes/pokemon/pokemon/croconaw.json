@@ -1,0 +1,45 @@
+{
+  "id": "croconaw",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 159,
+    "height": 11,
+    "weight": 250,
+    "base_experience": 142,
+    "name": "Croconaw",
+    "genus": "Big Jaw"
+  },
+  "locale": {
+    "ja": {
+      "name": "アリゲイツ",
+      "genus": "おおあご"
+    },
+    "ko": {
+      "name": "엘리게이",
+      "genus": "큰턱"
+    },
+    "zh": {
+      "name": "藍鱷",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Crocrodil",
+      "genus": "Mâchoire"
+    },
+    "de": {
+      "name": "Tyracroc",
+      "genus": "Großmaul"
+    },
+    "es": {
+      "name": "Croconaw",
+      "genus": "Fauces"
+    },
+    "it": {
+      "name": "Croconaw",
+      "genus": "Mascellone"
+    }
+  }
+}

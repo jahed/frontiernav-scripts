@@ -1,0 +1,45 @@
+{
+  "id": "mightyena",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 262,
+    "height": 10,
+    "weight": 370,
+    "base_experience": 147,
+    "name": "Mightyena",
+    "genus": "Bite"
+  },
+  "locale": {
+    "ja": {
+      "name": "グラエナ",
+      "genus": "かみつき"
+    },
+    "ko": {
+      "name": "그라에나",
+      "genus": "물어뜯기"
+    },
+    "zh": {
+      "name": "大狼犬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Grahyèna",
+      "genus": "Morsure"
+    },
+    "de": {
+      "name": "Magnayen",
+      "genus": "Biss"
+    },
+    "es": {
+      "name": "Mightyena",
+      "genus": "Mordisco"
+    },
+    "it": {
+      "name": "Mightyena",
+      "genus": "Morso"
+    }
+  }
+}

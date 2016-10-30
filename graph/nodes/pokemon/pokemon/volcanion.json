@@ -1,0 +1,41 @@
+{
+  "id": "volcanion",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 721,
+    "height": 17,
+    "weight": 1950,
+    "base_experience": 270,
+    "name": "Volcanion",
+    "genus": "Steam"
+  },
+  "locale": {
+    "ja": {
+      "name": "ボルケニオン",
+      "genus": "スチーム"
+    },
+    "ko": {
+      "name": "볼케니온",
+      "genus": "스팀"
+    },
+    "fr": {
+      "name": "Volcanion",
+      "genus": "Vapeur"
+    },
+    "de": {
+      "name": "Volcanion",
+      "genus": "Dampf"
+    },
+    "es": {
+      "name": "Volcanion",
+      "genus": "Vapor"
+    },
+    "it": {
+      "name": "Volcanion",
+      "genus": "Vapore"
+    }
+  }
+}

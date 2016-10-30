@@ -1,0 +1,45 @@
+{
+  "id": "makuhita",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 296,
+    "height": 10,
+    "weight": 864,
+    "base_experience": 47,
+    "name": "Makuhita",
+    "genus": "Guts"
+  },
+  "locale": {
+    "ja": {
+      "name": "マクノシタ",
+      "genus": "こんじょう"
+    },
+    "ko": {
+      "name": "마크탕",
+      "genus": "근성"
+    },
+    "zh": {
+      "name": "幕下力士",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Makuhita",
+      "genus": "Tenace"
+    },
+    "de": {
+      "name": "Makuhita",
+      "genus": "Courage"
+    },
+    "es": {
+      "name": "Makuhita",
+      "genus": "Valiente"
+    },
+    "it": {
+      "name": "Makuhita",
+      "genus": "Coraggio"
+    }
+  }
+}

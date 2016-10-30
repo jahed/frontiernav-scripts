@@ -1,0 +1,41 @@
+{
+  "id": "scolipede",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 545,
+    "height": 25,
+    "weight": 2005,
+    "base_experience": 218,
+    "name": "Scolipede",
+    "genus": "Megapede"
+  },
+  "locale": {
+    "ja": {
+      "name": "ペンドラー",
+      "genus": "メガムカデ"
+    },
+    "ko": {
+      "name": "펜드라",
+      "genus": "메가지네"
+    },
+    "fr": {
+      "name": "Brutapode",
+      "genus": "Mégaplopode"
+    },
+    "de": {
+      "name": "Cerapendra",
+      "genus": "Riesenfüßer"
+    },
+    "es": {
+      "name": "Scolipede",
+      "genus": "Megaciempiés"
+    },
+    "it": {
+      "name": "Scolipede",
+      "genus": "Megapede"
+    }
+  }
+}

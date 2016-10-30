@@ -1,0 +1,41 @@
+{
+  "id": "crustle",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 558,
+    "height": 14,
+    "weight": 2000,
+    "base_experience": 166,
+    "name": "Crustle",
+    "genus": "Stone Home"
+  },
+  "locale": {
+    "ja": {
+      "name": "イワパレス",
+      "genus": "いわやど"
+    },
+    "ko": {
+      "name": "암팰리스",
+      "genus": "바위집"
+    },
+    "fr": {
+      "name": "Crabaraque",
+      "genus": "Lapidicole"
+    },
+    "de": {
+      "name": "Castellith",
+      "genus": "Felshaus"
+    },
+    "es": {
+      "name": "Crustle",
+      "genus": "Casarroca"
+    },
+    "it": {
+      "name": "Crustle",
+      "genus": "Scogliocasa"
+    }
+  }
+}

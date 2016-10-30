@@ -1,0 +1,45 @@
+{
+  "id": "furret",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 162,
+    "height": 18,
+    "weight": 325,
+    "base_experience": 145,
+    "name": "Furret",
+    "genus": "Long Body"
+  },
+  "locale": {
+    "ja": {
+      "name": "オオタチ",
+      "genus": "どうなが"
+    },
+    "ko": {
+      "name": "다꼬리",
+      "genus": "긴몸통"
+    },
+    "zh": {
+      "name": "大尾立",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Fouinar",
+      "genus": "Allongé"
+    },
+    "de": {
+      "name": "Wiesenior",
+      "genus": "Langleib"
+    },
+    "es": {
+      "name": "Furret",
+      "genus": "Alargado"
+    },
+    "it": {
+      "name": "Furret",
+      "genus": "Lungocorpo"
+    }
+  }
+}

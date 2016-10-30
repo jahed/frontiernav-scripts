@@ -1,0 +1,45 @@
+{
+  "id": "numel",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 322,
+    "height": 7,
+    "weight": 240,
+    "base_experience": 61,
+    "name": "Numel",
+    "genus": "Numb"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドンメル",
+      "genus": "どんかん"
+    },
+    "ko": {
+      "name": "둔타",
+      "genus": "둔감"
+    },
+    "zh": {
+      "name": "呆火駝",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Chamallot",
+      "genus": "Engourdi"
+    },
+    "de": {
+      "name": "Camaub",
+      "genus": "Taubheit"
+    },
+    "es": {
+      "name": "Numel",
+      "genus": "Torpe"
+    },
+    "it": {
+      "name": "Numel",
+      "genus": "Torpore"
+    }
+  }
+}

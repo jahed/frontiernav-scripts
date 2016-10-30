@@ -1,0 +1,41 @@
+{
+  "id": "gothorita",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 575,
+    "height": 7,
+    "weight": 180,
+    "base_experience": 137,
+    "name": "Gothorita",
+    "genus": "Manipulate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴチミル",
+      "genus": "あやつり"
+    },
+    "ko": {
+      "name": "고디보미",
+      "genus": "조작"
+    },
+    "fr": {
+      "name": "Mesmérella",
+      "genus": "Magouilleur"
+    },
+    "de": {
+      "name": "Hypnomorba",
+      "genus": "Manipulator"
+    },
+    "es": {
+      "name": "Gothorita",
+      "genus": "Manipulador"
+    },
+    "it": {
+      "name": "Gothorita",
+      "genus": "Raggiro"
+    }
+  }
+}

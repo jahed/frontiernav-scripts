@@ -1,0 +1,41 @@
+{
+  "id": "meloetta-aria",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 648,
+    "height": 6,
+    "weight": 65,
+    "base_experience": 270,
+    "name": "Meloetta",
+    "genus": "Melody"
+  },
+  "locale": {
+    "ja": {
+      "name": "メロエッタ",
+      "genus": "せんりつ"
+    },
+    "ko": {
+      "name": "메로엣타",
+      "genus": "선율"
+    },
+    "fr": {
+      "name": "Meloetta",
+      "genus": "Mélodie"
+    },
+    "de": {
+      "name": "Meloetta",
+      "genus": "Melodie"
+    },
+    "es": {
+      "name": "Meloetta",
+      "genus": "Melodía"
+    },
+    "it": {
+      "name": "Meloetta",
+      "genus": "Melodia"
+    }
+  }
+}

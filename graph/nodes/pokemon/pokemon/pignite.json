@@ -1,0 +1,41 @@
+{
+  "id": "pignite",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 499,
+    "height": 10,
+    "weight": 555,
+    "base_experience": 146,
+    "name": "Pignite",
+    "genus": "Fire Pig"
+  },
+  "locale": {
+    "ja": {
+      "name": "チャオブー",
+      "genus": "ひぶた"
+    },
+    "ko": {
+      "name": "차오꿀",
+      "genus": "불돼지"
+    },
+    "fr": {
+      "name": "Grotichon",
+      "genus": "Cochon Feu"
+    },
+    "de": {
+      "name": "Ferkokel",
+      "genus": "Feuerferkel"
+    },
+    "es": {
+      "name": "Pignite",
+      "genus": "Cerdo Fuego"
+    },
+    "it": {
+      "name": "Pignite",
+      "genus": "Suinfuoco"
+    }
+  }
+}

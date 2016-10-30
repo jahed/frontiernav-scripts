@@ -1,0 +1,45 @@
+{
+  "id": "kingdra",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 230,
+    "height": 18,
+    "weight": 1520,
+    "base_experience": 243,
+    "name": "Kingdra",
+    "genus": "Dragon"
+  },
+  "locale": {
+    "ja": {
+      "name": "キングドラ",
+      "genus": "ドラゴン"
+    },
+    "ko": {
+      "name": "킹드라",
+      "genus": "드래곤"
+    },
+    "zh": {
+      "name": "刺龍王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Hyporoi",
+      "genus": "Dragon"
+    },
+    "de": {
+      "name": "Seedraking",
+      "genus": "Drache"
+    },
+    "es": {
+      "name": "Kingdra",
+      "genus": "Dragón"
+    },
+    "it": {
+      "name": "Kingdra",
+      "genus": "Drago"
+    }
+  }
+}

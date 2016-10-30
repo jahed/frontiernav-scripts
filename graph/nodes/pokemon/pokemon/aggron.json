@@ -1,0 +1,45 @@
+{
+  "id": "aggron",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 306,
+    "height": 21,
+    "weight": 3600,
+    "base_experience": 239,
+    "name": "Aggron",
+    "genus": "Iron Armor"
+  },
+  "locale": {
+    "ja": {
+      "name": "ボスゴドラ",
+      "genus": "てつヨロイ"
+    },
+    "ko": {
+      "name": "보스로라",
+      "genus": "철갑옷"
+    },
+    "zh": {
+      "name": "波士可多拉",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Galeking",
+      "genus": "Armurfer"
+    },
+    "de": {
+      "name": "Stolloss",
+      "genus": "Eisenpanzer"
+    },
+    "es": {
+      "name": "Aggron",
+      "genus": "Cor. Férrea"
+    },
+    "it": {
+      "name": "Aggron",
+      "genus": "Corazza"
+    }
+  }
+}

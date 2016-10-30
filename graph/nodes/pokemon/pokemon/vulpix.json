@@ -1,0 +1,45 @@
+{
+  "id": "vulpix",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 37,
+    "height": 6,
+    "weight": 99,
+    "base_experience": 60,
+    "name": "Vulpix",
+    "genus": "Fox"
+  },
+  "locale": {
+    "ja": {
+      "name": "ロコン",
+      "genus": "きつね"
+    },
+    "ko": {
+      "name": "식스테일",
+      "genus": "여우"
+    },
+    "zh": {
+      "name": "六尾",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Goupix",
+      "genus": "Renard"
+    },
+    "de": {
+      "name": "Vulpix",
+      "genus": "Fuchs"
+    },
+    "es": {
+      "name": "Vulpix",
+      "genus": "Zorro"
+    },
+    "it": {
+      "name": "Vulpix",
+      "genus": "Volpe"
+    }
+  }
+}

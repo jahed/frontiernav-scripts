@@ -1,0 +1,41 @@
+{
+  "id": "gourgeist-average",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 711,
+    "height": 9,
+    "weight": 125,
+    "base_experience": 173,
+    "name": "Gourgeist",
+    "genus": "Pumpkin"
+  },
+  "locale": {
+    "ja": {
+      "name": "パンプジン",
+      "genus": "かぼちゃ"
+    },
+    "ko": {
+      "name": "펌킨인",
+      "genus": "호박"
+    },
+    "fr": {
+      "name": "Banshitrouye",
+      "genus": "Citrouille"
+    },
+    "de": {
+      "name": "Pumpdjinn",
+      "genus": "Kürbis"
+    },
+    "es": {
+      "name": "Gourgeist",
+      "genus": "Calabaza"
+    },
+    "it": {
+      "name": "Gourgeist",
+      "genus": "Zucca"
+    }
+  }
+}

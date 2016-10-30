@@ -1,0 +1,45 @@
+{
+  "id": "bagon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 371,
+    "height": 6,
+    "weight": 421,
+    "base_experience": 60,
+    "name": "Bagon",
+    "genus": "Rock Head"
+  },
+  "locale": {
+    "ja": {
+      "name": "タツベイ",
+      "genus": "いしあたま"
+    },
+    "ko": {
+      "name": "아공이",
+      "genus": "돌머리"
+    },
+    "zh": {
+      "name": "寶貝龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Draby",
+      "genus": "Tête de Roc"
+    },
+    "de": {
+      "name": "Kindwurm",
+      "genus": "Steinhaupt"
+    },
+    "es": {
+      "name": "Bagon",
+      "genus": "Cabeza Roca"
+    },
+    "it": {
+      "name": "Bagon",
+      "genus": "Rocciotesta"
+    }
+  }
+}

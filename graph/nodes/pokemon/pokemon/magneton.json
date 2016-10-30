@@ -1,0 +1,45 @@
+{
+  "id": "magneton",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 82,
+    "height": 10,
+    "weight": 600,
+    "base_experience": 163,
+    "name": "Magneton",
+    "genus": "Magnet"
+  },
+  "locale": {
+    "ja": {
+      "name": "レアコイル",
+      "genus": "じしゃく"
+    },
+    "ko": {
+      "name": "레어코일",
+      "genus": "자석"
+    },
+    "zh": {
+      "name": "三合一磁怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Magnéton",
+      "genus": "Magnétique"
+    },
+    "de": {
+      "name": "Magneton",
+      "genus": "Magnet"
+    },
+    "es": {
+      "name": "Magneton",
+      "genus": "Imán"
+    },
+    "it": {
+      "name": "Magneton",
+      "genus": "Calamita"
+    }
+  }
+}

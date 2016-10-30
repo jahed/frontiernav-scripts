@@ -1,0 +1,45 @@
+{
+  "id": "luxio",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 404,
+    "height": 9,
+    "weight": 305,
+    "base_experience": 127,
+    "name": "Luxio",
+    "genus": "Spark"
+  },
+  "locale": {
+    "ja": {
+      "name": "ルクシオ",
+      "genus": "でんこう"
+    },
+    "ko": {
+      "name": "럭시오",
+      "genus": "전광"
+    },
+    "zh": {
+      "name": "勒克貓",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Luxio",
+      "genus": "Étincelle"
+    },
+    "de": {
+      "name": "Luxio",
+      "genus": "Funken"
+    },
+    "es": {
+      "name": "Luxio",
+      "genus": "Chispa"
+    },
+    "it": {
+      "name": "Luxio",
+      "genus": "Favilla"
+    }
+  }
+}

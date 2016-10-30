@@ -1,0 +1,45 @@
+{
+  "id": "chikorita",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 152,
+    "height": 9,
+    "weight": 64,
+    "base_experience": 64,
+    "name": "Chikorita",
+    "genus": "Leaf"
+  },
+  "locale": {
+    "ja": {
+      "name": "チコリータ",
+      "genus": "はっぱ"
+    },
+    "ko": {
+      "name": "치코리타",
+      "genus": "잎사귀"
+    },
+    "zh": {
+      "name": "菊草葉",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Germignon",
+      "genus": "Feuille"
+    },
+    "de": {
+      "name": "Endivie",
+      "genus": "Laub"
+    },
+    "es": {
+      "name": "Chikorita",
+      "genus": "Hoja"
+    },
+    "it": {
+      "name": "Chikorita",
+      "genus": "Foglia"
+    }
+  }
+}

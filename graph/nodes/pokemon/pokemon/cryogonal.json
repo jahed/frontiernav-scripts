@@ -1,0 +1,41 @@
+{
+  "id": "cryogonal",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 615,
+    "height": 11,
+    "weight": 1480,
+    "base_experience": 170,
+    "name": "Cryogonal",
+    "genus": "Crystallizing"
+  },
+  "locale": {
+    "ja": {
+      "name": "フリージオ",
+      "genus": "けっしょう"
+    },
+    "ko": {
+      "name": "프리지오",
+      "genus": "결정"
+    },
+    "fr": {
+      "name": "Hexagel",
+      "genus": "Cristal"
+    },
+    "de": {
+      "name": "Frigometri",
+      "genus": "Kristall"
+    },
+    "es": {
+      "name": "Cryogonal",
+      "genus": "Cristal"
+    },
+    "it": {
+      "name": "Cryogonal",
+      "genus": "Cristallo"
+    }
+  }
+}

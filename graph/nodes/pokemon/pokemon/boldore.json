@@ -1,0 +1,41 @@
+{
+  "id": "boldore",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 525,
+    "height": 9,
+    "weight": 1020,
+    "base_experience": 137,
+    "name": "Boldore",
+    "genus": "Ore"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガントル",
+      "genus": "こうせき"
+    },
+    "ko": {
+      "name": "암트르",
+      "genus": "광석"
+    },
+    "fr": {
+      "name": "Géolithe",
+      "genus": "Minerai"
+    },
+    "de": {
+      "name": "Sedimantur",
+      "genus": "Erz"
+    },
+    "es": {
+      "name": "Boldore",
+      "genus": "Mineral"
+    },
+    "it": {
+      "name": "Boldore",
+      "genus": "Minerale"
+    }
+  }
+}

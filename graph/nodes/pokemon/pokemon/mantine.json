@@ -1,0 +1,45 @@
+{
+  "id": "mantine",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 226,
+    "height": 21,
+    "weight": 2200,
+    "base_experience": 163,
+    "name": "Mantine",
+    "genus": "Kite"
+  },
+  "locale": {
+    "ja": {
+      "name": "マンタイン",
+      "genus": "カイト"
+    },
+    "ko": {
+      "name": "만타인",
+      "genus": "연"
+    },
+    "zh": {
+      "name": "巨翅飛魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Démanta",
+      "genus": "Cervolant"
+    },
+    "de": {
+      "name": "Mantax",
+      "genus": "Flugrochen"
+    },
+    "es": {
+      "name": "Mantine",
+      "genus": "Milano"
+    },
+    "it": {
+      "name": "Mantine",
+      "genus": "Aquilone"
+    }
+  }
+}

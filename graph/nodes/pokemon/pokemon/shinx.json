@@ -1,0 +1,45 @@
+{
+  "id": "shinx",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 403,
+    "height": 5,
+    "weight": 95,
+    "base_experience": 53,
+    "name": "Shinx",
+    "genus": "Flash"
+  },
+  "locale": {
+    "ja": {
+      "name": "コリンク",
+      "genus": "せんこう"
+    },
+    "ko": {
+      "name": "꼬링크",
+      "genus": "섬광"
+    },
+    "zh": {
+      "name": "小貓怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Lixy",
+      "genus": "Flash"
+    },
+    "de": {
+      "name": "Sheinux",
+      "genus": "Flacker"
+    },
+    "es": {
+      "name": "Shinx",
+      "genus": "Flash"
+    },
+    "it": {
+      "name": "Shinx",
+      "genus": "Baleno"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bonsly",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 438,
+    "height": 5,
+    "weight": 150,
+    "base_experience": 58,
+    "name": "Bonsly",
+    "genus": "Bonsai"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウソハチ",
+      "genus": "ぼんさい"
+    },
+    "ko": {
+      "name": "꼬지지",
+      "genus": "분재"
+    },
+    "zh": {
+      "name": "愛哭樹",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Manzaï",
+      "genus": "Bonsaï"
+    },
+    "de": {
+      "name": "Mobai",
+      "genus": "Bonsai"
+    },
+    "es": {
+      "name": "Bonsly",
+      "genus": "Bonsái"
+    },
+    "it": {
+      "name": "Bonsly",
+      "genus": "Bonsai"
+    }
+  }
+}

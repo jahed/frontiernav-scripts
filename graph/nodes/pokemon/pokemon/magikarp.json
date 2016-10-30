@@ -1,0 +1,45 @@
+{
+  "id": "magikarp",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 129,
+    "height": 9,
+    "weight": 100,
+    "base_experience": 40,
+    "name": "Magikarp",
+    "genus": "Fish"
+  },
+  "locale": {
+    "ja": {
+      "name": "コイキング",
+      "genus": "さかな"
+    },
+    "ko": {
+      "name": "잉어킹",
+      "genus": "물고기"
+    },
+    "zh": {
+      "name": "鯉魚王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Magicarpe",
+      "genus": "Poisson"
+    },
+    "de": {
+      "name": "Karpador",
+      "genus": "Fisch"
+    },
+    "es": {
+      "name": "Magikarp",
+      "genus": "Pez"
+    },
+    "it": {
+      "name": "Magikarp",
+      "genus": "Pesce"
+    }
+  }
+}

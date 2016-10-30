@@ -1,0 +1,45 @@
+{
+  "id": "reshiram",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 643,
+    "height": 32,
+    "weight": 3300,
+    "base_experience": 306,
+    "name": "Reshiram",
+    "genus": "Vast White"
+  },
+  "locale": {
+    "ja": {
+      "name": "レシラム",
+      "genus": "はくよう"
+    },
+    "ko": {
+      "name": "레시라무",
+      "genus": "백양"
+    },
+    "zh": {
+      "name": "雷希拉姆",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Reshiram",
+      "genus": "Blanc Réel"
+    },
+    "de": {
+      "name": "Reshiram",
+      "genus": "Wahres Weiß"
+    },
+    "es": {
+      "name": "Reshiram",
+      "genus": "Blanco Veraz"
+    },
+    "it": {
+      "name": "Reshiram",
+      "genus": "Bianco Verità"
+    }
+  }
+}

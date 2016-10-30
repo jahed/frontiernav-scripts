@@ -1,0 +1,45 @@
+{
+  "id": "mismagius",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 429,
+    "height": 9,
+    "weight": 44,
+    "base_experience": 173,
+    "name": "Mismagius",
+    "genus": "Magical"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムウマージ",
+      "genus": "マジカル"
+    },
+    "ko": {
+      "name": "무우마직",
+      "genus": "매지컬"
+    },
+    "zh": {
+      "name": "夢妖魔",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Magirêve",
+      "genus": "Magique"
+    },
+    "de": {
+      "name": "Traunmagil",
+      "genus": "Magisch"
+    },
+    "es": {
+      "name": "Mismagius",
+      "genus": "Mágico"
+    },
+    "it": {
+      "name": "Mismagius",
+      "genus": "Stregone"
+    }
+  }
+}

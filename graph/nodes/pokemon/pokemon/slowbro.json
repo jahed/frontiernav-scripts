@@ -1,0 +1,45 @@
+{
+  "id": "slowbro",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 80,
+    "height": 16,
+    "weight": 785,
+    "base_experience": 172,
+    "name": "Slowbro",
+    "genus": "Hermit Crab"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤドラン",
+      "genus": "やどかり"
+    },
+    "ko": {
+      "name": "야도란",
+      "genus": "기생"
+    },
+    "zh": {
+      "name": "呆河馬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Flagadoss",
+      "genus": "Symbiose"
+    },
+    "de": {
+      "name": "Lahmus",
+      "genus": "Symbiose"
+    },
+    "es": {
+      "name": "Slowbro",
+      "genus": "Ermitaño"
+    },
+    "it": {
+      "name": "Slowbro",
+      "genus": "Paguro"
+    }
+  }
+}

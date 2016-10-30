@@ -1,0 +1,41 @@
+{
+  "id": "genesect",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 649,
+    "height": 15,
+    "weight": 825,
+    "base_experience": 270,
+    "name": "Genesect",
+    "genus": "Paleozoic"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゲノセクト",
+      "genus": "こせいだい"
+    },
+    "ko": {
+      "name": "게노세크트",
+      "genus": "고생대"
+    },
+    "fr": {
+      "name": "Genesect",
+      "genus": "Paléozoïque"
+    },
+    "de": {
+      "name": "Genesect",
+      "genus": "Paläozoikum"
+    },
+    "es": {
+      "name": "Genesect",
+      "genus": "Paleozoico"
+    },
+    "it": {
+      "name": "Genesect",
+      "genus": "Paleozoico"
+    }
+  }
+}

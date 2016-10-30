@@ -1,0 +1,45 @@
+{
+  "id": "abra",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 63,
+    "height": 9,
+    "weight": 195,
+    "base_experience": 62,
+    "name": "Abra",
+    "genus": "Psi"
+  },
+  "locale": {
+    "ja": {
+      "name": "ケーシィ",
+      "genus": "ねんりき"
+    },
+    "ko": {
+      "name": "캐이시",
+      "genus": "초능력"
+    },
+    "zh": {
+      "name": "凱西",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Abra",
+      "genus": "Psy"
+    },
+    "de": {
+      "name": "Abra",
+      "genus": "Psi"
+    },
+    "es": {
+      "name": "Abra",
+      "genus": "Psi"
+    },
+    "it": {
+      "name": "Abra",
+      "genus": "Psico"
+    }
+  }
+}

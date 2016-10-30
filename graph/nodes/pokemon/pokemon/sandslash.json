@@ -1,0 +1,45 @@
+{
+  "id": "sandslash",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 28,
+    "height": 10,
+    "weight": 295,
+    "base_experience": 158,
+    "name": "Sandslash",
+    "genus": "Mouse"
+  },
+  "locale": {
+    "ja": {
+      "name": "サンドパン",
+      "genus": "ねずみ"
+    },
+    "ko": {
+      "name": "고지",
+      "genus": "쥐"
+    },
+    "zh": {
+      "name": "穿山王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Sablaireau",
+      "genus": "Souris"
+    },
+    "de": {
+      "name": "Sandamer",
+      "genus": "Maus"
+    },
+    "es": {
+      "name": "Sandslash",
+      "genus": "Ratón"
+    },
+    "it": {
+      "name": "Sandslash",
+      "genus": "Topo"
+    }
+  }
+}

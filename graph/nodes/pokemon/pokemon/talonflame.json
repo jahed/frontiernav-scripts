@@ -1,0 +1,41 @@
+{
+  "id": "talonflame",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 663,
+    "height": 12,
+    "weight": 245,
+    "base_experience": 175,
+    "name": "Talonflame",
+    "genus": "Scorching"
+  },
+  "locale": {
+    "ja": {
+      "name": "ファイアロー",
+      "genus": "れっか"
+    },
+    "ko": {
+      "name": "파이어로",
+      "genus": "열화"
+    },
+    "fr": {
+      "name": "Flambusard",
+      "genus": "Fournaise"
+    },
+    "de": {
+      "name": "Fiaro",
+      "genus": "Stichflamme"
+    },
+    "es": {
+      "name": "Talonflame",
+      "genus": "Flamígero"
+    },
+    "it": {
+      "name": "Talonflame",
+      "genus": "Ardifiamma"
+    }
+  }
+}

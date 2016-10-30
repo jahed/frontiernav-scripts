@@ -1,0 +1,41 @@
+{
+  "id": "fennekin",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 653,
+    "height": 4,
+    "weight": 94,
+    "base_experience": 61,
+    "name": "Fennekin",
+    "genus": "Fox"
+  },
+  "locale": {
+    "ja": {
+      "name": "フォッコ",
+      "genus": "キツネ"
+    },
+    "ko": {
+      "name": "푸호꼬",
+      "genus": "여우"
+    },
+    "fr": {
+      "name": "Feunnec",
+      "genus": "Renard"
+    },
+    "de": {
+      "name": "Fynx",
+      "genus": "Fuchs"
+    },
+    "es": {
+      "name": "Fennekin",
+      "genus": "Zorro"
+    },
+    "it": {
+      "name": "Fennekin",
+      "genus": "Volpe"
+    }
+  }
+}

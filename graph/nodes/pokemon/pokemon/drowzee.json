@@ -1,0 +1,45 @@
+{
+  "id": "drowzee",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 96,
+    "height": 10,
+    "weight": 324,
+    "base_experience": 66,
+    "name": "Drowzee",
+    "genus": "Hypnosis"
+  },
+  "locale": {
+    "ja": {
+      "name": "スリープ",
+      "genus": "さいみん"
+    },
+    "ko": {
+      "name": "슬리프",
+      "genus": "최면"
+    },
+    "zh": {
+      "name": "素利普",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Soporifik",
+      "genus": "Hypnose"
+    },
+    "de": {
+      "name": "Traumato",
+      "genus": "Hypnose"
+    },
+    "es": {
+      "name": "Drowzee",
+      "genus": "Hipnosis"
+    },
+    "it": {
+      "name": "Drowzee",
+      "genus": "Ipnosi"
+    }
+  }
+}

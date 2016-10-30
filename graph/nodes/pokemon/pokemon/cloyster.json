@@ -1,0 +1,45 @@
+{
+  "id": "cloyster",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 91,
+    "height": 15,
+    "weight": 1325,
+    "base_experience": 184,
+    "name": "Cloyster",
+    "genus": "Bivalve"
+  },
+  "locale": {
+    "ja": {
+      "name": "パルシェン",
+      "genus": "２まいがい"
+    },
+    "ko": {
+      "name": "파르셀",
+      "genus": "두조개"
+    },
+    "zh": {
+      "name": "鐵甲貝",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Crustabri",
+      "genus": "Bivalve"
+    },
+    "de": {
+      "name": "Austos",
+      "genus": "Muschel"
+    },
+    "es": {
+      "name": "Cloyster",
+      "genus": "Bivalvo"
+    },
+    "it": {
+      "name": "Cloyster",
+      "genus": "Bivalve"
+    }
+  }
+}

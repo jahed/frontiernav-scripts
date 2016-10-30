@@ -1,0 +1,45 @@
+{
+  "id": "cacnea",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 331,
+    "height": 4,
+    "weight": 513,
+    "base_experience": 67,
+    "name": "Cacnea",
+    "genus": "Cactus"
+  },
+  "locale": {
+    "ja": {
+      "name": "サボネア",
+      "genus": "サボテン"
+    },
+    "ko": {
+      "name": "선인왕",
+      "genus": "선인장"
+    },
+    "zh": {
+      "name": "沙漠奈亞",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Cacnea",
+      "genus": "Cactus"
+    },
+    "de": {
+      "name": "Tuska",
+      "genus": "Kaktus"
+    },
+    "es": {
+      "name": "Cacnea",
+      "genus": "Cactus"
+    },
+    "it": {
+      "name": "Cacnea",
+      "genus": "Cactus"
+    }
+  }
+}

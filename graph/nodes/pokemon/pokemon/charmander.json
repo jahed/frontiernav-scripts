@@ -1,0 +1,45 @@
+{
+  "id": "charmander",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 4,
+    "height": 6,
+    "weight": 85,
+    "base_experience": 62,
+    "name": "Charmander",
+    "genus": "Lizard"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒトカゲ",
+      "genus": "とかげ"
+    },
+    "ko": {
+      "name": "파이리",
+      "genus": "도롱뇽"
+    },
+    "zh": {
+      "name": "小火龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Salamèche",
+      "genus": "Lézard"
+    },
+    "de": {
+      "name": "Glumanda",
+      "genus": "Echse"
+    },
+    "es": {
+      "name": "Charmander",
+      "genus": "Lagartija"
+    },
+    "it": {
+      "name": "Charmander",
+      "genus": "Lucertola"
+    }
+  }
+}

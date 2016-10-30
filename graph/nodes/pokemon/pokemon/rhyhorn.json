@@ -1,0 +1,45 @@
+{
+  "id": "rhyhorn",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 111,
+    "height": 10,
+    "weight": 1150,
+    "base_experience": 69,
+    "name": "Rhyhorn",
+    "genus": "Spikes"
+  },
+  "locale": {
+    "ja": {
+      "name": "サイホーン",
+      "genus": "とげとげ"
+    },
+    "ko": {
+      "name": "뿔카노",
+      "genus": "뿔"
+    },
+    "zh": {
+      "name": "鐵甲犀牛",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rhinocorne",
+      "genus": "Piquant"
+    },
+    "de": {
+      "name": "Rihorn",
+      "genus": "Stachler"
+    },
+    "es": {
+      "name": "Rhyhorn",
+      "genus": "Clavos"
+    },
+    "it": {
+      "name": "Rhyhorn",
+      "genus": "Punzoni"
+    }
+  }
+}

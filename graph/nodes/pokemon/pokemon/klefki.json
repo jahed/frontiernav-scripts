@@ -1,0 +1,41 @@
+{
+  "id": "klefki",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 707,
+    "height": 2,
+    "weight": 30,
+    "base_experience": 165,
+    "name": "Klefki",
+    "genus": "Key Ring"
+  },
+  "locale": {
+    "ja": {
+      "name": "クレッフィ",
+      "genus": "かぎたば"
+    },
+    "ko": {
+      "name": "클레피",
+      "genus": "열쇠꾸러미"
+    },
+    "fr": {
+      "name": "Trousselin",
+      "genus": "Trousseau"
+    },
+    "de": {
+      "name": "Clavion",
+      "genus": "Schlüssel"
+    },
+    "es": {
+      "name": "Klefki",
+      "genus": "Llavero"
+    },
+    "it": {
+      "name": "Klefki",
+      "genus": "Portachiavi"
+    }
+  }
+}

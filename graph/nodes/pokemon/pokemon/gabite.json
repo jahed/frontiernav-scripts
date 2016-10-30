@@ -1,0 +1,45 @@
+{
+  "id": "gabite",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 444,
+    "height": 14,
+    "weight": 560,
+    "base_experience": 144,
+    "name": "Gabite",
+    "genus": "Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガバイト",
+      "genus": "ほらあな"
+    },
+    "ko": {
+      "name": "한바이트",
+      "genus": "동굴"
+    },
+    "zh": {
+      "name": "尖牙陸鲨",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Carmache",
+      "genus": "Caverne"
+    },
+    "de": {
+      "name": "Knarksel",
+      "genus": "Höhle"
+    },
+    "es": {
+      "name": "Gabite",
+      "genus": "Cueva"
+    },
+    "it": {
+      "name": "Gabite",
+      "genus": "Grotta"
+    }
+  }
+}

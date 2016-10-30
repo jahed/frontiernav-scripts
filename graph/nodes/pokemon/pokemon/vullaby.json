@@ -1,0 +1,41 @@
+{
+  "id": "vullaby",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 629,
+    "height": 5,
+    "weight": 90,
+    "base_experience": 74,
+    "name": "Vullaby",
+    "genus": "Diapered"
+  },
+  "locale": {
+    "ja": {
+      "name": "バルチャイ",
+      "genus": "おむつ"
+    },
+    "ko": {
+      "name": "벌차이",
+      "genus": "기저귀"
+    },
+    "fr": {
+      "name": "Vostourno",
+      "genus": "Couche"
+    },
+    "de": {
+      "name": "Skallyk",
+      "genus": "Windel"
+    },
+    "es": {
+      "name": "Vullaby",
+      "genus": "Pañal"
+    },
+    "it": {
+      "name": "Vullaby",
+      "genus": "Pannolino"
+    }
+  }
+}

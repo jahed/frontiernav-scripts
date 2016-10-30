@@ -1,0 +1,45 @@
+{
+  "id": "deoxys-normal",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 386,
+    "height": 17,
+    "weight": 608,
+    "base_experience": 270,
+    "name": "Deoxys",
+    "genus": "DNA"
+  },
+  "locale": {
+    "ja": {
+      "name": "デオキシス",
+      "genus": "ＤＮＡ"
+    },
+    "ko": {
+      "name": "테오키스",
+      "genus": "DNA"
+    },
+    "zh": {
+      "name": "代歐奇希斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Deoxys",
+      "genus": "ADN"
+    },
+    "de": {
+      "name": "Deoxys",
+      "genus": "DNS"
+    },
+    "es": {
+      "name": "Deoxys",
+      "genus": "ADN"
+    },
+    "it": {
+      "name": "Deoxys",
+      "genus": "DNA"
+    }
+  }
+}

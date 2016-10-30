@@ -1,0 +1,41 @@
+{
+  "id": "honedge",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 679,
+    "height": 8,
+    "weight": 20,
+    "base_experience": 65,
+    "name": "Honedge",
+    "genus": "Sword"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒトツキ",
+      "genus": "とうけん"
+    },
+    "ko": {
+      "name": "단칼빙",
+      "genus": "도검"
+    },
+    "fr": {
+      "name": "Monorpale",
+      "genus": "Glaive"
+    },
+    "de": {
+      "name": "Gramokles",
+      "genus": "Klingenkraft"
+    },
+    "es": {
+      "name": "Honedge",
+      "genus": "Tizona"
+    },
+    "it": {
+      "name": "Honedge",
+      "genus": "Armabianca"
+    }
+  }
+}

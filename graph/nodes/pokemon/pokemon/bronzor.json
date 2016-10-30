@@ -1,0 +1,45 @@
+{
+  "id": "bronzor",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 436,
+    "height": 5,
+    "weight": 605,
+    "base_experience": 60,
+    "name": "Bronzor",
+    "genus": "Bronze"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドーミラー",
+      "genus": "せいどう"
+    },
+    "ko": {
+      "name": "동미러",
+      "genus": "청동"
+    },
+    "zh": {
+      "name": "銅鏡怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Archéomire",
+      "genus": "Bronze"
+    },
+    "de": {
+      "name": "Bronzel",
+      "genus": "Bronze"
+    },
+    "es": {
+      "name": "Bronzor",
+      "genus": "Bronce"
+    },
+    "it": {
+      "name": "Bronzor",
+      "genus": "Bronzo"
+    }
+  }
+}

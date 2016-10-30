@@ -1,0 +1,45 @@
+{
+  "id": "piloswine",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 221,
+    "height": 11,
+    "weight": 558,
+    "base_experience": 158,
+    "name": "Piloswine",
+    "genus": "Swine"
+  },
+  "locale": {
+    "ja": {
+      "name": "イノムー",
+      "genus": "いのしし"
+    },
+    "ko": {
+      "name": "메꾸리",
+      "genus": "멧돼지"
+    },
+    "zh": {
+      "name": "長毛豬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Cochignon",
+      "genus": "Porc"
+    },
+    "de": {
+      "name": "Keifel",
+      "genus": "Schwein"
+    },
+    "es": {
+      "name": "Piloswine",
+      "genus": "Puerco"
+    },
+    "it": {
+      "name": "Piloswine",
+      "genus": "Suino"
+    }
+  }
+}

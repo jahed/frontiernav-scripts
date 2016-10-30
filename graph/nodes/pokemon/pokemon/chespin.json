@@ -1,0 +1,41 @@
+{
+  "id": "chespin",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 650,
+    "height": 4,
+    "weight": 90,
+    "base_experience": 63,
+    "name": "Chespin",
+    "genus": "Spiny Nut"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハリマロン",
+      "genus": "いがぐり"
+    },
+    "ko": {
+      "name": "도치마론",
+      "genus": "밤송이"
+    },
+    "fr": {
+      "name": "Marisson",
+      "genus": "Bogue"
+    },
+    "de": {
+      "name": "Igamaro",
+      "genus": "Stachelkopf"
+    },
+    "es": {
+      "name": "Chespin",
+      "genus": "Erizo"
+    },
+    "it": {
+      "name": "Chespin",
+      "genus": "Castanriccio"
+    }
+  }
+}

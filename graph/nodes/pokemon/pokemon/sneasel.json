@@ -1,0 +1,45 @@
+{
+  "id": "sneasel",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 215,
+    "height": 9,
+    "weight": 280,
+    "base_experience": 86,
+    "name": "Sneasel",
+    "genus": "Sharp Claw"
+  },
+  "locale": {
+    "ja": {
+      "name": "ニューラ",
+      "genus": "かぎづめ"
+    },
+    "ko": {
+      "name": "포푸니",
+      "genus": "갈고리손톱"
+    },
+    "zh": {
+      "name": "狃拉",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Farfuret",
+      "genus": "Grifacérée"
+    },
+    "de": {
+      "name": "Sniebel",
+      "genus": "Stichklaue"
+    },
+    "es": {
+      "name": "Sneasel",
+      "genus": "Garra Filo"
+    },
+    "it": {
+      "name": "Sneasel",
+      "genus": "Lamartigli"
+    }
+  }
+}

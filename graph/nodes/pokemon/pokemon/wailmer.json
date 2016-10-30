@@ -1,0 +1,45 @@
+{
+  "id": "wailmer",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 320,
+    "height": 20,
+    "weight": 1300,
+    "base_experience": 80,
+    "name": "Wailmer",
+    "genus": "Ball Whale"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホエルコ",
+      "genus": "たまくじら"
+    },
+    "ko": {
+      "name": "고래왕자",
+      "genus": "둥근고래"
+    },
+    "zh": {
+      "name": "吼吼鯨",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Wailmer",
+      "genus": "Baleinboule"
+    },
+    "de": {
+      "name": "Wailmer",
+      "genus": "Kugelwal"
+    },
+    "es": {
+      "name": "Wailmer",
+      "genus": "Ballenabola"
+    },
+    "it": {
+      "name": "Wailmer",
+      "genus": "Balenottero"
+    }
+  }
+}

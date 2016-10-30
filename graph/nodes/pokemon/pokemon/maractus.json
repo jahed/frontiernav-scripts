@@ -1,0 +1,41 @@
+{
+  "id": "maractus",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 556,
+    "height": 10,
+    "weight": 280,
+    "base_experience": 161,
+    "name": "Maractus",
+    "genus": "Cactus"
+  },
+  "locale": {
+    "ja": {
+      "name": "マラカッチ",
+      "genus": "サボテン"
+    },
+    "ko": {
+      "name": "마라카치",
+      "genus": "선인장"
+    },
+    "fr": {
+      "name": "Maracachi",
+      "genus": "Cactus"
+    },
+    "de": {
+      "name": "Maracamba",
+      "genus": "Kaktus"
+    },
+    "es": {
+      "name": "Maractus",
+      "genus": "Cactus"
+    },
+    "it": {
+      "name": "Maractus",
+      "genus": "Cactus"
+    }
+  }
+}

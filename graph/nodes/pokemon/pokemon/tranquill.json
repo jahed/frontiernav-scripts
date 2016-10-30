@@ -1,0 +1,41 @@
+{
+  "id": "tranquill",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 520,
+    "height": 6,
+    "weight": 150,
+    "base_experience": 125,
+    "name": "Tranquill",
+    "genus": "Wild Pigeon"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハトーボー",
+      "genus": "のばと"
+    },
+    "ko": {
+      "name": "유토브",
+      "genus": "들비둘기"
+    },
+    "fr": {
+      "name": "Colombeau",
+      "genus": "Sauvapigeon"
+    },
+    "de": {
+      "name": "Navitaub",
+      "genus": "Wildtaube"
+    },
+    "es": {
+      "name": "Tranquill",
+      "genus": "Torcaz"
+    },
+    "it": {
+      "name": "Tranquill",
+      "genus": "Granpiccione"
+    }
+  }
+}

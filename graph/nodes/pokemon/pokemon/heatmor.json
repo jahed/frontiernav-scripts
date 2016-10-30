@@ -1,0 +1,41 @@
+{
+  "id": "heatmor",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 631,
+    "height": 14,
+    "weight": 580,
+    "base_experience": 169,
+    "name": "Heatmor",
+    "genus": "Anteater"
+  },
+  "locale": {
+    "ja": {
+      "name": "クイタラン",
+      "genus": "アリクイ"
+    },
+    "ko": {
+      "name": "앤티골",
+      "genus": "개미핥기"
+    },
+    "fr": {
+      "name": "Aflamanoir",
+      "genus": "Tamanoir"
+    },
+    "de": {
+      "name": "Furnifraß",
+      "genus": "Ameisenbär"
+    },
+    "es": {
+      "name": "Heatmor",
+      "genus": "Hormiguero"
+    },
+    "it": {
+      "name": "Heatmor",
+      "genus": "Formichiere"
+    }
+  }
+}

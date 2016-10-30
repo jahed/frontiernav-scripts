@@ -1,0 +1,45 @@
+{
+  "id": "porygon2",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 233,
+    "height": 6,
+    "weight": 325,
+    "base_experience": 180,
+    "name": "Porygon2",
+    "genus": "Virtual"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポリゴン２",
+      "genus": "バーチャル"
+    },
+    "ko": {
+      "name": "폴리곤2",
+      "genus": "가상"
+    },
+    "zh": {
+      "name": "3D龍2",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Porygon2",
+      "genus": "Virtuel"
+    },
+    "de": {
+      "name": "Porygon2",
+      "genus": "Virtuell"
+    },
+    "es": {
+      "name": "Porygon2",
+      "genus": "Virtual"
+    },
+    "it": {
+      "name": "Porygon2",
+      "genus": "Virtuale"
+    }
+  }
+}

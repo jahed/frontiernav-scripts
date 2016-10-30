@@ -1,0 +1,41 @@
+{
+  "id": "ducklett",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 580,
+    "height": 5,
+    "weight": 55,
+    "base_experience": 61,
+    "name": "Ducklett",
+    "genus": "Water Bird"
+  },
+  "locale": {
+    "ja": {
+      "name": "コアルヒー",
+      "genus": "みずどり"
+    },
+    "ko": {
+      "name": "꼬지보리",
+      "genus": "물새"
+    },
+    "fr": {
+      "name": "Couaneton",
+      "genus": "Oiseaudo"
+    },
+    "de": {
+      "name": "Piccolente",
+      "genus": "Wasservogel"
+    },
+    "es": {
+      "name": "Ducklett",
+      "genus": "Ave Agua"
+    },
+    "it": {
+      "name": "Ducklett",
+      "genus": "Alacquatico"
+    }
+  }
+}

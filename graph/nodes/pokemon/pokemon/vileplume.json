@@ -1,0 +1,45 @@
+{
+  "id": "vileplume",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 45,
+    "height": 12,
+    "weight": 186,
+    "base_experience": 221,
+    "name": "Vileplume",
+    "genus": "Flower"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラフレシア",
+      "genus": "フラワー"
+    },
+    "ko": {
+      "name": "라플레시아",
+      "genus": "꽃"
+    },
+    "zh": {
+      "name": "霸王花",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rafflesia",
+      "genus": "Fleur"
+    },
+    "de": {
+      "name": "Giflor",
+      "genus": "Blume"
+    },
+    "es": {
+      "name": "Vileplume",
+      "genus": "Flor"
+    },
+    "it": {
+      "name": "Vileplume",
+      "genus": "Fiore"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "swoobat",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 528,
+    "height": 9,
+    "weight": 105,
+    "base_experience": 149,
+    "name": "Swoobat",
+    "genus": "Courting"
+  },
+  "locale": {
+    "ja": {
+      "name": "ココロモリ",
+      "genus": "きゅうあい"
+    },
+    "ko": {
+      "name": "맘박쥐",
+      "genus": "구애"
+    },
+    "fr": {
+      "name": "Rhinolove",
+      "genus": "Cupidon"
+    },
+    "de": {
+      "name": "Fletiamo",
+      "genus": "Balz"
+    },
+    "es": {
+      "name": "Swoobat",
+      "genus": "Galante"
+    },
+    "it": {
+      "name": "Swoobat",
+      "genus": "Cercamore"
+    }
+  }
+}

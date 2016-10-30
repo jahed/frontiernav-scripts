@@ -1,0 +1,45 @@
+{
+  "id": "skuntank",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 435,
+    "height": 10,
+    "weight": 380,
+    "base_experience": 168,
+    "name": "Skuntank",
+    "genus": "Skunk"
+  },
+  "locale": {
+    "ja": {
+      "name": "スカタンク",
+      "genus": "スカンク"
+    },
+    "ko": {
+      "name": "스컹탱크",
+      "genus": "스컹크"
+    },
+    "zh": {
+      "name": "坦克臭鼬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Moufflair",
+      "genus": "Moufette"
+    },
+    "de": {
+      "name": "Skuntank",
+      "genus": "Stinktier"
+    },
+    "es": {
+      "name": "Skuntank",
+      "genus": "Mofeta"
+    },
+    "it": {
+      "name": "Skuntank",
+      "genus": "Moffetta"
+    }
+  }
+}

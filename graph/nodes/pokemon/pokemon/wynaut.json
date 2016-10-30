@@ -1,0 +1,45 @@
+{
+  "id": "wynaut",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 360,
+    "height": 6,
+    "weight": 140,
+    "base_experience": 52,
+    "name": "Wynaut",
+    "genus": "Bright"
+  },
+  "locale": {
+    "ja": {
+      "name": "ソーナノ",
+      "genus": "ほがらか"
+    },
+    "ko": {
+      "name": "마자",
+      "genus": "명랑"
+    },
+    "zh": {
+      "name": "小果然",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Okéoké",
+      "genus": "Ravi"
+    },
+    "de": {
+      "name": "Isso",
+      "genus": "Strahlekind"
+    },
+    "es": {
+      "name": "Wynaut",
+      "genus": "Radiante"
+    },
+    "it": {
+      "name": "Wynaut",
+      "genus": "Brillante"
+    }
+  }
+}

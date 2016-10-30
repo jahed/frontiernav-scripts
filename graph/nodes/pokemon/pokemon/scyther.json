@@ -1,0 +1,45 @@
+{
+  "id": "scyther",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 123,
+    "height": 15,
+    "weight": 560,
+    "base_experience": 100,
+    "name": "Scyther",
+    "genus": "Mantis"
+  },
+  "locale": {
+    "ja": {
+      "name": "ストライク",
+      "genus": "かまきり"
+    },
+    "ko": {
+      "name": "스라크",
+      "genus": "버마재비"
+    },
+    "zh": {
+      "name": "飛天螳螂",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Insécateur",
+      "genus": "Mante"
+    },
+    "de": {
+      "name": "Sichlor",
+      "genus": "Mantis"
+    },
+    "es": {
+      "name": "Scyther",
+      "genus": "Mantis"
+    },
+    "it": {
+      "name": "Scyther",
+      "genus": "Mantide"
+    }
+  }
+}

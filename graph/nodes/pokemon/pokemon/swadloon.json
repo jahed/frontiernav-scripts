@@ -1,0 +1,41 @@
+{
+  "id": "swadloon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 541,
+    "height": 5,
+    "weight": 73,
+    "base_experience": 133,
+    "name": "Swadloon",
+    "genus": "Leaf-Wrapped"
+  },
+  "locale": {
+    "ja": {
+      "name": "クルマユ",
+      "genus": "はごもり"
+    },
+    "ko": {
+      "name": "두르쿤",
+      "genus": "잎숨기"
+    },
+    "fr": {
+      "name": "Couverdure",
+      "genus": "Capefeuille"
+    },
+    "de": {
+      "name": "Folikon",
+      "genus": "Wickelblatt"
+    },
+    "es": {
+      "name": "Swadloon",
+      "genus": "Arropado"
+    },
+    "it": {
+      "name": "Swadloon",
+      "genus": "Coprifoglia"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gurdurr",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 533,
+    "height": 12,
+    "weight": 400,
+    "base_experience": 142,
+    "name": "Gurdurr",
+    "genus": "Muscular"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドテッコツ",
+      "genus": "きんこつ"
+    },
+    "ko": {
+      "name": "토쇠골",
+      "genus": "근골"
+    },
+    "fr": {
+      "name": "Ouvrifier",
+      "genus": "Costaud"
+    },
+    "de": {
+      "name": "Strepoli",
+      "genus": "Muskel"
+    },
+    "es": {
+      "name": "Gurdurr",
+      "genus": "Musculoso"
+    },
+    "it": {
+      "name": "Gurdurr",
+      "genus": "Forzaimmane"
+    }
+  }
+}

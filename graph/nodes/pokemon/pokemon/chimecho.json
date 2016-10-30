@@ -1,0 +1,45 @@
+{
+  "id": "chimecho",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 358,
+    "height": 6,
+    "weight": 10,
+    "base_experience": 149,
+    "name": "Chimecho",
+    "genus": "Wind Chime"
+  },
+  "locale": {
+    "ja": {
+      "name": "チリーン",
+      "genus": "ふうりん"
+    },
+    "ko": {
+      "name": "치렁",
+      "genus": "풍경"
+    },
+    "zh": {
+      "name": "風鈴鈴",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Éoko",
+      "genus": "Carillon"
+    },
+    "de": {
+      "name": "Palimpalim",
+      "genus": "Windspiel"
+    },
+    "es": {
+      "name": "Chimecho",
+      "genus": "Sonido Aire"
+    },
+    "it": {
+      "name": "Chimecho",
+      "genus": "Vencampana"
+    }
+  }
+}

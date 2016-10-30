@@ -1,0 +1,45 @@
+{
+  "id": "spinda",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 327,
+    "height": 11,
+    "weight": 50,
+    "base_experience": 126,
+    "name": "Spinda",
+    "genus": "Spot Panda"
+  },
+  "locale": {
+    "ja": {
+      "name": "パッチール",
+      "genus": "ぶちパンダ"
+    },
+    "ko": {
+      "name": "얼루기",
+      "genus": "얼룩팬더"
+    },
+    "zh": {
+      "name": "晃晃斑",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Spinda",
+      "genus": "Panda Tache"
+    },
+    "de": {
+      "name": "Pandir",
+      "genus": "Punkt-Panda"
+    },
+    "es": {
+      "name": "Spinda",
+      "genus": "Panda Topos"
+    },
+    "it": {
+      "name": "Spinda",
+      "genus": "Macchipanda"
+    }
+  }
+}

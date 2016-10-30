@@ -1,0 +1,41 @@
+{
+  "id": "noivern",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 715,
+    "height": 15,
+    "weight": 850,
+    "base_experience": 187,
+    "name": "Noivern",
+    "genus": "Sound Wave"
+  },
+  "locale": {
+    "ja": {
+      "name": "オンバーン",
+      "genus": "おんぱ"
+    },
+    "ko": {
+      "name": "음번",
+      "genus": "음파"
+    },
+    "fr": {
+      "name": "Bruyverne",
+      "genus": "Ondes"
+    },
+    "de": {
+      "name": "UHaFnir",
+      "genus": "Schallwellen"
+    },
+    "es": {
+      "name": "Noivern",
+      "genus": "Onda Sónica"
+    },
+    "it": {
+      "name": "Noivern",
+      "genus": "Ondasonora"
+    }
+  }
+}

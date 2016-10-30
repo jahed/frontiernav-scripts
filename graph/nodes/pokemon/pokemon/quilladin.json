@@ -1,0 +1,41 @@
+{
+  "id": "quilladin",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 651,
+    "height": 7,
+    "weight": 290,
+    "base_experience": 142,
+    "name": "Quilladin",
+    "genus": "Spiny Armor"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハリボーグ",
+      "genus": "とげよろい"
+    },
+    "ko": {
+      "name": "도치보구",
+      "genus": "가시갑옷"
+    },
+    "fr": {
+      "name": "Boguérisse",
+      "genus": "Épinarmure"
+    },
+    "de": {
+      "name": "Igastarnish",
+      "genus": "Spitzpanzer"
+    },
+    "es": {
+      "name": "Quilladin",
+      "genus": "Corazaespín"
+    },
+    "it": {
+      "name": "Quilladin",
+      "genus": "Spincorazza"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "haxorus",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 612,
+    "height": 18,
+    "weight": 1055,
+    "base_experience": 243,
+    "name": "Haxorus",
+    "genus": "Axe Jaw"
+  },
+  "locale": {
+    "ja": {
+      "name": "オノノクス",
+      "genus": "あごオノ"
+    },
+    "ko": {
+      "name": "액스라이즈",
+      "genus": "도끼턱"
+    },
+    "fr": {
+      "name": "Tranchodon",
+      "genus": "Hachomenton"
+    },
+    "de": {
+      "name": "Maxax",
+      "genus": "Beilkiefer"
+    },
+    "es": {
+      "name": "Haxorus",
+      "genus": "Boca Hacha"
+    },
+    "it": {
+      "name": "Haxorus",
+      "genus": "Mascellascia"
+    }
+  }
+}

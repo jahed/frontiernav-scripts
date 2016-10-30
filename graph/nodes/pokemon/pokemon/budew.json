@@ -1,0 +1,45 @@
+{
+  "id": "budew",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 406,
+    "height": 2,
+    "weight": 12,
+    "base_experience": 56,
+    "name": "Budew",
+    "genus": "Bud"
+  },
+  "locale": {
+    "ja": {
+      "name": "スボミー",
+      "genus": "つぼみ"
+    },
+    "ko": {
+      "name": "꼬몽울",
+      "genus": "꽃봉오리"
+    },
+    "zh": {
+      "name": "含羞苞",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rozbouton",
+      "genus": "Bourgeon"
+    },
+    "de": {
+      "name": "Knospi",
+      "genus": "Knospe"
+    },
+    "es": {
+      "name": "Budew",
+      "genus": "Brote"
+    },
+    "it": {
+      "name": "Budew",
+      "genus": "Germoglio"
+    }
+  }
+}

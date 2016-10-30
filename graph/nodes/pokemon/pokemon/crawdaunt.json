@@ -1,0 +1,45 @@
+{
+  "id": "crawdaunt",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 342,
+    "height": 11,
+    "weight": 328,
+    "base_experience": 164,
+    "name": "Crawdaunt",
+    "genus": "Rogue"
+  },
+  "locale": {
+    "ja": {
+      "name": "シザリガー",
+      "genus": "ならずもの"
+    },
+    "ko": {
+      "name": "가재장군",
+      "genus": "불량배"
+    },
+    "zh": {
+      "name": "鐵螯龍蝦",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Colhomard",
+      "genus": "Crapule"
+    },
+    "de": {
+      "name": "Krebutack",
+      "genus": "Schlingel"
+    },
+    "es": {
+      "name": "Crawdaunt",
+      "genus": "Granuja"
+    },
+    "it": {
+      "name": "Crawdaunt",
+      "genus": "Canaglia"
+    }
+  }
+}

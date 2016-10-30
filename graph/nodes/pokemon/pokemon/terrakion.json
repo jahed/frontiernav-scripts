@@ -1,0 +1,41 @@
+{
+  "id": "terrakion",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 639,
+    "height": 19,
+    "weight": 2600,
+    "base_experience": 261,
+    "name": "Terrakion",
+    "genus": "Cavern"
+  },
+  "locale": {
+    "ja": {
+      "name": "テラキオン",
+      "genus": "がんくつ"
+    },
+    "ko": {
+      "name": "테라키온",
+      "genus": "암굴"
+    },
+    "fr": {
+      "name": "Terrakium",
+      "genus": "Grotte"
+    },
+    "de": {
+      "name": "Terrakium",
+      "genus": "Felsenhöhle"
+    },
+    "es": {
+      "name": "Terrakion",
+      "genus": "Gruta"
+    },
+    "it": {
+      "name": "Terrakion",
+      "genus": "Caverna"
+    }
+  }
+}
