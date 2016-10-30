@@ -32,11 +32,13 @@ function readGraphObjects(objectsPath, mapResult) {
 }
 
 module.exports = function readGraph(graphPath, mapResult = i => i) {
+    const read = type => readGraphObjects(path.resolve(graphPath, type), mapResult)
     return {
-        nodeLabels:        readGraphObjects(path.resolve(graphPath, 'nodeLabels'), mapResult),
-        nodes:             readGraphObjects(path.resolve(graphPath, 'nodes'), mapResult),
-        relationships:     readGraphObjects(path.resolve(graphPath, 'relationships'), mapResult),
-        relationshipTypes: readGraphObjects(path.resolve(graphPath, 'relationshipTypes'), mapResult),
+        nodeLabels:        read('nodeLabels'),
+        nodes:             read('nodes'),
+        relationships:     read('relationships'),
+        relationshipTypes: read('relationshipTypes'),
+        locales:           read('locales'),
     }
 
 }

@@ -3,10 +3,9 @@ const assert = require('assert')
 const _ = require('lodash')
 const readGraph = require('../helpers/readGraph')
 const countGraph = require('../helpers/countGraph')
-const locales = require('../data/locales.json')
 
 const graph = readGraph('./graph')
-const { nodeLabels, nodes, relationships, relationshipTypes } = graph
+const { nodeLabels, nodes, relationships, relationshipTypes, locales } = graph
 
 describe('Graph', () => {
 
@@ -15,17 +14,19 @@ describe('Graph', () => {
     })
 
     it('filenames should match assigned IDs', () => {
-        const assertIdsMatch = graphObject => {
+        const assertIdsMatch = (type, graphObject) => {
+            const id = graphObject.content.id
+            const filenameWithoutExt = path.basename(graphObject.absoluteFilePath, path.extname(graphObject.absoluteFilePath))
             assert.strictEqual(
-                graphObject.content.id,
-                path.basename(graphObject.absoluteFilePath, path.extname(graphObject.absoluteFilePath))
+                id,
+                filenameWithoutExt,
+                `${type}(${id}) does not match filename "${graphObject.absoluteFilePath}"`
             )
         }
 
-        nodeLabels.forEach(assertIdsMatch)
-        nodes.forEach(assertIdsMatch)
-        relationships.forEach(assertIdsMatch)
-        relationshipTypes.forEach(assertIdsMatch)
+        _.forEach(graph, (objects, type) => {
+            objects.forEach(obj => assertIdsMatch(type, obj))
+        })
     })
 
     it('IDs should be unique', () => {
@@ -60,13 +61,16 @@ describe('Graph', () => {
 
     describe('locale', () => {
 
-        it('codes should be ISO 639-1 codes', () => {
+        it('codes should match locale defined in graph', () => {
             _(nodes)
                 .map('content')
                 .filter('locale')
                 .forEach(node => {
                     _.forEach(node.locale, (localeData, code) => {
-                        assert.ok(!!locales[code], `Unknown language code "${code}" found in Node(${node.id})`)
+                        assert.ok(
+                            locales.some(locale => locale.content.id === code),
+                            `Unknown language code "${code}" found in Node(${node.id})`
+                        )
                     })
                 })
         })
