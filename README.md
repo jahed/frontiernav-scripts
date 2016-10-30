@@ -1,6 +1,8 @@
 # FrontierNav Data
 
 [![Travis Build Status](https://img.shields.io/travis/frontiernav/frontiernav-data/master.svg)](https://travis-ci.org/frontiernav/frontiernav-data/branches/master)
+[![Dev Dependencies Status](https://img.shields.io/david/dev/frontiernav/frontiernav-data.svg)](https://david-dm.org/frontiernav/frontiernav-data?type=dev)
+[![Discord Chat](https://img.shields.io/badge/discord-chat-7289da.svg)](https://discordapp.com/invite/supaB)
 
 The data here is made to work with FrontierNav, however you're free to re-use the data for your own projects. Consider contributing to help fill in the gaps.
 
@@ -10,6 +12,8 @@ Note: The data is currently in a migration phase so it's likely to be restructur
 
 
 ## Contributions
+
+[Join the project's Discord server so we can discuss!](https://discordapp.com/invite/supaB)
 
 All contributions are welcome. Simply fork the repo and submit pull requests. If you are trying to solve a particular issue or add more data, it'll help if you announce it by creating an Issue first so that people aren't duplicating work or doing what that has already been discussed.
 
