@@ -1,0 +1,11 @@
+{
+  "id": "Pokemon",
+  "name": "Pokémon",
+  "searchable": true,
+  "pageDescription": "Find out more about {name} and where you can find them in Pokémon.",
+  "schema": {
+    "name": {
+      "required": true
+    }
+  }
+}
