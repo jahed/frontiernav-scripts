@@ -1,0 +1,6 @@
+{
+  "id": "laser-raptor-seidr__DROPS__seidr-control-device",
+  "type": "DROPS",
+  "start": "laser-raptor-seidr",
+  "end": "seidr-control-device"
+}

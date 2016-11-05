@@ -1,0 +1,6 @@
+{
+  "id": "gate-puge__DROPS__puge-self-destruct-mechanism",
+  "type": "DROPS",
+  "start": "gate-puge",
+  "end": "puge-self-destruct-mechanism"
+}

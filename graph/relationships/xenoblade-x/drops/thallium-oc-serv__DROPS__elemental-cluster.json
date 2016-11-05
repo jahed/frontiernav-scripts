@@ -1,0 +1,6 @@
+{
+  "id": "thallium-oc-serv__DROPS__elemental-cluster",
+  "type": "DROPS",
+  "start": "thallium-oc-serv",
+  "end": "elemental-cluster"
+}

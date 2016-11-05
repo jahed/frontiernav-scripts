@@ -1,0 +1,6 @@
+{
+  "id": "mortar-launcher-zig__DROPS__standard-sensor-part",
+  "type": "DROPS",
+  "start": "mortar-launcher-zig",
+  "end": "standard-sensor-part"
+}

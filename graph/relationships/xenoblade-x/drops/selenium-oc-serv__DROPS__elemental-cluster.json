@@ -1,0 +1,6 @@
+{
+  "id": "selenium-oc-serv__DROPS__elemental-cluster",
+  "type": "DROPS",
+  "start": "selenium-oc-serv",
+  "end": "elemental-cluster"
+}

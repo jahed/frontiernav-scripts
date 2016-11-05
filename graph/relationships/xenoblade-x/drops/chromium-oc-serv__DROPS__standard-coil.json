@@ -1,0 +1,6 @@
+{
+  "id": "chromium-oc-serv__DROPS__standard-coil",
+  "type": "DROPS",
+  "start": "chromium-oc-serv",
+  "end": "standard-coil"
+}

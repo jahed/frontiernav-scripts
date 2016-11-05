@@ -1,0 +1,6 @@
+{
+  "id": "nomad-lepyx__DROPS__lepyx-elastic-cell",
+  "type": "DROPS",
+  "start": "nomad-lepyx",
+  "end": "lepyx-elastic-cell"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "howitzer-launcher-zig__DROPS__standard-sensor-part",
+  "type": "DROPS",
+  "start": "howitzer-launcher-zig",
+  "end": "standard-sensor-part"
+}

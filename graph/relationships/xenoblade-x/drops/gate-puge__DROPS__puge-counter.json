@@ -1,0 +1,6 @@
+{
+  "id": "gate-puge__DROPS__puge-counter",
+  "type": "DROPS",
+  "start": "gate-puge",
+  "end": "puge-counter"
+}

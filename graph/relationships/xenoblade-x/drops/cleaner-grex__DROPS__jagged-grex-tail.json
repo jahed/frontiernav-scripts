@@ -1,0 +1,6 @@
+{
+  "id": "cleaner-grex__DROPS__jagged-grex-tail",
+  "type": "DROPS",
+  "start": "cleaner-grex",
+  "end": "jagged-grex-tail"
+}

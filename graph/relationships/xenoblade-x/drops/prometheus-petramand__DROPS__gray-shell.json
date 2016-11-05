@@ -1,0 +1,6 @@
+{
+  "id": "prometheus-petramand__DROPS__gray-shell",
+  "type": "DROPS",
+  "start": "prometheus-petramand",
+  "end": "gray-shell"
+}

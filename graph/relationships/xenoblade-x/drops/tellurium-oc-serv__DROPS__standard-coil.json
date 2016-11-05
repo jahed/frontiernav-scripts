@@ -1,0 +1,6 @@
+{
+  "id": "tellurium-oc-serv__DROPS__standard-coil",
+  "type": "DROPS",
+  "start": "tellurium-oc-serv",
+  "end": "standard-coil"
+}

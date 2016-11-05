@@ -1,0 +1,6 @@
+{
+  "id": "aegis-raptor-seidr__DROPS__seidr-control-device",
+  "type": "DROPS",
+  "start": "aegis-raptor-seidr",
+  "end": "seidr-control-device"
+}
