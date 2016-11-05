@@ -8,6 +8,8 @@
   "data": {
     "name": "Leva'el, the Terminus",
     "level": 82,
+    "category": "Mechanoid",
+    "subcategory": "Xern",
     "notes": "\"Leva'el, the Terminus\" is a postgame boss that can be found very high in the sky directly above a sandy island out in the ocean to the south west of Cauldros (the same island where Armed Recon Galdr can be found).",
     "image": "ev8slpfa"
   }
