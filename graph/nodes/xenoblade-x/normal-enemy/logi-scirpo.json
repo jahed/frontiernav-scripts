@@ -1,0 +1,59 @@
+{
+  "id": "logi-scirpo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Logi Scirpo",
+    "subcategory": "Scirpo",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 57,
+      "maximum": 138
+    },
+    "health_range": {
+      "minimum": 7524,
+      "maximum": 16012
+    },
+    "melee_power_range": {
+      "minimum": 125,
+      "maximum": 219
+    },
+    "melee_accuracy_range": {
+      "minimum": 125,
+      "maximum": 143
+    },
+    "ranged_power_range": {
+      "minimum": 125,
+      "maximum": 219
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 53
+    },
+    "notes": "Found at 305E(lo),309SE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

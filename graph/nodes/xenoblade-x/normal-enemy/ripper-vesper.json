@@ -1,0 +1,59 @@
+{
+  "id": "ripper-vesper",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Ripper Vesper",
+    "subcategory": "Vesper",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 270,
+      "maximum": 372
+    },
+    "health_range": {
+      "minimum": 59236,
+      "maximum": 71676
+    },
+    "melee_power_range": {
+      "minimum": 597,
+      "maximum": 774
+    },
+    "melee_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "ranged_accuracy_range": {
+      "minimum": 203,
+      "maximum": 235
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 129,
+      "maximum": 165
+    },
+    "notes": "Found at 224",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

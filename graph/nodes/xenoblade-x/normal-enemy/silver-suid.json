@@ -1,0 +1,59 @@
+{
+  "id": "silver-suid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Silver Suid",
+    "subcategory": "Suid",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 213,
+      "maximum": 294
+    },
+    "health_range": {
+      "minimum": 59236,
+      "maximum": 71676
+    },
+    "melee_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "melee_accuracy_range": {
+      "minimum": 202,
+      "maximum": 234
+    },
+    "ranged_power_range": {
+      "minimum": 489,
+      "maximum": 633
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 233
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 115,
+      "maximum": 146
+    },
+    "notes": "Found at 108",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

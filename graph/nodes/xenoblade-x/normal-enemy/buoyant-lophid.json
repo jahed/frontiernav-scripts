@@ -1,0 +1,58 @@
+{
+  "id": "buoyant-lophid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Buoyant Lophid",
+    "subcategory": "Lophid",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 80,
+      "maximum": 138
+    },
+    "health_range": {
+      "minimum": 11812,
+      "maximum": 25138
+    },
+    "melee_power_range": {
+      "minimum": 201,
+      "maximum": 353
+    },
+    "melee_accuracy_range": {
+      "minimum": 118,
+      "maximum": 135
+    },
+    "ranged_power_range": {
+      "minimum": 171,
+      "maximum": 299
+    },
+    "ranged_accuracy_range": {
+      "minimum": 114,
+      "maximum": 131
+    },
+    "potential_range": {
+      "minimum": 175,
+      "maximum": 307
+    },
+    "evasion_range": {
+      "minimum": 39,
+      "maximum": 59
+    },
+    "notes": "Found at [19:00~5:00]: Janpath",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

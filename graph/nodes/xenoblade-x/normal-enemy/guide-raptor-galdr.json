@@ -1,0 +1,58 @@
+{
+  "id": "guide-raptor-galdr",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Guide Raptor Galdr",
+    "subcategory": "Galdr",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 477,
+      "maximum": 659
+    },
+    "health_range": {
+      "minimum": 84115,
+      "maximum": 101779
+    },
+    "melee_power_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 889,
+      "maximum": 1152
+    },
+    "ranged_accuracy_range": {
+      "minimum": 233,
+      "maximum": 270
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 94,
+      "maximum": 120
+    },
+    "notes": "Found at 507N",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

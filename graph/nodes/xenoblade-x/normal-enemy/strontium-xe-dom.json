@@ -1,0 +1,58 @@
+{
+  "id": "strontium-xe-dom",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Strontium Xe-dom",
+    "subcategory": "Xe-dom",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 2182,
+      "maximum": 2808
+    },
+    "health_range": {
+      "minimum": 730272,
+      "maximum": 854588
+    },
+    "melee_power_range": {
+      "minimum": 2418,
+      "maximum": 3013
+    },
+    "melee_accuracy_range": {
+      "minimum": 219,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 2418,
+      "maximum": 3013
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 2368,
+      "maximum": 2952
+    },
+    "evasion_range": {
+      "minimum": 107,
+      "maximum": 133
+    },
+    "notes": "Found at 505(hi),Kw'arah Cloister,M'gando",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

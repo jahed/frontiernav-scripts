@@ -1,0 +1,59 @@
+{
+  "id": "blind-vesper",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Blind Vesper",
+    "subcategory": "Vesper",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 34,
+      "maximum": 59
+    },
+    "health_range": {
+      "minimum": 8045,
+      "maximum": 17121
+    },
+    "melee_power_range": {
+      "minimum": 141,
+      "maximum": 248
+    },
+    "melee_accuracy_range": {
+      "minimum": 131,
+      "maximum": 150
+    },
+    "ranged_power_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 58
+    },
+    "notes": "Found at [19:00~5:00]: BiahnoE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

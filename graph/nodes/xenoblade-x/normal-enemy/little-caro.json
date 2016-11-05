@@ -1,0 +1,58 @@
+{
+  "id": "little-caro",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Little Caro",
+    "subcategory": "Caro",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 202,
+      "maximum": 286
+    },
+    "health_range": {
+      "minimum": 41329,
+      "maximum": 57855
+    },
+    "melee_power_range": {
+      "minimum": 413,
+      "maximum": 564
+    },
+    "melee_accuracy_range": {
+      "minimum": 182,
+      "maximum": 210
+    },
+    "ranged_power_range": {
+      "minimum": 346,
+      "maximum": 473
+    },
+    "ranged_accuracy_range": {
+      "minimum": 160,
+      "maximum": 185
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 92,
+      "maximum": 120
+    },
+    "notes": "Found at 416,418",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

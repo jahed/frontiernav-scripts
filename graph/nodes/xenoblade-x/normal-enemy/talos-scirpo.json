@@ -1,0 +1,59 @@
+{
+  "id": "talos-scirpo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Talos Scirpo",
+    "subcategory": "Scirpo",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 255,
+      "maximum": 362
+    },
+    "health_range": {
+      "minimum": 37644,
+      "maximum": 52696
+    },
+    "melee_power_range": {
+      "minimum": 511,
+      "maximum": 698
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 511,
+      "maximum": 698
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 88,
+      "maximum": 115
+    },
+    "notes": "Found at 217",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "marnuck-pawn",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Marnuck Pawn",
+    "subcategory": "Marnuck",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 11,
+      "maximum": 32
+    },
+    "health_range": {
+      "minimum": 1223,
+      "maximum": 6979
+    },
+    "melee_power_range": {
+      "minimum": 35,
+      "maximum": 124
+    },
+    "melee_accuracy_range": {
+      "minimum": 112,
+      "maximum": 132
+    },
+    "ranged_power_range": {
+      "minimum": 31,
+      "maximum": 108
+    },
+    "ranged_accuracy_range": {
+      "minimum": 100,
+      "maximum": 118
+    },
+    "potential_range": {
+      "minimum": 31,
+      "maximum": 108
+    },
+    "evasion_range": {
+      "minimum": 15,
+      "maximum": 33
+    },
+    "notes": "Found at 501",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

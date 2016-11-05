@@ -1,0 +1,59 @@
+{
+  "id": "macabre-aeviter",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Macabre Aeviter",
+    "subcategory": "Aeviter",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 622,
+      "maximum": 1047
+    },
+    "health_range": {
+      "minimum": 91320,
+      "maximum": 124141
+    },
+    "melee_power_range": {
+      "minimum": 1085,
+      "maximum": 1646
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 290
+    },
+    "ranged_power_range": {
+      "minimum": 1184,
+      "maximum": 1796
+    },
+    "ranged_accuracy_range": {
+      "minimum": 286,
+      "maximum": 342
+    },
+    "potential_range": {
+      "minimum": 1184,
+      "maximum": 1796
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 200
+    },
+    "notes": "Found at Sandsprint Cavity",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "machine-rook-quo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Machine Rook Quo",
+    "subcategory": "Quo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 163,
+      "maximum": 231
+    },
+    "health_range": {
+      "minimum": 37885,
+      "maximum": 53034
+    },
+    "melee_power_range": {
+      "minimum": 346,
+      "maximum": 473
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 346,
+      "maximum": 473
+    },
+    "ranged_accuracy_range": {
+      "minimum": 177,
+      "maximum": 205
+    },
+    "potential_range": {
+      "minimum": 462,
+      "maximum": 630
+    },
+    "evasion_range": {
+      "minimum": 92,
+      "maximum": 120
+    },
+    "notes": "Found at 418SW,Badr Stronghold",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

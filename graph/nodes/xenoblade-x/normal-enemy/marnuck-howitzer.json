@@ -1,0 +1,59 @@
+{
+  "id": "marnuck-howitzer",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Marnuck Howitzer",
+    "subcategory": "Marnuck",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 170,
+      "maximum": 235
+    },
+    "health_range": {
+      "minimum": 50350,
+      "maximum": 60924
+    },
+    "melee_power_range": {
+      "minimum": 494,
+      "maximum": 640
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "ranged_accuracy_range": {
+      "minimum": 213,
+      "maximum": 246
+    },
+    "potential_range": {
+      "minimum": 494,
+      "maximum": 640
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 157
+    },
+    "notes": "Found at ScablandFort",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

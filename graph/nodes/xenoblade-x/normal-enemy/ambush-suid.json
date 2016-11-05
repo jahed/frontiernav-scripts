@@ -1,0 +1,59 @@
+{
+  "id": "ambush-suid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Ambush Suid",
+    "subcategory": "Suid",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 144,
+      "maximum": 204
+    },
+    "health_range": {
+      "minimum": 37885,
+      "maximum": 53034
+    },
+    "melee_power_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "melee_accuracy_range": {
+      "minimum": 173,
+      "maximum": 199
+    },
+    "ranged_power_range": {
+      "minimum": 346,
+      "maximum": 473
+    },
+    "ranged_accuracy_range": {
+      "minimum": 164,
+      "maximum": 190
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 85,
+      "maximum": 112
+    },
+    "notes": "Found at 202",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

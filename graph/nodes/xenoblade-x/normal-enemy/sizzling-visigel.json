@@ -1,0 +1,59 @@
+{
+  "id": "sizzling-visigel",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Sizzling Visigel",
+    "subcategory": "Visigel",
+    "category": "Piscinoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 15,
+      "maximum": 42
+    },
+    "health_range": {
+      "minimum": 1372,
+      "maximum": 7824
+    },
+    "melee_power_range": {
+      "minimum": 30,
+      "maximum": 106
+    },
+    "melee_accuracy_range": {
+      "minimum": 107,
+      "maximum": 126
+    },
+    "ranged_power_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "ranged_accuracy_range": {
+      "minimum": 105,
+      "maximum": 123
+    },
+    "potential_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "evasion_range": {
+      "minimum": 15,
+      "maximum": 33
+    },
+    "notes": "Found at 505",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "innocent-ovis",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Innocent Ovis",
+    "subcategory": "Ovis",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 84,
+      "maximum": 138
+    },
+    "health_range": {
+      "minimum": 20357,
+      "maximum": 34677
+    },
+    "melee_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 141,
+      "maximum": 170
+    },
+    "ranged_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "ranged_accuracy_range": {
+      "minimum": 136,
+      "maximum": 165
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 55,
+      "maximum": 85
+    },
+    "notes": "Found at 302E,316S",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

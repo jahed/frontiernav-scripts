@@ -1,0 +1,58 @@
+{
+  "id": "coffin-puge",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Coffin Puge",
+    "subcategory": "Puge",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 255,
+      "maximum": 328
+    },
+    "health_range": {
+      "minimum": 59242,
+      "maximum": 69327
+    },
+    "melee_power_range": {
+      "minimum": 674,
+      "maximum": 840
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 294
+    },
+    "ranged_power_range": {
+      "minimum": 674,
+      "maximum": 840
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 288
+    },
+    "potential_range": {
+      "minimum": 658,
+      "maximum": 820
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at 504E(skywalk),507,516SW,Old Ceremonial Hollow",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "sentinel-satellis",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Sentinel Satellis",
+    "subcategory": "Vita",
+    "category": "Mechanoid",
+    "experience": 0,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 90
+    },
+    "health_range": {
+      "minimum": 166037,
+      "maximum": 288527
+    },
+    "melee_power_range": {
+      "minimum": 658,
+      "maximum": 1358
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 360
+    },
+    "ranged_power_range": {
+      "minimum": 658,
+      "maximum": 1358
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 355
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 1493
+    },
+    "evasion_range": {
+      "minimum": 77,
+      "maximum": 142
+    },
+    "notes": "Found at Summoned by Leva'el",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -10,
+    "ether_resistance": 30,
+    "heat_resistance": 30,
+    "electric_resistance": -10,
+    "gravity_resistance": -20
+  }
+}

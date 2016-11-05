@@ -1,0 +1,58 @@
+{
+  "id": "dagger-pugilith",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Dagger Pugilith",
+    "subcategory": "Pugilith",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 88,
+      "maximum": 153
+    },
+    "health_range": {
+      "minimum": 12368,
+      "maximum": 26322
+    },
+    "melee_power_range": {
+      "minimum": 184,
+      "maximum": 321
+    },
+    "melee_accuracy_range": {
+      "minimum": 118,
+      "maximum": 135
+    },
+    "ranged_power_range": {
+      "minimum": 192,
+      "maximum": 338
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 174,
+      "maximum": 306
+    },
+    "evasion_range": {
+      "minimum": 31,
+      "maximum": 47
+    },
+    "notes": "Found at 403",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "clay-tectinsula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Clay Tectinsula",
+    "subcategory": "Tectinsula",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 157,
+      "maximum": 258
+    },
+    "health_range": {
+      "minimum": 21191,
+      "maximum": 36097
+    },
+    "melee_power_range": {
+      "minimum": 410,
+      "maximum": 604
+    },
+    "melee_accuracy_range": {
+      "minimum": 130,
+      "maximum": 157
+    },
+    "ranged_power_range": {
+      "minimum": 376,
+      "maximum": 554
+    },
+    "ranged_accuracy_range": {
+      "minimum": 126,
+      "maximum": 153
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 55,
+      "maximum": 85
+    },
+    "notes": "Found at 302E,312",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 45,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

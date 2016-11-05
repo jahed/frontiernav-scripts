@@ -1,0 +1,58 @@
+{
+  "id": "machine-queen-quo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Machine Queen Quo",
+    "subcategory": "Quo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 241,
+      "maximum": 333
+    },
+    "health_range": {
+      "minimum": 59236,
+      "maximum": 71676
+    },
+    "melee_power_range": {
+      "minimum": 489,
+      "maximum": 633
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 489,
+      "maximum": 633
+    },
+    "ranged_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "potential_range": {
+      "minimum": 652,
+      "maximum": 844
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 157
+    },
+    "notes": "Found at 404NE(hi),407S,412W(hi)/N,415NW(hi),\n416NW,420NW(lo),Badr Stronghold",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

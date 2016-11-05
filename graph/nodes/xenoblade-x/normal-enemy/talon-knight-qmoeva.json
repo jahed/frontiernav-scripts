@@ -1,0 +1,58 @@
+{
+  "id": "talon-knight-qmoeva",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Talon Knight Qmoeva",
+    "subcategory": "Qmoeva",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 172,
+      "maximum": 283
+    },
+    "health_range": {
+      "minimum": 27860,
+      "maximum": 47458
+    },
+    "melee_power_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 56,
+      "maximum": 87
+    },
+    "notes": "Found at 502(hi)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

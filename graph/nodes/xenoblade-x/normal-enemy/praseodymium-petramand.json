@@ -1,0 +1,58 @@
+{
+  "id": "praseodymium-petramand",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Praseodymium Petramand",
+    "subcategory": "Petramand",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 64,
+      "maximum": 105
+    },
+    "health_range": {
+      "minimum": 14409,
+      "maximum": 24545
+    },
+    "melee_power_range": {
+      "minimum": 239,
+      "maximum": 352
+    },
+    "melee_accuracy_range": {
+      "minimum": 152,
+      "maximum": 183
+    },
+    "ranged_power_range": {
+      "minimum": 215,
+      "maximum": 318
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 227,
+      "maximum": 335
+    },
+    "evasion_range": {
+      "minimum": 52,
+      "maximum": 80
+    },
+    "notes": "Found at Old Ceremonial Hollow",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

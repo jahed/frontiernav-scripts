@@ -1,0 +1,58 @@
+{
+  "id": "raging-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Raging Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 509,
+      "maximum": 655
+    },
+    "health_range": {
+      "minimum": 68473,
+      "maximum": 80130
+    },
+    "melee_power_range": {
+      "minimum": 1085,
+      "maximum": 1353
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 294
+    },
+    "ranged_power_range": {
+      "minimum": 888,
+      "maximum": 1107
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 288
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "evasion_range": {
+      "minimum": 138,
+      "maximum": 171
+    },
+    "notes": "Found at Primordia Waters (West) - island",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

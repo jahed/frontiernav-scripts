@@ -1,0 +1,59 @@
+{
+  "id": "crazed-femina-suid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Crazed Femina Suid",
+    "subcategory": "Suid",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 45,
+      "maximum": 78
+    },
+    "health_range": {
+      "minimum": 9293,
+      "maximum": 19776
+    },
+    "melee_power_range": {
+      "minimum": 125,
+      "maximum": 219
+    },
+    "melee_accuracy_range": {
+      "minimum": 118,
+      "maximum": 135
+    },
+    "ranged_power_range": {
+      "minimum": 118,
+      "maximum": 208
+    },
+    "ranged_accuracy_range": {
+      "minimum": 117,
+      "maximum": 134
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 54
+    },
+    "notes": "Found at 305(lo)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

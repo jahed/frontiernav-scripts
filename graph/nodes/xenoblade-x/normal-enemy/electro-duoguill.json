@@ -1,0 +1,58 @@
+{
+  "id": "electro-duoguill",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Electro Duoguill",
+    "subcategory": "Duoguill",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 358,
+      "maximum": 494
+    },
+    "health_range": {
+      "minimum": 70566,
+      "maximum": 85385
+    },
+    "melee_power_range": {
+      "minimum": 722,
+      "maximum": 936
+    },
+    "melee_accuracy_range": {
+      "minimum": 249,
+      "maximum": 288
+    },
+    "ranged_power_range": {
+      "minimum": 814,
+      "maximum": 1056
+    },
+    "ranged_accuracy_range": {
+      "minimum": 243,
+      "maximum": 282
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 157
+    },
+    "notes": "Found at 320",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

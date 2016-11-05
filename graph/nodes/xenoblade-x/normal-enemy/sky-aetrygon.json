@@ -1,0 +1,59 @@
+{
+  "id": "sky-aetrygon",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Sky Aetrygon",
+    "subcategory": "Aetrygon",
+    "category": "Piscinoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 215,
+      "maximum": 305
+    },
+    "health_range": {
+      "minimum": 40897,
+      "maximum": 57252
+    },
+    "melee_power_range": {
+      "minimum": 524,
+      "maximum": 715
+    },
+    "melee_accuracy_range": {
+      "minimum": 164,
+      "maximum": 189
+    },
+    "ranged_power_range": {
+      "minimum": 471,
+      "maximum": 644
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 524,
+      "maximum": 715
+    },
+    "evasion_range": {
+      "minimum": 96,
+      "maximum": 126
+    },
+    "notes": "Found at 405,413(hi),E.Ciel(hi)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

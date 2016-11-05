@@ -1,0 +1,58 @@
+{
+  "id": "guide-eagle-galdr",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Guide Eagle Galdr",
+    "subcategory": "Galdr",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 679,
+      "maximum": 874
+    },
+    "health_range": {
+      "minimum": 103740,
+      "maximum": 121400
+    },
+    "melee_power_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 1184,
+      "maximum": 1476
+    },
+    "ranged_accuracy_range": {
+      "minimum": 274,
+      "maximum": 316
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 152
+    },
+    "notes": "Found at O'rrh Sim Watchtowers E",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

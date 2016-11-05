@@ -1,0 +1,59 @@
+{
+  "id": "volcannon-monoceros",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Volcannon Monoceros",
+    "subcategory": "Monoceros",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 537,
+      "maximum": 692
+    },
+    "health_range": {
+      "minimum": 99622,
+      "maximum": 116581
+    },
+    "melee_power_range": {
+      "minimum": 937,
+      "maximum": 1168
+    },
+    "melee_accuracy_range": {
+      "minimum": 250,
+      "maximum": 287
+    },
+    "ranged_power_range": {
+      "minimum": 961,
+      "maximum": 1198
+    },
+    "ranged_accuracy_range": {
+      "minimum": 244,
+      "maximum": 281
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at M'gandobaseE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

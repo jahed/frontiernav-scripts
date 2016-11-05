@@ -1,0 +1,59 @@
+{
+  "id": "lawless-mephite",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Lawless Mephite",
+    "subcategory": "Mephite",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 109,
+      "maximum": 155
+    },
+    "health_range": {
+      "minimum": 33665,
+      "maximum": 47127
+    },
+    "melee_power_range": {
+      "minimum": 346,
+      "maximum": 473
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 404,
+      "maximum": 552
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 99,
+      "maximum": 129
+    },
+    "notes": "Found at 502NE,504(hi),blackgate",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

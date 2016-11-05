@@ -1,0 +1,58 @@
+{
+  "id": "nether-virago",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Nether Virago",
+    "subcategory": "Virago",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1333,
+      "maximum": 1716
+    },
+    "health_range": {
+      "minimum": 478188,
+      "maximum": 559591
+    },
+    "melee_power_range": {
+      "minimum": 1710,
+      "maximum": 2132
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 1283,
+      "maximum": 1599
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 1316,
+      "maximum": 1640
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 190
+    },
+    "notes": "Found at Cavernous Abyss",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

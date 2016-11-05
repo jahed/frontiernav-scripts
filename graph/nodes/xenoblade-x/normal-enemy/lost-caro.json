@@ -1,0 +1,58 @@
+{
+  "id": "lost-caro",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Lost Caro",
+    "subcategory": "Caro",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 255,
+      "maximum": 428
+    },
+    "health_range": {
+      "minimum": 67743,
+      "maximum": 92090
+    },
+    "melee_power_range": {
+      "minimum": 777,
+      "maximum": 1179
+    },
+    "melee_accuracy_range": {
+      "minimum": 250,
+      "maximum": 297
+    },
+    "ranged_power_range": {
+      "minimum": 651,
+      "maximum": 988
+    },
+    "ranged_accuracy_range": {
+      "minimum": 221,
+      "maximum": 263
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 210
+    },
+    "notes": "Found at Old Ceremonial Hollow, Bestial Utopia",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

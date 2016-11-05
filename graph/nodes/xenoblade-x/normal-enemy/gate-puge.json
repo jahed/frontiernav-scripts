@@ -1,0 +1,58 @@
+{
+  "id": "gate-puge",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Gate Puge",
+    "subcategory": "Puge",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 13,
+      "maximum": 35
+    },
+    "health_range": {
+      "minimum": 1223,
+      "maximum": 6979
+    },
+    "melee_power_range": {
+      "minimum": 31,
+      "maximum": 108
+    },
+    "melee_accuracy_range": {
+      "minimum": 110,
+      "maximum": 129
+    },
+    "ranged_power_range": {
+      "minimum": 31,
+      "maximum": 108
+    },
+    "ranged_accuracy_range": {
+      "minimum": 105,
+      "maximum": 123
+    },
+    "potential_range": {
+      "minimum": 31,
+      "maximum": 108
+    },
+    "evasion_range": {
+      "minimum": 15,
+      "maximum": 34
+    },
+    "notes": "Found at 501",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

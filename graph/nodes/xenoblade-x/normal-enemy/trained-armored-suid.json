@@ -1,0 +1,59 @@
+{
+  "id": "trained-armored-suid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Trained Armored Suid",
+    "subcategory": "Suid",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 90,
+      "maximum": 147
+    },
+    "health_range": {
+      "minimum": 24235,
+      "maximum": 41282
+    },
+    "melee_power_range": {
+      "minimum": 275,
+      "maximum": 406
+    },
+    "melee_accuracy_range": {
+      "minimum": 141,
+      "maximum": 170
+    },
+    "ranged_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "ranged_accuracy_range": {
+      "minimum": 133,
+      "maximum": 161
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 53,
+      "maximum": 82
+    },
+    "notes": "Found at 307SE,312,Butte",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

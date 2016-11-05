@@ -1,0 +1,58 @@
+{
+  "id": "prone-condemned",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Prone Condemned",
+    "subcategory": "Prone",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 36,
+      "maximum": 62
+    },
+    "health_range": {
+      "minimum": 8777,
+      "maximum": 18678
+    },
+    "melee_power_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "melee_accuracy_range": {
+      "minimum": 131,
+      "maximum": 150
+    },
+    "ranged_power_range": {
+      "minimum": 111,
+      "maximum": 194
+    },
+    "ranged_accuracy_range": {
+      "minimum": 114,
+      "maximum": 131
+    },
+    "potential_range": {
+      "minimum": 117,
+      "maximum": 205
+    },
+    "evasion_range": {
+      "minimum": 31,
+      "maximum": 47
+    },
+    "notes": "Found at Mesa Fortress",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

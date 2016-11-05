@@ -1,0 +1,58 @@
+{
+  "id": "blitz-scintimure",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Blitz Scintimure",
+    "subcategory": "Scintimure",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 255,
+      "maximum": 362
+    },
+    "health_range": {
+      "minimum": 45131,
+      "maximum": 63178
+    },
+    "melee_power_range": {
+      "minimum": 511,
+      "maximum": 699
+    },
+    "melee_accuracy_range": {
+      "minimum": 213,
+      "maximum": 246
+    },
+    "ranged_power_range": {
+      "minimum": 564,
+      "maximum": 770
+    },
+    "ranged_accuracy_range": {
+      "minimum": 207,
+      "maximum": 240
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 94,
+      "maximum": 123
+    },
+    "notes": "Found at 504SW(lo),Titan's Table(lo)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

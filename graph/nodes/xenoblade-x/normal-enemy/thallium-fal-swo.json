@@ -1,0 +1,58 @@
+{
+  "id": "thallium-fal-swo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Thallium Fal-swo",
+    "subcategory": "Fal-swo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 566,
+      "maximum": 952
+    },
+    "health_range": {
+      "minimum": 97497,
+      "maximum": 132538
+    },
+    "melee_power_range": {
+      "minimum": 1085,
+      "maximum": 1646
+    },
+    "melee_accuracy_range": {
+      "minimum": 219,
+      "maximum": 261
+    },
+    "ranged_power_range": {
+      "minimum": 987,
+      "maximum": 1497
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 270
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1497
+    },
+    "evasion_range": {
+      "minimum": 169,
+      "maximum": 220
+    },
+    "notes": "Found at 410S(air),Anvils",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

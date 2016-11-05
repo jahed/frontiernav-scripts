@@ -1,0 +1,59 @@
+{
+  "id": "razer-visigel",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Razer Visigel",
+    "subcategory": "Visigel",
+    "category": "Piscinoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 303,
+      "maximum": 390
+    },
+    "health_range": {
+      "minimum": 66415,
+      "maximum": 77721
+    },
+    "melee_power_range": {
+      "minimum": 651,
+      "maximum": 811
+    },
+    "melee_accuracy_range": {
+      "minimum": 250,
+      "maximum": 287
+    },
+    "ranged_power_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 288
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 190
+    },
+    "notes": "Found at isleSEof507",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

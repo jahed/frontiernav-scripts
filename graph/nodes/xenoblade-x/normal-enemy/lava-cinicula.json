@@ -1,0 +1,58 @@
+{
+  "id": "lava-cinicula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Lava Cinicula",
+    "subcategory": "Cinicula",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 40,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 1278,
+      "maximum": 1764
+    },
+    "health_range": {
+      "minimum": 551750,
+      "maximum": 667622
+    },
+    "melee_power_range": {
+      "minimum": 1777,
+      "maximum": 2304
+    },
+    "melee_accuracy_range": {
+      "minimum": 197,
+      "maximum": 228
+    },
+    "ranged_power_range": {
+      "minimum": 1777,
+      "maximum": 2304
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 223
+    },
+    "potential_range": {
+      "minimum": 1482,
+      "maximum": 1920
+    },
+    "evasion_range": {
+      "minimum": 76,
+      "maximum": 97
+    },
+    "notes": "Found at M'gandobaseE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": -25,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

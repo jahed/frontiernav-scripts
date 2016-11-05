@@ -1,0 +1,58 @@
+{
+  "id": "definian-clone",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Definian Clone",
+    "subcategory": "Definian",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 242,
+      "maximum": 408
+    },
+    "health_range": {
+      "minimum": 53596,
+      "maximum": 72860
+    },
+    "melee_power_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 290
+    },
+    "ranged_power_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 285
+    },
+    "potential_range": {
+      "minimum": 789,
+      "maximum": 1197
+    },
+    "evasion_range": {
+      "minimum": 169,
+      "maximum": 220
+    },
+    "notes": "Found at 501(hi),Ganglion Antropolis",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

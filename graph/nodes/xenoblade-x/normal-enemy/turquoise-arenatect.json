@@ -1,0 +1,58 @@
+{
+  "id": "turquoise-arenatect",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Turquoise Arenatect",
+    "subcategory": "Arenatect",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 398,
+      "maximum": 549
+    },
+    "health_range": {
+      "minimum": 62251,
+      "maximum": 75324
+    },
+    "melee_power_range": {
+      "minimum": 852,
+      "maximum": 1104
+    },
+    "melee_accuracy_range": {
+      "minimum": 192,
+      "maximum": 222
+    },
+    "ranged_power_range": {
+      "minimum": 815,
+      "maximum": 1056
+    },
+    "ranged_accuracy_range": {
+      "minimum": 187,
+      "maximum": 217
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 118,
+      "maximum": 150
+    },
+    "notes": "Found at 406",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "island-saltat",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Island Saltat",
+    "subcategory": "Saltat",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 61,
+      "maximum": 106
+    },
+    "health_range": {
+      "minimum": 10756,
+      "maximum": 22890
+    },
+    "melee_power_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "melee_accuracy_range": {
+      "minimum": 128,
+      "maximum": 146
+    },
+    "ranged_power_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "ranged_accuracy_range": {
+      "minimum": 123,
+      "maximum": 141
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 54
+    },
+    "notes": "Found at [Clear]: 505NW(replaces Rust Blatta)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

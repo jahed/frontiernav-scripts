@@ -1,0 +1,59 @@
+{
+  "id": "puddle-sacrifole",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Puddle Sacrifole",
+    "subcategory": "Sacrifole",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 192,
+      "maximum": 272
+    },
+    "health_range": {
+      "minimum": 30135,
+      "maximum": 42186
+    },
+    "melee_power_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 90,
+      "maximum": 117
+    },
+    "notes": "Found at 502E,515NW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "white-progen",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "White Progen",
+    "subcategory": "Progen",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 80,
+      "maximum": 138
+    },
+    "health_range": {
+      "minimum": 12907,
+      "maximum": 27468
+    },
+    "melee_power_range": {
+      "minimum": 171,
+      "maximum": 299
+    },
+    "melee_accuracy_range": {
+      "minimum": 125,
+      "maximum": 143
+    },
+    "ranged_power_range": {
+      "minimum": 166,
+      "maximum": 292
+    },
+    "ranged_accuracy_range": {
+      "minimum": 123,
+      "maximum": 141
+    },
+    "potential_range": {
+      "minimum": 175,
+      "maximum": 307
+    },
+    "evasion_range": {
+      "minimum": 37,
+      "maximum": 56
+    },
+    "notes": "Found at 403,417SE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

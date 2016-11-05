@@ -1,0 +1,58 @@
+{
+  "id": "scandium-petramand",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Scandium Petramand",
+    "subcategory": "Petramand",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 270,
+      "maximum": 372
+    },
+    "health_range": {
+      "minimum": 47087,
+      "maximum": 56975
+    },
+    "melee_power_range": {
+      "minimum": 570,
+      "maximum": 738
+    },
+    "melee_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 515,
+      "maximum": 668
+    },
+    "ranged_accuracy_range": {
+      "minimum": 203,
+      "maximum": 235
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 703
+    },
+    "evasion_range": {
+      "minimum": 112,
+      "maximum": 142
+    },
+    "notes": "Found at 216",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

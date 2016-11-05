@@ -1,0 +1,58 @@
+{
+  "id": "bismuth-xe-dom",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Bismuth Xe-dom",
+    "subcategory": "Xe-dom",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 99
+    },
+    "experience_range": {
+      "minimum": 2182,
+      "maximum": 6631
+    },
+    "health_range": {
+      "minimum": 730272,
+      "maximum": 1393362
+    },
+    "melee_power_range": {
+      "minimum": 2368,
+      "maximum": 5472
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 369
+    },
+    "ranged_power_range": {
+      "minimum": 2368,
+      "maximum": 5472
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 364
+    },
+    "potential_range": {
+      "minimum": 2368,
+      "maximum": 5472
+    },
+    "evasion_range": {
+      "minimum": 107,
+      "maximum": 205
+    },
+    "notes": "Found at 405E(wanders),415SW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

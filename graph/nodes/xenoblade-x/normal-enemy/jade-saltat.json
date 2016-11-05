@@ -1,0 +1,59 @@
+{
+  "id": "jade-saltat",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Jade Saltat",
+    "subcategory": "Saltat",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 62,
+      "maximum": 108
+    },
+    "health_range": {
+      "minimum": 11616,
+      "maximum": 24721
+    },
+    "melee_power_range": {
+      "minimum": 135,
+      "maximum": 236
+    },
+    "melee_accuracy_range": {
+      "minimum": 131,
+      "maximum": 150
+    },
+    "ranged_power_range": {
+      "minimum": 135,
+      "maximum": 236
+    },
+    "ranged_accuracy_range": {
+      "minimum": 126,
+      "maximum": 144
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 36,
+      "maximum": 55
+    },
+    "notes": "Found at 222E(giantredflower?)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "heat_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

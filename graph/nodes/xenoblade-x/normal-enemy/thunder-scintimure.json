@@ -1,0 +1,58 @@
+{
+  "id": "thunder-scintimure",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Thunder Scintimure",
+    "subcategory": "Scintimure",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 378,
+      "maximum": 521
+    },
+    "health_range": {
+      "minimum": 70566,
+      "maximum": 85385
+    },
+    "melee_power_range": {
+      "minimum": 722,
+      "maximum": 936
+    },
+    "melee_accuracy_range": {
+      "minimum": 249,
+      "maximum": 288
+    },
+    "ranged_power_range": {
+      "minimum": 796,
+      "maximum": 1032
+    },
+    "ranged_accuracy_range": {
+      "minimum": 243,
+      "maximum": 282
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 126,
+      "maximum": 161
+    },
+    "notes": "Found at 504SW(lo),Titan's Table(lo)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "heat_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "milsaadi-hunter",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Milsaadi Hunter",
+    "subcategory": "Milsaadi",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 179,
+      "maximum": 247
+    },
+    "health_range": {
+      "minimum": 43457,
+      "maximum": 52584
+    },
+    "melee_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "melee_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 469,
+      "maximum": 608
+    },
+    "ranged_accuracy_range": {
+      "minimum": 213,
+      "maximum": 246
+    },
+    "potential_range": {
+      "minimum": 494,
+      "maximum": 640
+    },
+    "evasion_range": {
+      "minimum": 132,
+      "maximum": 168
+    },
+    "notes": "Found at 504E(skywalk),Sunset Falls,Kw'arah Cloister,O'rrh Sim Keep",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

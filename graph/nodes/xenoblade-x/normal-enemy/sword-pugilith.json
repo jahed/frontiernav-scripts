@@ -1,0 +1,58 @@
+{
+  "id": "sword-pugilith",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Sword Pugilith",
+    "subcategory": "Pugilith",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 165,
+      "maximum": 270
+    },
+    "health_range": {
+      "minimum": 27870,
+      "maximum": 47473
+    },
+    "melee_power_range": {
+      "minimum": 358,
+      "maximum": 528
+    },
+    "melee_accuracy_range": {
+      "minimum": 137,
+      "maximum": 166
+    },
+    "ranged_power_range": {
+      "minimum": 374,
+      "maximum": 553
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 340,
+      "maximum": 502
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 305,306NW,321SE,Mesa Fortress",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "heat_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}
