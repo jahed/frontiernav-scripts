@@ -1,0 +1,11 @@
+{
+  "id": "EnemyCategory",
+  "name": "Indigen Category",
+  "searchable": true,
+  "pageDescription": "Find out more about {name} indigens and where you ca find them",
+  "schema": {
+    "name": {
+      "required": true
+    }
+  }
+}
