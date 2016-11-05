@@ -52,7 +52,7 @@
     "physical_resistance": 0,
     "beam_resistance": -25,
     "ether_resistance": 10,
-    "heat_resistance": 0,
+    "thermal_resistance": 0,
     "electric_resistance": 0,
     "gravity_resistance": 0
   }
