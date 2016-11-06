@@ -1,5 +1,5 @@
 {
-  "id": "n805",
+  "id": "manon-ship-marker",
   "labels": [
     "MapMarker",
     "XenobladeX"
@@ -8,6 +8,7 @@
     "latLng": {
       "lat": -47.63578359086485,
       "lng": -64.6875
-    }
+    },
+    "markerStyle": "text"
   }
 }
