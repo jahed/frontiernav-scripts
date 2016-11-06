@@ -35,7 +35,7 @@
             "title": "Collectibles"
           },
           {
-            "to": "/visualisations/game0/map/search?filter=Site",
+            "to": "/visualisations/game0/map/search?filter=FNSite",
             "icon": "diamond",
             "title": "FN Sites"
           },
