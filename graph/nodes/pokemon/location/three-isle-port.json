@@ -1,0 +1,15 @@
+{
+  "id": "three-isle-port",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Three Isle Port"
+  },
+  "locale": {
+    "fr": {
+      "name": "Port Ile 3"
+    }
+  }
+}

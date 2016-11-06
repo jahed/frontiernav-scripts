@@ -1,0 +1,15 @@
+{
+  "id": "eterna-forest",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Eterna Forest"
+  },
+  "locale": {
+    "fr": {
+      "name": "Forêt Vestigion"
+    }
+  }
+}

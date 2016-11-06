@@ -1,0 +1,15 @@
+{
+  "id": "dilford-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dilford Chamber"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chambre Jonquatre"
+    }
+  }
+}

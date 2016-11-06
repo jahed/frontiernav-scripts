@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-villa",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Villa"
+  },
+  "locale": {
+    "fr": {
+      "name": "Villa"
+    }
+  }
+}

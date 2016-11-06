@@ -1,0 +1,30 @@
+{
+  "id": "dendemille-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dendemille Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "フウジョゲート"
+    },
+    "ko": {
+      "name": "버들비게이트"
+    },
+    "fr": {
+      "name": "Porte de La Frescale"
+    },
+    "de": {
+      "name": "Frescora-Tor"
+    },
+    "es": {
+      "name": "Acceso a Fresco"
+    },
+    "it": {
+      "name": "Varco Frescovilla"
+    }
+  }
+}

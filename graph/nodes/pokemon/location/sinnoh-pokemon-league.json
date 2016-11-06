@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-pokemon-league",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon League"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ligue Pokémon"
+    }
+  }
+}

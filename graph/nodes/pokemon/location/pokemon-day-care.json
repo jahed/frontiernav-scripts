@@ -1,0 +1,15 @@
+{
+  "id": "pokemon-day-care",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon Day Care"
+  },
+  "locale": {
+    "fr": {
+      "name": "Pension Pokémon"
+    }
+  }
+}

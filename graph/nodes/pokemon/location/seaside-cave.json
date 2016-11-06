@@ -1,0 +1,18 @@
+{
+  "id": "seaside-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Seaside Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "海辺の洞穴"
+    },
+    "fr": {
+      "name": "Grotte Littorale"
+    }
+  }
+}

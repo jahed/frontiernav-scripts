@@ -1,0 +1,18 @@
+{
+  "id": "celestial-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Celestial Tower"
+  },
+  "locale": {
+    "ja": {
+      "name": "タワーオブヘブン"
+    },
+    "fr": {
+      "name": "Tour des Cieux"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "magma-hideout",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Magma Hideout"
+  },
+  "locale": {
+    "fr": {
+      "name": "Planque Magma"
+    }
+  }
+}

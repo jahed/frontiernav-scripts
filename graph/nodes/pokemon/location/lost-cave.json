@@ -1,0 +1,15 @@
+{
+  "id": "lost-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lost Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Perdue"
+    }
+  }
+}

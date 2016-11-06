@@ -1,0 +1,18 @@
+{
+  "id": "unova-shopping-mall",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Shopping Mall"
+  },
+  "locale": {
+    "ja": {
+      "name": "ショッピングモール"
+    },
+    "fr": {
+      "name": "Centre Commercial"
+    }
+  }
+}

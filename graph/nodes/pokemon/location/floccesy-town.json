@@ -1,0 +1,18 @@
+{
+  "id": "floccesy-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Floccesy Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "サンギタウン"
+    },
+    "fr": {
+      "name": "Amaillide"
+    }
+  }
+}

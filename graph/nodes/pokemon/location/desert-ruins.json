@@ -1,0 +1,15 @@
+{
+  "id": "desert-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Desert Ruins"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ruines Désert"
+    }
+  }
+}

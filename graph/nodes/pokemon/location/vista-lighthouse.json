@@ -1,0 +1,15 @@
+{
+  "id": "vista-lighthouse",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Vista Lighthouse"
+  },
+  "locale": {
+    "fr": {
+      "name": "Phare Panorama"
+    }
+  }
+}

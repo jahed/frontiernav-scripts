@@ -1,0 +1,15 @@
+{
+  "id": "southern-island",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Southern Island"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ile du Sud"
+    }
+  }
+}

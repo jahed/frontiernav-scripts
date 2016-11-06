@@ -1,0 +1,18 @@
+{
+  "id": "guidance-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Guidance Chamber"
+  },
+  "locale": {
+    "ja": {
+      "name": "導の間"
+    },
+    "fr": {
+      "name": "Espace Guide"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "join-avenue",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Join Avenue"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジョインアベニュー"
+    },
+    "fr": {
+      "name": "Galerie Concorde"
+    }
+  }
+}

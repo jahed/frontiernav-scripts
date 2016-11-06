@@ -1,0 +1,24 @@
+{
+  "id": "kanto",
+  "labels": [
+    "Region",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Kanto"
+  },
+  "locale": {
+    "ja": {
+      "name": "カントー地方"
+    },
+    "fr": {
+      "name": "Kanto"
+    },
+    "de": {
+      "name": "Kanto"
+    },
+    "it": {
+      "name": "Kanto"
+    }
+  }
+}

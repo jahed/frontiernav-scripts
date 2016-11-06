@@ -1,0 +1,18 @@
+{
+  "id": "challengers-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Challenger's Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "修行の岩屋"
+    },
+    "fr": {
+      "name": "Antre d'Entraînement"
+    }
+  }
+}

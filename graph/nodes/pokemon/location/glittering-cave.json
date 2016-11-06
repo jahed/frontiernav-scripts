@@ -1,0 +1,30 @@
+{
+  "id": "glittering-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Glittering Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "かがやきのどうくつ"
+    },
+    "ko": {
+      "name": "반짝임의 동굴"
+    },
+    "fr": {
+      "name": "Grotte Étincelante"
+    },
+    "de": {
+      "name": "Leuchthöhle"
+    },
+    "es": {
+      "name": "Cueva Brillante"
+    },
+    "it": {
+      "name": "Grotta dei Bagliori"
+    }
+  }
+}

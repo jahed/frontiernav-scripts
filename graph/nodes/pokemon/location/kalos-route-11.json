@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-11",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 11"
+  },
+  "locale": {
+    "ja": {
+      "name": "１１ばんどうろ"
+    },
+    "ko": {
+      "name": "11번도로"
+    },
+    "fr": {
+      "name": "Route 11"
+    },
+    "de": {
+      "name": "Route 11"
+    },
+    "es": {
+      "name": "Ruta 11"
+    },
+    "it": {
+      "name": "Percorso 11"
+    }
+  }
+}

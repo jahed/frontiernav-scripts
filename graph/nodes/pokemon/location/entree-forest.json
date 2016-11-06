@@ -1,0 +1,18 @@
+{
+  "id": "entree-forest",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Entree Forest"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハイリンクの森"
+    },
+    "fr": {
+      "name": "Forêt du Heylink"
+    }
+  }
+}

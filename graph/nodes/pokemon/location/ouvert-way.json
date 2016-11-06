@@ -1,0 +1,30 @@
+{
+  "id": "ouvert-way",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ouvert Way"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウベールどおり"
+    },
+    "ko": {
+      "name": "우베르 도로"
+    },
+    "fr": {
+      "name": "Chemin Ouvert"
+    },
+    "de": {
+      "name": "Ouvert-Weg"
+    },
+    "es": {
+      "name": "Senda Despejada"
+    },
+    "it": {
+      "name": "Via Aperta"
+    }
+  }
+}

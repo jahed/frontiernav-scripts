@@ -1,0 +1,15 @@
+{
+  "id": "rustboro-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Rustboro City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mérouville"
+    }
+  }
+}

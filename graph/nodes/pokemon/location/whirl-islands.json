@@ -1,0 +1,15 @@
+{
+  "id": "whirl-islands",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Whirl Islands"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tourb'Iles"
+    }
+  }
+}

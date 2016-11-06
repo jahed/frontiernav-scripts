@@ -1,0 +1,15 @@
+{
+  "id": "embedded-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Embedded Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Enfouie"
+    }
+  }
+}

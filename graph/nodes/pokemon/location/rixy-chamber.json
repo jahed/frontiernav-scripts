@@ -1,0 +1,15 @@
+{
+  "id": "rixy-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Rixy Chamber"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chambre Irix"
+    }
+  }
+}

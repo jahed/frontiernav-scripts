@@ -1,0 +1,15 @@
+{
+  "id": "survival-area",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Survival Area"
+  },
+  "locale": {
+    "fr": {
+      "name": "Aire de Survie"
+    }
+  }
+}

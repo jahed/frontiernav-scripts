@@ -1,0 +1,30 @@
+{
+  "id": "tower-of-mastery",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Tower of Mastery"
+  },
+  "locale": {
+    "ja": {
+      "name": "マスタータワー"
+    },
+    "ko": {
+      "name": "마스터타워"
+    },
+    "fr": {
+      "name": "Tour Maîtrise"
+    },
+    "de": {
+      "name": "Turm der Erkenntnis"
+    },
+    "es": {
+      "name": "Torre Maestra"
+    },
+    "it": {
+      "name": "Torre Maestra"
+    }
+  }
+}

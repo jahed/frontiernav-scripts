@@ -1,0 +1,15 @@
+{
+  "id": "fullmoon-island",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Fullmoon Island"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ile Pleine Lune"
+    }
+  }
+}

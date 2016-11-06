@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-10",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 10"
+  },
+  "locale": {
+    "ja": {
+      "name": "１０ばんどうろ"
+    },
+    "ko": {
+      "name": "10번도로"
+    },
+    "fr": {
+      "name": "Route 10"
+    },
+    "de": {
+      "name": "Route 10"
+    },
+    "es": {
+      "name": "Ruta 10"
+    },
+    "it": {
+      "name": "Percorso 10"
+    }
+  }
+}

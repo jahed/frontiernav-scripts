@@ -1,0 +1,15 @@
+{
+  "id": "mt-chimney",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Chimney"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Chimnée"
+    }
+  }
+}

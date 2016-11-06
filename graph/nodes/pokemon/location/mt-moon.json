@@ -1,0 +1,15 @@
+{
+  "id": "mt-moon",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Moon"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Sélénite"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "galactic-hq",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Galactic HQ"
+  },
+  "locale": {
+    "fr": {
+      "name": "QG Galaxie"
+    }
+  }
+}

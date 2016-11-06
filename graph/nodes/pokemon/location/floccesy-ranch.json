@@ -1,0 +1,18 @@
+{
+  "id": "floccesy-ranch",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Floccesy Ranch"
+  },
+  "locale": {
+    "ja": {
+      "name": "サンギ牧場"
+    },
+    "fr": {
+      "name": "Ranch d'Amaillide"
+    }
+  }
+}

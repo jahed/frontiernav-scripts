@@ -1,0 +1,15 @@
+{
+  "id": "wayward-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Wayward Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Revèche"
+    }
+  }
+}

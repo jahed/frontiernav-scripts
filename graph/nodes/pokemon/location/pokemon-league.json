@@ -1,0 +1,30 @@
+{
+  "id": "pokemon-league",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon League"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケモンリーグ"
+    },
+    "ko": {
+      "name": "포켓몬리그"
+    },
+    "fr": {
+      "name": "Ligue Pokémon"
+    },
+    "de": {
+      "name": "Pokémon Liga"
+    },
+    "es": {
+      "name": "Liga Pokémon"
+    },
+    "it": {
+      "name": "Lega Pokémon"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "acuity-cavern",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Acuity Cavern"
+  },
+  "locale": {
+    "fr": {
+      "name": "Caverne Savoir"
+    }
+  }
+}

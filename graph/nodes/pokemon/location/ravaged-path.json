@@ -1,0 +1,15 @@
+{
+  "id": "ravaged-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ravaged Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chemin Rocheux"
+    }
+  }
+}

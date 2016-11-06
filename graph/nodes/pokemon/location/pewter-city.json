@@ -1,0 +1,15 @@
+{
+  "id": "pewter-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pewter City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Argenta"
+    }
+  }
+}

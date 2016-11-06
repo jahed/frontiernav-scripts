@@ -1,0 +1,15 @@
+{
+  "id": "pallet-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pallet Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bourg Palette"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ilex-forest",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ilex Forest"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bois aux Chênes"
+    }
+  }
+}

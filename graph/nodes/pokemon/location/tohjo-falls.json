@@ -1,0 +1,15 @@
+{
+  "id": "tohjo-falls",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Tohjo Falls"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chutes Tohjo"
+    }
+  }
+}

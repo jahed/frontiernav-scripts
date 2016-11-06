@@ -1,0 +1,15 @@
+{
+  "id": "spring-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Spring Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chemin Source"
+    }
+  }
+}

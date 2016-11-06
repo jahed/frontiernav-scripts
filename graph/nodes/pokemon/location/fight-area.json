@@ -1,0 +1,15 @@
+{
+  "id": "fight-area",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Fight Area"
+  },
+  "locale": {
+    "fr": {
+      "name": "Aire de Combat"
+    }
+  }
+}

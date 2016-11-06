@@ -1,0 +1,6 @@
+{
+  "id": "kanto__CONTAINS__trainer-tower",
+  "start": "kanto",
+  "end": "trainer-tower",
+  "type": "CONTAINS"
+}

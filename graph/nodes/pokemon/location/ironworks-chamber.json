@@ -1,0 +1,30 @@
+{
+  "id": "ironworks-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ironworks Chamber"
+  },
+  "locale": {
+    "ja": {
+      "name": "こうてつのま"
+    },
+    "ko": {
+      "name": "무쇠의 방"
+    },
+    "fr": {
+      "name": "Chambre de l’Alliage"
+    },
+    "de": {
+      "name": "Rüstungs-Saal"
+    },
+    "es": {
+      "name": "Sala del Metal"
+    },
+    "it": {
+      "name": "Sala del Metallo"
+    }
+  }
+}

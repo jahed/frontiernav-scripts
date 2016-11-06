@@ -1,0 +1,30 @@
+{
+  "id": "dendemille-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dendemille Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "フウジョタウン"
+    },
+    "ko": {
+      "name": "버들비마을"
+    },
+    "fr": {
+      "name": "La Frescale"
+    },
+    "de": {
+      "name": "Frescora"
+    },
+    "es": {
+      "name": "Pueblo Fresco"
+    },
+    "it": {
+      "name": "Frescovilla"
+    }
+  }
+}

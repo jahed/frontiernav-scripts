@@ -1,0 +1,18 @@
+{
+  "id": "giant-chasm",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Giant Chasm"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジャイアントホール"
+    },
+    "fr": {
+      "name": "Grotte Cyclopéenne"
+    }
+  }
+}

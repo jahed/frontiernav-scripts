@@ -1,0 +1,18 @@
+{
+  "id": "humilau-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Humilau City"
+  },
+  "locale": {
+    "ja": {
+      "name": "セイガイハシティ"
+    },
+    "fr": {
+      "name": "Papeloa"
+    }
+  }
+}

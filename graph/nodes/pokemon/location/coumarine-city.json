@@ -1,0 +1,30 @@
+{
+  "id": "coumarine-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Coumarine City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒヨクシティ"
+    },
+    "ko": {
+      "name": "비익시티"
+    },
+    "fr": {
+      "name": "Port Tempères"
+    },
+    "de": {
+      "name": "Tempera City"
+    },
+    "es": {
+      "name": "Ciudad Témpera"
+    },
+    "it": {
+      "name": "Temperopoli"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "verdanturf-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Verdanturf Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Vergazon"
+    }
+  }
+}

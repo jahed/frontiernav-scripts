@@ -1,0 +1,18 @@
+{
+  "id": "marvelous-bridge",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Marvelous Bridge"
+  },
+  "locale": {
+    "ja": {
+      "name": "ワンダーブリッジ"
+    },
+    "fr": {
+      "name": "Pont de l'Inconnu"
+    }
+  }
+}

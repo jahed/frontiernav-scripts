@@ -1,0 +1,15 @@
+{
+  "id": "stark-mountain",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Stark Mountain"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Abrupt"
+    }
+  }
+}

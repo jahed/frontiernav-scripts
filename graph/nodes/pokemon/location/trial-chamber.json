@@ -1,0 +1,18 @@
+{
+  "id": "trial-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Trial Chamber"
+  },
+  "locale": {
+    "ja": {
+      "name": "試練の室"
+    },
+    "fr": {
+      "name": "Salle Épreuve"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "plasma-frigate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Plasma Frigate"
+  },
+  "locale": {
+    "ja": {
+      "name": "プラズマフリゲート"
+    },
+    "fr": {
+      "name": "Frégate Plasma"
+    }
+  }
+}

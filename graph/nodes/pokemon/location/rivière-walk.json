@@ -1,0 +1,30 @@
+{
+  "id": "rivière-walk",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Rivière Walk"
+  },
+  "locale": {
+    "ja": {
+      "name": "リビエールライン"
+    },
+    "ko": {
+      "name": "리비에르 라인"
+    },
+    "fr": {
+      "name": "Chemin des Berges"
+    },
+    "de": {
+      "name": "Rivière-Promenade"
+    },
+    "es": {
+      "name": "Paseo de la Ribera"
+    },
+    "it": {
+      "name": "Via Fiume"
+    }
+  }
+}

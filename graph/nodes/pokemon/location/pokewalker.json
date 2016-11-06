@@ -1,0 +1,15 @@
+{
+  "id": "pokewalker",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokéwalker"
+  },
+  "locale": {
+    "fr": {
+      "name": "Pokéwalker"
+    }
+  }
+}

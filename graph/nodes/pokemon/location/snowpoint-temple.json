@@ -1,0 +1,15 @@
+{
+  "id": "snowpoint-temple",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Snowpoint Temple"
+  },
+  "locale": {
+    "fr": {
+      "name": "Temple Frimapic"
+    }
+  }
+}

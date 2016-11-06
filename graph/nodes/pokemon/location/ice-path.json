@@ -1,0 +1,15 @@
+{
+  "id": "ice-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ice Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route de Glace"
+    }
+  }
+}

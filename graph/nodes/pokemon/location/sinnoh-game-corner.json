@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-game-corner",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Game Corner"
+  },
+  "locale": {
+    "fr": {
+      "name": "Casino"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tubeline-bridge",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Tubeline Bridge"
+  },
+  "locale": {
+    "ja": {
+      "name": "シリンダーブリッジ"
+    },
+    "fr": {
+      "name": "Pont Ferroviaire"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "route-23",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 23"
+  },
+  "locale": {
+    "ja": {
+      "name": "２３番道路"
+    },
+    "fr": {
+      "name": "Route 23"
+    }
+  }
+}

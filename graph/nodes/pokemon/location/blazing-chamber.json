@@ -1,0 +1,30 @@
+{
+  "id": "blazing-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Blazing Chamber"
+  },
+  "locale": {
+    "ja": {
+      "name": "かえんのま"
+    },
+    "ko": {
+      "name": "화염의 방"
+    },
+    "fr": {
+      "name": "Chambre du Brasier"
+    },
+    "de": {
+      "name": "Flammen-Saal"
+    },
+    "es": {
+      "name": "Sala de las Llamas"
+    },
+    "it": {
+      "name": "Sala delle Fiamme"
+    }
+  }
+}

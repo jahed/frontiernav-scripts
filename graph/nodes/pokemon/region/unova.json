@@ -1,0 +1,24 @@
+{
+  "id": "unova",
+  "labels": [
+    "Region",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Unova"
+  },
+  "locale": {
+    "ja": {
+      "name": "イッシュ地方"
+    },
+    "fr": {
+      "name": "Unys"
+    },
+    "de": {
+      "name": "Einall"
+    },
+    "it": {
+      "name": "Unima"
+    }
+  }
+}

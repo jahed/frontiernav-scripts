@@ -1,0 +1,30 @@
+{
+  "id": "battle-chateau",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Chateau"
+  },
+  "locale": {
+    "ja": {
+      "name": "バトルシャトー"
+    },
+    "ko": {
+      "name": "배틀샤토"
+    },
+    "fr": {
+      "name": "Château de Combat"
+    },
+    "de": {
+      "name": "Kampfschloss"
+    },
+    "es": {
+      "name": "Bastión Batalla"
+    },
+    "it": {
+      "name": "Castello Lotta"
+    }
+  }
+}

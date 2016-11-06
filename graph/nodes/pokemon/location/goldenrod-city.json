@@ -1,0 +1,15 @@
+{
+  "id": "goldenrod-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Goldenrod City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Doublonville"
+    }
+  }
+}

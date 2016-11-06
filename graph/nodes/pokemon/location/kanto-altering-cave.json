@@ -1,0 +1,15 @@
+{
+  "id": "kanto-altering-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Altering Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Métamo"
+    }
+  }
+}

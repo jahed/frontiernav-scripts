@@ -1,0 +1,18 @@
+{
+  "id": "iron-room",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Iron Room"
+  },
+  "locale": {
+    "ja": {
+      "name": "鉄の間"
+    },
+    "fr": {
+      "name": "Salle Fer"
+    }
+  }
+}

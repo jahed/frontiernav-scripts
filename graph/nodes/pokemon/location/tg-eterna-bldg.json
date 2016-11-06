@@ -1,0 +1,15 @@
+{
+  "id": "tg-eterna-bldg",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "T.G. Eterna Bldg"
+  },
+  "locale": {
+    "fr": {
+      "name": "Team G Vestigion"
+    }
+  }
+}

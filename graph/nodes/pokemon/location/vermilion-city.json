@@ -1,0 +1,15 @@
+{
+  "id": "vermilion-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Vermilion City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Carmin sur Mer"
+    }
+  }
+}

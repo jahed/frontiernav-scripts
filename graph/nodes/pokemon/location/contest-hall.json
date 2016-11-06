@@ -1,0 +1,15 @@
+{
+  "id": "contest-hall",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Contest Hall"
+  },
+  "locale": {
+    "fr": {
+      "name": "Salle Concours"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kanto-victory-road-1",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Victory Road"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route Victoire"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "seafoam-islands",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Seafoam Islands"
+  },
+  "locale": {
+    "fr": {
+      "name": "Iles Ecume"
+    }
+  }
+}

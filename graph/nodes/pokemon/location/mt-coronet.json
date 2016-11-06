@@ -1,0 +1,15 @@
+{
+  "id": "mt-coronet",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Coronet"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Couronné"
+    }
+  }
+}

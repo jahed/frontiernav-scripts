@@ -1,0 +1,15 @@
+{
+  "id": "viapos-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Viapos Chamber"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chambre Poinsept"
+    }
+  }
+}

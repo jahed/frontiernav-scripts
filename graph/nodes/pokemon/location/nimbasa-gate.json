@@ -1,0 +1,18 @@
+{
+  "id": "nimbasa-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Nimbasa Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ライモンゲート"
+    },
+    "fr": {
+      "name": "Porte Méanville"
+    }
+  }
+}

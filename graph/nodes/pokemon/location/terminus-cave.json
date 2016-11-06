@@ -1,0 +1,30 @@
+{
+  "id": "terminus-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Terminus Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "ついのどうくつ"
+    },
+    "ko": {
+      "name": "끝의 동굴"
+    },
+    "fr": {
+      "name": "Grotte Coda"
+    },
+    "de": {
+      "name": "Omega-Höhle"
+    },
+    "es": {
+      "name": "Cueva Desenlace"
+    },
+    "it": {
+      "name": "Grotta Climax"
+    }
+  }
+}

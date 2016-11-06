@@ -1,0 +1,15 @@
+{
+  "id": "fiery-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Fiery Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chemin Ardent"
+    }
+  }
+}

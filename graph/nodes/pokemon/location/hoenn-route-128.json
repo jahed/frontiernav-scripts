@@ -1,0 +1,15 @@
+{
+  "id": "hoenn-route-128",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 128"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route 128"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nacrene-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Nacrene City"
+  },
+  "locale": {
+    "ja": {
+      "name": "シッポウシティ"
+    },
+    "fr": {
+      "name": "Maillard"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "virbank-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Virbank City"
+  },
+  "locale": {
+    "ja": {
+      "name": "タチワキシティ"
+    },
+    "fr": {
+      "name": "Ondes-sur-Mer"
+    }
+  }
+}

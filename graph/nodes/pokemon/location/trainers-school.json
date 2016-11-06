@@ -1,0 +1,15 @@
+{
+  "id": "trainers-school",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Trainers’ School"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ecole Dresseurs"
+    }
+  }
+}

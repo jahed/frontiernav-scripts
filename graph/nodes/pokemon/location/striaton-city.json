@@ -1,0 +1,18 @@
+{
+  "id": "striaton-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Striaton City"
+  },
+  "locale": {
+    "ja": {
+      "name": "サンヨウシティ"
+    },
+    "fr": {
+      "name": "Ogoesse"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "virbank-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Virbank Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "タチワキゲート"
+    },
+    "fr": {
+      "name": "Porte Ondes-sur-Mer"
+    }
+  }
+}

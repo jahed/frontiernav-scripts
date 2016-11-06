@@ -1,0 +1,18 @@
+{
+  "id": "nimbasa-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Nimbasa City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ライモンシティ"
+    },
+    "fr": {
+      "name": "Méanville"
+    }
+  }
+}

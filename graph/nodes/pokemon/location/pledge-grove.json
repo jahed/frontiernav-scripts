@@ -1,0 +1,18 @@
+{
+  "id": "pledge-grove",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pledge Grove"
+  },
+  "locale": {
+    "ja": {
+      "name": "誓いの林"
+    },
+    "fr": {
+      "name": "Bois du Serment"
+    }
+  }
+}

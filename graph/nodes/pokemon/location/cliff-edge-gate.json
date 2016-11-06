@@ -1,0 +1,15 @@
+{
+  "id": "cliff-edge-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cliff Edge Gate"
+  },
+  "locale": {
+    "fr": {
+      "name": "Portail Falaise"
+    }
+  }
+}

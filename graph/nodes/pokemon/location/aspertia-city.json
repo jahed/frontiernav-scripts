@@ -1,0 +1,18 @@
+{
+  "id": "aspertia-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Aspertia City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒオウギシティ"
+    },
+    "fr": {
+      "name": "Pavonnay"
+    }
+  }
+}

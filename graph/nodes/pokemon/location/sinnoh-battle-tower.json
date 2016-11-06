@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-battle-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour de Combat"
+    }
+  }
+}

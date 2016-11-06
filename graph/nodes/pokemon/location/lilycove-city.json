@@ -1,0 +1,15 @@
+{
+  "id": "lilycove-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lilycove City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Nénucrique"
+    }
+  }
+}

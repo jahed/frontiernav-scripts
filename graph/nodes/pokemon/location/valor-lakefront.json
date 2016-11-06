@@ -1,0 +1,15 @@
+{
+  "id": "valor-lakefront",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Valor Lakefront"
+  },
+  "locale": {
+    "fr": {
+      "name": "Rive Lac Courage"
+    }
+  }
+}

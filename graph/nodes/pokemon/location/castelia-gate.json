@@ -1,0 +1,18 @@
+{
+  "id": "castelia-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Castelia Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒウンゲート"
+    },
+    "fr": {
+      "name": "Porte Volucité"
+    }
+  }
+}

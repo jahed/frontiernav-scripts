@@ -1,0 +1,30 @@
+{
+  "id": "victory-road",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Victory Road"
+  },
+  "locale": {
+    "ja": {
+      "name": "チャンピオンロード"
+    },
+    "ko": {
+      "name": "챔피언로드"
+    },
+    "fr": {
+      "name": "Route Victoire"
+    },
+    "de": {
+      "name": "Siegesstraße"
+    },
+    "es": {
+      "name": "Calle Victoria"
+    },
+    "it": {
+      "name": "Via Vittoria"
+    }
+  }
+}

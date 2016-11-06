@@ -1,0 +1,15 @@
+{
+  "id": "acuity-lakefront",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Acuity Lakefront"
+  },
+  "locale": {
+    "fr": {
+      "name": "Rive Lac Savoir"
+    }
+  }
+}

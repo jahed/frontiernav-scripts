@@ -1,0 +1,15 @@
+{
+  "id": "johto-lighthouse",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lighthouse"
+  },
+  "locale": {
+    "fr": {
+      "name": "Phare"
+    }
+  }
+}

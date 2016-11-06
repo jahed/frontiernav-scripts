@@ -1,0 +1,15 @@
+{
+  "id": "mining-museum",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mining Museum"
+  },
+  "locale": {
+    "fr": {
+      "name": "Musée Minier"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-route-208",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 208"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route 208"
+    }
+  }
+}

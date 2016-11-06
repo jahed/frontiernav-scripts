@@ -1,0 +1,15 @@
+{
+  "id": "johto-sea-route-40",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sea Route 40"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chenal 40"
+    }
+  }
+}

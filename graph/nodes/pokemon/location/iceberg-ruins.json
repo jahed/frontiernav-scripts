@@ -1,0 +1,15 @@
+{
+  "id": "iceberg-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Iceberg Ruins"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ruines Iceberg"
+    }
+  }
+}

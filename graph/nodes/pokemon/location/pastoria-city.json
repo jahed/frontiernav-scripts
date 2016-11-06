@@ -1,0 +1,15 @@
+{
+  "id": "pastoria-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pastoria City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Verchamps"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kanto-safari-zone",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Safari Zone"
+  },
+  "locale": {
+    "fr": {
+      "name": "Parc Safari"
+    }
+  }
+}

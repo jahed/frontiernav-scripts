@@ -1,0 +1,15 @@
+{
+  "id": "oldale-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Oldale Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Rosyères"
+    }
+  }
+}

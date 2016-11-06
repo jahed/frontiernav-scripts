@@ -1,0 +1,30 @@
+{
+  "id": "melancolie-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mélancolie Path"
+  },
+  "locale": {
+    "ja": {
+      "name": "トリストどおり"
+    },
+    "ko": {
+      "name": "트리스트 도로"
+    },
+    "fr": {
+      "name": "Chemin Tristesse"
+    },
+    "de": {
+      "name": "Tristesse-Weg"
+    },
+    "es": {
+      "name": "Senda Melancolía"
+    },
+    "it": {
+      "name": "Via Malinconia"
+    }
+  }
+}

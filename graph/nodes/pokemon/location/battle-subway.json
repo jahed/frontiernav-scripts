@@ -1,0 +1,18 @@
+{
+  "id": "battle-subway",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Subway"
+  },
+  "locale": {
+    "ja": {
+      "name": "バトルサブウェイ"
+    },
+    "fr": {
+      "name": "Métro de Combat"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pinwheel-forest",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pinwheel Forest"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤグルマの森"
+    },
+    "fr": {
+      "name": "Forêt d'Empoigne"
+    }
+  }
+}

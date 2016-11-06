@@ -1,0 +1,30 @@
+{
+  "id": "poke-ball-factory",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Poké Ball Factory"
+  },
+  "locale": {
+    "ja": {
+      "name": "ボールこうじょう"
+    },
+    "ko": {
+      "name": "볼 공장"
+    },
+    "fr": {
+      "name": "Usine de Poké Balls"
+    },
+    "de": {
+      "name": "Pokéball-Fabrik"
+    },
+    "es": {
+      "name": "Fábrica Poké Balls"
+    },
+    "it": {
+      "name": "Fabbrica Poké Ball"
+    }
+  }
+}

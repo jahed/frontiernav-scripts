@@ -1,0 +1,18 @@
+{
+  "id": "undella-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Undella Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "サザナミタウン"
+    },
+    "fr": {
+      "name": "Vaguelone"
+    }
+  }
+}

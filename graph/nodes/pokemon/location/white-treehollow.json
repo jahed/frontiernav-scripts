@@ -1,0 +1,18 @@
+{
+  "id": "white-treehollow",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "White Treehollow"
+  },
+  "locale": {
+    "ja": {
+      "name": "白の樹洞"
+    },
+    "fr": {
+      "name": "Arbre Creux Blanc"
+    }
+  }
+}

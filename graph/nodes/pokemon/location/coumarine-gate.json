@@ -1,0 +1,30 @@
+{
+  "id": "coumarine-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Coumarine Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒヨクゲート"
+    },
+    "ko": {
+      "name": "비익게이트"
+    },
+    "fr": {
+      "name": "Porte de P. Tempères"
+    },
+    "de": {
+      "name": "Tempera-Tor"
+    },
+    "es": {
+      "name": "Acceso a Témpera"
+    },
+    "it": {
+      "name": "Varco Temperopoli"
+    }
+  }
+}

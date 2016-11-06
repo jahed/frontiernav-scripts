@@ -1,0 +1,15 @@
+{
+  "id": "hoenn-route-109",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 109"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route 109"
+    }
+  }
+}

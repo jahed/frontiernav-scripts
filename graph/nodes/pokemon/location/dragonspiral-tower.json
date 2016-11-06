@@ -1,0 +1,18 @@
+{
+  "id": "dragonspiral-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dragonspiral Tower"
+  },
+  "locale": {
+    "ja": {
+      "name": "リュウラセンの塔"
+    },
+    "fr": {
+      "name": "Tour Dragospire"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sootopolis-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sootopolis City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Atalanopolis"
+    }
+  }
+}

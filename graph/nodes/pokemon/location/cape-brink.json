@@ -1,0 +1,15 @@
+{
+  "id": "cape-brink",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cape Brink"
+  },
+  "locale": {
+    "fr": {
+      "name": "Cap Falaise"
+    }
+  }
+}

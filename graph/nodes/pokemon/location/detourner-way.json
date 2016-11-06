@@ -1,0 +1,30 @@
+{
+  "id": "detourner-way",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Détourner Way"
+  },
+  "locale": {
+    "ja": {
+      "name": "デトルネどおり"
+    },
+    "ko": {
+      "name": "데뚜르네 도로"
+    },
+    "fr": {
+      "name": "Chemin Détour"
+    },
+    "de": {
+      "name": "Détourné-Weg"
+    },
+    "es": {
+      "name": "Vía Desvío"
+    },
+    "it": {
+      "name": "Via Detour"
+    }
+  }
+}

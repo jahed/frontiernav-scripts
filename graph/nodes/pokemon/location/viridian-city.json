@@ -1,0 +1,15 @@
+{
+  "id": "viridian-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Viridian City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Jadielle"
+    }
+  }
+}

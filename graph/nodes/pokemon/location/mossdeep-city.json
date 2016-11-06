@@ -1,0 +1,15 @@
+{
+  "id": "mossdeep-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mossdeep City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Algatia"
+    }
+  }
+}

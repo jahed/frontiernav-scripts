@@ -1,0 +1,15 @@
+{
+  "id": "kanto-route-22",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 22"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route 22"
+    }
+  }
+}

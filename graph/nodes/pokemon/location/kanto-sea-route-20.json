@@ -1,0 +1,15 @@
+{
+  "id": "kanto-sea-route-20",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sea Route 20"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chenal 20"
+    }
+  }
+}

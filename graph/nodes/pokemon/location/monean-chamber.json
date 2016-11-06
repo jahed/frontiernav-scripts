@@ -1,0 +1,15 @@
+{
+  "id": "monean-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Monean Chamber"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chambre Anemune"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "radio-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Radio Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Radio"
+    }
+  }
+}

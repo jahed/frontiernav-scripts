@@ -1,0 +1,15 @@
+{
+  "id": "trainer-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Trainer Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Dresseurs"
+    }
+  }
+}

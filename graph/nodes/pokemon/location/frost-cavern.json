@@ -1,0 +1,30 @@
+{
+  "id": "frost-cavern",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Frost Cavern"
+  },
+  "locale": {
+    "ja": {
+      "name": "フロストケイブ"
+    },
+    "ko": {
+      "name": "프로스트케이브"
+    },
+    "fr": {
+      "name": "Caverne Gelée"
+    },
+    "de": {
+      "name": "Frosthöhle"
+    },
+    "es": {
+      "name": "Gruta Helada"
+    },
+    "it": {
+      "name": "Caverna Gelata"
+    }
+  }
+}

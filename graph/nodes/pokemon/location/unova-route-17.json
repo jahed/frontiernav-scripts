@@ -1,0 +1,18 @@
+{
+  "id": "unova-route-17",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 17"
+  },
+  "locale": {
+    "ja": {
+      "name": "１７番水道"
+    },
+    "fr": {
+      "name": "Chenal 17"
+    }
+  }
+}

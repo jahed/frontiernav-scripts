@@ -1,0 +1,15 @@
+{
+  "id": "scorched-slab",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Scorched Slab"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Zénith"
+    }
+  }
+}

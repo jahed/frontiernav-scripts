@@ -1,0 +1,15 @@
+{
+  "id": "poffin-house",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Poffin House"
+  },
+  "locale": {
+    "fr": {
+      "name": "Poffinerie"
+    }
+  }
+}

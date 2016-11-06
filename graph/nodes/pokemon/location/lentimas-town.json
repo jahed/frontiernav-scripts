@@ -1,0 +1,18 @@
+{
+  "id": "lentimas-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lentimas Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤマジタウン"
+    },
+    "fr": {
+      "name": "Arpentières"
+    }
+  }
+}

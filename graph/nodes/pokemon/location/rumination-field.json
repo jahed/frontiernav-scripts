@@ -1,0 +1,18 @@
+{
+  "id": "rumination-field",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Rumination Field"
+  },
+  "locale": {
+    "ja": {
+      "name": "思索の原"
+    },
+    "fr": {
+      "name": "Clairière Réflexion"
+    }
+  }
+}

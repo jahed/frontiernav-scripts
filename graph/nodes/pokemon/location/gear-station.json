@@ -1,0 +1,18 @@
+{
+  "id": "gear-station",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Gear Station"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギアステーション"
+    },
+    "fr": {
+      "name": "Engrenage du Métro"
+    }
+  }
+}

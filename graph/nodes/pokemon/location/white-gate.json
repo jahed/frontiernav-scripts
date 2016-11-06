@@ -1,0 +1,18 @@
+{
+  "id": "white-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "White Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホワイトゲート"
+    },
+    "fr": {
+      "name": "Porte Blanche"
+    }
+  }
+}

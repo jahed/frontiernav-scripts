@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-7",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 7"
+  },
+  "locale": {
+    "ja": {
+      "name": "７ばんどうろ"
+    },
+    "ko": {
+      "name": "7번도로"
+    },
+    "fr": {
+      "name": "Route 7"
+    },
+    "de": {
+      "name": "Route 7"
+    },
+    "es": {
+      "name": "Ruta 7"
+    },
+    "it": {
+      "name": "Percorso 7"
+    }
+  }
+}

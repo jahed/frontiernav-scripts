@@ -1,0 +1,15 @@
+{
+  "id": "hearthome-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Hearthome City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Unionpolis"
+    }
+  }
+}

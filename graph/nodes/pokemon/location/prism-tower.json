@@ -1,0 +1,30 @@
+{
+  "id": "prism-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Prism Tower"
+  },
+  "locale": {
+    "ja": {
+      "name": "プリズムタワー"
+    },
+    "ko": {
+      "name": "프리즘타워"
+    },
+    "fr": {
+      "name": "Tour Prismatique"
+    },
+    "de": {
+      "name": "Prismaturm"
+    },
+    "es": {
+      "name": "Torre Prisma"
+    },
+    "it": {
+      "name": "Torre Prisma"
+    }
+  }
+}

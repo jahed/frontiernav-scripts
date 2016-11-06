@@ -1,0 +1,30 @@
+{
+  "id": "kiloude-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Kiloude City"
+  },
+  "locale": {
+    "ja": {
+      "name": "キナンシティ"
+    },
+    "ko": {
+      "name": "기남시티"
+    },
+    "fr": {
+      "name": "Batisques"
+    },
+    "de": {
+      "name": "Batika City"
+    },
+    "es": {
+      "name": "Ciudad Batik"
+    },
+    "it": {
+      "name": "Batikopoli"
+    }
+  }
+}

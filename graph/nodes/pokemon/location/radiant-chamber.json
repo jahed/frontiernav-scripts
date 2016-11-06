@@ -1,0 +1,30 @@
+{
+  "id": "radiant-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Radiant Chamber"
+  },
+  "locale": {
+    "ja": {
+      "name": "ひかりのま"
+    },
+    "ko": {
+      "name": "빛의 방"
+    },
+    "fr": {
+      "name": "Chambre de l’Éclat"
+    },
+    "de": {
+      "name": "Licht-Saal"
+    },
+    "es": {
+      "name": "Sala de la Luz"
+    },
+    "it": {
+      "name": "Sala della Luce"
+    }
+  }
+}

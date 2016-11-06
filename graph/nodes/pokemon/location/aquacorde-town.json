@@ -1,0 +1,30 @@
+{
+  "id": "aquacorde-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Aquacorde Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "メイスイタウン"
+    },
+    "ko": {
+      "name": "수미마을"
+    },
+    "fr": {
+      "name": "Quarellis"
+    },
+    "de": {
+      "name": "Aquarellia"
+    },
+    "es": {
+      "name": "Pueblo Acuarela"
+    },
+    "it": {
+      "name": "Rio Acquerello"
+    }
+  }
+}

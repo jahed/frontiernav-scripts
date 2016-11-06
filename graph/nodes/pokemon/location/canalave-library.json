@@ -1,0 +1,15 @@
+{
+  "id": "canalave-library",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Canalave Library"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bibl. Joliberges"
+    }
+  }
+}

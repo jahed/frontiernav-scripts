@@ -1,0 +1,15 @@
+{
+  "id": "artisan-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Artisan Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Atelier"
+    }
+  }
+}

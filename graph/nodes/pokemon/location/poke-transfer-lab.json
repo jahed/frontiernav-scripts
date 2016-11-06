@@ -1,0 +1,18 @@
+{
+  "id": "poke-transfer-lab",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Poké Transfer Lab"
+  },
+  "locale": {
+    "ja": {
+      "name": "シフトファクトリー"
+    },
+    "fr": {
+      "name": "Laboratoire Fret"
+    }
+  }
+}

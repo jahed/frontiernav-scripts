@@ -1,0 +1,24 @@
+{
+  "id": "johto",
+  "labels": [
+    "Region",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Johto"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジョウト地方"
+    },
+    "fr": {
+      "name": "Johto"
+    },
+    "de": {
+      "name": "Johto"
+    },
+    "it": {
+      "name": "Johto"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "abundant-shrine",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Abundant Shrine"
+  },
+  "locale": {
+    "ja": {
+      "name": "ほうじょうの社"
+    },
+    "fr": {
+      "name": "Autel Abondance"
+    }
+  }
+}

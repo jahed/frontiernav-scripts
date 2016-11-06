@@ -1,0 +1,18 @@
+{
+  "id": "black-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Black City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ブラックシティ"
+    },
+    "fr": {
+      "name": "Ville Noire"
+    }
+  }
+}

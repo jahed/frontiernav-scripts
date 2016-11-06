@@ -1,0 +1,15 @@
+{
+  "id": "oreburgh-mine",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Oreburgh Mine"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mine Charbourg"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "undella-bay",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Undella Bay"
+  },
+  "locale": {
+    "ja": {
+      "name": "サザナミ湾"
+    },
+    "fr": {
+      "name": "Baie Vaguelone"
+    }
+  }
+}

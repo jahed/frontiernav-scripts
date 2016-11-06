@@ -1,0 +1,15 @@
+{
+  "id": "cliff-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cliff Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Falaise"
+    }
+  }
+}

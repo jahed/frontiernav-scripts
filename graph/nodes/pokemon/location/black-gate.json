@@ -1,0 +1,18 @@
+{
+  "id": "black-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Black Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ブラックゲート"
+    },
+    "fr": {
+      "name": "Porte Noire"
+    }
+  }
+}

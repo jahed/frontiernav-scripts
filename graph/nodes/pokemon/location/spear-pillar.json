@@ -1,0 +1,15 @@
+{
+  "id": "spear-pillar",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Spear Pillar"
+  },
+  "locale": {
+    "fr": {
+      "name": "Colonnes Lances"
+    }
+  }
+}

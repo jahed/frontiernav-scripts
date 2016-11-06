@@ -1,0 +1,15 @@
+{
+  "id": "rock-tunnel",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Rock Tunnel"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte"
+    }
+  }
+}

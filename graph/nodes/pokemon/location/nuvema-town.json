@@ -1,0 +1,18 @@
+{
+  "id": "nuvema-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Nuvema Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "カノコタウン"
+    },
+    "fr": {
+      "name": "Renouet"
+    }
+  }
+}

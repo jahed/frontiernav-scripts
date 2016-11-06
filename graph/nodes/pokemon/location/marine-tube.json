@@ -1,0 +1,18 @@
+{
+  "id": "marine-tube",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Marine Tube"
+  },
+  "locale": {
+    "ja": {
+      "name": "マリンチューブ"
+    },
+    "fr": {
+      "name": "Aquatube"
+    }
+  }
+}

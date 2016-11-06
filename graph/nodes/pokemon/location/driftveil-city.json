@@ -1,0 +1,18 @@
+{
+  "id": "driftveil-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Driftveil City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホドモエシティ"
+    },
+    "fr": {
+      "name": "Port Yoneuve"
+    }
+  }
+}

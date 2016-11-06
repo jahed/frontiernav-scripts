@@ -1,0 +1,15 @@
+{
+  "id": "grand-lake",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Grand Lake"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grand Lac"
+    }
+  }
+}

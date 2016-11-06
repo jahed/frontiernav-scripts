@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-12",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 12"
+  },
+  "locale": {
+    "ja": {
+      "name": "１２ばんどうろ"
+    },
+    "ko": {
+      "name": "12번도로"
+    },
+    "fr": {
+      "name": "Route 12"
+    },
+    "de": {
+      "name": "Route 12"
+    },
+    "es": {
+      "name": "Ruta 12"
+    },
+    "it": {
+      "name": "Percorso 12"
+    }
+  }
+}

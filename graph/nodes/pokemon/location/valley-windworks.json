@@ -1,0 +1,15 @@
+{
+  "id": "valley-windworks",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Valley Windworks"
+  },
+  "locale": {
+    "fr": {
+      "name": "Les Eoliennes"
+    }
+  }
+}

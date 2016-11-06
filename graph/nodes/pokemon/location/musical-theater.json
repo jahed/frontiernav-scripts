@@ -1,0 +1,18 @@
+{
+  "id": "musical-theater",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Musical Theater"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミュージカルホール"
+    },
+    "fr": {
+      "name": "Music-Hall"
+    }
+  }
+}

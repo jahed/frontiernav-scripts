@@ -1,0 +1,15 @@
+{
+  "id": "pokemon-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Pokémon"
+    }
+  }
+}

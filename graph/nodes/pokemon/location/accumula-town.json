@@ -1,0 +1,18 @@
+{
+  "id": "accumula-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Accumula Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "カラクサタウン"
+    },
+    "fr": {
+      "name": "Arabelle"
+    }
+  }
+}

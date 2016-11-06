@@ -1,0 +1,18 @@
+{
+  "id": "virbank-complex",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Virbank Complex"
+  },
+  "locale": {
+    "ja": {
+      "name": "タチワキコンビナート"
+    },
+    "fr": {
+      "name": "Z.I. d'Ondes-sur-Mer"
+    }
+  }
+}

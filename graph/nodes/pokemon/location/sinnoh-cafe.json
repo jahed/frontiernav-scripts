@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-cafe",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Café"
+  },
+  "locale": {
+    "fr": {
+      "name": "Café"
+    }
+  }
+}

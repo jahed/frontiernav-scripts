@@ -1,0 +1,15 @@
+{
+  "id": "battle-park",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Park"
+  },
+  "locale": {
+    "fr": {
+      "name": "Parc des Combats"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "desert-resort",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Desert Resort"
+  },
+  "locale": {
+    "ja": {
+      "name": "リゾートデザート"
+    },
+    "fr": {
+      "name": "Désert Délassant"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bond-bridge",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Bond Bridge"
+  },
+  "locale": {
+    "fr": {
+      "name": "Pont du Lien"
+    }
+  }
+}

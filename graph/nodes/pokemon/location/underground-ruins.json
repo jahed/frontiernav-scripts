@@ -1,0 +1,18 @@
+{
+  "id": "underground-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Underground Ruins"
+  },
+  "locale": {
+    "ja": {
+      "name": "地底遺跡"
+    },
+    "fr": {
+      "name": "Ruines Enfouies"
+    }
+  }
+}

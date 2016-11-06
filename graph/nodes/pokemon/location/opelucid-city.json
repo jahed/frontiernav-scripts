@@ -1,0 +1,18 @@
+{
+  "id": "opelucid-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Opelucid City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ソウリュウシティ"
+    },
+    "fr": {
+      "name": "Janusia"
+    }
+  }
+}

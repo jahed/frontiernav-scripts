@@ -1,0 +1,15 @@
+{
+  "id": "seabreak-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Seabreak Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Passage Marin"
+    }
+  }
+}

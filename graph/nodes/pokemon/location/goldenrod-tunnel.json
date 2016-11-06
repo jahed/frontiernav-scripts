@@ -1,0 +1,15 @@
+{
+  "id": "goldenrod-tunnel",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Goldenrod Tunnel"
+  },
+  "locale": {
+    "fr": {
+      "name": "Doublon-Tunnel"
+    }
+  }
+}

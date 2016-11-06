@@ -1,0 +1,15 @@
+{
+  "id": "floaroma-meadow",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Floaroma Meadow"
+  },
+  "locale": {
+    "fr": {
+      "name": "Pré Floraville"
+    }
+  }
+}

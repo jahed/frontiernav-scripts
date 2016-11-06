@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-13",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 13"
+  },
+  "locale": {
+    "ja": {
+      "name": "１３ばんどうろ"
+    },
+    "ko": {
+      "name": "13번도로"
+    },
+    "fr": {
+      "name": "Route 13"
+    },
+    "de": {
+      "name": "Route 13"
+    },
+    "es": {
+      "name": "Ruta 13"
+    },
+    "it": {
+      "name": "Percorso 13"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "parfum-palace",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Parfum Palace"
+  },
+  "locale": {
+    "ja": {
+      "name": "パルファムきゅうでん"
+    },
+    "ko": {
+      "name": "파르팽 궁전"
+    },
+    "fr": {
+      "name": "Palais Chaydeuvre"
+    },
+    "de": {
+      "name": "Magnum-Opus-Palast"
+    },
+    "es": {
+      "name": "Palacio Cénit"
+    },
+    "it": {
+      "name": "Reggia Aurea"
+    }
+  }
+}

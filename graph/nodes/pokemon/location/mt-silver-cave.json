@@ -1,0 +1,15 @@
+{
+  "id": "mt-silver-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Silver Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Argentée"
+    }
+  }
+}
