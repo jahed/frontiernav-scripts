@@ -1,0 +1,41 @@
+{
+  "id": "volcarona",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 637,
+    "height": 16,
+    "weight": 460,
+    "base_experience": 248,
+    "name": "Volcarona",
+    "genus": "Sun"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウルガモス",
+      "genus": "たいよう"
+    },
+    "ko": {
+      "name": "불카모스",
+      "genus": "태양"
+    },
+    "fr": {
+      "name": "Pyrax",
+      "genus": "Soleil"
+    },
+    "de": {
+      "name": "Ramoth",
+      "genus": "Sonne"
+    },
+    "es": {
+      "name": "Volcarona",
+      "genus": "Sol"
+    },
+    "it": {
+      "name": "Volcarona",
+      "genus": "Sole"
+    }
+  }
+}

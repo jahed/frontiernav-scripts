@@ -1,0 +1,45 @@
+{
+  "id": "lairon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 305,
+    "height": 9,
+    "weight": 1200,
+    "base_experience": 151,
+    "name": "Lairon",
+    "genus": "Iron Armor"
+  },
+  "locale": {
+    "ja": {
+      "name": "コドラ",
+      "genus": "てつヨロイ"
+    },
+    "ko": {
+      "name": "갱도라",
+      "genus": "철갑옷"
+    },
+    "zh": {
+      "name": "可多拉",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Galegon",
+      "genus": "Armurfer"
+    },
+    "de": {
+      "name": "Stollrak",
+      "genus": "Eisenpanzer"
+    },
+    "es": {
+      "name": "Lairon",
+      "genus": "Cor. Férrea"
+    },
+    "it": {
+      "name": "Lairon",
+      "genus": "Corazza"
+    }
+  }
+}

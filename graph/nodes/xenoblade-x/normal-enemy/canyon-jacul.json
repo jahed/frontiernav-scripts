@@ -1,0 +1,59 @@
+{
+  "id": "canyon-jacul",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Canyon Jacul",
+    "subcategory": "Jacul",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 358,
+      "maximum": 494
+    },
+    "health_range": {
+      "minimum": 70652,
+      "maximum": 85489
+    },
+    "melee_power_range": {
+      "minimum": 722,
+      "maximum": 935
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 759,
+      "maximum": 983
+    },
+    "ranged_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 157
+    },
+    "notes": "Found at 401(hi),402(hi),N.MagicMt",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

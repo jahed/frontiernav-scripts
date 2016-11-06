@@ -1,0 +1,41 @@
+{
+  "id": "yamask",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 562,
+    "height": 5,
+    "weight": 15,
+    "base_experience": 61,
+    "name": "Yamask",
+    "genus": "Spirit"
+  },
+  "locale": {
+    "ja": {
+      "name": "デスマス",
+      "genus": "たましい"
+    },
+    "ko": {
+      "name": "데스마스",
+      "genus": "영혼"
+    },
+    "fr": {
+      "name": "Tutafeh",
+      "genus": "Âme"
+    },
+    "de": {
+      "name": "Makabaja",
+      "genus": "Seele"
+    },
+    "es": {
+      "name": "Yamask",
+      "genus": "Espíritu"
+    },
+    "it": {
+      "name": "Yamask",
+      "genus": "Fatuanima"
+    }
+  }
+}

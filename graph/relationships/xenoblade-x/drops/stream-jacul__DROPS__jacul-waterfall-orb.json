@@ -1,0 +1,6 @@
+{
+  "id": "stream-jacul__DROPS__jacul-waterfall-orb",
+  "type": "DROPS",
+  "start": "stream-jacul",
+  "end": "jacul-waterfall-orb"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rapidash",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 78,
+    "height": 17,
+    "weight": 950,
+    "base_experience": 175,
+    "name": "Rapidash",
+    "genus": "Fire Horse"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギャロップ",
+      "genus": "ひのうま"
+    },
+    "ko": {
+      "name": "날쌩마",
+      "genus": "불의말"
+    },
+    "zh": {
+      "name": "烈焰馬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Galopa",
+      "genus": "Cheval Feu"
+    },
+    "de": {
+      "name": "Gallopa",
+      "genus": "Feuerpferd"
+    },
+    "es": {
+      "name": "Rapidash",
+      "genus": "Caballo F."
+    },
+    "it": {
+      "name": "Rapidash",
+      "genus": "Cavalfuoco"
+    }
+  }
+}

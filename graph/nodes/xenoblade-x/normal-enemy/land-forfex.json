@@ -1,0 +1,58 @@
+{
+  "id": "land-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Land Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 141,
+      "maximum": 232
+    },
+    "health_range": {
+      "minimum": 19989,
+      "maximum": 34049
+    },
+    "melee_power_range": {
+      "minimum": 376,
+      "maximum": 554
+    },
+    "melee_accuracy_range": {
+      "minimum": 152,
+      "maximum": 183
+    },
+    "ranged_power_range": {
+      "minimum": 307,
+      "maximum": 453
+    },
+    "ranged_accuracy_range": {
+      "minimum": 147,
+      "maximum": 178
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 307SE,313SE,319,IbitsaSW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

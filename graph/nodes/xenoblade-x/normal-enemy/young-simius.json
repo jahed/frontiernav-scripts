@@ -1,0 +1,59 @@
+{
+  "id": "young-simius",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Young Simius",
+    "subcategory": "Simius",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 88,
+      "maximum": 153
+    },
+    "health_range": {
+      "minimum": 13441,
+      "maximum": 28603
+    },
+    "melee_power_range": {
+      "minimum": 201,
+      "maximum": 353
+    },
+    "melee_accuracy_range": {
+      "minimum": 121,
+      "maximum": 139
+    },
+    "ranged_power_range": {
+      "minimum": 179,
+      "maximum": 315
+    },
+    "ranged_accuracy_range": {
+      "minimum": 117,
+      "maximum": 134
+    },
+    "potential_range": {
+      "minimum": 175,
+      "maximum": 307
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 53
+    },
+    "notes": "Found at [5:00~19:00]: 106N,115S",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

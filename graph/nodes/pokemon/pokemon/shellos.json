@@ -1,0 +1,45 @@
+{
+  "id": "shellos",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 422,
+    "height": 3,
+    "weight": 63,
+    "base_experience": 65,
+    "name": "Shellos",
+    "genus": "Sea Slug"
+  },
+  "locale": {
+    "ja": {
+      "name": "カラナクシ",
+      "genus": "ウミウシ"
+    },
+    "ko": {
+      "name": "깝질무",
+      "genus": "갯민숭달팽이"
+    },
+    "zh": {
+      "name": "無殼海牛",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Sancoki",
+      "genus": "Aqualimace"
+    },
+    "de": {
+      "name": "Schalellos",
+      "genus": "Seeschnecke"
+    },
+    "es": {
+      "name": "Shellos",
+      "genus": "Babosa Mar."
+    },
+    "it": {
+      "name": "Shellos",
+      "genus": "Lumacomare"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "latios",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 381,
+    "height": 20,
+    "weight": 600,
+    "base_experience": 270,
+    "name": "Latios",
+    "genus": "Eon"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラティオス",
+      "genus": "むげん"
+    },
+    "ko": {
+      "name": "라티오스",
+      "genus": "무한"
+    },
+    "zh": {
+      "name": "拉帝歐斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Latios",
+      "genus": "Éon"
+    },
+    "de": {
+      "name": "Latios",
+      "genus": "Äon"
+    },
+    "es": {
+      "name": "Latios",
+      "genus": "Eón"
+    },
+    "it": {
+      "name": "Latios",
+      "genus": "Eone"
+    }
+  }
+}

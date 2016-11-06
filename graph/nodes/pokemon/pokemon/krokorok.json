@@ -1,0 +1,41 @@
+{
+  "id": "krokorok",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 552,
+    "height": 10,
+    "weight": 334,
+    "base_experience": 123,
+    "name": "Krokorok",
+    "genus": "Desert Croc"
+  },
+  "locale": {
+    "ja": {
+      "name": "ワルビル",
+      "genus": "さばくワニ"
+    },
+    "ko": {
+      "name": "악비르",
+      "genus": "사막악어"
+    },
+    "fr": {
+      "name": "Escroco",
+      "genus": "Croco Sable"
+    },
+    "de": {
+      "name": "Rokkaiman",
+      "genus": "Wüstenkroko"
+    },
+    "es": {
+      "name": "Krokorok",
+      "genus": "Desierdrilo"
+    },
+    "it": {
+      "name": "Krokorok",
+      "genus": "Sabbiadrillo"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "cave-mortifole",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Cave Mortifole",
+    "subcategory": "Mortifole",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 67,
+      "maximum": 110
+    },
+    "health_range": {
+      "minimum": 15243,
+      "maximum": 25966
+    },
+    "melee_power_range": {
+      "minimum": 238,
+      "maximum": 351
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 282,
+      "maximum": 415
+    },
+    "ranged_accuracy_range": {
+      "minimum": 154,
+      "maximum": 187
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 48,
+      "maximum": 74
+    },
+    "notes": "Found at Arlentcave",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

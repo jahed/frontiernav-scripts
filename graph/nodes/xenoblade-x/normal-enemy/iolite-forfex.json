@@ -1,0 +1,58 @@
+{
+  "id": "iolite-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Iolite Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 25,
+      "maximum": 71
+    },
+    "health_range": {
+      "minimum": 1414,
+      "maximum": 8066
+    },
+    "melee_power_range": {
+      "minimum": 51,
+      "maximum": 178
+    },
+    "melee_accuracy_range": {
+      "minimum": 110,
+      "maximum": 129
+    },
+    "ranged_power_range": {
+      "minimum": 41,
+      "maximum": 145
+    },
+    "ranged_accuracy_range": {
+      "minimum": 105,
+      "maximum": 123
+    },
+    "potential_range": {
+      "minimum": 46,
+      "maximum": 162
+    },
+    "evasion_range": {
+      "minimum": 13,
+      "maximum": 29
+    },
+    "notes": "Found at 403",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "young-cinicula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Young Cinicula",
+    "subcategory": "Cinicula",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 84,
+      "maximum": 146
+    },
+    "health_range": {
+      "minimum": 11007,
+      "maximum": 23424
+    },
+    "melee_power_range": {
+      "minimum": 210,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 118,
+      "maximum": 135
+    },
+    "ranged_power_range": {
+      "minimum": 210,
+      "maximum": 369
+    },
+    "ranged_accuracy_range": {
+      "minimum": 114,
+      "maximum": 131
+    },
+    "potential_range": {
+      "minimum": 175,
+      "maximum": 307
+    },
+    "evasion_range": {
+      "minimum": 22,
+      "maximum": 35
+    },
+    "notes": "Found at Janpath W",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

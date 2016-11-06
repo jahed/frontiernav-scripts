@@ -1,0 +1,41 @@
+{
+  "id": "zebstrika",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 523,
+    "height": 16,
+    "weight": 795,
+    "base_experience": 174,
+    "name": "Zebstrika",
+    "genus": "Thunderbolt"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゼブライカ",
+      "genus": "らいでん"
+    },
+    "ko": {
+      "name": "제브라이카",
+      "genus": "뇌전"
+    },
+    "fr": {
+      "name": "Zéblitz",
+      "genus": "Foudrélec"
+    },
+    "de": {
+      "name": "Zebritz",
+      "genus": "Donnerkeil"
+    },
+    "es": {
+      "name": "Zebstrika",
+      "genus": "Rayo"
+    },
+    "it": {
+      "name": "Zebstrika",
+      "genus": "Saetta"
+    }
+  }
+}

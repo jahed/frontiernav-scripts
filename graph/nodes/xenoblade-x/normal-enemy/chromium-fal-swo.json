@@ -1,0 +1,58 @@
+{
+  "id": "chromium-fal-swo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Chromium Fal-swo",
+    "subcategory": "Fal-swo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1212,
+      "maximum": 1560
+    },
+    "health_range": {
+      "minimum": 467985,
+      "maximum": 547651
+    },
+    "melee_power_range": {
+      "minimum": 1479,
+      "maximum": 1843
+    },
+    "melee_accuracy_range": {
+      "minimum": 219,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 1347,
+      "maximum": 1679
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 261
+    },
+    "potential_range": {
+      "minimum": 1315,
+      "maximum": 1639
+    },
+    "evasion_range": {
+      "minimum": 169,
+      "maximum": 209
+    },
+    "notes": "Found at [19:00~5:00]: 111S/SW(high)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

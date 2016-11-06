@@ -1,0 +1,45 @@
+{
+  "id": "magby",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 240,
+    "height": 7,
+    "weight": 214,
+    "base_experience": 73,
+    "name": "Magby",
+    "genus": "Live Coal"
+  },
+  "locale": {
+    "ja": {
+      "name": "ブビィ",
+      "genus": "ひだね"
+    },
+    "ko": {
+      "name": "마그비",
+      "genus": "불씨"
+    },
+    "zh": {
+      "name": "小鴨嘴龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Magby",
+      "genus": "Charbon"
+    },
+    "de": {
+      "name": "Magby",
+      "genus": "Glutherd"
+    },
+    "es": {
+      "name": "Magby",
+      "genus": "Ascuas"
+    },
+    "it": {
+      "name": "Magby",
+      "genus": "Carbonvivo"
+    }
+  }
+}

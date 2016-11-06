@@ -1,0 +1,45 @@
+{
+  "id": "spiritomb",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 442,
+    "height": 10,
+    "weight": 1080,
+    "base_experience": 170,
+    "name": "Spiritomb",
+    "genus": "Forbidden"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミカルゲ",
+      "genus": "ふういん"
+    },
+    "ko": {
+      "name": "화강돌",
+      "genus": "봉인"
+    },
+    "zh": {
+      "name": "花岩怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Spiritomb",
+      "genus": "Interdit"
+    },
+    "de": {
+      "name": "Kryppuk",
+      "genus": "Verboten"
+    },
+    "es": {
+      "name": "Spiritomb",
+      "genus": "Prohibido"
+    },
+    "it": {
+      "name": "Spiritomb",
+      "genus": "Proibito"
+    }
+  }
+}

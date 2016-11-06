@@ -1,0 +1,41 @@
+{
+  "id": "froakie",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 656,
+    "height": 3,
+    "weight": 70,
+    "base_experience": 63,
+    "name": "Froakie",
+    "genus": "Bubble Frog"
+  },
+  "locale": {
+    "ja": {
+      "name": "ケロマツ",
+      "genus": "あわがえる"
+    },
+    "ko": {
+      "name": "개구마르",
+      "genus": "거품개구리"
+    },
+    "fr": {
+      "name": "Grenousse",
+      "genus": "Crapobulle"
+    },
+    "de": {
+      "name": "Froxy",
+      "genus": "Blubbfrosch"
+    },
+    "es": {
+      "name": "Froakie",
+      "genus": "Burburrana"
+    },
+    "it": {
+      "name": "Froakie",
+      "genus": "Schiumorana"
+    }
+  }
+}

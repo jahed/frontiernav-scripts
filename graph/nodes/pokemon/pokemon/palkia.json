@@ -1,0 +1,45 @@
+{
+  "id": "palkia",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 484,
+    "height": 42,
+    "weight": 3360,
+    "base_experience": 306,
+    "name": "Palkia",
+    "genus": "Spatial"
+  },
+  "locale": {
+    "ja": {
+      "name": "パルキア",
+      "genus": "くうかん"
+    },
+    "ko": {
+      "name": "펄기아",
+      "genus": "공간"
+    },
+    "zh": {
+      "name": "帕路奇犽",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Palkia",
+      "genus": "Espace"
+    },
+    "de": {
+      "name": "Palkia",
+      "genus": "Räumlich"
+    },
+    "es": {
+      "name": "Palkia",
+      "genus": "Espacial"
+    },
+    "it": {
+      "name": "Palkia",
+      "genus": "Spazio"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "herdier",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 507,
+    "height": 9,
+    "weight": 147,
+    "base_experience": 130,
+    "name": "Herdier",
+    "genus": "Loyal Dog"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハーデリア",
+      "genus": "ちゅうけん"
+    },
+    "ko": {
+      "name": "하데리어",
+      "genus": "충견"
+    },
+    "fr": {
+      "name": "Ponchien",
+      "genus": "Chien Fidèle"
+    },
+    "de": {
+      "name": "Terribark",
+      "genus": "Treuhund"
+    },
+    "es": {
+      "name": "Herdier",
+      "genus": "Leal"
+    },
+    "it": {
+      "name": "Herdier",
+      "genus": "Fedeltà"
+    }
+  }
+}

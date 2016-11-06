@@ -1,0 +1,45 @@
+{
+  "id": "articuno",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 144,
+    "height": 17,
+    "weight": 554,
+    "base_experience": 261,
+    "name": "Articuno",
+    "genus": "Freeze"
+  },
+  "locale": {
+    "ja": {
+      "name": "フリーザー",
+      "genus": "れいとう"
+    },
+    "ko": {
+      "name": "프리져",
+      "genus": "냉동"
+    },
+    "zh": {
+      "name": "急凍鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Artikodin",
+      "genus": "Glaciaire"
+    },
+    "de": {
+      "name": "Arktos",
+      "genus": "Eis"
+    },
+    "es": {
+      "name": "Articuno",
+      "genus": "Congelar"
+    },
+    "it": {
+      "name": "Articuno",
+      "genus": "Gelo"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ferroseed",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 597,
+    "height": 6,
+    "weight": 188,
+    "base_experience": 61,
+    "name": "Ferroseed",
+    "genus": "Thorn Seed"
+  },
+  "locale": {
+    "ja": {
+      "name": "テッシード",
+      "genus": "とげのみ"
+    },
+    "ko": {
+      "name": "철시드",
+      "genus": "가시열매"
+    },
+    "fr": {
+      "name": "Grindur",
+      "genus": "Graine Épine"
+    },
+    "de": {
+      "name": "Kastadur",
+      "genus": "Dornfrucht"
+    },
+    "es": {
+      "name": "Ferroseed",
+      "genus": "Fruto Espina"
+    },
+    "it": {
+      "name": "Ferroseed",
+      "genus": "Spinaseme"
+    }
+  }
+}

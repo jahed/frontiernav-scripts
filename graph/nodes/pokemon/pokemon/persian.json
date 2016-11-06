@@ -1,0 +1,45 @@
+{
+  "id": "persian",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 53,
+    "height": 10,
+    "weight": 320,
+    "base_experience": 154,
+    "name": "Persian",
+    "genus": "Classy Cat"
+  },
+  "locale": {
+    "ja": {
+      "name": "ペルシアン",
+      "genus": "シャムネコ"
+    },
+    "ko": {
+      "name": "페르시온",
+      "genus": "샴고양이"
+    },
+    "zh": {
+      "name": "貓老大",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Persian",
+      "genus": "Chadeville"
+    },
+    "de": {
+      "name": "Snobilikat",
+      "genus": "Rassekatze"
+    },
+    "es": {
+      "name": "Persian",
+      "genus": "Gato Fino"
+    },
+    "it": {
+      "name": "Persian",
+      "genus": "Nobilgatto"
+    }
+  }
+}

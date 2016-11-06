@@ -1,0 +1,58 @@
+{
+  "id": "rubidium-fal-swo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Rubidium Fal-swo",
+    "subcategory": "Fal-swo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 398,
+      "maximum": 549
+    },
+    "health_range": {
+      "minimum": 79053,
+      "maximum": 95654
+    },
+    "melee_power_range": {
+      "minimum": 815,
+      "maximum": 1056
+    },
+    "melee_accuracy_range": {
+      "minimum": 187,
+      "maximum": 216
+    },
+    "ranged_power_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 223
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 129,
+      "maximum": 165
+    },
+    "notes": "Found at 403S,416S",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

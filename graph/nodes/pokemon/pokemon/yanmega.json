@@ -1,0 +1,45 @@
+{
+  "id": "yanmega",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 469,
+    "height": 19,
+    "weight": 515,
+    "base_experience": 180,
+    "name": "Yanmega",
+    "genus": "Ogre Darner"
+  },
+  "locale": {
+    "ja": {
+      "name": "メガヤンマ",
+      "genus": "オニトンボ"
+    },
+    "ko": {
+      "name": "메가자리",
+      "genus": "깨비잠자리"
+    },
+    "zh": {
+      "name": "梅卡陽瑪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Yanmega",
+      "genus": "Libellogre"
+    },
+    "de": {
+      "name": "Yanmega",
+      "genus": "Agrion"
+    },
+    "es": {
+      "name": "Yanmega",
+      "genus": "Libélula"
+    },
+    "it": {
+      "name": "Yanmega",
+      "genus": "Libellorco"
+    }
+  }
+}

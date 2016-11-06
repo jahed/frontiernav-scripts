@@ -1,0 +1,59 @@
+{
+  "id": "divine-liceor",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Divine Liceor",
+    "subcategory": "Liceor",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 404,
+      "maximum": 680
+    },
+    "health_range": {
+      "minimum": 83018,
+      "maximum": 112856
+    },
+    "melee_power_range": {
+      "minimum": 741,
+      "maximum": 1124
+    },
+    "melee_accuracy_range": {
+      "minimum": 250,
+      "maximum": 297
+    },
+    "ranged_power_range": {
+      "minimum": 741,
+      "maximum": 1124
+    },
+    "ranged_accuracy_range": {
+      "minimum": 244,
+      "maximum": 292
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "evasion_range": {
+      "minimum": 146,
+      "maximum": 190
+    },
+    "notes": "Found at S.MagicMt,Sandsprint Cavity",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 5,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

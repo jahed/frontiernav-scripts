@@ -1,0 +1,41 @@
+{
+  "id": "excadrill",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 530,
+    "height": 7,
+    "weight": 404,
+    "base_experience": 178,
+    "name": "Excadrill",
+    "genus": "Subterrene"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドリュウズ",
+      "genus": "ちてい"
+    },
+    "ko": {
+      "name": "몰드류",
+      "genus": "땅밑"
+    },
+    "fr": {
+      "name": "Minotaupe",
+      "genus": "Souterrain"
+    },
+    "de": {
+      "name": "Stalobor",
+      "genus": "Untergrund"
+    },
+    "es": {
+      "name": "Excadrill",
+      "genus": "Subterráneo"
+    },
+    "it": {
+      "name": "Excadrill",
+      "genus": "Sottoterra"
+    }
+  }
+}

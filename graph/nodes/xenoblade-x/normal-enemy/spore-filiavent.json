@@ -1,0 +1,58 @@
+{
+  "id": "spore-filiavent",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Spore Filiavent",
+    "subcategory": "Filiavent",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1212,
+      "maximum": 1560
+    },
+    "health_range": {
+      "minimum": 577810,
+      "maximum": 676172
+    },
+    "melee_power_range": {
+      "minimum": 1314,
+      "maximum": 1638
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 1741,
+      "maximum": 2170
+    },
+    "ranged_accuracy_range": {
+      "minimum": 262,
+      "maximum": 302
+    },
+    "potential_range": {
+      "minimum": 1314,
+      "maximum": 1638
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 190
+    },
+    "notes": "Found at [19:00~5:00]: 221SE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

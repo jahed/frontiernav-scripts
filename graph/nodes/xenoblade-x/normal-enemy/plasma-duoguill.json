@@ -1,0 +1,58 @@
+{
+  "id": "plasma-duoguill",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Plasma Duoguill",
+    "subcategory": "Duoguill",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1091,
+      "maximum": 1404
+    },
+    "health_range": {
+      "minimum": 418414,
+      "maximum": 489642
+    },
+    "melee_power_range": {
+      "minimum": 1283,
+      "maximum": 1599
+    },
+    "melee_accuracy_range": {
+      "minimum": 292,
+      "maximum": 336
+    },
+    "ranged_power_range": {
+      "minimum": 1447,
+      "maximum": 1804
+    },
+    "ranged_accuracy_range": {
+      "minimum": 286,
+      "maximum": 330
+    },
+    "potential_range": {
+      "minimum": 1316,
+      "maximum": 1640
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at waters around abysscave mountain",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

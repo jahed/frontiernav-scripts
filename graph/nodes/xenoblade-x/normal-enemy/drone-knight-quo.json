@@ -1,0 +1,58 @@
+{
+  "id": "drone-knight-quo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Drone Knight Quo",
+    "subcategory": "Quo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 95,
+      "maximum": 156
+    },
+    "health_range": {
+      "minimum": 21326,
+      "maximum": 36328
+    },
+    "melee_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 231,
+      "maximum": 341
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 300,
+      "maximum": 443
+    },
+    "evasion_range": {
+      "minimum": 57,
+      "maximum": 89
+    },
+    "notes": "Found at 210NW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "purrloin",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 509,
+    "height": 4,
+    "weight": 101,
+    "base_experience": 56,
+    "name": "Purrloin",
+    "genus": "Devious"
+  },
+  "locale": {
+    "ja": {
+      "name": "チョロネコ",
+      "genus": "しょうわる"
+    },
+    "ko": {
+      "name": "쌔비냥",
+      "genus": "성악"
+    },
+    "fr": {
+      "name": "Chacripan",
+      "genus": "Scélérat"
+    },
+    "de": {
+      "name": "Felilou",
+      "genus": "Schelm"
+    },
+    "es": {
+      "name": "Purrloin",
+      "genus": "Malicioso"
+    },
+    "it": {
+      "name": "Purrloin",
+      "genus": "Furbizia"
+    }
+  }
+}

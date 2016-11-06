@@ -1,0 +1,45 @@
+{
+  "id": "blastoise",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 9,
+    "height": 16,
+    "weight": 855,
+    "base_experience": 239,
+    "name": "Blastoise",
+    "genus": "Shellfish"
+  },
+  "locale": {
+    "ja": {
+      "name": "カメックス",
+      "genus": "こうら"
+    },
+    "ko": {
+      "name": "거북왕",
+      "genus": "껍질"
+    },
+    "zh": {
+      "name": "水箭龜",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tortank",
+      "genus": "Carapace"
+    },
+    "de": {
+      "name": "Turtok",
+      "genus": "Panzertier"
+    },
+    "es": {
+      "name": "Blastoise",
+      "genus": "Marisco"
+    },
+    "it": {
+      "name": "Blastoise",
+      "genus": "Crostaceo"
+    }
+  }
+}

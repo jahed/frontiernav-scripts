@@ -1,0 +1,41 @@
+{
+  "id": "simipour",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 516,
+    "height": 10,
+    "weight": 290,
+    "base_experience": 174,
+    "name": "Simipour",
+    "genus": "Geyser"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒヤッキー",
+      "genus": "ほうすい"
+    },
+    "ko": {
+      "name": "앗차키",
+      "genus": "방수"
+    },
+    "fr": {
+      "name": "Flotoutan",
+      "genus": "Drainage"
+    },
+    "de": {
+      "name": "Sodachita",
+      "genus": "Drainage"
+    },
+    "es": {
+      "name": "Simipour",
+      "genus": "Drenaje"
+    },
+    "it": {
+      "name": "Simipour",
+      "genus": "Spruzzacqua"
+    }
+  }
+}

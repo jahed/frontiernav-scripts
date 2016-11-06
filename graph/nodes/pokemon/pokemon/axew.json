@@ -1,0 +1,45 @@
+{
+  "id": "axew",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 610,
+    "height": 6,
+    "weight": 180,
+    "base_experience": 64,
+    "name": "Axew",
+    "genus": "Tusk"
+  },
+  "locale": {
+    "ja": {
+      "name": "キバゴ",
+      "genus": "キバ"
+    },
+    "ko": {
+      "name": "터검니",
+      "genus": "이빨"
+    },
+    "zh": {
+      "name": "牙牙",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Coupenotte",
+      "genus": "Crocs"
+    },
+    "de": {
+      "name": "Milza",
+      "genus": "Stoßzahn"
+    },
+    "es": {
+      "name": "Axew",
+      "genus": "Colmillo"
+    },
+    "it": {
+      "name": "Axew",
+      "genus": "Zanna"
+    }
+  }
+}

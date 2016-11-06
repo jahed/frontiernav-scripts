@@ -1,0 +1,10 @@
+{
+  "id": "seidr-control-device",
+  "labels": [
+    "Material",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Seidr Control Device"
+  }
+}

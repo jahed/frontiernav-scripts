@@ -1,0 +1,59 @@
+{
+  "id": "cave-cantor",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Cave Cantor",
+    "subcategory": "Cantor",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 417,
+      "maximum": 576
+    },
+    "health_range": {
+      "minimum": 84115,
+      "maximum": 101779
+    },
+    "melee_power_range": {
+      "minimum": 815,
+      "maximum": 1056
+    },
+    "melee_accuracy_range": {
+      "minimum": 202,
+      "maximum": 234
+    },
+    "ranged_power_range": {
+      "minimum": 815,
+      "maximum": 1056
+    },
+    "ranged_accuracy_range": {
+      "minimum": 197,
+      "maximum": 229
+    },
+    "potential_range": {
+      "minimum": 741,
+      "maximum": 960
+    },
+    "evasion_range": {
+      "minimum": 115,
+      "maximum": 146
+    },
+    "notes": "Found at 416SE(night),Behemoth's Shadows",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

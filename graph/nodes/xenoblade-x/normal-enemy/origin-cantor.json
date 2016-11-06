@@ -1,0 +1,59 @@
+{
+  "id": "origin-cantor",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Origin Cantor",
+    "subcategory": "Cantor",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 594,
+      "maximum": 764
+    },
+    "health_range": {
+      "minimum": 103740,
+      "maximum": 121400
+    },
+    "melee_power_range": {
+      "minimum": 1085,
+      "maximum": 1353
+    },
+    "melee_accuracy_range": {
+      "minimum": 237,
+      "maximum": 273
+    },
+    "ranged_power_range": {
+      "minimum": 1085,
+      "maximum": 1353
+    },
+    "ranged_accuracy_range": {
+      "minimum": 233,
+      "maximum": 268
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "evasion_range": {
+      "minimum": 150,
+      "maximum": 185
+    },
+    "notes": "Found at Demon's Pocket",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

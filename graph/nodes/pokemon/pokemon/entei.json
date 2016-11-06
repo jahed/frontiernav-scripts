@@ -1,0 +1,45 @@
+{
+  "id": "entei",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 244,
+    "height": 21,
+    "weight": 1980,
+    "base_experience": 261,
+    "name": "Entei",
+    "genus": "Volcano"
+  },
+  "locale": {
+    "ja": {
+      "name": "エンテイ",
+      "genus": "かざん"
+    },
+    "ko": {
+      "name": "앤테이",
+      "genus": "화산"
+    },
+    "zh": {
+      "name": "炎帝",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Entei",
+      "genus": "Volcan"
+    },
+    "de": {
+      "name": "Entei",
+      "genus": "Vulkan"
+    },
+    "es": {
+      "name": "Entei",
+      "genus": "Volcán"
+    },
+    "it": {
+      "name": "Entei",
+      "genus": "Vulcano"
+    }
+  }
+}

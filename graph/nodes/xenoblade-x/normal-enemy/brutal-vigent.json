@@ -1,0 +1,58 @@
+{
+  "id": "brutal-vigent",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Brutal Vigent",
+    "subcategory": "Vigent",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1333,
+      "maximum": 1716
+    },
+    "health_range": {
+      "minimum": 518037,
+      "maximum": 606223
+    },
+    "melee_power_range": {
+      "minimum": 1579,
+      "maximum": 1968
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 294
+    },
+    "ranged_power_range": {
+      "minimum": 1283,
+      "maximum": 1599
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 261
+    },
+    "potential_range": {
+      "minimum": 1316,
+      "maximum": 1640
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 190
+    },
+    "notes": "Found at [5:00~19:00]: 313SW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

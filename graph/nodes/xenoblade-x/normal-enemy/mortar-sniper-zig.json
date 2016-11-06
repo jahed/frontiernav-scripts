@@ -1,0 +1,49 @@
+{
+  "id": "mortar-sniper-zig",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Mortar Sniper Zig",
+    "subcategory": "Zig",
+    "category": "Mechanoid",
+    "melee_power": 0,
+    "melee_accuracy": 0,
+    "potential": 0,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 125,
+      "maximum": 206
+    },
+    "health_range": {
+      "minimum": 29082,
+      "maximum": 49539
+    },
+    "ranged_power_range": {
+      "minimum": 427,
+      "maximum": 630
+    },
+    "ranged_accuracy_range": {
+      "minimum": 182,
+      "maximum": 221
+    },
+    "evasion_range": {
+      "minimum": 27,
+      "maximum": 42
+    },
+    "notes": "Found at 502S(hi)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

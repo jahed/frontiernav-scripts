@@ -1,13 +1,15 @@
 {
   "id": "eVrTPo8Q",
   "labels": [
-    "Enemy",
     "Tyrant",
+    "Enemy",
     "XenobladeX"
   ],
   "data": {
     "name": "Telethia, the Endbringer",
     "level": 99,
+    "category": "Ultrafauna",
+    "subcategory": "Telethia",
     "notes": "\"Telethia, the Endbringer\" circles above the entire Divine Roost area in the far northern tip of Noctilum.",
     "image": "eVrTPo8Q"
   }

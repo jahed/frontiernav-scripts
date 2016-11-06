@@ -1,0 +1,15 @@
+{
+  "id": "oblivia",
+  "labels": [
+    "Region",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Oblivia",
+    "center": {
+      "lat": -73.42842364106816,
+      "lng": 83.671875
+    },
+    "image": "oblivia"
+  }
+}

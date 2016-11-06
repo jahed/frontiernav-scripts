@@ -1,0 +1,41 @@
+{
+  "id": "braviary",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 628,
+    "height": 15,
+    "weight": 410,
+    "base_experience": 179,
+    "name": "Braviary",
+    "genus": "Valiant"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウォーグル",
+      "genus": "ゆうもう"
+    },
+    "ko": {
+      "name": "워글",
+      "genus": "용맹"
+    },
+    "fr": {
+      "name": "Gueriaigle",
+      "genus": "Vaillant"
+    },
+    "de": {
+      "name": "Washakwil",
+      "genus": "Kühnheit"
+    },
+    "es": {
+      "name": "Braviary",
+      "genus": "Aguerrido"
+    },
+    "it": {
+      "name": "Braviary",
+      "genus": "Baldanza"
+    }
+  }
+}

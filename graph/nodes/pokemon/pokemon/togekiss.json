@@ -1,0 +1,45 @@
+{
+  "id": "togekiss",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 468,
+    "height": 15,
+    "weight": 380,
+    "base_experience": 245,
+    "name": "Togekiss",
+    "genus": "Jubilee"
+  },
+  "locale": {
+    "ja": {
+      "name": "トゲキッス",
+      "genus": "しゅくふく"
+    },
+    "ko": {
+      "name": "토게키스",
+      "genus": "축복"
+    },
+    "zh": {
+      "name": "波克基斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Togekiss",
+      "genus": "Célébration"
+    },
+    "de": {
+      "name": "Togekiss",
+      "genus": "Jubilierer"
+    },
+    "es": {
+      "name": "Togekiss",
+      "genus": "Festejo"
+    },
+    "it": {
+      "name": "Togekiss",
+      "genus": "Festa"
+    }
+  }
+}

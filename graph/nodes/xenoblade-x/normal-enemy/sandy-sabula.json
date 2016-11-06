@@ -1,0 +1,59 @@
+{
+  "id": "sandy-sabula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Sandy Sabula",
+    "subcategory": "Sabula",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 852,
+      "maximum": 1176
+    },
+    "health_range": {
+      "minimum": 387726,
+      "maximum": 469152
+    },
+    "melee_power_range": {
+      "minimum": 1185,
+      "maximum": 1534
+    },
+    "melee_accuracy_range": {
+      "minimum": 228,
+      "maximum": 264
+    },
+    "ranged_power_range": {
+      "minimum": 1085,
+      "maximum": 1407
+    },
+    "ranged_accuracy_range": {
+      "minimum": 253,
+      "maximum": 293
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1279
+    },
+    "evasion_range": {
+      "minimum": 29,
+      "maximum": 37
+    },
+    "notes": "Found at 412",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pidove",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 519,
+    "height": 3,
+    "weight": 21,
+    "base_experience": 53,
+    "name": "Pidove",
+    "genus": "Tiny Pigeon"
+  },
+  "locale": {
+    "ja": {
+      "name": "マメパト",
+      "genus": "こばと"
+    },
+    "ko": {
+      "name": "콩둘기",
+      "genus": "아기비둘기"
+    },
+    "fr": {
+      "name": "Poichigeon",
+      "genus": "Tipigeon"
+    },
+    "de": {
+      "name": "Dusselgurr",
+      "genus": "Täubchen"
+    },
+    "es": {
+      "name": "Pidove",
+      "genus": "Pichón"
+    },
+    "it": {
+      "name": "Pidove",
+      "genus": "Piccione"
+    }
+  }
+}

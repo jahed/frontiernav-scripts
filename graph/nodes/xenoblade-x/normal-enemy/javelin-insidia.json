@@ -1,0 +1,58 @@
+{
+  "id": "javelin-insidia",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Javelin Insidia",
+    "subcategory": "Insidia",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 163,
+      "maximum": 231
+    },
+    "health_range": {
+      "minimum": 39607,
+      "maximum": 55444
+    },
+    "melee_power_range": {
+      "minimum": 404,
+      "maximum": 552
+    },
+    "melee_accuracy_range": {
+      "minimum": 182,
+      "maximum": 210
+    },
+    "ranged_power_range": {
+      "minimum": 375,
+      "maximum": 512
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 81,
+      "maximum": 106
+    },
+    "notes": "Found at 309,314N,317W",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

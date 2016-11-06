@@ -1,0 +1,45 @@
+{
+  "id": "shelgon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 372,
+    "height": 11,
+    "weight": 1105,
+    "base_experience": 147,
+    "name": "Shelgon",
+    "genus": "Endurance"
+  },
+  "locale": {
+    "ja": {
+      "name": "コモルー",
+      "genus": "にんたい"
+    },
+    "ko": {
+      "name": "쉘곤",
+      "genus": "인내"
+    },
+    "zh": {
+      "name": "甲殼龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Drackhaus",
+      "genus": "Endurant"
+    },
+    "de": {
+      "name": "Draschel",
+      "genus": "Durchsteher"
+    },
+    "es": {
+      "name": "Shelgon",
+      "genus": "Resistencia"
+    },
+    "it": {
+      "name": "Shelgon",
+      "genus": "Resistenza"
+    }
+  }
+}

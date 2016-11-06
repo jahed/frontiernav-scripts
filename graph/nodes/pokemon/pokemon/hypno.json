@@ -1,0 +1,45 @@
+{
+  "id": "hypno",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 97,
+    "height": 16,
+    "weight": 756,
+    "base_experience": 169,
+    "name": "Hypno",
+    "genus": "Hypnosis"
+  },
+  "locale": {
+    "ja": {
+      "name": "スリーパー",
+      "genus": "さいみん"
+    },
+    "ko": {
+      "name": "슬리퍼",
+      "genus": "최면"
+    },
+    "zh": {
+      "name": "素利拍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Hypnomade",
+      "genus": "Hypnose"
+    },
+    "de": {
+      "name": "Hypno",
+      "genus": "Hypnose"
+    },
+    "es": {
+      "name": "Hypno",
+      "genus": "Hipnosis"
+    },
+    "it": {
+      "name": "Hypno",
+      "genus": "Ipnosi"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "flygon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 330,
+    "height": 20,
+    "weight": 820,
+    "base_experience": 234,
+    "name": "Flygon",
+    "genus": "Mystic"
+  },
+  "locale": {
+    "ja": {
+      "name": "フライゴン",
+      "genus": "せいれい"
+    },
+    "ko": {
+      "name": "플라이곤",
+      "genus": "정령"
+    },
+    "zh": {
+      "name": "沙漠蜻蜓",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Libégon",
+      "genus": "Mystique"
+    },
+    "de": {
+      "name": "Libelldra",
+      "genus": "Mystik"
+    },
+    "es": {
+      "name": "Flygon",
+      "genus": "Místico"
+    },
+    "it": {
+      "name": "Flygon",
+      "genus": "Magico"
+    }
+  }
+}

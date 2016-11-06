@@ -1,0 +1,45 @@
+{
+  "id": "dustox",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 269,
+    "height": 12,
+    "weight": 316,
+    "base_experience": 135,
+    "name": "Dustox",
+    "genus": "Poison Moth"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドクケイル",
+      "genus": "どくが"
+    },
+    "ko": {
+      "name": "독케일",
+      "genus": "독나방"
+    },
+    "zh": {
+      "name": "毒粉蝶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Papinox",
+      "genus": "Papipoison"
+    },
+    "de": {
+      "name": "Pudox",
+      "genus": "Giftmotte"
+    },
+    "es": {
+      "name": "Dustox",
+      "genus": "Polilla Ven."
+    },
+    "it": {
+      "name": "Dustox",
+      "genus": "Velentarma"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aurorus",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 699,
+    "height": 27,
+    "weight": 2250,
+    "base_experience": 104,
+    "name": "Aurorus",
+    "genus": "Tundra"
+  },
+  "locale": {
+    "ja": {
+      "name": "アマルルガ",
+      "genus": "ツンドラ"
+    },
+    "ko": {
+      "name": "아마루르가",
+      "genus": "툰드라"
+    },
+    "fr": {
+      "name": "Dragmara",
+      "genus": "Toundra"
+    },
+    "de": {
+      "name": "Amagarga",
+      "genus": "Tundra"
+    },
+    "es": {
+      "name": "Aurorus",
+      "genus": "Tundra"
+    },
+    "it": {
+      "name": "Aurorus",
+      "genus": "Tundra"
+    }
+  }
+}

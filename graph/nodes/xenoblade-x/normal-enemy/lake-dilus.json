@@ -1,0 +1,58 @@
+{
+  "id": "lake-dilus",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Lake Dilus",
+    "subcategory": "Dilus",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 165,
+      "maximum": 270
+    },
+    "health_range": {
+      "minimum": 30885,
+      "maximum": 52610
+    },
+    "melee_power_range": {
+      "minimum": 410,
+      "maximum": 604
+    },
+    "melee_accuracy_range": {
+      "minimum": 159,
+      "maximum": 192
+    },
+    "ranged_power_range": {
+      "minimum": 324,
+      "maximum": 478
+    },
+    "ranged_accuracy_range": {
+      "minimum": 136,
+      "maximum": 165
+    },
+    "potential_range": {
+      "minimum": 307,
+      "maximum": 453
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 307NE,310(lo),312NW,316,W.Ibra",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "archen",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 566,
+    "height": 5,
+    "weight": 95,
+    "base_experience": 71,
+    "name": "Archen",
+    "genus": "First Bird"
+  },
+  "locale": {
+    "ja": {
+      "name": "アーケン",
+      "genus": "さいこどり"
+    },
+    "ko": {
+      "name": "아켄",
+      "genus": "최초새"
+    },
+    "fr": {
+      "name": "Arkéapti",
+      "genus": "Oisancien"
+    },
+    "de": {
+      "name": "Flapteryx",
+      "genus": "Urzeitvogel"
+    },
+    "es": {
+      "name": "Archen",
+      "genus": "Protopájaro"
+    },
+    "it": {
+      "name": "Archen",
+      "genus": "Paleouccello"
+    }
+  }
+}

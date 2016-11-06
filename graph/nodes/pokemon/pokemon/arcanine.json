@@ -1,0 +1,45 @@
+{
+  "id": "arcanine",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 59,
+    "height": 19,
+    "weight": 1550,
+    "base_experience": 194,
+    "name": "Arcanine",
+    "genus": "Legendary"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウインディ",
+      "genus": "でんせつ"
+    },
+    "ko": {
+      "name": "윈디",
+      "genus": "전설"
+    },
+    "zh": {
+      "name": "風速狗",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Arcanin",
+      "genus": "Légendaire"
+    },
+    "de": {
+      "name": "Arkani",
+      "genus": "Legendär"
+    },
+    "es": {
+      "name": "Arcanine",
+      "genus": "Legendario"
+    },
+    "it": {
+      "name": "Arcanine",
+      "genus": "Leggenda"
+    }
+  }
+}

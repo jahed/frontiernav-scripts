@@ -1,0 +1,10 @@
+{
+  "id": "humanoid",
+  "labels": [
+    "EnemyCategory",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Humanoid"
+  }
+}

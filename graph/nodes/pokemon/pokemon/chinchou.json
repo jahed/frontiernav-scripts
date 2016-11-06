@@ -1,0 +1,45 @@
+{
+  "id": "chinchou",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 170,
+    "height": 5,
+    "weight": 120,
+    "base_experience": 66,
+    "name": "Chinchou",
+    "genus": "Angler"
+  },
+  "locale": {
+    "ja": {
+      "name": "チョンチー",
+      "genus": "あんこう"
+    },
+    "ko": {
+      "name": "초라기",
+      "genus": "아귀"
+    },
+    "zh": {
+      "name": "燈籠魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Loupio",
+      "genus": "Poisson"
+    },
+    "de": {
+      "name": "Lampi",
+      "genus": "Angler"
+    },
+    "es": {
+      "name": "Chinchou",
+      "genus": "Rape"
+    },
+    "it": {
+      "name": "Chinchou",
+      "genus": "Pescatore"
+    }
+  }
+}

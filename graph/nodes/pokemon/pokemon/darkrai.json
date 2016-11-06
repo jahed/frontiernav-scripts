@@ -1,0 +1,45 @@
+{
+  "id": "darkrai",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 491,
+    "height": 15,
+    "weight": 505,
+    "base_experience": 270,
+    "name": "Darkrai",
+    "genus": "Pitch-Black"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダークライ",
+      "genus": "あんこく"
+    },
+    "ko": {
+      "name": "다크라이",
+      "genus": "암흑"
+    },
+    "zh": {
+      "name": "達克萊伊",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Darkrai",
+      "genus": "Noirtotal"
+    },
+    "de": {
+      "name": "Darkrai",
+      "genus": "Dunkelnacht"
+    },
+    "es": {
+      "name": "Darkrai",
+      "genus": "Oscuridad"
+    },
+    "it": {
+      "name": "Darkrai",
+      "genus": "Neropesto"
+    }
+  }
+}

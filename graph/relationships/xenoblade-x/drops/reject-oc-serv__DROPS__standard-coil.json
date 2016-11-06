@@ -1,0 +1,6 @@
+{
+  "id": "reject-oc-serv__DROPS__standard-coil",
+  "type": "DROPS",
+  "start": "reject-oc-serv",
+  "end": "standard-coil"
+}

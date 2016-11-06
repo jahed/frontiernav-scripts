@@ -1,0 +1,41 @@
+{
+  "id": "lampent",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 608,
+    "height": 6,
+    "weight": 130,
+    "base_experience": 130,
+    "name": "Lampent",
+    "genus": "Lamp"
+  },
+  "locale": {
+    "ja": {
+      "name": "ランプラー",
+      "genus": "ランプ"
+    },
+    "ko": {
+      "name": "램프라",
+      "genus": "램프"
+    },
+    "fr": {
+      "name": "Mélancolux",
+      "genus": "Lampe"
+    },
+    "de": {
+      "name": "Laternecto",
+      "genus": "Lampe"
+    },
+    "es": {
+      "name": "Lampent",
+      "genus": "Farolillo"
+    },
+    "it": {
+      "name": "Lampent",
+      "genus": "Lanterna"
+    }
+  }
+}

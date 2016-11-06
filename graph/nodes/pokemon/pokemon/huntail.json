@@ -1,0 +1,45 @@
+{
+  "id": "huntail",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 367,
+    "height": 17,
+    "weight": 270,
+    "base_experience": 170,
+    "name": "Huntail",
+    "genus": "Deep Sea"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハンテール",
+      "genus": "しんかい"
+    },
+    "ko": {
+      "name": "헌테일",
+      "genus": "깊은바다"
+    },
+    "zh": {
+      "name": "獵斑魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Serpang",
+      "genus": "Abysse"
+    },
+    "de": {
+      "name": "Aalabyss",
+      "genus": "Tiefsee"
+    },
+    "es": {
+      "name": "Huntail",
+      "genus": "Abisal"
+    },
+    "it": {
+      "name": "Huntail",
+      "genus": "Abissi"
+    }
+  }
+}

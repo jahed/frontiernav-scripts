@@ -1,0 +1,41 @@
+{
+  "id": "skiddo",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 672,
+    "height": 9,
+    "weight": 310,
+    "base_experience": 70,
+    "name": "Skiddo",
+    "genus": "Mount"
+  },
+  "locale": {
+    "ja": {
+      "name": "メェークル",
+      "genus": "ライド"
+    },
+    "ko": {
+      "name": "메이클",
+      "genus": "라이드"
+    },
+    "fr": {
+      "name": "Cabriolaine",
+      "genus": "Monture"
+    },
+    "de": {
+      "name": "Mähikel",
+      "genus": "Ritt"
+    },
+    "es": {
+      "name": "Skiddo",
+      "genus": "Montura"
+    },
+    "it": {
+      "name": "Skiddo",
+      "genus": "Cavalcatura"
+    }
+  }
+}

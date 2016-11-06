@@ -1,0 +1,58 @@
+{
+  "id": "prone-owl",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Prone Owl",
+    "subcategory": "Prone",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 67,
+      "maximum": 110
+    },
+    "health_range": {
+      "minimum": 19775,
+      "maximum": 33686
+    },
+    "melee_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 152,
+      "maximum": 183
+    },
+    "ranged_power_range": {
+      "minimum": 216,
+      "maximum": 319
+    },
+    "ranged_accuracy_range": {
+      "minimum": 133,
+      "maximum": 161
+    },
+    "potential_range": {
+      "minimum": 228,
+      "maximum": 336
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 211NE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

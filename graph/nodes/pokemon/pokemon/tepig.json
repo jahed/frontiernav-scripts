@@ -1,0 +1,45 @@
+{
+  "id": "tepig",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 498,
+    "height": 5,
+    "weight": 99,
+    "base_experience": 62,
+    "name": "Tepig",
+    "genus": "Fire Pig"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポカブ",
+      "genus": "ひぶた"
+    },
+    "ko": {
+      "name": "뚜꾸리",
+      "genus": "불돼지"
+    },
+    "zh": {
+      "name": "暖暖豬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Gruikui",
+      "genus": "Cochon Feu"
+    },
+    "de": {
+      "name": "Floink",
+      "genus": "Feuerferkel"
+    },
+    "es": {
+      "name": "Tepig",
+      "genus": "Cerdo Fuego"
+    },
+    "it": {
+      "name": "Tepig",
+      "genus": "Suinfuoco"
+    }
+  }
+}

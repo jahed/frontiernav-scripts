@@ -1,0 +1,49 @@
+{
+  "id": "howitzer-barrager-zig",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Howitzer Barrager Zig",
+    "subcategory": "Zig",
+    "category": "Mechanoid",
+    "melee_power": 0,
+    "melee_accuracy": 0,
+    "potential": 0,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 215,
+      "maximum": 305
+    },
+    "health_range": {
+      "minimum": 51661,
+      "maximum": 72319
+    },
+    "ranged_power_range": {
+      "minimum": 682,
+      "maximum": 932
+    },
+    "ranged_accuracy_range": {
+      "minimum": 242,
+      "maximum": 280
+    },
+    "evasion_range": {
+      "minimum": 44,
+      "maximum": 57
+    },
+    "notes": "Found at O'rrh Simgate",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "brother-potamus",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Brother Potamus",
+    "subcategory": "Potamus",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 112,
+      "maximum": 184
+    },
+    "health_range": {
+      "minimum": 24235,
+      "maximum": 41282
+    },
+    "melee_power_range": {
+      "minimum": 256,
+      "maximum": 378
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 256,
+      "maximum": 378
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 316SE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

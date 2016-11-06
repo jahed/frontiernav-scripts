@@ -1,0 +1,58 @@
+{
+  "id": "rock-potamus",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Rock Potamus",
+    "subcategory": "Potamus",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 60,
+      "maximum": 104
+    },
+    "health_range": {
+      "minimum": 10756,
+      "maximum": 22890
+    },
+    "melee_power_range": {
+      "minimum": 131,
+      "maximum": 231
+    },
+    "melee_accuracy_range": {
+      "minimum": 125,
+      "maximum": 143
+    },
+    "ranged_power_range": {
+      "minimum": 131,
+      "maximum": 231
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 31,
+      "maximum": 74
+    },
+    "notes": "Found at 102N,106SE,Biahnoriv,110SW,JanpathW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

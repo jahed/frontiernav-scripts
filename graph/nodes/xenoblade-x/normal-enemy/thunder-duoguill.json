@@ -1,0 +1,58 @@
+{
+  "id": "thunder-duoguill",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Thunder Duoguill",
+    "subcategory": "Duoguill",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 302,
+      "maximum": 497
+    },
+    "health_range": {
+      "minimum": 122144,
+      "maximum": 208063
+    },
+    "melee_power_range": {
+      "minimum": 444,
+      "maximum": 655
+    },
+    "melee_accuracy_range": {
+      "minimum": 174,
+      "maximum": 210
+    },
+    "ranged_power_range": {
+      "minimum": 501,
+      "maximum": 739
+    },
+    "ranged_accuracy_range": {
+      "minimum": 168,
+      "maximum": 204
+    },
+    "potential_range": {
+      "minimum": 456,
+      "maximum": 672
+    },
+    "evasion_range": {
+      "minimum": 57,
+      "maximum": 89
+    },
+    "notes": "Found at 311(lo),313W",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

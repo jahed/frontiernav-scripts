@@ -1,0 +1,58 @@
+{
+  "id": "nether-duoguill",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Nether Duoguill",
+    "subcategory": "Duoguill",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 141,
+      "maximum": 232
+    },
+    "health_range": {
+      "minimum": 25405,
+      "maximum": 43277
+    },
+    "melee_power_range": {
+      "minimum": 333,
+      "maximum": 491
+    },
+    "melee_accuracy_range": {
+      "minimum": 174,
+      "maximum": 210
+    },
+    "ranged_power_range": {
+      "minimum": 375,
+      "maximum": 554
+    },
+    "ranged_accuracy_range": {
+      "minimum": 168,
+      "maximum": 204
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 57,
+      "maximum": 89
+    },
+    "notes": "Found at 106,108W,midroof(d),Arlentcave",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

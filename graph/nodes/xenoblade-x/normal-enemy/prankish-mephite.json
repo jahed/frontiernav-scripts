@@ -1,0 +1,59 @@
+{
+  "id": "prankish-mephite",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Prankish Mephite",
+    "subcategory": "Mephite",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 270,
+      "maximum": 372
+    },
+    "health_range": {
+      "minimum": 61928,
+      "maximum": 74934
+    },
+    "melee_power_range": {
+      "minimum": 489,
+      "maximum": 633
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 570,
+      "maximum": 739
+    },
+    "ranged_accuracy_range": {
+      "minimum": 203,
+      "maximum": 235
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 132,
+      "maximum": 168
+    },
+    "notes": "Found at S.MagicMt",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

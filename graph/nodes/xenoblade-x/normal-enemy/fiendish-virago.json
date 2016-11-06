@@ -1,0 +1,58 @@
+{
+  "id": "fiendish-virago",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Fiendish Virago",
+    "subcategory": "Virago",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 937,
+      "maximum": 1294
+    },
+    "health_range": {
+      "minimum": 387727,
+      "maximum": 469152
+    },
+    "melee_power_range": {
+      "minimum": 1284,
+      "maximum": 1664
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 963,
+      "maximum": 1248
+    },
+    "ranged_accuracy_range": {
+      "minimum": 203,
+      "maximum": 235
+    },
+    "potential_range": {
+      "minimum": 988,
+      "maximum": 1280
+    },
+    "evasion_range": {
+      "minimum": 118,
+      "maximum": 150
+    },
+    "notes": "Found at [5:00~19:00]: 210N,212",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

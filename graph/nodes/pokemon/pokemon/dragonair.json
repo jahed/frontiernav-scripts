@@ -1,0 +1,45 @@
+{
+  "id": "dragonair",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 148,
+    "height": 40,
+    "weight": 165,
+    "base_experience": 147,
+    "name": "Dragonair",
+    "genus": "Dragon"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハクリュー",
+      "genus": "ドラゴン"
+    },
+    "ko": {
+      "name": "신뇽",
+      "genus": "드래곤"
+    },
+    "zh": {
+      "name": "哈克龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Draco",
+      "genus": "Dragon"
+    },
+    "de": {
+      "name": "Dragonir",
+      "genus": "Drache"
+    },
+    "es": {
+      "name": "Dragonair",
+      "genus": "Dragón"
+    },
+    "it": {
+      "name": "Dragonair",
+      "genus": "Drago"
+    }
+  }
+}

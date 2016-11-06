@@ -1,0 +1,45 @@
+{
+  "id": "suicune",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 245,
+    "height": 20,
+    "weight": 1870,
+    "base_experience": 261,
+    "name": "Suicune",
+    "genus": "Aurora"
+  },
+  "locale": {
+    "ja": {
+      "name": "スイクン",
+      "genus": "オーロラ"
+    },
+    "ko": {
+      "name": "스이쿤",
+      "genus": "오로라"
+    },
+    "zh": {
+      "name": "水君",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Suicune",
+      "genus": "Aurore"
+    },
+    "de": {
+      "name": "Suicune",
+      "genus": "Polarlicht"
+    },
+    "es": {
+      "name": "Suicune",
+      "genus": "Aurora"
+    },
+    "it": {
+      "name": "Suicune",
+      "genus": "Aurora"
+    }
+  }
+}

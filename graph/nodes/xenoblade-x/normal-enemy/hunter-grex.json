@@ -1,0 +1,58 @@
+{
+  "id": "hunter-grex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Hunter Grex",
+    "subcategory": "Grex",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 118,
+      "maximum": 193
+    },
+    "health_range": {
+      "minimum": 23265,
+      "maximum": 39631
+    },
+    "melee_power_range": {
+      "minimum": 269,
+      "maximum": 397
+    },
+    "melee_accuracy_range": {
+      "minimum": 148,
+      "maximum": 179
+    },
+    "ranged_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "ranged_accuracy_range": {
+      "minimum": 129,
+      "maximum": 157
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 57,
+      "maximum": 89
+    },
+    "notes": "Found at 312N,315NE,321,Aaroy(mid)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "toy-monoceros",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Toy Monoceros",
+    "subcategory": "Monoceros",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 19,
+      "maximum": 53
+    },
+    "health_range": {
+      "minimum": 1646,
+      "maximum": 9388
+    },
+    "melee_power_range": {
+      "minimum": 32,
+      "maximum": 112
+    },
+    "melee_accuracy_range": {
+      "minimum": 107,
+      "maximum": 126
+    },
+    "ranged_power_range": {
+      "minimum": 32,
+      "maximum": 115
+    },
+    "ranged_accuracy_range": {
+      "minimum": 102,
+      "maximum": 120
+    },
+    "potential_range": {
+      "minimum": 33,
+      "maximum": 118
+    },
+    "evasion_range": {
+      "minimum": 15,
+      "maximum": 34
+    },
+    "notes": "Found at 505NW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

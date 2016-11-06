@@ -1,0 +1,59 @@
+{
+  "id": "marnuck-recon",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Marnuck Recon",
+    "subcategory": "Marnuck",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 36,
+      "maximum": 62
+    },
+    "health_range": {
+      "minimum": 7675,
+      "maximum": 16334
+    },
+    "melee_power_range": {
+      "minimum": 134,
+      "maximum": 235
+    },
+    "melee_accuracy_range": {
+      "minimum": 134,
+      "maximum": 153
+    },
+    "ranged_power_range": {
+      "minimum": 117,
+      "maximum": 205
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 117,
+      "maximum": 205
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 53
+    },
+    "notes": "Found at 225NW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

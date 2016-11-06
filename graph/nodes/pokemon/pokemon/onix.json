@@ -1,0 +1,45 @@
+{
+  "id": "onix",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 95,
+    "height": 88,
+    "weight": 2100,
+    "base_experience": 77,
+    "name": "Onix",
+    "genus": "Rock Snake"
+  },
+  "locale": {
+    "ja": {
+      "name": "イワーク",
+      "genus": "いわへび"
+    },
+    "ko": {
+      "name": "롱스톤",
+      "genus": "돌뱀"
+    },
+    "zh": {
+      "name": "大岩蛇",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Onix",
+      "genus": "Serpenroc"
+    },
+    "de": {
+      "name": "Onix",
+      "genus": "Felsnatter"
+    },
+    "es": {
+      "name": "Onix",
+      "genus": "Serp. Roca"
+    },
+    "it": {
+      "name": "Onix",
+      "genus": "Serpesasso"
+    }
+  }
+}

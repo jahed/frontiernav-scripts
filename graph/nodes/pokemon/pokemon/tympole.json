@@ -1,0 +1,41 @@
+{
+  "id": "tympole",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 535,
+    "height": 5,
+    "weight": 45,
+    "base_experience": 59,
+    "name": "Tympole",
+    "genus": "Tadpole"
+  },
+  "locale": {
+    "ja": {
+      "name": "オタマロ",
+      "genus": "おたま"
+    },
+    "ko": {
+      "name": "동챙이",
+      "genus": "올챙이"
+    },
+    "fr": {
+      "name": "Tritonde",
+      "genus": "Têtard"
+    },
+    "de": {
+      "name": "Schallquap",
+      "genus": "Kaulquappe"
+    },
+    "es": {
+      "name": "Tympole",
+      "genus": "Renacuajo"
+    },
+    "it": {
+      "name": "Tympole",
+      "genus": "Girino"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "xatu",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 178,
+    "height": 15,
+    "weight": 150,
+    "base_experience": 165,
+    "name": "Xatu",
+    "genus": "Mystic"
+  },
+  "locale": {
+    "ja": {
+      "name": "ネイティオ",
+      "genus": "せいれい"
+    },
+    "ko": {
+      "name": "네이티오",
+      "genus": "정령"
+    },
+    "zh": {
+      "name": "天然鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Xatu",
+      "genus": "Mystique"
+    },
+    "de": {
+      "name": "Xatu",
+      "genus": "Mystik"
+    },
+    "es": {
+      "name": "Xatu",
+      "genus": "Místico"
+    },
+    "it": {
+      "name": "Xatu",
+      "genus": "Magico"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "spearow",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 21,
+    "height": 3,
+    "weight": 20,
+    "base_experience": 52,
+    "name": "Spearow",
+    "genus": "Tiny Bird"
+  },
+  "locale": {
+    "ja": {
+      "name": "オニスズメ",
+      "genus": "ことり"
+    },
+    "ko": {
+      "name": "깨비참",
+      "genus": "아기새"
+    },
+    "zh": {
+      "name": "烈雀",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Piafabec",
+      "genus": "Minoiseau"
+    },
+    "de": {
+      "name": "Habitak",
+      "genus": "Kleinvogel"
+    },
+    "es": {
+      "name": "Spearow",
+      "genus": "Pajarito"
+    },
+    "it": {
+      "name": "Spearow",
+      "genus": "Uccellino"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "milsaadi-executioner",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Milsaadi Executioner",
+    "subcategory": "Milsaadi",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 179,
+      "maximum": 247
+    },
+    "health_range": {
+      "minimum": 45773,
+      "maximum": 55386
+    },
+    "melee_power_range": {
+      "minimum": 568,
+      "maximum": 736
+    },
+    "melee_accuracy_range": {
+      "minimum": 213,
+      "maximum": 246
+    },
+    "ranged_power_range": {
+      "minimum": 456,
+      "maximum": 592
+    },
+    "ranged_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "potential_range": {
+      "minimum": 494,
+      "maximum": 640
+    },
+    "evasion_range": {
+      "minimum": 132,
+      "maximum": 168
+    },
+    "notes": "Found at HiralFort,Badr Stronghold,Den of the Dead,Behemoth's Shadows",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

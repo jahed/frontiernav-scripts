@@ -1,0 +1,45 @@
+{
+  "id": "snivy",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 495,
+    "height": 6,
+    "weight": 81,
+    "base_experience": 62,
+    "name": "Snivy",
+    "genus": "Grass Snake"
+  },
+  "locale": {
+    "ja": {
+      "name": "ツタージャ",
+      "genus": "くさへび"
+    },
+    "ko": {
+      "name": "주리비얀",
+      "genus": "풀뱀"
+    },
+    "zh": {
+      "name": "藤藤蛇",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Vipélierre",
+      "genus": "Serpenterbe"
+    },
+    "de": {
+      "name": "Serpifeu",
+      "genus": "Grasschlange"
+    },
+    "es": {
+      "name": "Snivy",
+      "genus": "Serp. Hierba"
+    },
+    "it": {
+      "name": "Snivy",
+      "genus": "Serperba"
+    }
+  }
+}

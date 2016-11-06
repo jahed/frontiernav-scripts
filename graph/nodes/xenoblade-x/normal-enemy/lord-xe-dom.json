@@ -1,0 +1,58 @@
+{
+  "id": "lord-xe-dom",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Lord Xe-dom",
+    "subcategory": "Xe-dom",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 2182,
+      "maximum": 3672
+    },
+    "health_range": {
+      "minimum": 730272,
+      "maximum": 992737
+    },
+    "melee_power_range": {
+      "minimum": 2368,
+      "maximum": 3592
+    },
+    "melee_accuracy_range": {
+      "minimum": 219,
+      "maximum": 261
+    },
+    "ranged_power_range": {
+      "minimum": 2368,
+      "maximum": 3592
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 285
+    },
+    "potential_range": {
+      "minimum": 2368,
+      "maximum": 3592
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 160
+    },
+    "notes": "Found at 108(floatingisle)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

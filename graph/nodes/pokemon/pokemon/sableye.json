@@ -1,0 +1,45 @@
+{
+  "id": "sableye",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 302,
+    "height": 5,
+    "weight": 110,
+    "base_experience": 133,
+    "name": "Sableye",
+    "genus": "Darkness"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤミラミ",
+      "genus": "くらやみ"
+    },
+    "ko": {
+      "name": "깜까미",
+      "genus": "어둠"
+    },
+    "zh": {
+      "name": "勾魂眼",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ténéfix",
+      "genus": "Obscurité"
+    },
+    "de": {
+      "name": "Zobiris",
+      "genus": "Finsternis"
+    },
+    "es": {
+      "name": "Sableye",
+      "genus": "Oscuridad"
+    },
+    "it": {
+      "name": "Sableye",
+      "genus": "Oscurità"
+    }
+  }
+}

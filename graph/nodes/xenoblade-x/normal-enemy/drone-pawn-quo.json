@@ -1,0 +1,58 @@
+{
+  "id": "drone-pawn-quo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Drone Pawn Quo",
+    "subcategory": "Quo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 51,
+      "maximum": 88
+    },
+    "health_range": {
+      "minimum": 9465,
+      "maximum": 20143
+    },
+    "melee_power_range": {
+      "minimum": 115,
+      "maximum": 202
+    },
+    "melee_accuracy_range": {
+      "minimum": 125,
+      "maximum": 143
+    },
+    "ranged_power_range": {
+      "minimum": 118,
+      "maximum": 208
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 154,
+      "maximum": 270
+    },
+    "evasion_range": {
+      "minimum": 36,
+      "maximum": 55
+    },
+    "notes": "Found at 502N(hi),505NW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

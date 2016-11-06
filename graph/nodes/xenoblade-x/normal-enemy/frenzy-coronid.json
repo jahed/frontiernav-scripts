@@ -1,0 +1,59 @@
+{
+  "id": "frenzy-coronid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Frenzy Coronid",
+    "subcategory": "Coronid",
+    "category": "Theroid",
+    "drop_6": "Rugged Skin",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 2270,
+      "maximum": 3822
+    },
+    "health_range": {
+      "minimum": 1162262,
+      "maximum": 1579987
+    },
+    "melee_power_range": {
+      "minimum": 2763,
+      "maximum": 4191
+    },
+    "melee_accuracy_range": {
+      "minimum": 231,
+      "maximum": 275
+    },
+    "ranged_power_range": {
+      "minimum": 2961,
+      "maximum": 4491
+    },
+    "ranged_accuracy_range": {
+      "minimum": 233,
+      "maximum": 277
+    },
+    "potential_range": {
+      "minimum": 1974,
+      "maximum": 2994
+    },
+    "evasion_range": {
+      "minimum": 38,
+      "maximum": 50
+    },
+    "notes": "Found at [Crimson Aurora]: Ciel",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

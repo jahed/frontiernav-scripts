@@ -1,0 +1,6 @@
+{
+  "id": "remote-puge__DROPS__puge-self-destruct-mechanism",
+  "type": "DROPS",
+  "start": "remote-puge",
+  "end": "puge-self-destruct-mechanism"
+}

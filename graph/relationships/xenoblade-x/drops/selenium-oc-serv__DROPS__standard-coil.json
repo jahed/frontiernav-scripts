@@ -1,0 +1,6 @@
+{
+  "id": "selenium-oc-serv__DROPS__standard-coil",
+  "type": "DROPS",
+  "start": "selenium-oc-serv",
+  "end": "standard-coil"
+}

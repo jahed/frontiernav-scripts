@@ -1,0 +1,59 @@
+{
+  "id": "poisonous-mortifole",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Poisonous Mortifole",
+    "subcategory": "Mortifole",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 112,
+      "maximum": 184
+    },
+    "health_range": {
+      "minimum": 17933,
+      "maximum": 30549
+    },
+    "melee_power_range": {
+      "minimum": 238,
+      "maximum": 351
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 75
+    },
+    "ranged_power_range": {
+      "minimum": 275,
+      "maximum": 406
+    },
+    "ranged_accuracy_range": {
+      "minimum": 154,
+      "maximum": 187
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 316W",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

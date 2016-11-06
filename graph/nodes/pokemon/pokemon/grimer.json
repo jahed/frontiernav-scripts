@@ -1,0 +1,45 @@
+{
+  "id": "grimer",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 88,
+    "height": 9,
+    "weight": 300,
+    "base_experience": 65,
+    "name": "Grimer",
+    "genus": "Sludge"
+  },
+  "locale": {
+    "ja": {
+      "name": "ベトベター",
+      "genus": "ヘドロ"
+    },
+    "ko": {
+      "name": "질퍽이",
+      "genus": "진흙"
+    },
+    "zh": {
+      "name": "臭泥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tadmorv",
+      "genus": "Dégueu"
+    },
+    "de": {
+      "name": "Sleima",
+      "genus": "Schlamm"
+    },
+    "es": {
+      "name": "Grimer",
+      "genus": "Lodo"
+    },
+    "it": {
+      "name": "Grimer",
+      "genus": "Melma"
+    }
+  }
+}

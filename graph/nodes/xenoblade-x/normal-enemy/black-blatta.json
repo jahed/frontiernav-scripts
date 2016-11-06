@@ -1,0 +1,59 @@
+{
+  "id": "black-blatta",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Black Blatta",
+    "subcategory": "Blatta",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 69,
+      "maximum": 98
+    },
+    "health_range": {
+      "minimum": 25589,
+      "maximum": 35822
+    },
+    "melee_power_range": {
+      "minimum": 315,
+      "maximum": 430
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 315,
+      "maximum": 430
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 350,
+      "maximum": 478
+    },
+    "evasion_range": {
+      "minimum": 88,
+      "maximum": 115
+    },
+    "notes": "Found at bigroofcave,119W(n)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 20,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

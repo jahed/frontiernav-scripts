@@ -1,0 +1,45 @@
+{
+  "id": "arbok",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 24,
+    "height": 35,
+    "weight": 650,
+    "base_experience": 153,
+    "name": "Arbok",
+    "genus": "Cobra"
+  },
+  "locale": {
+    "ja": {
+      "name": "アーボック",
+      "genus": "コブラ"
+    },
+    "ko": {
+      "name": "아보크",
+      "genus": "코브라"
+    },
+    "zh": {
+      "name": "阿柏怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Arbok",
+      "genus": "Cobra"
+    },
+    "de": {
+      "name": "Arbok",
+      "genus": "Kobra"
+    },
+    "es": {
+      "name": "Arbok",
+      "genus": "Cobra"
+    },
+    "it": {
+      "name": "Arbok",
+      "genus": "Cobra"
+    }
+  }
+}

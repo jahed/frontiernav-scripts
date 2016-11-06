@@ -1,0 +1,6 @@
+{
+  "id": "bismuth-oc-serv__DROPS__elemental-cluster",
+  "type": "DROPS",
+  "start": "bismuth-oc-serv",
+  "end": "elemental-cluster"
+}

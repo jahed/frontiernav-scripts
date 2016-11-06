@@ -1,0 +1,6 @@
+{
+  "id": "vulcan-launcher-zig__DROPS__standard-sensor-part",
+  "type": "DROPS",
+  "start": "vulcan-launcher-zig",
+  "end": "standard-sensor-part"
+}

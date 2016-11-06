@@ -1,0 +1,58 @@
+{
+  "id": "selenium-oc-serv",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Selenium Oc-serv",
+    "subcategory": "Oc-serv",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 192,
+      "maximum": 272
+    },
+    "health_range": {
+      "minimum": 41329,
+      "maximum": 57855
+    },
+    "melee_power_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "melee_accuracy_range": {
+      "minimum": 160,
+      "maximum": 184
+    },
+    "ranged_power_range": {
+      "minimum": 404,
+      "maximum": 552
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 96,
+      "maximum": 126
+    },
+    "notes": "Found at 504E(skywalk),505(hi)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

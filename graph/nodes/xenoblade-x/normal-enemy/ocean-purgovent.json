@@ -1,0 +1,58 @@
+{
+  "id": "ocean-purgovent",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Ocean Purgovent",
+    "subcategory": "Purgovent",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 767,
+      "maximum": 1058
+    },
+    "health_range": {
+      "minimum": 355416,
+      "maximum": 430056
+    },
+    "melee_power_range": {
+      "minimum": 1111,
+      "maximum": 1440
+    },
+    "melee_accuracy_range": {
+      "minimum": 202,
+      "maximum": 234
+    },
+    "ranged_power_range": {
+      "minimum": 963,
+      "maximum": 1248
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 223
+    },
+    "potential_range": {
+      "minimum": 988,
+      "maximum": 1280
+    },
+    "evasion_range": {
+      "minimum": 132,
+      "maximum": 168
+    },
+    "notes": "Found at 314N(lo),316S",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

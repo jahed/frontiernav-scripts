@@ -1,0 +1,45 @@
+{
+  "id": "piplup",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 393,
+    "height": 4,
+    "weight": 52,
+    "base_experience": 63,
+    "name": "Piplup",
+    "genus": "Penguin"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポッチャマ",
+      "genus": "ペンギン"
+    },
+    "ko": {
+      "name": "팽도리",
+      "genus": "펭귄"
+    },
+    "zh": {
+      "name": "波加曼",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tiplouf",
+      "genus": "Pingouin"
+    },
+    "de": {
+      "name": "Plinfa",
+      "genus": "Pinguin"
+    },
+    "es": {
+      "name": "Piplup",
+      "genus": "Pingüino"
+    },
+    "it": {
+      "name": "Piplup",
+      "genus": "Pinguino"
+    }
+  }
+}

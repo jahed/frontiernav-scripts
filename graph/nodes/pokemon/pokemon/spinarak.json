@@ -1,0 +1,45 @@
+{
+  "id": "spinarak",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 167,
+    "height": 5,
+    "weight": 85,
+    "base_experience": 50,
+    "name": "Spinarak",
+    "genus": "String Spit"
+  },
+  "locale": {
+    "ja": {
+      "name": "イトマル",
+      "genus": "いとはき"
+    },
+    "ko": {
+      "name": "페이검",
+      "genus": "실뿜기"
+    },
+    "zh": {
+      "name": "線球",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mimigal",
+      "genus": "Crache Fil"
+    },
+    "de": {
+      "name": "Webarak",
+      "genus": "Fadenwurf"
+    },
+    "es": {
+      "name": "Spinarak",
+      "genus": "Escupesoga"
+    },
+    "it": {
+      "name": "Spinarak",
+      "genus": "Tela"
+    }
+  }
+}

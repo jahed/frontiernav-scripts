@@ -1,0 +1,45 @@
+{
+  "id": "oddish",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 43,
+    "height": 5,
+    "weight": 54,
+    "base_experience": 64,
+    "name": "Oddish",
+    "genus": "Weed"
+  },
+  "locale": {
+    "ja": {
+      "name": "ナゾノクサ",
+      "genus": "ざっそう"
+    },
+    "ko": {
+      "name": "뚜벅쵸",
+      "genus": "잡초"
+    },
+    "zh": {
+      "name": "走路草",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mystherbe",
+      "genus": "Racine"
+    },
+    "de": {
+      "name": "Myrapla",
+      "genus": "Unkraut"
+    },
+    "es": {
+      "name": "Oddish",
+      "genus": "Hierbajo"
+    },
+    "it": {
+      "name": "Oddish",
+      "genus": "Malerba"
+    }
+  }
+}

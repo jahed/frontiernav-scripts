@@ -1,0 +1,6 @@
+{
+  "id": "red-master-galdr__DROPS__multi-wire",
+  "type": "DROPS",
+  "start": "red-master-galdr",
+  "end": "multi-wire"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ludicolo",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 272,
+    "height": 15,
+    "weight": 550,
+    "base_experience": 216,
+    "name": "Ludicolo",
+    "genus": "Carefree"
+  },
+  "locale": {
+    "ja": {
+      "name": "ルンパッパ",
+      "genus": "のうてんき"
+    },
+    "ko": {
+      "name": "로파파",
+      "genus": "행복하기"
+    },
+    "zh": {
+      "name": "樂天河童",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ludicolo",
+      "genus": "Insouciant"
+    },
+    "de": {
+      "name": "Kappalores",
+      "genus": "Sorglos"
+    },
+    "es": {
+      "name": "Ludicolo",
+      "genus": "Optimista"
+    },
+    "it": {
+      "name": "Ludicolo",
+      "genus": "Spensierato"
+    }
+  }
+}

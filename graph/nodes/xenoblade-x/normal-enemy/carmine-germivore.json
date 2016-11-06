@@ -1,0 +1,59 @@
+{
+  "id": "carmine-germivore",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Carmine Germivore",
+    "subcategory": "Germivore",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 182,
+      "maximum": 234
+    },
+    "health_range": {
+      "minimum": 49346,
+      "maximum": 57746
+    },
+    "melee_power_range": {
+      "minimum": 625,
+      "maximum": 779
+    },
+    "melee_accuracy_range": {
+      "minimum": 231,
+      "maximum": 266
+    },
+    "ranged_power_range": {
+      "minimum": 625,
+      "maximum": 779
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 261
+    },
+    "potential_range": {
+      "minimum": 658,
+      "maximum": 820
+    },
+    "evasion_range": {
+      "minimum": 169,
+      "maximum": 209
+    },
+    "notes": "Found at E.Ibra",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

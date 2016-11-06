@@ -1,0 +1,58 @@
+{
+  "id": "topaz-arenatect",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Topaz Arenatect",
+    "subcategory": "Arenatect",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 566,
+      "maximum": 728
+    },
+    "health_range": {
+      "minimum": 76775,
+      "maximum": 89845
+    },
+    "melee_power_range": {
+      "minimum": 1135,
+      "maximum": 1414
+    },
+    "melee_accuracy_range": {
+      "minimum": 225,
+      "maximum": 259
+    },
+    "ranged_power_range": {
+      "minimum": 1085,
+      "maximum": 1353
+    },
+    "ranged_accuracy_range": {
+      "minimum": 221,
+      "maximum": 254
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 190
+    },
+    "notes": "Found at Banshee Cave",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dwebble",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 557,
+    "height": 3,
+    "weight": 145,
+    "base_experience": 65,
+    "name": "Dwebble",
+    "genus": "Rock Inn"
+  },
+  "locale": {
+    "ja": {
+      "name": "イシズマイ",
+      "genus": "いしやど"
+    },
+    "ko": {
+      "name": "돌살이",
+      "genus": "돌집"
+    },
+    "fr": {
+      "name": "Crabicoque",
+      "genus": "Lithicole"
+    },
+    "de": {
+      "name": "Lithomith",
+      "genus": "Steinhaus"
+    },
+    "es": {
+      "name": "Dwebble",
+      "genus": "Casapiedra"
+    },
+    "it": {
+      "name": "Dwebble",
+      "genus": "Pietracasa"
+    }
+  }
+}

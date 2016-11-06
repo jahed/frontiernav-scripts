@@ -1,0 +1,45 @@
+{
+  "id": "staraptor",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 398,
+    "height": 12,
+    "weight": 249,
+    "base_experience": 218,
+    "name": "Staraptor",
+    "genus": "Predator"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムクホーク",
+      "genus": "もうきん"
+    },
+    "ko": {
+      "name": "찌르호크",
+      "genus": "맹금"
+    },
+    "zh": {
+      "name": "姆克鷹",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Étouraptor",
+      "genus": "Rapace"
+    },
+    "de": {
+      "name": "Staraptor",
+      "genus": "Raubtier"
+    },
+    "es": {
+      "name": "Staraptor",
+      "genus": "Depredador"
+    },
+    "it": {
+      "name": "Staraptor",
+      "genus": "Rapace"
+    }
+  }
+}

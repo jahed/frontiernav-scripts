@@ -1,0 +1,45 @@
+{
+  "id": "chatot",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 441,
+    "height": 5,
+    "weight": 19,
+    "base_experience": 144,
+    "name": "Chatot",
+    "genus": "Music Note"
+  },
+  "locale": {
+    "ja": {
+      "name": "ペラップ",
+      "genus": "おんぷ"
+    },
+    "ko": {
+      "name": "페라페",
+      "genus": "음표"
+    },
+    "zh": {
+      "name": "聒噪鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Pijako",
+      "genus": "Note Musique"
+    },
+    "de": {
+      "name": "Plaudagei",
+      "genus": "Musiknote"
+    },
+    "es": {
+      "name": "Chatot",
+      "genus": "Corchea"
+    },
+    "it": {
+      "name": "Chatot",
+      "genus": "Musicale"
+    }
+  }
+}

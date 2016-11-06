@@ -1,0 +1,45 @@
+{
+  "id": "haunter",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 93,
+    "height": 16,
+    "weight": 1,
+    "base_experience": 142,
+    "name": "Haunter",
+    "genus": "Gas"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴースト",
+      "genus": "ガスじょう"
+    },
+    "ko": {
+      "name": "고우스트",
+      "genus": "가스"
+    },
+    "zh": {
+      "name": "鬼斯通",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Spectrum",
+      "genus": "Gaz"
+    },
+    "de": {
+      "name": "Alpollo",
+      "genus": "Gas"
+    },
+    "es": {
+      "name": "Haunter",
+      "genus": "Gas"
+    },
+    "it": {
+      "name": "Haunter",
+      "genus": "Gas"
+    }
+  }
+}

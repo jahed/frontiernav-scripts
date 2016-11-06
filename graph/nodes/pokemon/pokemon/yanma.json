@@ -1,0 +1,45 @@
+{
+  "id": "yanma",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 193,
+    "height": 12,
+    "weight": 380,
+    "base_experience": 78,
+    "name": "Yanma",
+    "genus": "Clear Wing"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤンヤンマ",
+      "genus": "うすばね"
+    },
+    "ko": {
+      "name": "왕자리",
+      "genus": "얇은날개"
+    },
+    "zh": {
+      "name": "陽陽瑪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Yanma",
+      "genus": "Translaile"
+    },
+    "de": {
+      "name": "Yanma",
+      "genus": "Libelle"
+    },
+    "es": {
+      "name": "Yanma",
+      "genus": "Ala Clara"
+    },
+    "it": {
+      "name": "Yanma",
+      "genus": "Alachiara"
+    }
+  }
+}

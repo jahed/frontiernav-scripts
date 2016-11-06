@@ -1,0 +1,45 @@
+{
+  "id": "charizard",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 6,
+    "height": 17,
+    "weight": 905,
+    "base_experience": 240,
+    "name": "Charizard",
+    "genus": "Flame"
+  },
+  "locale": {
+    "ja": {
+      "name": "リザードン",
+      "genus": "かえん"
+    },
+    "ko": {
+      "name": "리자몽",
+      "genus": "화염"
+    },
+    "zh": {
+      "name": "噴火龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Dracaufeu",
+      "genus": "Flamme"
+    },
+    "de": {
+      "name": "Glurak",
+      "genus": "Flamme"
+    },
+    "es": {
+      "name": "Charizard",
+      "genus": "Llama"
+    },
+    "it": {
+      "name": "Charizard",
+      "genus": "Fiamma"
+    }
+  }
+}

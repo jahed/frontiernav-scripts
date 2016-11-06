@@ -1,0 +1,58 @@
+{
+  "id": "cowardly-caecus",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Cowardly Caecus",
+    "subcategory": "Caecus",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 10,
+      "maximum": 29
+    },
+    "health_range": {
+      "minimum": 1399,
+      "maximum": 7979
+    },
+    "melee_power_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "melee_accuracy_range": {
+      "minimum": 102,
+      "maximum": 119
+    },
+    "ranged_power_range": {
+      "minimum": 35,
+      "maximum": 124
+    },
+    "ranged_accuracy_range": {
+      "minimum": 100,
+      "maximum": 118
+    },
+    "potential_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "evasion_range": {
+      "minimum": 14,
+      "maximum": 31
+    },
+    "notes": "Found at 503E",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

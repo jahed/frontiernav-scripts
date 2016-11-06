@@ -1,0 +1,45 @@
+{
+  "id": "turtwig",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 387,
+    "height": 4,
+    "weight": 102,
+    "base_experience": 64,
+    "name": "Turtwig",
+    "genus": "Tiny Leaf"
+  },
+  "locale": {
+    "ja": {
+      "name": "ナエトル",
+      "genus": "わかば"
+    },
+    "ko": {
+      "name": "모부기",
+      "genus": "어린잎"
+    },
+    "zh": {
+      "name": "草苗龜",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tortipouss",
+      "genus": "Minifeuille"
+    },
+    "de": {
+      "name": "Chelast",
+      "genus": "Winziglaub"
+    },
+    "es": {
+      "name": "Turtwig",
+      "genus": "Hojita"
+    },
+    "it": {
+      "name": "Turtwig",
+      "genus": "Fogliolina"
+    }
+  }
+}

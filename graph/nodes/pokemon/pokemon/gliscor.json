@@ -1,0 +1,45 @@
+{
+  "id": "gliscor",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 472,
+    "height": 20,
+    "weight": 425,
+    "base_experience": 179,
+    "name": "Gliscor",
+    "genus": "Fang Scorpion"
+  },
+  "locale": {
+    "ja": {
+      "name": "グライオン",
+      "genus": "キバさそり"
+    },
+    "ko": {
+      "name": "글라이온",
+      "genus": "송곳니전갈"
+    },
+    "zh": {
+      "name": "天蠍王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Scorvol",
+      "genus": "Scorpicroc"
+    },
+    "de": {
+      "name": "Skorgro",
+      "genus": "Zahnskorpi"
+    },
+    "es": {
+      "name": "Gliscor",
+      "genus": "Colmicorpio"
+    },
+    "it": {
+      "name": "Gliscor",
+      "genus": "Scorpidente"
+    }
+  }
+}

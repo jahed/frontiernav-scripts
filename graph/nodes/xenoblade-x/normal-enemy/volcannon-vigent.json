@@ -1,0 +1,58 @@
+{
+  "id": "volcannon-vigent",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Volcannon Vigent",
+    "subcategory": "Vigent",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 1333,
+      "maximum": 2244
+    },
+    "health_range": {
+      "minimum": 518037,
+      "maximum": 704223
+    },
+    "melee_power_range": {
+      "minimum": 1579,
+      "maximum": 2395
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 304
+    },
+    "ranged_power_range": {
+      "minimum": 1283,
+      "maximum": 1946
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 270
+    },
+    "potential_range": {
+      "minimum": 1316,
+      "maximum": 1996
+    },
+    "evasion_range": {
+      "minimum": 154,
+      "maximum": 200
+    },
+    "notes": "Found at 503SE,504NE,509SE,Kitsune Stronghold",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

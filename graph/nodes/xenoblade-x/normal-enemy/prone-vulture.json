@@ -1,0 +1,58 @@
+{
+  "id": "prone-vulture",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Prone Vulture",
+    "subcategory": "Prone",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 115,
+      "maximum": 163
+    },
+    "health_range": {
+      "minimum": 35129,
+      "maximum": 49177
+    },
+    "melee_power_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "melee_accuracy_range": {
+      "minimum": 186,
+      "maximum": 215
+    },
+    "ranged_power_range": {
+      "minimum": 332,
+      "maximum": 454
+    },
+    "ranged_accuracy_range": {
+      "minimum": 164,
+      "maximum": 190
+    },
+    "potential_range": {
+      "minimum": 350,
+      "maximum": 478
+    },
+    "evasion_range": {
+      "minimum": 79,
+      "maximum": 103
+    },
+    "notes": "Found at 309N",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

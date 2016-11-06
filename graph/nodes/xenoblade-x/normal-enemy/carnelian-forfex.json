@@ -1,0 +1,58 @@
+{
+  "id": "carnelian-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Carnelian Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 18,
+      "maximum": 50
+    },
+    "health_range": {
+      "minimum": 1131,
+      "maximum": 6452
+    },
+    "melee_power_range": {
+      "minimum": 37,
+      "maximum": 130
+    },
+    "melee_accuracy_range": {
+      "minimum": 110,
+      "maximum": 129
+    },
+    "ranged_power_range": {
+      "minimum": 30,
+      "maximum": 106
+    },
+    "ranged_accuracy_range": {
+      "minimum": 105,
+      "maximum": 123
+    },
+    "potential_range": {
+      "minimum": 33,
+      "maximum": 118
+    },
+    "evasion_range": {
+      "minimum": 13,
+      "maximum": 29
+    },
+    "notes": "Found at 403",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

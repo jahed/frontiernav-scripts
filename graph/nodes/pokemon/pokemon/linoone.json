@@ -1,0 +1,45 @@
+{
+  "id": "linoone",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 264,
+    "height": 5,
+    "weight": 325,
+    "base_experience": 147,
+    "name": "Linoone",
+    "genus": "Rushing"
+  },
+  "locale": {
+    "ja": {
+      "name": "マッスグマ",
+      "genus": "とっしん"
+    },
+    "ko": {
+      "name": "직구리",
+      "genus": "돌진"
+    },
+    "zh": {
+      "name": "直衝熊",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Linéon",
+      "genus": "Fonceur"
+    },
+    "de": {
+      "name": "Geradaks",
+      "genus": "Sprinter"
+    },
+    "es": {
+      "name": "Linoone",
+      "genus": "Lanzado"
+    },
+    "it": {
+      "name": "Linoone",
+      "genus": "Sfrecciante"
+    }
+  }
+}

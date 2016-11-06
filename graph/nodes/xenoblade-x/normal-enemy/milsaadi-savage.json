@@ -1,0 +1,59 @@
+{
+  "id": "milsaadi-savage",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Milsaadi Savage",
+    "subcategory": "Milsaadi",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 255,
+      "maximum": 328
+    },
+    "health_range": {
+      "minimum": 52202,
+      "maximum": 61088
+    },
+    "melee_power_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 294
+    },
+    "ranged_power_range": {
+      "minimum": 625,
+      "maximum": 779
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 288
+    },
+    "potential_range": {
+      "minimum": 658,
+      "maximum": 820
+    },
+    "evasion_range": {
+      "minimum": 173,
+      "maximum": 213
+    },
+    "notes": "Found at 507,Kitsune Stronghold,M'gando,Ganglion Antropolis",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

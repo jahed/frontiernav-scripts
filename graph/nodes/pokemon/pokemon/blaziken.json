@@ -1,0 +1,45 @@
+{
+  "id": "blaziken",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 257,
+    "height": 19,
+    "weight": 520,
+    "base_experience": 239,
+    "name": "Blaziken",
+    "genus": "Blaze"
+  },
+  "locale": {
+    "ja": {
+      "name": "バシャーモ",
+      "genus": "もうか"
+    },
+    "ko": {
+      "name": "번치코",
+      "genus": "맹화"
+    },
+    "zh": {
+      "name": "火焰雞",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Braségali",
+      "genus": "Ardent"
+    },
+    "de": {
+      "name": "Lohgock",
+      "genus": "Großbrand"
+    },
+    "es": {
+      "name": "Blaziken",
+      "genus": "Llameante"
+    },
+    "it": {
+      "name": "Blaziken",
+      "genus": "Vampe"
+    }
+  }
+}

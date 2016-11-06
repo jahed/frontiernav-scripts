@@ -1,0 +1,41 @@
+{
+  "id": "pawniard",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 624,
+    "height": 5,
+    "weight": 102,
+    "base_experience": 68,
+    "name": "Pawniard",
+    "genus": "Sharp Blade"
+  },
+  "locale": {
+    "ja": {
+      "name": "コマタナ",
+      "genus": "はもの"
+    },
+    "ko": {
+      "name": "자망칼",
+      "genus": "날붙이"
+    },
+    "fr": {
+      "name": "Scalpion",
+      "genus": "Coupant"
+    },
+    "de": {
+      "name": "Gladiantri",
+      "genus": "Stahlklinge"
+    },
+    "es": {
+      "name": "Pawniard",
+      "genus": "Tajo"
+    },
+    "it": {
+      "name": "Pawniard",
+      "genus": "Lamaffilata"
+    }
+  }
+}

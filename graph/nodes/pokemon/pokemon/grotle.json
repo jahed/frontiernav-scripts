@@ -1,0 +1,45 @@
+{
+  "id": "grotle",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 388,
+    "height": 11,
+    "weight": 970,
+    "base_experience": 142,
+    "name": "Grotle",
+    "genus": "Grove"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハヤシガメ",
+      "genus": "こだち"
+    },
+    "ko": {
+      "name": "수풀부기",
+      "genus": "나무숲"
+    },
+    "zh": {
+      "name": "樹林龜",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Boskara",
+      "genus": "Bosquet"
+    },
+    "de": {
+      "name": "Chelcarain",
+      "genus": "Hain"
+    },
+    "es": {
+      "name": "Grotle",
+      "genus": "Arboleda"
+    },
+    "it": {
+      "name": "Grotle",
+      "genus": "Boschetto"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cradily",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 346,
+    "height": 15,
+    "weight": 604,
+    "base_experience": 173,
+    "name": "Cradily",
+    "genus": "Barnacle"
+  },
+  "locale": {
+    "ja": {
+      "name": "ユレイドル",
+      "genus": "いわつぼ"
+    },
+    "ko": {
+      "name": "릴리요",
+      "genus": "바위단지"
+    },
+    "zh": {
+      "name": "搖籃百合",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Vacilys",
+      "genus": "Bernacle"
+    },
+    "de": {
+      "name": "Wielie",
+      "genus": "Rankfüßer"
+    },
+    "es": {
+      "name": "Cradily",
+      "genus": "Percebe"
+    },
+    "it": {
+      "name": "Cradily",
+      "genus": "Lepade"
+    }
+  }
+}

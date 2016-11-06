@@ -1,0 +1,59 @@
+{
+  "id": "eternal-millesaur",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Eternal Millesaur",
+    "subcategory": "Millesaur",
+    "category": "Theroid",
+    "drop_6": "Rugged Skin",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 1596,
+      "maximum": 2203
+    },
+    "health_range": {
+      "minimum": 942392,
+      "maximum": 1140300
+    },
+    "melee_power_range": {
+      "minimum": 2223,
+      "maximum": 2880
+    },
+    "melee_accuracy_range": {
+      "minimum": 202,
+      "maximum": 234
+    },
+    "ranged_power_range": {
+      "minimum": 2074,
+      "maximum": 2688
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 223
+    },
+    "potential_range": {
+      "minimum": 1482,
+      "maximum": 1920
+    },
+    "evasion_range": {
+      "minimum": 29,
+      "maximum": 37
+    },
+    "notes": "Found at wplains,Sairam",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

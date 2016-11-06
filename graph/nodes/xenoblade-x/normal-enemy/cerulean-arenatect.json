@@ -1,0 +1,58 @@
+{
+  "id": "cerulean-arenatect",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Cerulean Arenatect",
+    "subcategory": "Arenatect",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 269,
+      "maximum": 381
+    },
+    "health_range": {
+      "minimum": 39812,
+      "maximum": 55734
+    },
+    "melee_power_range": {
+      "minimum": 603,
+      "maximum": 824
+    },
+    "melee_accuracy_range": {
+      "minimum": 164,
+      "maximum": 189
+    },
+    "ranged_power_range": {
+      "minimum": 577,
+      "maximum": 788
+    },
+    "ranged_accuracy_range": {
+      "minimum": 160,
+      "maximum": 185
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 88,
+      "maximum": 115
+    },
+    "notes": "Found at 411S,413E,418",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "panpour",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 515,
+    "height": 6,
+    "weight": 135,
+    "base_experience": 63,
+    "name": "Panpour",
+    "genus": "Spray"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒヤップ",
+      "genus": "みずかけ"
+    },
+    "ko": {
+      "name": "앗차프",
+      "genus": "물뿌리기"
+    },
+    "fr": {
+      "name": "Flotajou",
+      "genus": "Jet d'Eau"
+    },
+    "de": {
+      "name": "Sodamak",
+      "genus": "Wasserstrahl"
+    },
+    "es": {
+      "name": "Panpour",
+      "genus": "Salpicadura"
+    },
+    "it": {
+      "name": "Panpour",
+      "genus": "Annaffiatore"
+    }
+  }
+}

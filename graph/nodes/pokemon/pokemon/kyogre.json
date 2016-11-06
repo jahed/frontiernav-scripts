@@ -1,0 +1,45 @@
+{
+  "id": "kyogre",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 382,
+    "height": 45,
+    "weight": 3520,
+    "base_experience": 302,
+    "name": "Kyogre",
+    "genus": "Sea Basin"
+  },
+  "locale": {
+    "ja": {
+      "name": "カイオーガ",
+      "genus": "かいてい"
+    },
+    "ko": {
+      "name": "가이오가",
+      "genus": "해저"
+    },
+    "zh": {
+      "name": "蓋歐卡",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Kyogre",
+      "genus": "Bassinmarin"
+    },
+    "de": {
+      "name": "Kyogre",
+      "genus": "Seegründler"
+    },
+    "es": {
+      "name": "Kyogre",
+      "genus": "Cuenca Mar"
+    },
+    "it": {
+      "name": "Kyogre",
+      "genus": "Oceano"
+    }
+  }
+}

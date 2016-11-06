@@ -1,0 +1,41 @@
+{
+  "id": "cofagrigus",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 563,
+    "height": 17,
+    "weight": 765,
+    "base_experience": 169,
+    "name": "Cofagrigus",
+    "genus": "Coffin"
+  },
+  "locale": {
+    "ja": {
+      "name": "デスカーン",
+      "genus": "かんおけ"
+    },
+    "ko": {
+      "name": "데스니칸",
+      "genus": "관"
+    },
+    "fr": {
+      "name": "Tutankafer",
+      "genus": "Cercueil"
+    },
+    "de": {
+      "name": "Echnatoll",
+      "genus": "Sarkophag"
+    },
+    "es": {
+      "name": "Cofagrigus",
+      "genus": "Sepultura"
+    },
+    "it": {
+      "name": "Cofagrigus",
+      "genus": "Bara"
+    }
+  }
+}

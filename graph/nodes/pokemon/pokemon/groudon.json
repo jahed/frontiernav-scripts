@@ -1,0 +1,45 @@
+{
+  "id": "groudon",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 383,
+    "height": 35,
+    "weight": 9500,
+    "base_experience": 302,
+    "name": "Groudon",
+    "genus": "Continent"
+  },
+  "locale": {
+    "ja": {
+      "name": "グラードン",
+      "genus": "たいりく"
+    },
+    "ko": {
+      "name": "그란돈",
+      "genus": "대륙"
+    },
+    "zh": {
+      "name": "固拉多",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Groudon",
+      "genus": "Continent"
+    },
+    "de": {
+      "name": "Groudon",
+      "genus": "Kontinent"
+    },
+    "es": {
+      "name": "Groudon",
+      "genus": "Continente"
+    },
+    "it": {
+      "name": "Groudon",
+      "genus": "Continente"
+    }
+  }
+}

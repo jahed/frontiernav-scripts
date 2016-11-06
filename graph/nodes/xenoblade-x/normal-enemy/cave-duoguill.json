@@ -1,0 +1,58 @@
+{
+  "id": "cave-duoguill",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Cave Duoguill",
+    "subcategory": "Duoguill",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 25,
+      "maximum": 71
+    },
+    "health_range": {
+      "minimum": 1797,
+      "maximum": 10252
+    },
+    "melee_power_range": {
+      "minimum": 45,
+      "maximum": 157
+    },
+    "melee_accuracy_range": {
+      "minimum": 126,
+      "maximum": 147
+    },
+    "ranged_power_range": {
+      "minimum": 51,
+      "maximum": 177
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 141
+    },
+    "potential_range": {
+      "minimum": 46,
+      "maximum": 162
+    },
+    "evasion_range": {
+      "minimum": 15,
+      "maximum": 34
+    },
+    "notes": "Found at Headwater Cavern",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

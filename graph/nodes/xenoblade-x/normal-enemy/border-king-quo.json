@@ -1,0 +1,58 @@
+{
+  "id": "border-king-quo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Border King Quo",
+    "subcategory": "Quo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 343,
+      "maximum": 442
+    },
+    "health_range": {
+      "minimum": 73056,
+      "maximum": 85493
+    },
+    "melee_power_range": {
+      "minimum": 651,
+      "maximum": 811
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 669,
+      "maximum": 833
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 868,
+      "maximum": 1082
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at Quay Hollows",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

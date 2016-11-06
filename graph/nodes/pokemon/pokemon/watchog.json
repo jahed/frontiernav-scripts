@@ -1,0 +1,41 @@
+{
+  "id": "watchog",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 505,
+    "height": 11,
+    "weight": 270,
+    "base_experience": 147,
+    "name": "Watchog",
+    "genus": "Lookout"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミルホッグ",
+      "genus": "けいかい"
+    },
+    "ko": {
+      "name": "보르그",
+      "genus": "경계"
+    },
+    "fr": {
+      "name": "Miradar",
+      "genus": "Vigilant"
+    },
+    "de": {
+      "name": "Kukmarda",
+      "genus": "Wachsamkeit"
+    },
+    "es": {
+      "name": "Watchog",
+      "genus": "Alerta"
+    },
+    "it": {
+      "name": "Watchog",
+      "genus": "Sentinella"
+    }
+  }
+}

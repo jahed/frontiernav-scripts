@@ -1,0 +1,41 @@
+{
+  "id": "tornadus-incarnate",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 641,
+    "height": 15,
+    "weight": 630,
+    "base_experience": 261,
+    "name": "Tornadus",
+    "genus": "Cyclone"
+  },
+  "locale": {
+    "ja": {
+      "name": "トルネロス",
+      "genus": "せんぷう"
+    },
+    "ko": {
+      "name": "토네로스",
+      "genus": "선풍"
+    },
+    "fr": {
+      "name": "Boréas",
+      "genus": "Tornade"
+    },
+    "de": {
+      "name": "Boreos",
+      "genus": "Wirbelsturm"
+    },
+    "es": {
+      "name": "Tornadus",
+      "genus": "Torbellino"
+    },
+    "it": {
+      "name": "Tornadus",
+      "genus": "Turbinio"
+    }
+  }
+}

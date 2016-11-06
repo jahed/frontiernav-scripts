@@ -1,0 +1,59 @@
+{
+  "id": "cage-saltat",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Cage Saltat",
+    "subcategory": "Saltat",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 295,
+      "maximum": 408
+    },
+    "health_range": {
+      "minimum": 72698,
+      "maximum": 87966
+    },
+    "melee_power_range": {
+      "minimum": 570,
+      "maximum": 739
+    },
+    "melee_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 570,
+      "maximum": 739
+    },
+    "ranged_accuracy_range": {
+      "minimum": 213,
+      "maximum": 246
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 123,
+      "maximum": 157
+    },
+    "notes": "Found at [Clear]: randomly replaces Gypsy Saltats",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

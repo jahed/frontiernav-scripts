@@ -1,0 +1,45 @@
+{
+  "id": "prinplup",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 394,
+    "height": 8,
+    "weight": 230,
+    "base_experience": 142,
+    "name": "Prinplup",
+    "genus": "Penguin"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポッタイシ",
+      "genus": "ペンギン"
+    },
+    "ko": {
+      "name": "팽태자",
+      "genus": "펭귄"
+    },
+    "zh": {
+      "name": "波皇子",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Prinplouf",
+      "genus": "Pingouin"
+    },
+    "de": {
+      "name": "Pliprin",
+      "genus": "Pinguin"
+    },
+    "es": {
+      "name": "Prinplup",
+      "genus": "Pingüino"
+    },
+    "it": {
+      "name": "Prinplup",
+      "genus": "Pinguino"
+    }
+  }
+}

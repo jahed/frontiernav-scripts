@@ -1,0 +1,58 @@
+{
+  "id": "titanium-oc-serv",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Titanium Oc-serv",
+    "subcategory": "Oc-serv",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 566,
+      "maximum": 728
+    },
+    "health_range": {
+      "minimum": 99622,
+      "maximum": 116581
+    },
+    "melee_power_range": {
+      "minimum": 1034,
+      "maximum": 1290
+    },
+    "melee_accuracy_range": {
+      "minimum": 219,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 1034,
+      "maximum": 1290
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 985,
+      "maximum": 1229
+    },
+    "evasion_range": {
+      "minimum": 169,
+      "maximum": 209
+    },
+    "notes": "Found at 407NE,410,412N,415,Quay Hollows,\nAbysssum,Banshee Cave",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

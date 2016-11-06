@@ -1,0 +1,41 @@
+{
+  "id": "cobalion",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 638,
+    "height": 21,
+    "weight": 2500,
+    "base_experience": 261,
+    "name": "Cobalion",
+    "genus": "Iron Will"
+  },
+  "locale": {
+    "ja": {
+      "name": "コバルオン",
+      "genus": "てっしん"
+    },
+    "ko": {
+      "name": "코바르온",
+      "genus": "철심"
+    },
+    "fr": {
+      "name": "Cobaltium",
+      "genus": "Cœur de Fer"
+    },
+    "de": {
+      "name": "Kobalium",
+      "genus": "Eisenkern"
+    },
+    "es": {
+      "name": "Cobalion",
+      "genus": "Tesón Acero"
+    },
+    "it": {
+      "name": "Cobalion",
+      "genus": "Metalcuore"
+    }
+  }
+}

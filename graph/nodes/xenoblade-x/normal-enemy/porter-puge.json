@@ -1,0 +1,58 @@
+{
+  "id": "porter-puge",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Porter Puge",
+    "subcategory": "Puge",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 38,
+      "maximum": 66
+    },
+    "health_range": {
+      "minimum": 7675,
+      "maximum": 16334
+    },
+    "melee_power_range": {
+      "minimum": 117,
+      "maximum": 205
+    },
+    "melee_accuracy_range": {
+      "minimum": 131,
+      "maximum": 150
+    },
+    "ranged_power_range": {
+      "minimum": 117,
+      "maximum": 205
+    },
+    "ranged_accuracy_range": {
+      "minimum": 126,
+      "maximum": 144
+    },
+    "potential_range": {
+      "minimum": 117,
+      "maximum": 205
+    },
+    "evasion_range": {
+      "minimum": 36,
+      "maximum": 55
+    },
+    "notes": "Found at 502N(hi)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

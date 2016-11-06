@@ -1,0 +1,41 @@
+{
+  "id": "beheeyem",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 606,
+    "height": 10,
+    "weight": 345,
+    "base_experience": 170,
+    "name": "Beheeyem",
+    "genus": "Cerebral"
+  },
+  "locale": {
+    "ja": {
+      "name": "オーベム",
+      "genus": "ブレイン"
+    },
+    "ko": {
+      "name": "벰크",
+      "genus": "브레인"
+    },
+    "fr": {
+      "name": "Neitram",
+      "genus": "Cerveau"
+    },
+    "de": {
+      "name": "Megalon",
+      "genus": "Grips"
+    },
+    "es": {
+      "name": "Beheeyem",
+      "genus": "Cerebro"
+    },
+    "it": {
+      "name": "Beheeyem",
+      "genus": "Cervello"
+    }
+  }
+}

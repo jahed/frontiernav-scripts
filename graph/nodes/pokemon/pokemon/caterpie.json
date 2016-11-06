@@ -1,0 +1,45 @@
+{
+  "id": "caterpie",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 10,
+    "height": 3,
+    "weight": 29,
+    "base_experience": 39,
+    "name": "Caterpie",
+    "genus": "Worm"
+  },
+  "locale": {
+    "ja": {
+      "name": "キャタピー",
+      "genus": "いもむし"
+    },
+    "ko": {
+      "name": "캐터피",
+      "genus": "애벌레"
+    },
+    "zh": {
+      "name": "綠毛蟲",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Chenipan",
+      "genus": "Ver"
+    },
+    "de": {
+      "name": "Raupy",
+      "genus": "Wurm"
+    },
+    "es": {
+      "name": "Caterpie",
+      "genus": "Gusano"
+    },
+    "it": {
+      "name": "Caterpie",
+      "genus": "Baco"
+    }
+  }
+}

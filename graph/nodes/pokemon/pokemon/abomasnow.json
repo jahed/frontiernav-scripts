@@ -1,0 +1,45 @@
+{
+  "id": "abomasnow",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 460,
+    "height": 22,
+    "weight": 1355,
+    "base_experience": 173,
+    "name": "Abomasnow",
+    "genus": "Frost Tree"
+  },
+  "locale": {
+    "ja": {
+      "name": "ユキノオー",
+      "genus": "じゅひょう"
+    },
+    "ko": {
+      "name": "눈설왕",
+      "genus": "얼음나무"
+    },
+    "zh": {
+      "name": "暴雪王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Blizzaroi",
+      "genus": "Arbregelé"
+    },
+    "de": {
+      "name": "Rexblisar",
+      "genus": "Frostbaum"
+    },
+    "es": {
+      "name": "Abomasnow",
+      "genus": "Árbol Nieve"
+    },
+    "it": {
+      "name": "Abomasnow",
+      "genus": "Albergelo"
+    }
+  }
+}

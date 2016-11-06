@@ -1,0 +1,58 @@
+{
+  "id": "sludge-caecus",
+  "labels": [
+    "NormalEnemy",
+    "Enemy",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Sludge Caecus",
+    "subcategory": "Caecus",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 95,
+      "maximum": 156
+    },
+    "health_range": {
+      "minimum": 23265,
+      "maximum": 39631
+    },
+    "melee_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 141,
+      "maximum": 170
+    },
+    "ranged_power_range": {
+      "minimum": 263,
+      "maximum": 388
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 52,
+      "maximum": 80
+    },
+    "notes": "Found at 205,220(lo)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "vanillite",
+  "labels": [
+    "Pokemon",
+    "PokemonSeries"
+  ],
+  "data": {
+    "species_id": 582,
+    "height": 4,
+    "weight": 57,
+    "base_experience": 61,
+    "name": "Vanillite",
+    "genus": "Fresh Snow"
+  },
+  "locale": {
+    "ja": {
+      "name": "バニプッチ",
+      "genus": "しんせつ"
+    },
+    "ko": {
+      "name": "바닐프티",
+      "genus": "신설"
+    },
+    "fr": {
+      "name": "Sorbébé",
+      "genus": "Poudreuse"
+    },
+    "de": {
+      "name": "Gelatini",
+      "genus": "Neuschnee"
+    },
+    "es": {
+      "name": "Vanillite",
+      "genus": "Nieve Fresca"
+    },
+    "it": {
+      "name": "Vanillite",
+      "genus": "Nevefresca"
+    }
+  }
+}

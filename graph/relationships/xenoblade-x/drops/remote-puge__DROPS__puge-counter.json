@@ -1,0 +1,6 @@
+{
+  "id": "remote-puge__DROPS__puge-counter",
+  "type": "DROPS",
+  "start": "remote-puge",
+  "end": "puge-counter"
+}
