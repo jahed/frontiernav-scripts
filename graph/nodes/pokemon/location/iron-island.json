@@ -1,0 +1,15 @@
+{
+  "id": "iron-island",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Iron Island"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ile de Fer"
+    }
+  }
+}

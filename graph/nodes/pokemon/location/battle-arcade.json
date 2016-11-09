@@ -1,0 +1,15 @@
+{
+  "id": "battle-arcade",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Arcade"
+  },
+  "locale": {
+    "fr": {
+      "name": "Arcade de Combat"
+    }
+  }
+}

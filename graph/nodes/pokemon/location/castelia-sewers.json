@@ -1,0 +1,18 @@
+{
+  "id": "castelia-sewers",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Castelia Sewers"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒウン下水道"
+    },
+    "fr": {
+      "name": "Égouts de Volucité"
+    }
+  }
+}

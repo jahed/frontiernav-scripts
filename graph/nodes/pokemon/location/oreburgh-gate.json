@@ -1,0 +1,15 @@
+{
+  "id": "oreburgh-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Oreburgh Gate"
+  },
+  "locale": {
+    "fr": {
+      "name": "Entrée Charbourg"
+    }
+  }
+}

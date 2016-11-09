@@ -1,0 +1,18 @@
+{
+  "id": "strange-house",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Strange House"
+  },
+  "locale": {
+    "ja": {
+      "name": "ストレンジャーハウス"
+    },
+    "fr": {
+      "name": "Manoir de l'Étrange"
+    }
+  }
+}

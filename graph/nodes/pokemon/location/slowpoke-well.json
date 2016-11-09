@@ -1,0 +1,15 @@
+{
+  "id": "slowpoke-well",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Slowpoke Well"
+  },
+  "locale": {
+    "fr": {
+      "name": "Puits RAMOLOSS"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "unknown-all-rattata",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Unknown; all Rattata"
+  },
+  "locale": {
+    "fr": {
+      "name": "Inconnu; que des Rattata"
+    }
+  }
+}

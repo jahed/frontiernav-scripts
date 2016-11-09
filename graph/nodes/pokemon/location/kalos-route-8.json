@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-8",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 8"
+  },
+  "locale": {
+    "ja": {
+      "name": "８ばんどうろ"
+    },
+    "ko": {
+      "name": "8번도로"
+    },
+    "fr": {
+      "name": "Route 8"
+    },
+    "de": {
+      "name": "Route 8"
+    },
+    "es": {
+      "name": "Ruta 8"
+    },
+    "it": {
+      "name": "Percorso 8"
+    }
+  }
+}

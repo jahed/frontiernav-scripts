@@ -1,0 +1,15 @@
+{
+  "id": "solaceon-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Solaceon Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bonville"
+    }
+  }
+}

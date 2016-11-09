@@ -1,0 +1,15 @@
+{
+  "id": "mt-ember",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Ember"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Braise"
+    }
+  }
+}

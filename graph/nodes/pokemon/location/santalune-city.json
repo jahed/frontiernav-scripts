@@ -1,0 +1,30 @@
+{
+  "id": "santalune-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Santalune City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハクダンシティ"
+    },
+    "ko": {
+      "name": "백단시티"
+    },
+    "fr": {
+      "name": "Neuvartault"
+    },
+    "de": {
+      "name": "Nouvaria City"
+    },
+    "es": {
+      "name": "Ciudad Novarte"
+    },
+    "it": {
+      "name": "Novartopoli"
+    }
+  }
+}

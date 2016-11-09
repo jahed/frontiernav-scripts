@@ -1,0 +1,15 @@
+{
+  "id": "inside-of-truck",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Inside of truck"
+  },
+  "locale": {
+    "fr": {
+      "name": "Dans le camion"
+    }
+  }
+}

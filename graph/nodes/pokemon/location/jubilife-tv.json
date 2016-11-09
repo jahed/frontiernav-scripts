@@ -1,0 +1,15 @@
+{
+  "id": "jubilife-tv",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Jubilife TV"
+  },
+  "locale": {
+    "fr": {
+      "name": "Féli-Télé"
+    }
+  }
+}

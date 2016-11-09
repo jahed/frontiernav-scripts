@@ -1,0 +1,15 @@
+{
+  "id": "cerulean-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cerulean City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Azuria"
+    }
+  }
+}

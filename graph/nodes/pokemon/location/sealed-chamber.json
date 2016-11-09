@@ -1,0 +1,15 @@
+{
+  "id": "sealed-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sealed Chamber"
+  },
+  "locale": {
+    "fr": {
+      "name": "Sanctuaire"
+    }
+  }
+}

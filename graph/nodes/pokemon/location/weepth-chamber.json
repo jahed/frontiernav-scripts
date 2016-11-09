@@ -1,0 +1,15 @@
+{
+  "id": "weepth-chamber",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Weepth Chamber"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chambre Prois"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pokestar-studios",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "PokéStar Studios"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケウッド"
+    },
+    "fr": {
+      "name": "Pokéwood"
+    }
+  }
+}

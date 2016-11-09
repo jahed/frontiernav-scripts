@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-sea-route-226",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sea Route 226"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chenal 226"
+    }
+  }
+}

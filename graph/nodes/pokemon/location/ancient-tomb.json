@@ -1,0 +1,15 @@
+{
+  "id": "ancient-tomb",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ancient Tomb"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tombeau Antique"
+    }
+  }
+}

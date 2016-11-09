@@ -1,0 +1,18 @@
+{
+  "id": "opelucid-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Opelucid Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ソウリュウゲート"
+    },
+    "fr": {
+      "name": "Porte Janusia"
+    }
+  }
+}

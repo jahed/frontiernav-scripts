@@ -1,0 +1,15 @@
+{
+  "id": "ever-grande-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ever Grande City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Eternara"
+    }
+  }
+}

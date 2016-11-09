@@ -1,0 +1,15 @@
+{
+  "id": "azalea-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Azalea Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ecorcia"
+    }
+  }
+}

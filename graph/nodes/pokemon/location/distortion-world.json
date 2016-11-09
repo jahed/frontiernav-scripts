@@ -1,0 +1,15 @@
+{
+  "id": "distortion-world",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Distortion World"
+  },
+  "locale": {
+    "fr": {
+      "name": "Monde Distorsion"
+    }
+  }
+}

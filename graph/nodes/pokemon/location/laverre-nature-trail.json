@@ -1,0 +1,30 @@
+{
+  "id": "laverre-nature-trail",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Laverre Nature Trail"
+  },
+  "locale": {
+    "ja": {
+      "name": "クノエのりんどう"
+    },
+    "ko": {
+      "name": "후늬 임도"
+    },
+    "fr": {
+      "name": "Laie Romant-ss-Bois"
+    },
+    "de": {
+      "name": "Romantia-Waldweg"
+    },
+    "es": {
+      "name": "Arboleda Romantis"
+    },
+    "it": {
+      "name": "Sentiero Romantopoli"
+    }
+  }
+}

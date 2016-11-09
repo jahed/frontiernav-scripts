@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-victory-road",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Victory Road"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route Victoire"
+    }
+  }
+}

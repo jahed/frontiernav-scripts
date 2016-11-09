@@ -1,0 +1,15 @@
+{
+  "id": "battle-hall",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Hall"
+  },
+  "locale": {
+    "fr": {
+      "name": "Scène de Combat"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "green-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Green Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Chemin Vert"
+    }
+  }
+}

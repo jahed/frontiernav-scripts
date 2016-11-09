@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-15",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 15"
+  },
+  "locale": {
+    "ja": {
+      "name": "１５ばんどうろ"
+    },
+    "ko": {
+      "name": "15번도로"
+    },
+    "fr": {
+      "name": "Route 15"
+    },
+    "de": {
+      "name": "Route 15"
+    },
+    "es": {
+      "name": "Ruta 15"
+    },
+    "it": {
+      "name": "Percorso 15"
+    }
+  }
+}

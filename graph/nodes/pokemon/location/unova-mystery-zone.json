@@ -1,0 +1,18 @@
+{
+  "id": "unova-mystery-zone",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mystery Zone"
+  },
+  "locale": {
+    "ja": {
+      "name": "なぞの場所"
+    },
+    "fr": {
+      "name": "Endroit Mystérieux"
+    }
+  }
+}

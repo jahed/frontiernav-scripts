@@ -1,0 +1,15 @@
+{
+  "id": "dewford-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dewford Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Village Myokara"
+    }
+  }
+}

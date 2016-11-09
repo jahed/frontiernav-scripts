@@ -1,0 +1,15 @@
+{
+  "id": "amity-square",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Amity Square"
+  },
+  "locale": {
+    "fr": {
+      "name": "Square Paisible"
+    }
+  }
+}

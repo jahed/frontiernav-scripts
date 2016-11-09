@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-18",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 18"
+  },
+  "locale": {
+    "ja": {
+      "name": "１８ばんどうろ"
+    },
+    "ko": {
+      "name": "18번도로"
+    },
+    "fr": {
+      "name": "Route 18"
+    },
+    "de": {
+      "name": "Route 18"
+    },
+    "es": {
+      "name": "Ruta 18"
+    },
+    "it": {
+      "name": "Percorso 18"
+    }
+  }
+}

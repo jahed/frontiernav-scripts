@@ -1,0 +1,6 @@
+{
+  "id": "sinnoh__CONTAINS__veilstone-store",
+  "start": "sinnoh",
+  "end": "veilstone-store",
+  "type": "CONTAINS"
+}

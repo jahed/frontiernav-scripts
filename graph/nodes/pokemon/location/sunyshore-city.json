@@ -1,0 +1,15 @@
+{
+  "id": "sunyshore-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sunyshore City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Rivamar"
+    }
+  }
+}

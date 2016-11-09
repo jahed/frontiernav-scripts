@@ -1,0 +1,18 @@
+{
+  "id": "reversal-mountain",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Reversal Mountain"
+  },
+  "locale": {
+    "ja": {
+      "name": "リバースマウンテン"
+    },
+    "fr": {
+      "name": "Mont Renenvers"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-21",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 21"
+  },
+  "locale": {
+    "ja": {
+      "name": "２１ばんどうろ"
+    },
+    "ko": {
+      "name": "21번도로"
+    },
+    "fr": {
+      "name": "Route 21"
+    },
+    "de": {
+      "name": "Route 21"
+    },
+    "es": {
+      "name": "Ruta 21"
+    },
+    "it": {
+      "name": "Percorso 21"
+    }
+  }
+}

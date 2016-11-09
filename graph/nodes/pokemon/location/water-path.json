@@ -1,0 +1,15 @@
+{
+  "id": "water-path",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Water Path"
+  },
+  "locale": {
+    "fr": {
+      "name": "Agualcanal"
+    }
+  }
+}

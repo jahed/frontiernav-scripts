@@ -1,0 +1,15 @@
+{
+  "id": "verity-lakefront",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Verity Lakefront"
+  },
+  "locale": {
+    "fr": {
+      "name": "Rive Lac Vérité"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sprout-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sprout Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour CHETIFLOR"
+    }
+  }
+}

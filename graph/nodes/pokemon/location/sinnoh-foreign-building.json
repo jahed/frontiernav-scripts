@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-foreign-building",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Foreign Building"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bâtiment Etrange"
+    }
+  }
+}

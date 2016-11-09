@@ -1,0 +1,18 @@
+{
+  "id": "route-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ロードゲート"
+    },
+    "fr": {
+      "name": "Porte de Route"
+    }
+  }
+}

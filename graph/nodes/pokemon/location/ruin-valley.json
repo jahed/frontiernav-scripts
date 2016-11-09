@@ -1,0 +1,15 @@
+{
+  "id": "ruin-valley",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ruin Valley"
+  },
+  "locale": {
+    "fr": {
+      "name": "Vallée Ruine"
+    }
+  }
+}

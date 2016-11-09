@@ -1,0 +1,15 @@
+{
+  "id": "celadon-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Celadon City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Céladopole"
+    }
+  }
+}

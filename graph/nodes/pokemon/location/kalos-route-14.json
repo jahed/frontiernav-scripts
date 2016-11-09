@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-14",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 14"
+  },
+  "locale": {
+    "ja": {
+      "name": "１４ばんどうろ"
+    },
+    "ko": {
+      "name": "14번도로"
+    },
+    "fr": {
+      "name": "Route 14"
+    },
+    "de": {
+      "name": "Route 14"
+    },
+    "es": {
+      "name": "Ruta 14"
+    },
+    "it": {
+      "name": "Percorso 14"
+    }
+  }
+}

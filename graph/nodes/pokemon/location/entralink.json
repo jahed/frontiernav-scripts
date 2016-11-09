@@ -1,0 +1,18 @@
+{
+  "id": "entralink",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Entralink"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハイリンク"
+    },
+    "fr": {
+      "name": "Heylink"
+    }
+  }
+}

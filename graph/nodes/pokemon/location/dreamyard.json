@@ -1,0 +1,18 @@
+{
+  "id": "dreamyard",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dreamyard"
+  },
+  "locale": {
+    "ja": {
+      "name": "夢の跡地"
+    },
+    "fr": {
+      "name": "Vestiges du Rêve"
+    }
+  }
+}

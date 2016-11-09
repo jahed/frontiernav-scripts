@@ -1,0 +1,15 @@
+{
+  "id": "lake-valor",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lake Valor"
+  },
+  "locale": {
+    "fr": {
+      "name": "Lac Courage"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fortree-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Fortree City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Cimetronelle"
+    }
+  }
+}

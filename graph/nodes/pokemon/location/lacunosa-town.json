@@ -1,0 +1,18 @@
+{
+  "id": "lacunosa-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lacunosa Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "カゴメタウン"
+    },
+    "fr": {
+      "name": "Entrelasque"
+    }
+  }
+}

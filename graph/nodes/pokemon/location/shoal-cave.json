@@ -1,0 +1,15 @@
+{
+  "id": "shoal-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Shoal Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Tréfonds"
+    }
+  }
+}

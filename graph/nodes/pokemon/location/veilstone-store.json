@@ -1,0 +1,15 @@
+{
+  "id": "veilstone-store",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Veilstone Store"
+  },
+  "locale": {
+    "fr": {
+      "name": "C. Com. Voilaroc"
+    }
+  }
+}

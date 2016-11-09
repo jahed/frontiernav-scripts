@@ -1,0 +1,15 @@
+{
+  "id": "national-park",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "National Park"
+  },
+  "locale": {
+    "fr": {
+      "name": "Parc Naturel"
+    }
+  }
+}

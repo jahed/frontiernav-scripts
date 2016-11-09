@@ -1,0 +1,30 @@
+{
+  "id": "anistar-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Anistar Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒャッコクゲート"
+    },
+    "ko": {
+      "name": "향전게이트"
+    },
+    "fr": {
+      "name": "Porte de Flusselles"
+    },
+    "de": {
+      "name": "Fluxia-Tor"
+    },
+    "es": {
+      "name": "Acceso a Fluxus"
+    },
+    "it": {
+      "name": "Varco Fluxopoli"
+    }
+  }
+}

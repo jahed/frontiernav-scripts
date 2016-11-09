@@ -1,0 +1,30 @@
+{
+  "id": "kalos-route-9",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 9"
+  },
+  "locale": {
+    "ja": {
+      "name": "９ばんどうろ"
+    },
+    "ko": {
+      "name": "9번도로"
+    },
+    "fr": {
+      "name": "Route 9"
+    },
+    "de": {
+      "name": "Route 9"
+    },
+    "es": {
+      "name": "Ruta 9"
+    },
+    "it": {
+      "name": "Percorso 9"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "abyssal-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Abyssal Ruins"
+  },
+  "locale": {
+    "ja": {
+      "name": "海底遺跡"
+    },
+    "fr": {
+      "name": "Ruines des Abysses"
+    }
+  }
+}

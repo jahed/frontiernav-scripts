@@ -1,0 +1,15 @@
+{
+  "id": "lake-acuity",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lake Acuity"
+  },
+  "locale": {
+    "fr": {
+      "name": "Lac Savoir"
+    }
+  }
+}

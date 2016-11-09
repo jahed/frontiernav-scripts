@@ -1,0 +1,15 @@
+{
+  "id": "twinleaf-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Twinleaf Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bonaugure"
+    }
+  }
+}

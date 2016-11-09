@@ -1,0 +1,15 @@
+{
+  "id": "violet-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Violet City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mauville"
+    }
+  }
+}

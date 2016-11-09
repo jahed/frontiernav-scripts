@@ -1,0 +1,30 @@
+{
+  "id": "snowbelle-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Snowbelle Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "エイセツゲート"
+    },
+    "ko": {
+      "name": "이설게이트"
+    },
+    "fr": {
+      "name": "Porte d’Auffrac"
+    },
+    "de": {
+      "name": "Fractalia-Tor"
+    },
+    "es": {
+      "name": "Acceso a Fractal"
+    },
+    "it": {
+      "name": "Varco Fractalopoli"
+    }
+  }
+}

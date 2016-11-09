@@ -1,0 +1,18 @@
+{
+  "id": "royal-unova",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Royal Unova"
+  },
+  "locale": {
+    "ja": {
+      "name": "ロイヤルイッシュ号"
+    },
+    "fr": {
+      "name": "L'Étoile d'Unys"
+    }
+  }
+}

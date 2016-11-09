@@ -1,0 +1,15 @@
+{
+  "id": "burned-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Burned Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Cendrée"
+    }
+  }
+}

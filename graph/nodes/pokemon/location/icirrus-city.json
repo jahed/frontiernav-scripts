@@ -1,0 +1,18 @@
+{
+  "id": "icirrus-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Icirrus City"
+  },
+  "locale": {
+    "ja": {
+      "name": "セッカシティ"
+    },
+    "fr": {
+      "name": "Flocombe"
+    }
+  }
+}

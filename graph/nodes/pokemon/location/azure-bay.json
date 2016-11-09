@@ -1,0 +1,30 @@
+{
+  "id": "azure-bay",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Azure Bay"
+  },
+  "locale": {
+    "ja": {
+      "name": "アズールわん"
+    },
+    "ko": {
+      "name": "아쥐르만"
+    },
+    "fr": {
+      "name": "Baie Azur"
+    },
+    "de": {
+      "name": "Azurbucht"
+    },
+    "es": {
+      "name": "Bahía Azul"
+    },
+    "it": {
+      "name": "Baia Azzurra"
+    }
+  }
+}

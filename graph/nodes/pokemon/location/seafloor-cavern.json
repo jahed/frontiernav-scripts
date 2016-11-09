@@ -1,0 +1,15 @@
+{
+  "id": "seafloor-cavern",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Seafloor Cavern"
+  },
+  "locale": {
+    "fr": {
+      "name": "Caverne Fondmer"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "camphrier-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Camphrier Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "コボクタウン"
+    },
+    "ko": {
+      "name": "고목내마을"
+    },
+    "fr": {
+      "name": "Fort-Vanitas"
+    },
+    "de": {
+      "name": "Vanitéa"
+    },
+    "es": {
+      "name": "Pueblo Vánitas"
+    },
+    "it": {
+      "name": "Castel Vanità"
+    }
+  }
+}

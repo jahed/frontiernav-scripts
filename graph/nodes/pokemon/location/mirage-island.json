@@ -1,0 +1,15 @@
+{
+  "id": "mirage-island",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mirage Island"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ile Mirage"
+    }
+  }
+}

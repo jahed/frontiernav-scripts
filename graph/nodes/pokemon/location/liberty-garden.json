@@ -1,0 +1,18 @@
+{
+  "id": "liberty-garden",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Liberty Garden"
+  },
+  "locale": {
+    "ja": {
+      "name": "リバティガーデン島"
+    },
+    "fr": {
+      "name": "Île Liberté"
+    }
+  }
+}

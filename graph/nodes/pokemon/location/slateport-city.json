@@ -1,0 +1,15 @@
+{
+  "id": "slateport-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Slateport City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Poivressel"
+    }
+  }
+}

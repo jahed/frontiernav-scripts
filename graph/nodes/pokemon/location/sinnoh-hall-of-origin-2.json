@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-hall-of-origin-2",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Hall of Origin"
+  },
+  "locale": {
+    "fr": {
+      "name": "Salle Originelle"
+    }
+  }
+}

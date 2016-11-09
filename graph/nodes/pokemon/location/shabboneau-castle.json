@@ -1,0 +1,30 @@
+{
+  "id": "shabboneau-castle",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Shabboneau Castle"
+  },
+  "locale": {
+    "ja": {
+      "name": "ショボンヌじょう"
+    },
+    "ko": {
+      "name": "침울한 성"
+    },
+    "fr": {
+      "name": "Fort de Vanitas"
+    },
+    "de": {
+      "name": "Château Tristesse"
+    },
+    "es": {
+      "name": "Castillo Caduco"
+    },
+    "it": {
+      "name": "Maniero Sottotono"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "icefall-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Icefall Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte de Glace"
+    }
+  }
+}

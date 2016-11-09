@@ -1,0 +1,15 @@
+{
+  "id": "jubilife-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Jubilife City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Féli-Cité"
+    }
+  }
+}

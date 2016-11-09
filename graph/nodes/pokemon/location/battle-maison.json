@@ -1,0 +1,30 @@
+{
+  "id": "battle-maison",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Maison"
+  },
+  "locale": {
+    "ja": {
+      "name": "バトルハウス"
+    },
+    "ko": {
+      "name": "배틀하우스"
+    },
+    "fr": {
+      "name": "Maison de Combat"
+    },
+    "de": {
+      "name": "Kampfhaus"
+    },
+    "es": {
+      "name": "Mansión Batalla"
+    },
+    "it": {
+      "name": "Villa Lotta"
+    }
+  }
+}

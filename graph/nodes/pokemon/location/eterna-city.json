@@ -1,0 +1,15 @@
+{
+  "id": "eterna-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Eterna City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Vestigion"
+    }
+  }
+}

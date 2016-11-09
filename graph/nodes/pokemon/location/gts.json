@@ -1,0 +1,15 @@
+{
+  "id": "gts",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "GTS"
+  },
+  "locale": {
+    "fr": {
+      "name": "GTS"
+    }
+  }
+}

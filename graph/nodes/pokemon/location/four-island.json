@@ -1,0 +1,15 @@
+{
+  "id": "four-island",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Four Island"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ile 4"
+    }
+  }
+}

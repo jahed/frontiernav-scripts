@@ -1,0 +1,18 @@
+{
+  "id": "mistralton-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mistralton Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "フキヨセの洞穴"
+    },
+    "fr": {
+      "name": "Grotte Parsemille"
+    }
+  }
+}

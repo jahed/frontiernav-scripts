@@ -1,0 +1,30 @@
+{
+  "id": "reflection-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Reflection Cave"
+  },
+  "locale": {
+    "ja": {
+      "name": "うつしみのどうくつ"
+    },
+    "ko": {
+      "name": "비춤의 동굴"
+    },
+    "fr": {
+      "name": "Grotte Miroitante"
+    },
+    "de": {
+      "name": "Spiegelhöhle"
+    },
+    "es": {
+      "name": "Cueva Reflejos"
+    },
+    "it": {
+      "name": "Grotta dei Riflessi"
+    }
+  }
+}

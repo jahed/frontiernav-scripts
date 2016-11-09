@@ -1,0 +1,15 @@
+{
+  "id": "new-mauville",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "New Mauville"
+  },
+  "locale": {
+    "fr": {
+      "name": "New Lavandia"
+    }
+  }
+}

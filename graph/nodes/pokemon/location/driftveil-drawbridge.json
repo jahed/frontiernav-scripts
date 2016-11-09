@@ -1,0 +1,18 @@
+{
+  "id": "driftveil-drawbridge",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Driftveil Drawbridge"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホドモエの跳ね橋"
+    },
+    "fr": {
+      "name": "Pont Yoneuve"
+    }
+  }
+}

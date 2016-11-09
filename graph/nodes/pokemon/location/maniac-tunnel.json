@@ -1,0 +1,15 @@
+{
+  "id": "maniac-tunnel",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Maniac Tunnel"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tunnel Runiem."
+    }
+  }
+}

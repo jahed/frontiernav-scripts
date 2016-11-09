@@ -1,0 +1,15 @@
+{
+  "id": "sinnoh-cycle-shop",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cycle Shop"
+  },
+  "locale": {
+    "fr": {
+      "name": "Boutique de Vélo"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fuego-ironworks",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Fuego Ironworks"
+  },
+  "locale": {
+    "fr": {
+      "name": "Forge Fuego"
+    }
+  }
+}

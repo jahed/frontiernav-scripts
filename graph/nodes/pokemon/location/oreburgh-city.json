@@ -1,0 +1,15 @@
+{
+  "id": "oreburgh-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Oreburgh City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Charbourg"
+    }
+  }
+}

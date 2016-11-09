@@ -1,0 +1,18 @@
+{
+  "id": "unova-faraway-place",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Faraway place"
+  },
+  "locale": {
+    "ja": {
+      "name": "遠い場所"
+    },
+    "fr": {
+      "name": "Endroit Lointain"
+    }
+  }
+}

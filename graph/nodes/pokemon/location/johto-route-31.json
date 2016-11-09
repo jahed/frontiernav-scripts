@@ -1,0 +1,15 @@
+{
+  "id": "johto-route-31",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 31"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route 31"
+    }
+  }
+}

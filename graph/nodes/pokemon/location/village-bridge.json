@@ -1,0 +1,18 @@
+{
+  "id": "village-bridge",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Village Bridge"
+  },
+  "locale": {
+    "ja": {
+      "name": "ビレッジブリッジ"
+    },
+    "fr": {
+      "name": "Pont du Hameau"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dragons-den",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dragon's Den"
+  },
+  "locale": {
+    "fr": {
+      "name": "Antre du Dragon"
+    }
+  }
+}

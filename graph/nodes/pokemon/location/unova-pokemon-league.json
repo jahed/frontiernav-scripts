@@ -1,0 +1,18 @@
+{
+  "id": "unova-pokemon-league",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon League"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケモンリーグ"
+    },
+    "fr": {
+      "name": "Ligue Pokémon"
+    }
+  }
+}

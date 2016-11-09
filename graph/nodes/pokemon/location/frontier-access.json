@@ -1,0 +1,15 @@
+{
+  "id": "frontier-access",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Frontier Access"
+  },
+  "locale": {
+    "fr": {
+      "name": "Atrium Combat"
+    }
+  }
+}

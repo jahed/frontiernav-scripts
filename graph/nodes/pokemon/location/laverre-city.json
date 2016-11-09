@@ -1,0 +1,30 @@
+{
+  "id": "laverre-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Laverre City"
+  },
+  "locale": {
+    "ja": {
+      "name": "クノエシティ"
+    },
+    "ko": {
+      "name": "후늬시티"
+    },
+    "fr": {
+      "name": "Romant-sous-Bois"
+    },
+    "de": {
+      "name": "Romantia City"
+    },
+    "es": {
+      "name": "Ciudad Romantis"
+    },
+    "it": {
+      "name": "Romantopoli"
+    }
+  }
+}

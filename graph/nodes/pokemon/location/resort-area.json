@@ -1,0 +1,15 @@
+{
+  "id": "resort-area",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Resort Area"
+  },
+  "locale": {
+    "fr": {
+      "name": "Aire de Détente"
+    }
+  }
+}

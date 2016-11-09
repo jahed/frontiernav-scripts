@@ -1,0 +1,15 @@
+{
+  "id": "petalburg-woods",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Petalburg Woods"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bois Clémenti"
+    }
+  }
+}

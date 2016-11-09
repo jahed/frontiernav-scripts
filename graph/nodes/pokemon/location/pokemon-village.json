@@ -1,0 +1,30 @@
+{
+  "id": "pokemon-village",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon Village"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケモンのむら"
+    },
+    "ko": {
+      "name": "포켓몬마을"
+    },
+    "fr": {
+      "name": "Village Pokémon"
+    },
+    "de": {
+      "name": "Pokémon-Dorf"
+    },
+    "es": {
+      "name": "Villa Pokémon"
+    },
+    "it": {
+      "name": "Valle dei Pokémon"
+    }
+  }
+}

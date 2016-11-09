@@ -1,0 +1,18 @@
+{
+  "id": "cold-storage",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cold Storage"
+  },
+  "locale": {
+    "ja": {
+      "name": "冷凍コンテナ"
+    },
+    "fr": {
+      "name": "Hangar Frigorifique"
+    }
+  }
+}

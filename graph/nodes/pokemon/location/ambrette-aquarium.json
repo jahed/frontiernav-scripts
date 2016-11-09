@@ -1,0 +1,30 @@
+{
+  "id": "ambrette-aquarium",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ambrette Aquarium"
+  },
+  "locale": {
+    "ja": {
+      "name": "コウジンすいぞくかん"
+    },
+    "ko": {
+      "name": "가라 수족관"
+    },
+    "fr": {
+      "name": "Aquarium R. s/Gliffe"
+    },
+    "de": {
+      "name": "Petrophia-Aquarium"
+    },
+    "es": {
+      "name": "Acuario Petroglifo"
+    },
+    "it": {
+      "name": "Acquario"
+    }
+  }
+}

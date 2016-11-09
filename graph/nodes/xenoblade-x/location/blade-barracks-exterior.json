@@ -1,0 +1,11 @@
+{
+  "id": "blade-barracks-exterior",
+  "labels": [
+    "Location",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "BLADE Barracks",
+    "locationTypeId": "Landmark"
+  }
+}

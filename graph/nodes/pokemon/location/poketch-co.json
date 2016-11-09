@@ -1,0 +1,15 @@
+{
+  "id": "poketch-co",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokétch Co."
+  },
+  "locale": {
+    "fr": {
+      "name": "Pokémontre S.A."
+    }
+  }
+}

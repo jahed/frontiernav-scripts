@@ -1,0 +1,15 @@
+{
+  "id": "mt-mortar",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Mortar"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Creuset"
+    }
+  }
+}

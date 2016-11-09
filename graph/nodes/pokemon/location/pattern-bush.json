@@ -1,0 +1,15 @@
+{
+  "id": "pattern-bush",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pattern Bush"
+  },
+  "locale": {
+    "fr": {
+      "name": "Forbuissons"
+    }
+  }
+}

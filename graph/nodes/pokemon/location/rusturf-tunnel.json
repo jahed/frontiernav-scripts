@@ -1,0 +1,15 @@
+{
+  "id": "rusturf-tunnel",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Rusturf Tunnel"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tunnel Mérazon"
+    }
+  }
+}

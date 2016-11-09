@@ -1,0 +1,30 @@
+{
+  "id": "laverre-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Laverre Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "クノエゲート"
+    },
+    "ko": {
+      "name": "후늬게이트"
+    },
+    "fr": {
+      "name": "Porte de Romant"
+    },
+    "de": {
+      "name": "Romantia-Tor"
+    },
+    "es": {
+      "name": "Acceso a Romantis"
+    },
+    "it": {
+      "name": "Varco Romantopoli"
+    }
+  }
+}

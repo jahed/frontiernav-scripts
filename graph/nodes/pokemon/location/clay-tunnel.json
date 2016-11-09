@@ -1,0 +1,18 @@
+{
+  "id": "clay-tunnel",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Clay Tunnel"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤーコンロード"
+    },
+    "fr": {
+      "name": "Route Bardane"
+    }
+  }
+}

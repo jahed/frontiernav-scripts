@@ -1,0 +1,18 @@
+{
+  "id": "unova-route-1",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Route 1"
+  },
+  "locale": {
+    "ja": {
+      "name": "１番道路"
+    },
+    "fr": {
+      "name": "Route 1"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cyllage-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cyllage City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ショウヨウシティ"
+    },
+    "ko": {
+      "name": "삼채시티"
+    },
+    "fr": {
+      "name": "Relifac-le-Haut"
+    },
+    "de": {
+      "name": "Relievera City"
+    },
+    "es": {
+      "name": "Ciudad Relieve"
+    },
+    "it": {
+      "name": "Altoripoli"
+    }
+  }
+}

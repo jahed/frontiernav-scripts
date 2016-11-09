@@ -1,0 +1,15 @@
+{
+  "id": "desert-underpass",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Desert Underpass"
+  },
+  "locale": {
+    "fr": {
+      "name": "Voie du Désert"
+    }
+  }
+}

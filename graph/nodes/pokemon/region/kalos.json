@@ -1,0 +1,24 @@
+{
+  "id": "kalos",
+  "labels": [
+    "Region",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Kalos"
+  },
+  "locale": {
+    "ja": {
+      "name": "カロス地方"
+    },
+    "fr": {
+      "name": "Kalos"
+    },
+    "de": {
+      "name": "Kalos"
+    },
+    "it": {
+      "name": "Kalos"
+    }
+  }
+}

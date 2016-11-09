@@ -1,0 +1,15 @@
+{
+  "id": "kindle-road",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Kindle Road"
+  },
+  "locale": {
+    "fr": {
+      "name": "Route Tison"
+    }
+  }
+}

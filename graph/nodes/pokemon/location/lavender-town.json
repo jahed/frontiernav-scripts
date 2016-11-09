@@ -1,0 +1,15 @@
+{
+  "id": "lavender-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lavender Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Lavanville"
+    }
+  }
+}

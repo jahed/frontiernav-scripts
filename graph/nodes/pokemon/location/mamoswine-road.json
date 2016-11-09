@@ -1,0 +1,30 @@
+{
+  "id": "mamoswine-road",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mamoswine Road"
+  },
+  "locale": {
+    "ja": {
+      "name": "マンムーロード"
+    },
+    "ko": {
+      "name": "맘모꾸리로드"
+    },
+    "fr": {
+      "name": "Route Mammochon"
+    },
+    "de": {
+      "name": "Mamutel-Weg"
+    },
+    "es": {
+      "name": "Sendero Mamoswine"
+    },
+    "it": {
+      "name": "Passo Mamoswine"
+    }
+  }
+}

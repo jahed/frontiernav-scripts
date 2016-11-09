@@ -1,0 +1,15 @@
+{
+  "id": "saffron-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Saffron City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Safrania"
+    }
+  }
+}

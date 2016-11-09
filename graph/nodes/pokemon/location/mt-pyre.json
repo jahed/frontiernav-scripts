@@ -1,0 +1,15 @@
+{
+  "id": "mt-pyre",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mt. Pyre"
+  },
+  "locale": {
+    "fr": {
+      "name": "Mont Mémoria"
+    }
+  }
+}

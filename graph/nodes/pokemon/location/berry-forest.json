@@ -1,0 +1,15 @@
+{
+  "id": "berry-forest",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Berry Forest"
+  },
+  "locale": {
+    "fr": {
+      "name": "Bois Baies"
+    }
+  }
+}

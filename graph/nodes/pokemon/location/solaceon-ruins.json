@@ -1,0 +1,15 @@
+{
+  "id": "solaceon-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Solaceon Ruins"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ruines Bonville"
+    }
+  }
+}

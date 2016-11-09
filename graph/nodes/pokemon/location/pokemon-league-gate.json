@@ -1,0 +1,30 @@
+{
+  "id": "pokemon-league-gate",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Pokémon League Gate"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケモンリーグゲート"
+    },
+    "ko": {
+      "name": "포켓몬리그 게이트"
+    },
+    "fr": {
+      "name": "Porte de la Ligue"
+    },
+    "de": {
+      "name": "Tor zur Pokémon Liga"
+    },
+    "es": {
+      "name": "Acceso Liga Pokémon"
+    },
+    "it": {
+      "name": "Varco Lega Pokémon"
+    }
+  }
+}

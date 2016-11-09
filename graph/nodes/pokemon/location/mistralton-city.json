@@ -1,0 +1,18 @@
+{
+  "id": "mistralton-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mistralton City"
+  },
+  "locale": {
+    "ja": {
+      "name": "フキヨセシティ"
+    },
+    "fr": {
+      "name": "Parsemille"
+    }
+  }
+}

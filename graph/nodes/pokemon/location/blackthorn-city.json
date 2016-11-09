@@ -1,0 +1,15 @@
+{
+  "id": "blackthorn-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Blackthorn City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ebènelle"
+    }
+  }
+}

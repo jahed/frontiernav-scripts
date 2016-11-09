@@ -1,0 +1,15 @@
+{
+  "id": "team-rocket-hq",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Team Rocket HQ"
+  },
+  "locale": {
+    "fr": {
+      "name": "Repaire Rocket d'Acajou"
+    }
+  }
+}

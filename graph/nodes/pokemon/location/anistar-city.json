@@ -1,0 +1,30 @@
+{
+  "id": "anistar-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Anistar City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒャッコクシティ"
+    },
+    "ko": {
+      "name": "향전시티"
+    },
+    "fr": {
+      "name": "Flusselles"
+    },
+    "de": {
+      "name": "Fluxia City"
+    },
+    "es": {
+      "name": "Ciudad Fluxus"
+    },
+    "it": {
+      "name": "Fluxopoli"
+    }
+  }
+}

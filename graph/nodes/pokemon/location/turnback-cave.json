@@ -1,0 +1,15 @@
+{
+  "id": "turnback-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Turnback Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Retour"
+    }
+  }
+}

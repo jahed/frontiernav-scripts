@@ -1,0 +1,15 @@
+{
+  "id": "ss-aqua",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "S.S. Aqua"
+  },
+  "locale": {
+    "fr": {
+      "name": "Aquaria"
+    }
+  }
+}

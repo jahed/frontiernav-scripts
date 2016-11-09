@@ -1,0 +1,15 @@
+{
+  "id": "trophy-garden",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Trophy Garden"
+  },
+  "locale": {
+    "fr": {
+      "name": "Jardin Trophée"
+    }
+  }
+}

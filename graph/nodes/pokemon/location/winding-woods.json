@@ -1,0 +1,30 @@
+{
+  "id": "winding-woods",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Winding Woods"
+  },
+  "locale": {
+    "ja": {
+      "name": "まよいのもり"
+    },
+    "ko": {
+      "name": "미혹의 숲"
+    },
+    "fr": {
+      "name": "Bois du Dédale"
+    },
+    "de": {
+      "name": "Irrwald"
+    },
+    "es": {
+      "name": "Bosque Errantes"
+    },
+    "it": {
+      "name": "Bosco Passoperso"
+    }
+  }
+}

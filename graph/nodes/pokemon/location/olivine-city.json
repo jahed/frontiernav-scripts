@@ -1,0 +1,15 @@
+{
+  "id": "olivine-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Olivine City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Oliville"
+    }
+  }
+}

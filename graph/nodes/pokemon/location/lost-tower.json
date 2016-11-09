@@ -1,0 +1,15 @@
+{
+  "id": "lost-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lost Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Perdue"
+    }
+  }
+}

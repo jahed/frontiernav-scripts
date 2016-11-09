@@ -1,0 +1,18 @@
+{
+  "id": "white-forest",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "White Forest"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホワイトフォレスト"
+    },
+    "fr": {
+      "name": "Forêt Blanche"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lavaridge-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Lavaridge Town"
+  },
+  "locale": {
+    "fr": {
+      "name": "Vermilava"
+    }
+  }
+}

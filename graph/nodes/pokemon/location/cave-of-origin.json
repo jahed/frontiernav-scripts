@@ -1,0 +1,15 @@
+{
+  "id": "cave-of-origin",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cave of Origin"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Origine"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sunyshore-market",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sunyshore Market"
+  },
+  "locale": {
+    "fr": {
+      "name": "Marché Rivamar"
+    }
+  }
+}

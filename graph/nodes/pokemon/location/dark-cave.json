@@ -1,0 +1,15 @@
+{
+  "id": "dark-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Dark Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Antre Noir"
+    }
+  }
+}

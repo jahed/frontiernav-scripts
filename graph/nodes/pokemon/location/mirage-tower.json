@@ -1,0 +1,15 @@
+{
+  "id": "mirage-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Mirage Tower"
+  },
+  "locale": {
+    "fr": {
+      "name": "Tour Mirage"
+    }
+  }
+}

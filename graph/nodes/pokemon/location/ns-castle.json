@@ -1,0 +1,18 @@
+{
+  "id": "ns-castle",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "N's Castle"
+  },
+  "locale": {
+    "ja": {
+      "name": "Ｎの城"
+    },
+    "fr": {
+      "name": "Palais de N"
+    }
+  }
+}

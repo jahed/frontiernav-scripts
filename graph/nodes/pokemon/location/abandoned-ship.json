@@ -1,0 +1,15 @@
+{
+  "id": "abandoned-ship",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Abandoned Ship"
+  },
+  "locale": {
+    "fr": {
+      "name": "Épave"
+    }
+  }
+}

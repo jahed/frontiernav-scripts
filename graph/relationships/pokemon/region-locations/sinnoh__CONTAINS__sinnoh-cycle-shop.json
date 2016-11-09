@@ -1,0 +1,6 @@
+{
+  "id": "sinnoh__CONTAINS__sinnoh-cycle-shop",
+  "start": "sinnoh",
+  "end": "sinnoh-cycle-shop",
+  "type": "CONTAINS"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sevault-canyon",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sevault Canyon"
+  },
+  "locale": {
+    "fr": {
+      "name": "Canyon Sesor"
+    }
+  }
+}

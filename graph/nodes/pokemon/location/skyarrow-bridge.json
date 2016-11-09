@@ -1,0 +1,18 @@
+{
+  "id": "skyarrow-bridge",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Skyarrow Bridge"
+  },
+  "locale": {
+    "ja": {
+      "name": "スカイアローブリッジ"
+    },
+    "fr": {
+      "name": "Pont Sagiciel"
+    }
+  }
+}

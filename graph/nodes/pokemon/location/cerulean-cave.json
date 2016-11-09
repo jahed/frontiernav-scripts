@@ -1,0 +1,15 @@
+{
+  "id": "cerulean-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cerulean Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Caverne Azurée"
+    }
+  }
+}

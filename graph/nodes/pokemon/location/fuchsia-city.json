@@ -1,0 +1,15 @@
+{
+  "id": "fuchsia-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Fuchsia City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Parmanie"
+    }
+  }
+}

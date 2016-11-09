@@ -1,0 +1,15 @@
+{
+  "id": "ss-anne",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "S.S. Anne"
+  },
+  "locale": {
+    "fr": {
+      "name": "L'Océane"
+    }
+  }
+}

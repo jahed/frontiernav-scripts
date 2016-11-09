@@ -1,0 +1,15 @@
+{
+  "id": "tanoby-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Tanoby Ruins"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ruines Tanoby"
+    }
+  }
+}

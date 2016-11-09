@@ -1,0 +1,18 @@
+{
+  "id": "unity-tower",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Unity Tower"
+  },
+  "locale": {
+    "ja": {
+      "name": "ユナイテッドタワー"
+    },
+    "fr": {
+      "name": "Tour Union"
+    }
+  }
+}

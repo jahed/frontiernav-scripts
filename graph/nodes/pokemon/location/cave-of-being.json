@@ -1,0 +1,18 @@
+{
+  "id": "cave-of-being",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cave of Being"
+  },
+  "locale": {
+    "ja": {
+      "name": "心の空洞"
+    },
+    "fr": {
+      "name": "Caverne des Esprits"
+    }
+  }
+}

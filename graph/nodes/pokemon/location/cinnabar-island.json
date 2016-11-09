@@ -1,0 +1,15 @@
+{
+  "id": "cinnabar-island",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cinnabar Island"
+  },
+  "locale": {
+    "fr": {
+      "name": "Cramois'Ile"
+    }
+  }
+}

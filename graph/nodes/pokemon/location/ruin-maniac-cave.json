@@ -1,0 +1,15 @@
+{
+  "id": "ruin-maniac-cave",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ruin Maniac Cave"
+  },
+  "locale": {
+    "fr": {
+      "name": "Grotte Ruinem."
+    }
+  }
+}

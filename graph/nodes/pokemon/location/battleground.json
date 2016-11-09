@@ -1,0 +1,15 @@
+{
+  "id": "battleground",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battleground"
+  },
+  "locale": {
+    "fr": {
+      "name": "Café Combats"
+    }
+  }
+}

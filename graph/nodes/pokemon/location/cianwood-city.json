@@ -1,0 +1,15 @@
+{
+  "id": "cianwood-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Cianwood City"
+  },
+  "locale": {
+    "fr": {
+      "name": "Irisia"
+    }
+  }
+}

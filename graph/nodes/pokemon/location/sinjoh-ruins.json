@@ -1,0 +1,15 @@
+{
+  "id": "sinjoh-ruins",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Sinjoh Ruins"
+  },
+  "locale": {
+    "fr": {
+      "name": "Ruines Sinjoh"
+    }
+  }
+}

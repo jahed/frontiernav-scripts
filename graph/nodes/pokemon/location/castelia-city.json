@@ -1,0 +1,18 @@
+{
+  "id": "castelia-city",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Castelia City"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒウンシティ"
+    },
+    "fr": {
+      "name": "Volucité"
+    }
+  }
+}

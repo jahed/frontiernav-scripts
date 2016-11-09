@@ -1,0 +1,15 @@
+{
+  "id": "battle-castle",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Battle Castle"
+  },
+  "locale": {
+    "fr": {
+      "name": "Castel de Combat"
+    }
+  }
+}

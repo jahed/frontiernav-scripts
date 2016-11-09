@@ -1,0 +1,18 @@
+{
+  "id": "hidden-grotto",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Hidden Grotto"
+  },
+  "locale": {
+    "ja": {
+      "name": "隠し穴"
+    },
+    "fr": {
+      "name": "Trouée Cachée"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "friend-safari",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Friend Safari"
+  },
+  "locale": {
+    "ja": {
+      "name": "フレンドサファリ"
+    },
+    "ko": {
+      "name": "프렌드사파리"
+    },
+    "fr": {
+      "name": "Safari des Amis"
+    },
+    "de": {
+      "name": "Kontaktsafari"
+    },
+    "es": {
+      "name": "Safari Amistad"
+    },
+    "it": {
+      "name": "Safari Amici"
+    }
+  }
+}

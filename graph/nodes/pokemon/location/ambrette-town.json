@@ -1,0 +1,30 @@
+{
+  "id": "ambrette-town",
+  "labels": [
+    "Location",
+    "PokemonSeries"
+  ],
+  "data": {
+    "name": "Ambrette Town"
+  },
+  "locale": {
+    "ja": {
+      "name": "コウジンタウン"
+    },
+    "ko": {
+      "name": "가라마을"
+    },
+    "fr": {
+      "name": "Roche-sur-Gliffe"
+    },
+    "de": {
+      "name": "Petrophia"
+    },
+    "es": {
+      "name": "Pueblo Petroglifo"
+    },
+    "it": {
+      "name": "Petroglifari"
+    }
+  }
+}
