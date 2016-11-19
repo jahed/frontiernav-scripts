@@ -50,11 +50,9 @@ describe('Graph', () => {
     })
 
     it('nodes assigned to relationships should be defined', () => {
+        const nodesById = _(nodes).keyBy('content.id').value()
         relationships.forEach(relationship => {
-            const nodesExist = _(nodes)
-                .map(node => node.content.id)
-                .includes(relationship.content.start, relationship.content.end)
-
+            const nodesExist = nodesById[relationship.content.start] && nodesById[relationship.content.end]
             assert.ok(nodesExist, `Relationship(${relationship.content.id}) has unknown nodes`)
         })
     })
