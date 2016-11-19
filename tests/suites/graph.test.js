@@ -41,20 +41,43 @@ describe('Graph', () => {
     })
 
     it('labels assigned to nodes should be defined', () => {
-        nodes.forEach(node => {
-            node.content.labels.forEach(labelId => {
-                const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.id === labelId)
-                assert.ok(labelExists, `Node(${node.content.id}) has unknown Label(${labelId})`)
+        nodes
+            .map(node => node.content)
+            .forEach(node => {
+                node.labels.forEach(labelId => {
+                    const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.id === labelId)
+                    assert.ok(labelExists, `Node(${node.id}) has unknown Label(${labelId})`)
+                })
             })
-        })
     })
 
     it('nodes assigned to relationships should be defined', () => {
         const nodesById = _(nodes).keyBy('content.id').value()
-        relationships.forEach(relationship => {
-            const nodesExist = nodesById[relationship.content.start] && nodesById[relationship.content.end]
-            assert.ok(nodesExist, `Relationship(${relationship.content.id}) has unknown nodes`)
-        })
+        relationships
+            .map(relationship => relationship.content)
+            .forEach(relationship => {
+                const nodesExist = nodesById[relationship.start] && nodesById[relationship.end]
+                assert.ok(nodesExist, `Relationship(${relationship.id}) has unknown nodes`)
+            })
+    })
+
+    it('nodes assigned to relationships should have necessary labels', () => {
+        const nodesById = _(nodes).mapValues('content').keyBy('id').value()
+        const typesById = _(relationshipTypes).mapValues('content').keyBy('id').value()
+
+        relationships
+            .map(relationship => relationship.content)
+            .filter(relationship => !!typesById[relationship.type])
+            .forEach(relationship => {
+                const type = typesById[relationship.type]
+                const assertLabels = (node, key) => {
+                    const hasLabels = !type[key] || type[key].some(labelId => node.labels.indexOf(labelId) !== -1)
+                    assert.ok(hasLabels, `Relationship(${relationship.id}) needed ${key}(${type[key]}) but got [${node.labels}]`)
+                }
+
+                assertLabels(nodesById[relationship.start], 'startLabels')
+                assertLabels(nodesById[relationship.end], 'endLabels')
+            })
     })
 
     describe('locale', () => {

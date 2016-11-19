@@ -1,0 +1,5 @@
+{
+  "id": "MARKED_WITH",
+  "startLabels": ["MapLayer"],
+  "endLabels": ["MapMarker", "MapArea"]
+}
