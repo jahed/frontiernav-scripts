@@ -1,7 +1,7 @@
 {
   "id": "sg2layerViewsg1lv2",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "sg1",
-  "end": "lv2"
+  "start": "lv2",
+  "end": "sg1"
 }

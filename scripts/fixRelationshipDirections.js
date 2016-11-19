@@ -10,7 +10,11 @@ transformAll('./graph/relationships', '.json', relationship => {
     const endNode = nodes[relationship.end]
 
     if(endNode.labels.indexOf('MapLayer') !== -1) {
-        if(startNode.labels.indexOf('MapMarker') !== -1 || startNode.labels.indexOf('MapArea') !== -1) {
+        if(startNode.labels.indexOf('MapMarker') !== -1
+            || startNode.labels.indexOf('MapArea') !== -1
+            || startNode.labels.indexOf('FNSiteGraph') !== -1
+            || startNode.labels.indexOf('SegmentGrid') !== -1
+        ) {
             return Object.assign({}, relationship, {
                 start: endNode.id,
                 end: startNode.id,
@@ -20,7 +24,11 @@ transformAll('./graph/relationships', '.json', relationship => {
     }
 
     if(startNode.labels.indexOf('MapLayer') !== -1) {
-        if(endNode.labels.indexOf('MapMarker') !== -1 || endNode.labels.indexOf('MapArea') !== -1) {
+        if(endNode.labels.indexOf('MapMarker') !== -1
+            || endNode.labels.indexOf('MapArea') !== -1
+            || endNode.labels.indexOf('FNSiteGraph') !== -1
+            || endNode.labels.indexOf('SegmentGrid') !== -1
+        ) {
             return Object.assign({}, relationship, {
                 type: 'MARKED_WITH',
             })

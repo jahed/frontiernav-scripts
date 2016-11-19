@@ -51,6 +51,25 @@ describe('Graph', () => {
             })
     })
 
+    it('labels assigned to RelationshipTypes should be defined', () => {
+        const assertLabelsExist = (relationshipType, key) => {
+            const labels = relationshipType[key]
+            if(!labels) return
+
+            labels.forEach(labelId => {
+                const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.id === labelId)
+                assert.ok(labelExists, `RelationshipType(${relationshipType.id}) has unknown ${key}(${labelId})`)
+            })
+        }
+
+        relationshipTypes
+            .map(relationshipType => relationshipType.content)
+            .forEach(relationshipType => {
+                assertLabelsExist(relationshipType, 'startLabels')
+                assertLabelsExist(relationshipType, 'endLabels')
+            })
+    })
+
     it('nodes assigned to relationships should be defined', () => {
         const nodesById = _(nodes).keyBy('content.id').value()
         relationships
