@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpeqBU1Chklv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "peqBU1Chk",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "peqBU1Chk"
 }

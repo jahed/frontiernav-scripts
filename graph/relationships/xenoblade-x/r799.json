@@ -1,6 +1,6 @@
 {
   "id": "r799",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "start": "nla-locations-layer",
   "end": "n798",
   "data": {}

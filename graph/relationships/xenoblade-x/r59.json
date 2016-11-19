@@ -1,6 +1,6 @@
 {
   "id": "r59",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "start": "lv5",
   "end": "n58"
 }

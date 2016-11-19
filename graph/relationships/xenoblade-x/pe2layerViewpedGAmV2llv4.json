@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpedGAmV2llv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "pedGAmV2l",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "pedGAmV2l"
 }

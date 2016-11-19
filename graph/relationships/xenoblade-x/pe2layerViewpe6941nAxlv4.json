@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpe6941nAxlv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "pe6941nAx",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "pe6941nAx"
 }

@@ -18,8 +18,10 @@ module.exports = function transformAll(rootDir, extension, mapFunction) {
                 const node = JSON.parse(fileContent)
                 const newNode = mapFunction(node)
 
-                fs.writeFileSync(filePath, JSON.stringify(newNode, undefined, 2) + '\n', { encoding: 'utf8' })
-                console.log(`[OK] Wrote new node in ${filePath}`)
+                if(!_.isEqual(newNode, node)) {
+                    fs.writeFileSync(filePath, JSON.stringify(newNode, undefined, 2) + '\n', { encoding: 'utf8' })
+                    console.log(`[OK] Wrote new node in ${filePath}`)
+                }
             })
     })
 }

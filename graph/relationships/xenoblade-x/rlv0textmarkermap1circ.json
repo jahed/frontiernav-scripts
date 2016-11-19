@@ -1,5 +1,6 @@
 {
   "id": "rlv0textmarkermap1circ",
   "start": "lv0",
-  "end": "textmarkermap1circ"
+  "end": "textmarkermap1circ",
+  "type": "MARKED_WITH"
 }

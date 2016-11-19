@@ -1,7 +1,7 @@
 {
   "id": "shape2layerViewshape4i72lv1",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "shape4i72",
-  "end": "lv1"
+  "start": "lv1",
+  "end": "shape4i72"
 }
