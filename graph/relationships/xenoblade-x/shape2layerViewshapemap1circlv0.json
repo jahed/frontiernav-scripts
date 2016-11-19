@@ -1,5 +1,6 @@
 {
   "id": "shape2layerViewshapemap1circlv0",
   "start": "lv0",
-  "end": "shapemap1circ"
+  "end": "shapemap1circ",
+  "type": "MARKED_WITH"
 }

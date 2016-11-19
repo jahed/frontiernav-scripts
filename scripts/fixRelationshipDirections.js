@@ -19,8 +19,8 @@ transformAll('./graph/relationships', '.json', relationship => {
         }
     }
 
-    if(endNode.labels.indexOf('MapMarker') !== -1 || startNode.labels.indexOf('MapArea') !== -1) {
-        if(startNode.labels.indexOf('MapLayer') !== -1) {
+    if(startNode.labels.indexOf('MapLayer') !== -1) {
+        if(endNode.labels.indexOf('MapMarker') !== -1 || endNode.labels.indexOf('MapArea') !== -1) {
             return Object.assign({}, relationship, {
                 type: 'MARKED_WITH',
             })
