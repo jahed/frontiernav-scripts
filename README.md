@@ -83,8 +83,8 @@ In most cases, it's worth providing these properties on any type of Object so we
 A node can relate to another node. Such a relationship is of a certain type. For example, a Game "HAS" a Map. The `RelationshipType` there is `HAS`.
 
 - `.id` - In UPPERCASE_SNAKE_CASE
-- `.startLabels[NodeLabel*] - At least one of these NodeLabels need to be applied to the **start** Node of the Relationship
-- `.endLabels[NodeLabel*]  - At least one of these NodeLabels need to be applied to the **end** Node of the Relationship
+- `.startLabels[NodeLabel*]` - At least one of these NodeLabels need to be applied to the **start** Node of the Relationship
+- `.endLabels[NodeLabel*]`  - At least one of these NodeLabels need to be applied to the **end** Node of the Relationship
 - `.properties[Property*]` - The Properties applicable to any Relationships marked with this NodeLabel
 
 ### Relationship
