@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpeAS901ZGlv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "peAS901ZG",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "peAS901ZG"
 }

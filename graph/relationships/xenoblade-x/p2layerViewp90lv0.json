@@ -1,7 +1,7 @@
 {
   "id": "p2layerViewp90lv0",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "p90",
-  "end": "lv0"
+  "start": "lv0",
+  "end": "p90"
 }

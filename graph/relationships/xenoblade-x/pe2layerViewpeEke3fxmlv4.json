@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpeEke3fxmlv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "peEke3fxm",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "peEke3fxm"
 }

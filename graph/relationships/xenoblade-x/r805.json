@@ -1,6 +1,6 @@
 {
   "id": "r805",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "start": "n643",
   "end": "n792",
   "data": {}

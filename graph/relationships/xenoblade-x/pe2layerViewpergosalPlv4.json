@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpergosalPlv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "pergosalP",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "pergosalP"
 }

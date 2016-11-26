@@ -1,7 +1,7 @@
 {
   "id": "pe2layerViewpe7V9v4Palv4",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "pe7V9v4Pa",
-  "end": "lv4"
+  "start": "lv4",
+  "end": "pe7V9v4Pa"
 }

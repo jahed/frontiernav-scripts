@@ -1,7 +1,7 @@
 {
   "id": "siteGraph2layerViewsiteGraph0lv3",
-  "type": "HAS",
+  "type": "MARKED_WITH",
   "data": {},
-  "start": "siteGraph0",
-  "end": "lv3"
+  "start": "lv3",
+  "end": "siteGraph0"
 }

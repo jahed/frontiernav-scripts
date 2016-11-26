@@ -1,0 +1,7 @@
+{
+  "id": "kanto-location-layer__MARKED_WITH__pallet-town-marker",
+  "type": "MARKED_WITH",
+  "start": "kanto-location-layer",
+  "end": "pallet-town-marker",
+  "data": {}
+}
