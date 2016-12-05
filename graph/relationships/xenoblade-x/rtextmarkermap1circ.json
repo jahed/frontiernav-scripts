@@ -1,5 +1,6 @@
 {
   "id": "rtextmarkermap1circ",
+  "type": "MAP_LINK",
   "start": "map1",
   "end": "textmarkermap1circ"
 }
