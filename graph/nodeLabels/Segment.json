@@ -11,7 +11,6 @@
     },
     "s": {
       "required": true
-    },
-    "hidden": {}
+    }
   }
 }
