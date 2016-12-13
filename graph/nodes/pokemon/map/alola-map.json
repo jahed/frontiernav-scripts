@@ -9,10 +9,10 @@
     "name": "Alola",
     "tileLayers": {
       "normal": {
-        "folder": "pokemon-alola",
+        "folder": "pokemon-alola-game",
         "extension": "jpg",
         "background": {
-          "color": "#092844"
+          "color": "#08145A"
         }
       }
     },
