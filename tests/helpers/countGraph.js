@@ -1,3 +1,9 @@
-module.exports = function countGraph({ nodeLabels, nodes, relationships, relationshipTypes }) {
-    return `${nodeLabels.length} nodeLabels, ${nodes.length} nodes, ${relationships.length} relationships, ${relationshipTypes.length} relationshipTypes`
+const _ = require('lodash')
+
+module.exports = function countGraph(graph) {
+    return _(graph)
+        .mapValues(objects => _.size(objects))
+        .toPairs()
+        .map(p => _(p).reverse().join(' '))
+        .join(', ')
 }
