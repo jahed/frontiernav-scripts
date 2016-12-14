@@ -1,0 +1,27 @@
+{
+  "id": "pokemon-red-blue",
+  "labels": [
+    "Game",
+    "PokemonSeries",
+    "PokemonRBY"
+  ],
+  "data": {
+    "name": "Pokémon Red, Blue & Yellow",
+    "boxart": "pokemon-rby-boxart.jpg",
+    "image": "pokemon-rby-banner.jpg",
+    "platform": "Nintendo Game Boy",
+    "initialRelease": "1996",
+    "worldName": "Kanto",
+    "theme": {
+      "mainColor": "#2f6957",
+      "stylesheet": "gameboy"
+    },
+    "mapBackground": {
+      "color": "#ffffff"
+    },
+    "searchLabels": {
+      "PokemonRBY": true,
+      "PokemonSeries": true
+    }
+  }
+}

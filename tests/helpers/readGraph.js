@@ -1,10 +1,8 @@
 const fs = require('fs')
 const file = require('file')
 const path = require('path')
-const toml = require('toml')
 
 const parsers = {
-    '.toml': toml.parse,
     '.json': JSON.parse
 }
 
