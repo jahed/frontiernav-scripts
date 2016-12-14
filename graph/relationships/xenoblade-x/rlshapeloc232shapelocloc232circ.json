@@ -1,5 +1,6 @@
 {
   "id": "rlshapeloc232shapelocloc232circ",
   "start": "loc232",
-  "end": "shapelocloc232circ"
+  "end": "shapelocloc232circ",
+  "type": "HAS"
 }

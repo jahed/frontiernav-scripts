@@ -2,6 +2,6 @@
   "id": "rlp80p80",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc80",
-  "end": "p80"
+  "start": "p80",
+  "end": "loc80"
 }

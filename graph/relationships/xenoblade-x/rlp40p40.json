@@ -2,6 +2,6 @@
   "id": "rlp40p40",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc40",
-  "end": "p40"
+  "start": "p40",
+  "end": "loc40"
 }

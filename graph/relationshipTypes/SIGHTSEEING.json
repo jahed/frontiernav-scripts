@@ -1,0 +1,9 @@
+{
+  "id": "SIGHTSEEING",
+  "startLabels": [
+    "FNSite"
+  ],
+  "endLabels": [
+    "Location"
+  ]
+}

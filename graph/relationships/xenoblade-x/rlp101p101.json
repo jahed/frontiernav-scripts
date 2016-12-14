@@ -2,6 +2,6 @@
   "id": "rlp101p101",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc101",
-  "end": "p101"
+  "start": "p101",
+  "end": "loc101"
 }

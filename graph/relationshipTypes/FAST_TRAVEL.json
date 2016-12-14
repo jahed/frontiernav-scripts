@@ -1,0 +1,9 @@
+{
+  "id": "FAST_TRAVEL",
+  "startLabels": [
+    "Location"
+  ],
+  "endLabels": [
+    "Segment"
+  ]
+}

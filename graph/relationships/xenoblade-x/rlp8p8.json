@@ -2,6 +2,6 @@
   "id": "rlp8p8",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc8",
-  "end": "p8"
+  "start": "p8",
+  "end": "loc8"
 }

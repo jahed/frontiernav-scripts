@@ -1,0 +1,9 @@
+{
+  "id": "START",
+  "startLabels": [
+    "FNSiteGraph"
+  ],
+  "endLabels": [
+    "FNSite"
+  ]
+}

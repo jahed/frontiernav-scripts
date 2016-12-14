@@ -1,0 +1,10 @@
+{
+  "id": "MAP_LINK",
+  "startLabels": [
+    "MapMarker",
+    "MapArea",
+    "FNSiteGraph",
+    "SegmentGrid"
+  ],
+  "endLabels": null
+}

@@ -2,6 +2,6 @@
   "id": "rlp30p30",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc30",
-  "end": "p30"
+  "start": "p30",
+  "end": "loc30"
 }

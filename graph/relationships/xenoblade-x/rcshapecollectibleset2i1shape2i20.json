@@ -2,6 +2,6 @@
   "id": "rcshapecollectibleset2i1shape2i20",
   "type": "MAP_LINK",
   "data": {},
-  "start": "collectibleset2i1",
-  "end": "shape2i20"
+  "start": "shape2i20",
+  "end": "collectibleset2i1"
 }

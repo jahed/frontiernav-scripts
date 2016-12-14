@@ -1,7 +1,7 @@
 {
   "id": "r483",
   "type": "GOAL",
-  "start": "mission384-12",
-  "end": "n588",
+  "start": "n588",
+  "end": "mission384-12",
   "data": {}
 }

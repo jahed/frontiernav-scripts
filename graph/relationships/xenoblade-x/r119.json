@@ -1,7 +1,7 @@
 {
   "id": "r119",
   "type": "GOAL",
-  "start": "miscind115",
-  "end": "n172",
+  "start": "n172",
+  "end": "miscind115",
   "data": {}
 }

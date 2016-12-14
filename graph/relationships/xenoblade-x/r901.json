@@ -1,7 +1,7 @@
 {
   "id": "r901",
   "type": "GOAL",
-  "start": "misccomm315",
-  "end": "n235",
+  "start": "n235",
+  "end": "misccomm315",
   "data": {}
 }

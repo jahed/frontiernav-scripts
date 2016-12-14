@@ -1,7 +1,7 @@
 {
   "id": "r486",
   "type": "GOAL",
-  "start": "mission4100-10",
-  "end": "n175",
+  "start": "n175",
+  "end": "mission4100-10",
   "data": {}
 }

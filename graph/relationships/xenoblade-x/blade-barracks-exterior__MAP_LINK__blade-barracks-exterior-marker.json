@@ -1,7 +1,7 @@
 {
   "id": "blade-barracks-exterior__MAP_LINK__blade-barracks-exterior-marker",
   "type": "MAP_LINK",
-  "start": "blade-barracks-exterior",
-  "end": "blade-barracks-exterior-marker",
+  "start": "blade-barracks-exterior-marker",
+  "end": "blade-barracks-exterior",
   "data": {}
 }

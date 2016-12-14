@@ -5,35 +5,70 @@ const readGraph = require('../tests/helpers/readGraph')
 const graph = readGraph('./graph', r => r.content)
 const nodes = _.keyBy(graph.nodes, 'id')
 
-transformAll('./graph/relationships', '.json', relationship => {
-    const startNode = nodes[relationship.start]
-    const endNode = nodes[relationship.end]
+fixUnsetRelationshipTypes()
 
-    if(endNode.labels.indexOf('MapLayer') !== -1) {
-        if(startNode.labels.indexOf('MapMarker') !== -1
-            || startNode.labels.indexOf('MapArea') !== -1
-            || startNode.labels.indexOf('FNSiteGraph') !== -1
-            || startNode.labels.indexOf('SegmentGrid') !== -1
-        ) {
-            return Object.assign({}, relationship, {
-                start: endNode.id,
-                end: startNode.id,
-                type: 'MARKED_WITH',
-            })
+function fixUnsetRelationshipTypes() {
+    transformAll('./graph/relationships', '.json', relationship => {
+        if(typeof relationship.type !== 'undefined') {
+            return relationship
         }
-    }
 
-    if(startNode.labels.indexOf('MapLayer') !== -1) {
-        if(endNode.labels.indexOf('MapMarker') !== -1
-            || endNode.labels.indexOf('MapArea') !== -1
-            || endNode.labels.indexOf('FNSiteGraph') !== -1
-            || endNode.labels.indexOf('SegmentGrid') !== -1
-        ) {
-            return Object.assign({}, relationship, {
-                type: 'MARKED_WITH',
-            })
+        return Object.assign({}, relationship, {
+            type: 'HAS'
+        })
+    })
+}
+
+function fixSegmentGoalDirections() {
+    transformAll('./graph/relationships', '.json', relationship => {
+        if(relationship.type !== 'GOAL') {
+            return relationship
         }
-    }
 
-    return relationship
-})
+        const startNode = nodes[relationship.start]
+        const endNode = nodes[relationship.end]
+
+        if(nodeHasLabel(startNode, 'Segment')) {
+            return relationship
+        }
+
+        return Object.assign({}, relationship, {
+            type: 'GOAL',
+            start: endNode.id,
+            end: startNode.id,
+        })
+    })
+}
+
+function fixMapLinkDirections() {
+    transformAll('./graph/relationships', '.json', relationship => {
+        if(relationship.type !== 'MAP_LINK') {
+            return relationship
+        }
+
+        const startNode = nodes[relationship.start]
+        const endNode = nodes[relationship.end]
+
+        if(nodeIsMarker(startNode)) {
+            return relationship
+        }
+
+        return Object.assign({}, relationship, {
+            type: 'MAP_LINK',
+            start: endNode.id,
+            end: startNode.id,
+        })
+    })
+}
+
+
+function nodeHasLabel(node, label) {
+    return node.labels.indexOf(label) !== -1
+}
+
+function nodeIsMarker(node) {
+    return nodeHasLabel(node, 'MapMarker')
+        || nodeHasLabel(node, 'MapArea')
+        || nodeHasLabel(node, 'FNSiteGraph')
+        || nodeHasLabel(node, 'SegmentGrid')
+}

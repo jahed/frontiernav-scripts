@@ -2,6 +2,6 @@
   "id": "rlp320p320",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc320",
-  "end": "p320"
+  "start": "p320",
+  "end": "loc320"
 }

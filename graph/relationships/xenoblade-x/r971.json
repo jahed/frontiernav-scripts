@@ -1,7 +1,7 @@
 {
   "id": "r971",
   "type": "GOAL",
-  "start": "mission491-10",
-  "end": "n499",
+  "start": "n499",
+  "end": "mission491-10",
   "data": {}
 }

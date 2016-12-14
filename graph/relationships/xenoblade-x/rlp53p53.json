@@ -2,6 +2,6 @@
   "id": "rlp53p53",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc53",
-  "end": "p53"
+  "start": "p53",
+  "end": "loc53"
 }

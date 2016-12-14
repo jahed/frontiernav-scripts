@@ -2,6 +2,6 @@
   "id": "rlp180p180",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc180",
-  "end": "p180"
+  "start": "p180",
+  "end": "loc180"
 }

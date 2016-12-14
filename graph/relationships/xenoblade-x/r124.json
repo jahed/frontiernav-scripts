@@ -1,7 +1,7 @@
 {
   "id": "r124",
   "type": "GOAL",
-  "start": "misccomm120",
-  "end": "n206",
+  "start": "n206",
+  "end": "misccomm120",
   "data": {}
 }

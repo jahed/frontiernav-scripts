@@ -2,6 +2,6 @@
   "id": "rlp77p77",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc77",
-  "end": "p77"
+  "start": "p77",
+  "end": "loc77"
 }

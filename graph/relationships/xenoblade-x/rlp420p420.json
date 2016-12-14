@@ -2,6 +2,6 @@
   "id": "rlp420p420",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc420",
-  "end": "p420"
+  "start": "p420",
+  "end": "loc420"
 }

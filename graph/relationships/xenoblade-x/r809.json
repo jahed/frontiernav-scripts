@@ -1,7 +1,7 @@
 {
   "id": "r809",
   "type": "MAP_LINK",
-  "start": "map2",
-  "end": "manon-ship-marker",
+  "start": "manon-ship-marker",
+  "end": "map2",
   "data": {}
 }

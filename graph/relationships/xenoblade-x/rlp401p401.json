@@ -2,6 +2,6 @@
   "id": "rlp401p401",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc401",
-  "end": "p401"
+  "start": "p401",
+  "end": "loc401"
 }

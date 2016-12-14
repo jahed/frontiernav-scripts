@@ -1,7 +1,7 @@
 {
   "id": "r58",
   "type": "MAP_LINK",
-  "start": "n22",
-  "end": "n64",
+  "start": "n64",
+  "end": "n22",
   "data": {}
 }

@@ -2,6 +2,6 @@
   "id": "rlp256p256",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc256",
-  "end": "p256"
+  "start": "p256",
+  "end": "loc256"
 }

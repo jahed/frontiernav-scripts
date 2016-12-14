@@ -1,7 +1,7 @@
 {
   "id": "r206",
   "type": "GOAL",
-  "start": "h2hscres250",
-  "end": "n45",
+  "start": "n45",
+  "end": "h2hscres250",
   "data": {}
 }

@@ -1,7 +1,7 @@
 {
   "id": "r205",
   "type": "GOAL",
-  "start": "miscres200",
-  "end": "n44",
+  "start": "n44",
+  "end": "miscres200",
   "data": {}
 }

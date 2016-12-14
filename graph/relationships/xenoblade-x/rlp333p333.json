@@ -2,6 +2,6 @@
   "id": "rlp333p333",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc333",
-  "end": "p333"
+  "start": "p333",
+  "end": "loc333"
 }

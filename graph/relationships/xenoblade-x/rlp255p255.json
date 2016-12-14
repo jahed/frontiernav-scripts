@@ -2,6 +2,6 @@
   "id": "rlp255p255",
   "type": "MAP_LINK",
   "data": {},
-  "start": "loc255",
-  "end": "p255"
+  "start": "p255",
+  "end": "loc255"
 }
