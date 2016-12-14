@@ -1,0 +1,8 @@
+{
+  "id": "latLngs",
+  "type": "array",
+  "minItems": 3,
+  "items": {
+    "$ref": "#/definitions/latLng"
+  }
+}

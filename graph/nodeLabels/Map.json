@@ -3,7 +3,7 @@
   "name": "Map",
   "searchable": true,
   "pageDescription": "View an interactive map of {name} in Xenoblade Chronicles X.",
-  "schema": {
+  "properties": {
     "name": {
       "required": true
     },

@@ -2,7 +2,7 @@
   "id": "MapMarker",
   "name": "Map Marker",
   "pageDescription": "Use various map markers to see points of interest in Xenoblade Chronicles X.",
-  "schema": {
+  "properties": {
     "markerStyle": {
       "required": true
     },

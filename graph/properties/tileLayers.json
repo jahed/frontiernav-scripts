@@ -1,0 +1,12 @@
+{
+  "id": "tileLayers",
+  "type": "object",
+  "required": [
+    "normal"
+  ],
+  "properties": {
+    "normal": {
+      "$ref": "#/definitions/tileLayer"
+    }
+  }
+}

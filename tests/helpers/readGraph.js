@@ -39,6 +39,6 @@ module.exports = function readGraph(graphPath, mapResult = i => i) {
         relationships:     read('relationships'),
         relationshipTypes: read('relationshipTypes'),
         locales:           read('locales'),
+        properties:        read('properties'),
     }
-
 }

@@ -3,7 +3,7 @@
   "path": "SegmentGrid",
   "name": "Segment Grid",
   "pageDescription": "Segment Grids cover regions with segments to explore.",
-  "schema": {
+  "properties": {
     "segmentDimensions": {
       "required": true
     },

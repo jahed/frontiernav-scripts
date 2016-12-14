@@ -3,7 +3,7 @@
   "name": "Enemy Category",
   "searchable": true,
   "pageDescription": "Find out more about {name} indigens and where you ca find them",
-  "schema": {
+  "properties": {
     "name": {
       "required": true
     }

@@ -3,7 +3,7 @@
   "name": "Location",
   "searchable": true,
   "pageDescription": "Here's what you can find in and around {name} in Xenoblade Chronicles X.",
-  "schema": {
+  "properties": {
     "name": {
       "required": true
     },

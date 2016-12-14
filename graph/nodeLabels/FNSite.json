@@ -4,7 +4,7 @@
   "name": "FN Site",
   "searchable": true,
   "pageDescription": "View the complete probe map of Xenoblade Chronicles X and optimise your setup easily.",
-  "schema": {
+  "properties": {
     "number": {
       "required": true
     },

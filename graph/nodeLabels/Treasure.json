@@ -3,7 +3,7 @@
   "name": "Treasure",
   "searchable": true,
   "pageDescription": "Find out where you can find various treasure in Xenoblade Chronicles X",
-  "schema": {
+  "properties": {
     "object": {
       "required": true
     },

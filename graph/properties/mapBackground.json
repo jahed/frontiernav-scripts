@@ -1,0 +1,15 @@
+{
+  "id": "mapBackground",
+  "type": "object",
+  "properties": {
+    "image": {
+      "$ref": "#/definitions/image"
+    },
+    "color": {
+      "$ref": "#/definitions/color"
+    },
+    "repeat": {
+      "type": "boolean"
+    }
+  }
+}
