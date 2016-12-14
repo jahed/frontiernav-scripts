@@ -8,9 +8,7 @@
       "required": true
     },
     "image": {},
-    "locationTypeId": {
-      "required": true
-    },
+    "locationTypeId": {},
     "notes": {},
     "externalLinks": {}
   }

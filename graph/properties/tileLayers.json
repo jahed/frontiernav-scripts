@@ -6,7 +6,38 @@
   ],
   "properties": {
     "normal": {
-      "$ref": "#/definitions/tileLayer"
+      "id": "tileLayer",
+      "type": "object",
+      "required": [
+        "folder",
+        "extension"
+      ],
+      "properties": {
+        "folder": {
+          "type": "string"
+        },
+        "extension": {
+          "type": "string",
+          "enum": [
+            "png",
+            "jpg"
+          ]
+        },
+        "background": {
+          "type": "object",
+          "properties": {
+            "image": {
+              "type": "string"
+            },
+            "color": {
+              "type": "string"
+            },
+            "repeat": {
+              "type": "boolean"
+            }
+          }
+        }
+      }
     }
   }
 }

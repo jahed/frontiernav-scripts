@@ -1,11 +1,12 @@
 const path = require('path')
 const assert = require('assert')
 const _ = require('lodash')
+const Ajv = require('ajv')
 const readGraph = require('../helpers/readGraph')
 const countGraph = require('../helpers/countGraph')
 
 const graph = readGraph('./graph')
-const { nodeLabels, nodes, relationships, relationshipTypes, locales } = graph
+const { nodeLabels, nodes, relationships, relationshipTypes, locales, properties } = graph
 
 describe('Graph', () => {
 
@@ -51,6 +52,30 @@ describe('Graph', () => {
                     })
                 })
         })
+
+        it('nodes should satisfy their labels', () => {
+            const propertiesById = _(properties).keyBy('content.id').value()
+            const nodeLabelsById = _(nodeLabels).keyBy('content.id').value()
+            const ajv = new Ajv()
+            nodes
+                .map(node => node.content)
+                .forEach(node => {
+                    node.labels.forEach(labelId => {
+                        const nodeLabel = nodeLabelsById[labelId].content
+                        _.forEach(nodeLabel.properties, (config, property) => {
+                            const schema = propertiesById[property].content
+                            const value = node.data[property]
+                            if(config.required || typeof value !== 'undefined') {
+                                assert.ok(
+                                    ajv.validate(schema, value),
+                                    `Node(${node.id}).${property}(${JSON.stringify(value)}) does not satisfy NodeLabel(${labelId}).${property}(${JSON.stringify(config)}).` +
+                                    `\n${ajv.errorsText()}, Property(${JSON.stringify(schema, null, 2)})`
+                                )
+                            }
+                        })
+                    })
+                })
+        }).timeout(10000)
 
         describe('locale', () => {
             it('codes should match locale defined in graph', () => {
@@ -104,6 +129,17 @@ describe('Graph', () => {
                     assertLabelsExist(relationshipType, 'endLabels')
                 })
         })
+
+        it('properties assigned to relationshipTypes should be defined', () => {
+            const propertiesById = _(properties).keyBy('content.id').value()
+            _(relationshipTypes)
+                .map(relationshipType => relationshipType.content)
+                .pickBy(relationshipType => !!relationshipType.properties)
+                .forEach(relationshipType => {
+                    const unknownProperties = Object.keys(relationshipType.properties).filter(property => !propertiesById[property])
+                    assert.deepStrictEqual(unknownProperties, [], `RelationshipType(${relationshipType.id}) has unknown properties [${unknownProperties}]`)
+                })
+        })
     })
 
     describe('relationships', () => {
@@ -145,5 +181,28 @@ describe('Graph', () => {
                     assertLabels(nodesById[relationship.end], 'endLabels')
                 })
         })
+
+        it('relationships should satisfy their types', () => {
+            const propertiesById = _(properties).keyBy('content.id').value()
+            const relationshipTypesById = _(relationshipTypes).keyBy('content.id').value()
+            const ajv = new Ajv()
+            relationships
+                .map(relationship => relationship.content)
+                .forEach(relationship => {
+                    const typeId = relationship.type
+                    const relationshipType = relationshipTypesById[typeId].content
+                    _.forEach(relationshipType.properties, (config, property) => {
+                        const schema = propertiesById[property].content
+                        const value = relationship.data && relationship.data[property]
+                        if(config.required || typeof value !== 'undefined') {
+                            assert.ok(
+                                ajv.validate(schema, value),
+                                `Relationship(${relationship.id}).${property}(${JSON.stringify(value)}) does not satisfy RelationshipType(${typeId}).${property}(${JSON.stringify(config)}).` +
+                                `\n${ajv.errorsText()}, Property(${JSON.stringify(schema, null, 2)})`
+                            )
+                        }
+                    })
+                })
+        }).timeout(10000)
     })
 })

@@ -3,6 +3,15 @@
   "type": "array",
   "minItems": 3,
   "items": {
-    "$ref": "#/definitions/latLng"
+    "type": "object",
+    "properties": {
+      "lat": {
+        "type": "number"
+      },
+      "lng": {
+        "type": "number"
+      }
+    },
+    "required": ["lat", "lng"]
   }
 }

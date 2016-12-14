@@ -1,5 +1,8 @@
 {
   "id": "HAS",
   "startLabels": null,
-  "endLabels": null
+  "endLabels": null,
+  "properties": {
+    "order": {}
+  }
 }

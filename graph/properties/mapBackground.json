@@ -3,10 +3,10 @@
   "type": "object",
   "properties": {
     "image": {
-      "$ref": "#/definitions/image"
+      "type": "string"
     },
     "color": {
-      "$ref": "#/definitions/color"
+      "type": "string"
     },
     "repeat": {
       "type": "boolean"

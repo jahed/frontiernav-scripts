@@ -10,9 +10,7 @@
     "tileLayers": {
       "required": true
     },
-    "center": {
-      "required": true
-    },
+    "center": {},
     "defaultZoom": {
       "required": true
     },
