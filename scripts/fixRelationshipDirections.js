@@ -1,11 +1,33 @@
 const _ = require('lodash')
+const path = require('path')
 const transformAll = require('./helpers/transformAll')
 const readGraph = require('../tests/helpers/readGraph')
 
-const graph = readGraph('./graph', r => r.content)
-const nodes = _.keyBy(graph.nodes, 'id')
+// const graph = readGraph('./graph', r => r.content)
+// const nodes = _.keyBy(graph.nodes, 'id')
 
-fixUnsetRelationshipTypes()
+fixRelationshipsWithNoContent()
+
+function fixRelationshipsWithNoContent() {
+    transformAll('./graph/relationships/xenoblade-x/pet-species', '.json', ({ object, fileContent, filePath }) => {
+        if(!!fileContent) {
+            return object
+        }
+
+        const id = path.basename(filePath, path.extname(filePath))
+        const parts = id.split('__')
+        if(parts.length !== 3) {
+            throw new Error(`Found empty file with incorrect filename: ${filePath}`)
+        }
+
+        return {
+            id,
+            start: parts[0],
+            type: parts[1],
+            end: parts[2]
+        }
+    }, i => i)
+}
 
 function fixUnsetRelationshipTypes() {
     transformAll('./graph/relationships', '.json', relationship => {

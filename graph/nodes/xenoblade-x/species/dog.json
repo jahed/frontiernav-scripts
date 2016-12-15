@@ -1,0 +1,11 @@
+{
+  "id": "dog",
+  "labels": [
+    "Species",
+    "XenobladeX"
+  ],
+  "data": {
+    "name": "Dog",
+    "description": "A type of pet to keep in the BLADE Barracks."
+  }
+}
