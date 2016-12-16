@@ -1,7 +1,7 @@
 {
   "id": "this-fair-city__REQUIRES__celica",
   "start": "this-fair-city",
-  "type": "MISSION_PREREQUISITE",
+  "type": "REQUIRES",
   "end": "celica",
   "data": {
     "affinity": 1
