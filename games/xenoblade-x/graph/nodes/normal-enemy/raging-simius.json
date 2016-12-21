@@ -2,8 +2,7 @@
   "id": "raging-simius",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Raging Simius",

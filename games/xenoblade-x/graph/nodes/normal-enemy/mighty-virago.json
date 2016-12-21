@@ -2,8 +2,7 @@
   "id": "mighty-virago",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mighty Virago",

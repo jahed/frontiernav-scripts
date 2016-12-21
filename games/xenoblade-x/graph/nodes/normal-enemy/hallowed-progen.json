@@ -2,8 +2,7 @@
   "id": "hallowed-progen",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hallowed Progen",

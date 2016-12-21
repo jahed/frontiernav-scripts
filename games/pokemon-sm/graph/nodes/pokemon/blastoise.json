@@ -1,8 +1,7 @@
 {
   "id": "blastoise",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 9,

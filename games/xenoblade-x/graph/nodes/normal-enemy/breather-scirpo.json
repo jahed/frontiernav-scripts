@@ -2,8 +2,7 @@
   "id": "breather-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Breather Scirpo",

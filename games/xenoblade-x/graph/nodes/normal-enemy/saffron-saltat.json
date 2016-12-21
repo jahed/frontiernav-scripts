@@ -2,8 +2,7 @@
   "id": "saffron-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Saffron Saltat",

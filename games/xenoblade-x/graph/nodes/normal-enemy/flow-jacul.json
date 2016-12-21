@@ -2,8 +2,7 @@
   "id": "flow-jacul",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Flow Jacul",

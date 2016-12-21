@@ -2,8 +2,7 @@
   "id": "storm-scintimure",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Storm Scintimure",

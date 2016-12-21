@@ -2,8 +2,7 @@
   "id": "spore-filiavent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Spore Filiavent",

@@ -2,8 +2,7 @@
   "id": "sea-xiphias",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sea Xiphias",

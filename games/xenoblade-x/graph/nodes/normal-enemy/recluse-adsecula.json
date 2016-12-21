@@ -2,8 +2,7 @@
   "id": "recluse-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Recluse Adsecula",

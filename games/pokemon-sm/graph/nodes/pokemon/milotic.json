@@ -1,8 +1,7 @@
 {
   "id": "milotic",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 350,

@@ -2,8 +2,7 @@
   "id": "sanctuary-progen",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sanctuary Progen",

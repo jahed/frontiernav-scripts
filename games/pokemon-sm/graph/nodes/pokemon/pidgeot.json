@@ -1,8 +1,7 @@
 {
   "id": "pidgeot",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 18,

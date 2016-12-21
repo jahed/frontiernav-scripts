@@ -2,8 +2,7 @@
   "id": "translucent-cinicula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Translucent Cinicula",

@@ -2,8 +2,7 @@
   "id": "delft-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Delft Turba",

@@ -2,8 +2,7 @@
   "id": "pound-terebra",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pound Terebra",

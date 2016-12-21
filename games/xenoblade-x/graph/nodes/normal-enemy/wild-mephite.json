@@ -2,8 +2,7 @@
   "id": "wild-mephite",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wild Mephite",

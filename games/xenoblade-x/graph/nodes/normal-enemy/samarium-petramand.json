@@ -2,8 +2,7 @@
   "id": "samarium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Samarium Petramand",

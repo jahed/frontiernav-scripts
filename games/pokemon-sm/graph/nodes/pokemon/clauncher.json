@@ -1,8 +1,7 @@
 {
   "id": "clauncher",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 692,

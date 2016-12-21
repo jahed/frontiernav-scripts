@@ -2,8 +2,7 @@
   "id": "frightening-ictus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Frightening Ictus",

@@ -1,8 +1,7 @@
 {
   "id": "electrode",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 101,

@@ -2,8 +2,7 @@
   "id": "moon-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Moon Blatta",

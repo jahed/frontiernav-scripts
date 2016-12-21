@@ -2,8 +2,7 @@
   "id": "multi-knight-qmoeva",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Multi Knight Qmoeva",

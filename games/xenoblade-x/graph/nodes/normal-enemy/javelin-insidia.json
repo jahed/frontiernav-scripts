@@ -2,8 +2,7 @@
   "id": "javelin-insidia",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Javelin Insidia",

@@ -2,8 +2,7 @@
   "id": "adamant-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Adamant Suid",

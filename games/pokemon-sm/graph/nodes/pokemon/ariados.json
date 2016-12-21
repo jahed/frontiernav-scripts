@@ -1,8 +1,7 @@
 {
   "id": "ariados",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 168,

@@ -2,8 +2,7 @@
   "id": "pit-mortifole",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pit Mortifole",

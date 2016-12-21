@@ -2,8 +2,7 @@
   "id": "crazed-aeviter",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Crazed Aeviter",

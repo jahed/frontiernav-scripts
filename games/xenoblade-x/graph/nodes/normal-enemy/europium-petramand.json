@@ -2,8 +2,7 @@
   "id": "europium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Europium Petramand",

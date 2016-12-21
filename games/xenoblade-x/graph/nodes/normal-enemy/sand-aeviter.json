@@ -2,8 +2,7 @@
   "id": "sand-aeviter",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sand Aeviter",

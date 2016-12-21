@@ -2,8 +2,7 @@
   "id": "merciful-dilus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Merciful Dilus",

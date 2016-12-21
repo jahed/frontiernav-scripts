@@ -1,8 +1,7 @@
 {
   "id": "keldeo-ordinary",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 647,

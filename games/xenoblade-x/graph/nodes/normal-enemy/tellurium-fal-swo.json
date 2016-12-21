@@ -2,8 +2,7 @@
   "id": "tellurium-fal-swo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tellurium Fal-swo",

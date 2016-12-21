@@ -2,8 +2,7 @@
   "id": "razer-visigel",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Razer Visigel",

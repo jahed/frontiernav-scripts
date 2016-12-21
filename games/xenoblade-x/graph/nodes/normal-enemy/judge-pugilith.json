@@ -2,8 +2,7 @@
   "id": "judge-pugilith",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Judge Pugilith",

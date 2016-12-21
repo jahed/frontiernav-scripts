@@ -2,8 +2,7 @@
   "id": "pawn-pugilith",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pawn Pugilith",

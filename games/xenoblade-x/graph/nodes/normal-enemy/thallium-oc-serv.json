@@ -2,8 +2,7 @@
   "id": "thallium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Thallium Oc-serv",

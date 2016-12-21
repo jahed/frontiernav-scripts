@@ -2,8 +2,7 @@
   "id": "nocto-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nocto Blatta",

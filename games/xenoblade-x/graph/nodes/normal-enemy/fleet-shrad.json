@@ -2,8 +2,7 @@
   "id": "fleet-shrad",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Fleet Shrad",

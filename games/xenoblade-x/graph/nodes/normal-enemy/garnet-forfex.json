@@ -2,8 +2,7 @@
   "id": "garnet-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Garnet Forfex",

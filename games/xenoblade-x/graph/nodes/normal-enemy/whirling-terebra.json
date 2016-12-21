@@ -2,8 +2,7 @@
   "id": "whirling-terebra",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Whirling Terebra",

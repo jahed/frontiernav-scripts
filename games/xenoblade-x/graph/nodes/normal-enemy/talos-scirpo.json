@@ -2,8 +2,7 @@
   "id": "talos-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Talos Scirpo",

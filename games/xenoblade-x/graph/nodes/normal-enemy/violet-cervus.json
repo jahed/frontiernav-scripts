@@ -2,8 +2,7 @@
   "id": "violet-cervus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Violet Cervus",

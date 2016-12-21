@@ -1,8 +1,7 @@
 {
   "id": "doublade",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 680,

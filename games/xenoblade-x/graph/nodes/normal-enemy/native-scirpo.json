@@ -2,8 +2,7 @@
   "id": "native-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Native Scirpo",

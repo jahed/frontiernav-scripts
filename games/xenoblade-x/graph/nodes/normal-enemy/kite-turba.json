@@ -2,8 +2,7 @@
   "id": "kite-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Kite Turba",

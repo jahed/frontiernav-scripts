@@ -1,8 +1,7 @@
 {
   "id": "gold-ingot",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Gold Ingot"

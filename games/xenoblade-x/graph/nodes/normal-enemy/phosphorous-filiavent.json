@@ -2,8 +2,7 @@
   "id": "phosphorous-filiavent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Phosphorous Filiavent",

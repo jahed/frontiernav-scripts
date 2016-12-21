@@ -1,8 +1,7 @@
 {
   "id": "sg2",
   "labels": [
-    "SegmentGrid",
-    "XenobladeX"
+    "SegmentGrid"
   ],
   "data": {
     "segmentDimensions": {

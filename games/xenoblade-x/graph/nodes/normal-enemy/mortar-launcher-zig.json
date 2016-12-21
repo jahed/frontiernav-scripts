@@ -2,8 +2,7 @@
   "id": "mortar-launcher-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mortar Launcher Zig",

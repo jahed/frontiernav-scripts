@@ -2,8 +2,7 @@
   "id": "tainted-scintimure",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tainted Scintimure",

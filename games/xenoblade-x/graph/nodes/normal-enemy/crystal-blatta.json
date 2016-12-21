@@ -2,8 +2,7 @@
   "id": "crystal-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Crystal Blatta",

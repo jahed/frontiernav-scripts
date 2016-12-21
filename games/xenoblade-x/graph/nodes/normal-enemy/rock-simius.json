@@ -2,8 +2,7 @@
   "id": "rock-simius",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Rock Simius",

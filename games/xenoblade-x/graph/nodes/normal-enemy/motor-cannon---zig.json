@@ -2,8 +2,7 @@
   "id": "motor-cannon---zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Motor Cannon ? Zig",

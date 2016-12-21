@@ -1,8 +1,7 @@
 {
   "id": "sudowoodo",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 185,

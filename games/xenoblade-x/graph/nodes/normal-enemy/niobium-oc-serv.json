@@ -2,8 +2,7 @@
   "id": "niobium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Niobium Oc-serv",

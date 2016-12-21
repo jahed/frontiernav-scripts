@@ -1,8 +1,7 @@
 {
   "id": "probe21",
   "labels": [
-    "FNSiteProbe",
-    "XenobladeX"
+    "FNSiteProbe"
   ],
   "data": {
     "name": "Storage Probe",

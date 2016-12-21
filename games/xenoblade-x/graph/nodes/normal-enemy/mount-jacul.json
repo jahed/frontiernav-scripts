@@ -2,8 +2,7 @@
   "id": "mount-jacul",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mount Jacul",

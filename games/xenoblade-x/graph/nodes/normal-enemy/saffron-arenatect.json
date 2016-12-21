@@ -2,8 +2,7 @@
   "id": "saffron-arenatect",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Saffron Arenatect",

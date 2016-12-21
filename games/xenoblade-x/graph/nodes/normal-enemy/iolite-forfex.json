@@ -2,8 +2,7 @@
   "id": "iolite-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Iolite Forfex",

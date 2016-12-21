@@ -2,8 +2,7 @@
   "id": "guide-raptor-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Guide Raptor Galdr",

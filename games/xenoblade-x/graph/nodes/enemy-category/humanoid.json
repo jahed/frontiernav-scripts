@@ -1,8 +1,7 @@
 {
   "id": "humanoid",
   "labels": [
-    "EnemyCategory",
-    "XenobladeX"
+    "EnemyCategory"
   ],
   "data": {
     "name": "Humanoid"

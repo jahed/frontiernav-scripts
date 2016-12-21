@@ -1,8 +1,7 @@
 {
   "id": "marshtomp",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 259,

@@ -2,8 +2,7 @@
   "id": "plasma-duoguill",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Plasma Duoguill",

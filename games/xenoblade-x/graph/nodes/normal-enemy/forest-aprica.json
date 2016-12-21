@@ -2,8 +2,7 @@
   "id": "forest-aprica",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Forest Aprica",

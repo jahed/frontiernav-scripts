@@ -1,8 +1,7 @@
 {
   "id": "foongus",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 590,

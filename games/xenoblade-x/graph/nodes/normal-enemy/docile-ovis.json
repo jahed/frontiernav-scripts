@@ -2,8 +2,7 @@
   "id": "docile-ovis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Docile Ovis",

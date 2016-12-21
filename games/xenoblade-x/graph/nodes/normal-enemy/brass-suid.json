@@ -2,8 +2,7 @@
   "id": "brass-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Brass Suid",

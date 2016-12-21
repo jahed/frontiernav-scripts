@@ -1,8 +1,7 @@
 {
   "id": "new-cylinder",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "New Cylinder"

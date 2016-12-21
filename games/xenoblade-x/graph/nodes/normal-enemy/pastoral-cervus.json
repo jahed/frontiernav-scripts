@@ -2,8 +2,7 @@
   "id": "pastoral-cervus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pastoral Cervus",

@@ -2,8 +2,7 @@
   "id": "remote-pugilith",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Remote Pugilith",

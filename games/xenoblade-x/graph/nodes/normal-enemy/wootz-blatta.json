@@ -2,8 +2,7 @@
   "id": "wootz-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wootz Blatta",

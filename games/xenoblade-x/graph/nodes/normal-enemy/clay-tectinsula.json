@@ -2,8 +2,7 @@
   "id": "clay-tectinsula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Clay Tectinsula",

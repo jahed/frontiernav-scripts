@@ -2,8 +2,7 @@
   "id": "burst-jacul",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Burst Jacul",

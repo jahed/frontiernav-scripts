@@ -2,8 +2,7 @@
   "id": "conjurer-cervus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Conjurer Cervus",

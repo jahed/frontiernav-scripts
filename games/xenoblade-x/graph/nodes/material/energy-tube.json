@@ -1,8 +1,7 @@
 {
   "id": "energy-tube",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Energy Tube"

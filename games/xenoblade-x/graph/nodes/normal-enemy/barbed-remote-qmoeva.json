@@ -2,8 +2,7 @@
   "id": "barbed-remote-qmoeva",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Barbed Remote Qmoeva",

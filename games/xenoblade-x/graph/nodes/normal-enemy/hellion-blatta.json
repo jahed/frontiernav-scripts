@@ -2,8 +2,7 @@
   "id": "hellion-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hellion Blatta",

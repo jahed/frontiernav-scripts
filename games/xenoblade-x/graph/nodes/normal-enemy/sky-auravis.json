@@ -2,8 +2,7 @@
   "id": "sky-auravis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sky Auravis",

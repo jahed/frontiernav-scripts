@@ -2,8 +2,7 @@
   "id": "prone-trainer",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Trainer",

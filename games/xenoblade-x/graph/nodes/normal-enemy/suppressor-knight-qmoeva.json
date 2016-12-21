@@ -2,8 +2,7 @@
   "id": "suppressor-knight-qmoeva",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Suppressor Knight Qmoeva",

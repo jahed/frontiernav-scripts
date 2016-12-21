@@ -2,8 +2,7 @@
   "id": "prairie-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prairie Blatta",

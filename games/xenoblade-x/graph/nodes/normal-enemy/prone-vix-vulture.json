@@ -2,8 +2,7 @@
   "id": "prone-vix-vulture",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Vix Vulture",

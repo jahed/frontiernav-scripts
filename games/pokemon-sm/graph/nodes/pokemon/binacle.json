@@ -1,8 +1,7 @@
 {
   "id": "binacle",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 688,

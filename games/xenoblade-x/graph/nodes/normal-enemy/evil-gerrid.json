@@ -2,8 +2,7 @@
   "id": "evil-gerrid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Evil Gerrid",

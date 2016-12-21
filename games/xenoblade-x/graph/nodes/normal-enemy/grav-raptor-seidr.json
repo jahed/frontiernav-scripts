@@ -2,8 +2,7 @@
   "id": "grav-raptor-seidr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Grav Raptor Seidr",

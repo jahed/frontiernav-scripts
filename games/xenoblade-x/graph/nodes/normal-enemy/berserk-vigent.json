@@ -2,8 +2,7 @@
   "id": "berserk-vigent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Berserk Vigent",

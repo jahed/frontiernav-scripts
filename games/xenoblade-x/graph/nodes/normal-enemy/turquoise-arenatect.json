@@ -2,8 +2,7 @@
   "id": "turquoise-arenatect",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Turquoise Arenatect",

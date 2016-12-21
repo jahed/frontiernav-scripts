@@ -1,8 +1,7 @@
 {
   "id": "sawk",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 539,

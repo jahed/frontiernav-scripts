@@ -2,8 +2,7 @@
   "id": "abyssal-levitath",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Abyssal Levitath",

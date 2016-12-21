@@ -2,8 +2,7 @@
   "id": "garnet-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Garnet Scirpo",

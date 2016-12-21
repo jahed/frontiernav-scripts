@@ -2,8 +2,7 @@
   "id": "tainted-caro",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tainted Caro",

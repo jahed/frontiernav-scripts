@@ -2,8 +2,7 @@
   "id": "blast-auravis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Blast Auravis",

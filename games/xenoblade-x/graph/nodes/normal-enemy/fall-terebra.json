@@ -2,8 +2,7 @@
   "id": "fall-terebra",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Fall Terebra",

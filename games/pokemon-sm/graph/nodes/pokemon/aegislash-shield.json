@@ -1,8 +1,7 @@
 {
   "id": "aegislash-shield",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 681,

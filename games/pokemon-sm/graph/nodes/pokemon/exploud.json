@@ -1,8 +1,7 @@
 {
   "id": "exploud",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 295,

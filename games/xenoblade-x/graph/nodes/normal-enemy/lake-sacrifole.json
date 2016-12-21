@@ -2,8 +2,7 @@
   "id": "lake-sacrifole",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lake Sacrifole",

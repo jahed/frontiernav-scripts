@@ -2,8 +2,7 @@
   "id": "gloam-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Gloam Turba",

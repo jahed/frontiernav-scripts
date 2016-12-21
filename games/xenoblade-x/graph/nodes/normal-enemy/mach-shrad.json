@@ -2,8 +2,7 @@
   "id": "mach-shrad",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mach Shrad",

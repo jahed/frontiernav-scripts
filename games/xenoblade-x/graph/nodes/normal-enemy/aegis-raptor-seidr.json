@@ -2,8 +2,7 @@
   "id": "aegis-raptor-seidr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Aegis Raptor Seidr",

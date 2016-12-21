@@ -2,8 +2,7 @@
   "id": "prone-vix-guard",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Vix Guard",

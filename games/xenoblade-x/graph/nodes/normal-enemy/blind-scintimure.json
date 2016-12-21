@@ -2,8 +2,7 @@
   "id": "blind-scintimure",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Blind Scintimure",

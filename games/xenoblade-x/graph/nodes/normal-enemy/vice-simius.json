@@ -2,8 +2,7 @@
   "id": "vice-simius",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Vice Simius",

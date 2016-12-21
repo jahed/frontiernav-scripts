@@ -2,8 +2,7 @@
   "id": "howitzer-barrager-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Howitzer Barrager Zig",

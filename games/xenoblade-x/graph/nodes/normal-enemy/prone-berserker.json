@@ -2,8 +2,7 @@
   "id": "prone-berserker",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Berserker",

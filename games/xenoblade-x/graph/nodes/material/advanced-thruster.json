@@ -1,8 +1,7 @@
 {
   "id": "advanced-thruster",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Advanced Thruster"

@@ -2,8 +2,7 @@
   "id": "native-ovis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Native Ovis",

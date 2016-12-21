@@ -2,8 +2,7 @@
   "id": "warlord-ictus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Warlord Ictus",

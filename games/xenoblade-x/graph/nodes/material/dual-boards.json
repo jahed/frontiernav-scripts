@@ -1,8 +1,7 @@
 {
   "id": "dual-boards",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Dual Boards"

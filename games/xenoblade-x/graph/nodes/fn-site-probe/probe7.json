@@ -1,8 +1,7 @@
 {
   "id": "probe7",
   "labels": [
-    "FNSiteProbe",
-    "XenobladeX"
+    "FNSiteProbe"
   ],
   "data": {
     "name": "Mining Probe G6",

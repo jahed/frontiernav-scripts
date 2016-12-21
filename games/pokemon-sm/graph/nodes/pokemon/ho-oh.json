@@ -1,8 +1,7 @@
 {
   "id": "ho-oh",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 250,

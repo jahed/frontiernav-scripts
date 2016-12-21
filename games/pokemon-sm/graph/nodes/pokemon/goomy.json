@@ -1,8 +1,7 @@
 {
   "id": "goomy",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 704,

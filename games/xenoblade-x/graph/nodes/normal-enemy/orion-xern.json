@@ -2,8 +2,7 @@
   "id": "orion-xern",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Orion Xern",

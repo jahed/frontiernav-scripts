@@ -2,8 +2,7 @@
   "id": "ancient-progen",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ancient Progen",

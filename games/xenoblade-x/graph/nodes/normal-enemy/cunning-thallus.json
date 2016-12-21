@@ -2,8 +2,7 @@
   "id": "cunning-thallus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cunning Thallus",

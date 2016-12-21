@@ -1,8 +1,7 @@
 {
   "id": "lv0",
   "labels": [
-    "MapLayer",
-    "XenobladeX"
+    "MapLayer"
   ],
   "data": {
     "name": "Locations",

@@ -2,8 +2,7 @@
   "id": "cataract-levitath",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cataract Levitath",

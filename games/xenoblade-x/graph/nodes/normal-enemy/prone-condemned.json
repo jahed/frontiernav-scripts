@@ -2,8 +2,7 @@
   "id": "prone-condemned",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Condemned",

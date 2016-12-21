@@ -2,8 +2,7 @@
   "id": "ruby-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ruby Saltat",

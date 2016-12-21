@@ -2,8 +2,7 @@
   "id": "reject-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Reject Oc-serv",

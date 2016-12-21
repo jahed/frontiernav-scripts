@@ -1,8 +1,7 @@
 {
   "id": "puge-counter",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Puge Counter"

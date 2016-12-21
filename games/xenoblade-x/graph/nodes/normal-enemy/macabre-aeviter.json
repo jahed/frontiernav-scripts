@@ -2,8 +2,7 @@
   "id": "macabre-aeviter",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Macabre Aeviter",

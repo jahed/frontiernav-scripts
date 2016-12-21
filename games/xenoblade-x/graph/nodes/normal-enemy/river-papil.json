@@ -2,8 +2,7 @@
   "id": "river-papil",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "River Papil",

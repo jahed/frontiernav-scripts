@@ -2,8 +2,7 @@
   "id": "volcannon-monoceros",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Volcannon Monoceros",

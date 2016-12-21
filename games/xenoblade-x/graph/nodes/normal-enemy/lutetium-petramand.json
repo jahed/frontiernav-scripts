@@ -2,8 +2,7 @@
   "id": "lutetium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lutetium Petramand",

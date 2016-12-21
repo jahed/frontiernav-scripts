@@ -1,8 +1,7 @@
 {
   "id": "lapras",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 131,

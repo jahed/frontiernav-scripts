@@ -2,8 +2,7 @@
   "id": "revolver-eagle-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Revolver Eagle Galdr",

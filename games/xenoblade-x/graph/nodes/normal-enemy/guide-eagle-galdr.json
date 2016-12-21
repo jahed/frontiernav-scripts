@@ -2,8 +2,7 @@
   "id": "guide-eagle-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Guide Eagle Galdr",

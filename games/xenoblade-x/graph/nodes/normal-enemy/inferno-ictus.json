@@ -2,8 +2,7 @@
   "id": "inferno-ictus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Inferno Ictus",

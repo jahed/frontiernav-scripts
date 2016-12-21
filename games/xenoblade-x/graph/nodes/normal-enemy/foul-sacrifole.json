@@ -2,8 +2,7 @@
   "id": "foul-sacrifole",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Foul Sacrifole",

@@ -1,8 +1,7 @@
 {
   "id": "insectoid",
   "labels": [
-    "EnemyCategory",
-    "XenobladeX"
+    "EnemyCategory"
   ],
   "data": {
     "name": "Insectoid"

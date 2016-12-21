@@ -2,8 +2,7 @@
   "id": "brutal-vigent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Brutal Vigent",

@@ -2,8 +2,7 @@
   "id": "canyon-sylooth",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Canyon Sylooth",

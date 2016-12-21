@@ -2,8 +2,7 @@
   "id": "strike-launcher-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Strike Launcher Zig",

@@ -2,8 +2,7 @@
   "id": "parasite-gerrid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Parasite Gerrid",

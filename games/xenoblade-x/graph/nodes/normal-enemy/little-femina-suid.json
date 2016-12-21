@@ -2,8 +2,7 @@
   "id": "little-femina-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Little Femina Suid",

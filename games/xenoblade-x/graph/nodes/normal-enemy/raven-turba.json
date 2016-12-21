@@ -2,8 +2,7 @@
   "id": "raven-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Raven Turba",

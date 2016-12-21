@@ -2,8 +2,7 @@
   "id": "buster-emperor-qmoeva",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Buster Emperor Qmoeva",

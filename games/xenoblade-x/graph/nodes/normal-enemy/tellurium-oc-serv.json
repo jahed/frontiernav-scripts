@@ -2,8 +2,7 @@
   "id": "tellurium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tellurium Oc-serv",

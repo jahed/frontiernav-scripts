@@ -2,8 +2,7 @@
   "id": "lake-visigel",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lake Visigel",

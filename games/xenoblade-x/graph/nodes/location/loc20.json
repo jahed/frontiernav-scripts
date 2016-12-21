@@ -1,8 +1,7 @@
 {
   "id": "loc20",
   "labels": [
-    "Location",
-    "XenobladeX"
+    "Location"
   ],
   "data": {
     "cave": true,

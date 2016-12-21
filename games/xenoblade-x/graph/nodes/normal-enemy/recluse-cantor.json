@@ -2,8 +2,7 @@
   "id": "recluse-cantor",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Recluse Cantor",

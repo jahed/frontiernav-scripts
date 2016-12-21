@@ -1,8 +1,7 @@
 {
   "id": "pergosalP",
   "labels": [
-    "MapMarker",
-    "XenobladeX"
+    "MapMarker"
   ],
   "data": {
     "latLng": {

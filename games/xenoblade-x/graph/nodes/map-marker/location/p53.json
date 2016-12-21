@@ -1,8 +1,7 @@
 {
   "id": "p53",
   "labels": [
-    "MapMarker",
-    "XenobladeX"
+    "MapMarker"
   ],
   "data": {
     "latLng": {

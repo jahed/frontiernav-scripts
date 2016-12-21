@@ -2,8 +2,7 @@
   "id": "drone-mortifole",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Drone Mortifole",

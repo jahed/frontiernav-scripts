@@ -2,8 +2,7 @@
   "id": "placid-duoguill",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Placid Duoguill",

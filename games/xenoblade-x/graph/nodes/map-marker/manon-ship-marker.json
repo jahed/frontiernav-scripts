@@ -1,8 +1,7 @@
 {
   "id": "manon-ship-marker",
   "labels": [
-    "MapMarker",
-    "XenobladeX"
+    "MapMarker"
   ],
   "data": {
     "latLng": {

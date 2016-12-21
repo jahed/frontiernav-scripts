@@ -2,8 +2,7 @@
   "id": "antares-levitath",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Antares Levitath",

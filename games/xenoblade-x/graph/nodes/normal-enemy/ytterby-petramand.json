@@ -2,8 +2,7 @@
   "id": "ytterby-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ytterby Petramand",

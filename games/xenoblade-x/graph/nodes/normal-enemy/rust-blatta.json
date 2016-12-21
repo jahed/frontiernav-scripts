@@ -2,8 +2,7 @@
   "id": "rust-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Rust Blatta",

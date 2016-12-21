@@ -2,8 +2,7 @@
   "id": "scandium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Scandium Petramand",

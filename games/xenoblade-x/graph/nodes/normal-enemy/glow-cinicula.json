@@ -2,8 +2,7 @@
   "id": "glow-cinicula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Glow Cinicula",

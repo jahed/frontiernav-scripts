@@ -2,8 +2,7 @@
   "id": "logi-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Logi Blatta",

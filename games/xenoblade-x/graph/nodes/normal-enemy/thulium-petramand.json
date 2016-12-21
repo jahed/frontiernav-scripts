@@ -2,8 +2,7 @@
   "id": "thulium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Thulium Petramand",

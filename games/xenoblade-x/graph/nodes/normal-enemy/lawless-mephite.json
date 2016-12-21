@@ -2,8 +2,7 @@
   "id": "lawless-mephite",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lawless Mephite",

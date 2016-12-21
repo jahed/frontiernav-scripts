@@ -1,8 +1,7 @@
 {
   "id": "elekid",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 239,

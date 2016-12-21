@@ -2,8 +2,7 @@
   "id": "hard-armored-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hard Armored Suid",

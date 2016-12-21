@@ -1,8 +1,7 @@
 {
   "id": "lv2",
   "labels": [
-    "MapLayer",
-    "XenobladeX"
+    "MapLayer"
   ],
   "data": {
     "name": "Segments",

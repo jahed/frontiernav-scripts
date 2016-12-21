@@ -2,8 +2,7 @@
   "id": "terbium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Terbium Petramand",

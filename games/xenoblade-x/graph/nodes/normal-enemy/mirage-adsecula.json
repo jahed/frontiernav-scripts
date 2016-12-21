@@ -2,8 +2,7 @@
   "id": "mirage-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mirage Adsecula",

@@ -1,8 +1,7 @@
 {
   "id": "heliolisk",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 695,

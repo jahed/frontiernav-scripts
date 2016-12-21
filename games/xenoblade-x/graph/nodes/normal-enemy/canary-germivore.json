@@ -2,8 +2,7 @@
   "id": "canary-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Canary Germivore",

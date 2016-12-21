@@ -2,8 +2,7 @@
   "id": "chromium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Chromium Oc-serv",

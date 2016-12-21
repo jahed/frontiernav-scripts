@@ -1,8 +1,7 @@
 {
   "id": "articuno",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 144,

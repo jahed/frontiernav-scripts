@@ -2,8 +2,7 @@
   "id": "skulker-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Skulker Germivore",

@@ -1,8 +1,7 @@
 {
   "id": "jirachi",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 385,

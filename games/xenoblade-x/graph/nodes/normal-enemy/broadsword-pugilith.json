@@ -2,8 +2,7 @@
   "id": "broadsword-pugilith",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Broadsword Pugilith",

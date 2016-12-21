@@ -2,8 +2,7 @@
   "id": "droll-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Droll Saltat",

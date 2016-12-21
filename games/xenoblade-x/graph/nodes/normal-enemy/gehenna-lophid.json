@@ -2,8 +2,7 @@
   "id": "gehenna-lophid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Gehenna Lophid",

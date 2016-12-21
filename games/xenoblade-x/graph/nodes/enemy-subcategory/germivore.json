@@ -1,8 +1,7 @@
 {
   "id": "germivore",
   "labels": [
-    "EnemySubcategory",
-    "XenobladeX"
+    "EnemySubcategory"
   ],
   "data": {
     "name": "Germivore"

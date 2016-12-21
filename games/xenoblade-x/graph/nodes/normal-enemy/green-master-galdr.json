@@ -2,8 +2,7 @@
   "id": "green-master-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Green Master Galdr",

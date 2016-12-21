@@ -1,8 +1,7 @@
 {
   "id": "game0",
   "labels": [
-    "Game",
-    "XenobladeX"
+    "Game"
   ],
   "data": {
     "name": "Xenoblade Chronicles X",
@@ -52,10 +51,6 @@
           }
         ]
       }
-    ],
-    "searchLabels": {
-      "XenobladeSeries": true,
-      "XenobladeX": true
-    }
+    ]
   }
 }

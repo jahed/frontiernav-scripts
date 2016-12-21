@@ -2,8 +2,7 @@
   "id": "stalking-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Stalking Blatta",

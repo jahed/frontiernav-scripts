@@ -2,8 +2,7 @@
   "id": "mortar-sniper-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mortar Sniper Zig",

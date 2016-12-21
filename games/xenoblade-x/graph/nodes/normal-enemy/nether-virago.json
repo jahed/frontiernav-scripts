@@ -2,8 +2,7 @@
   "id": "nether-virago",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nether Virago",

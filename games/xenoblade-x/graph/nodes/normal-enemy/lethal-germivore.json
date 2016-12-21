@@ -2,8 +2,7 @@
   "id": "lethal-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lethal Germivore",

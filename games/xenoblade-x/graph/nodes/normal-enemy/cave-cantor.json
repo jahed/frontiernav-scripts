@@ -2,8 +2,7 @@
   "id": "cave-cantor",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cave Cantor",

@@ -2,8 +2,7 @@
   "id": "domestic-armored-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Domestic Armored Suid",

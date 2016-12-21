@@ -2,8 +2,7 @@
   "id": "vermilion-insidia",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Vermilion Insidia",

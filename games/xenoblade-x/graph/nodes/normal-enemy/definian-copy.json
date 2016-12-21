@@ -2,8 +2,7 @@
   "id": "definian-copy",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Definian Copy",

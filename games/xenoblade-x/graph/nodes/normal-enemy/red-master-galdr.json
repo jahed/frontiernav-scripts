@@ -2,8 +2,7 @@
   "id": "red-master-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Red Master Galdr",

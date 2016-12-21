@@ -2,8 +2,7 @@
   "id": "impish-mephite",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Impish Mephite",

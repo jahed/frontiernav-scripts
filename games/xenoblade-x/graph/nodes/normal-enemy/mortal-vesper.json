@@ -2,8 +2,7 @@
   "id": "mortal-vesper",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mortal Vesper",

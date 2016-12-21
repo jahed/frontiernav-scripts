@@ -2,8 +2,7 @@
   "id": "highland-jacul",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Highland Jacul",

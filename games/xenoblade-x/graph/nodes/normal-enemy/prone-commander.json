@@ -2,8 +2,7 @@
   "id": "prone-commander",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Commander",

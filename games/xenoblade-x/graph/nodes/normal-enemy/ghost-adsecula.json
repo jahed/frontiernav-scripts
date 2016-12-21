@@ -2,8 +2,7 @@
   "id": "ghost-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ghost Adsecula",

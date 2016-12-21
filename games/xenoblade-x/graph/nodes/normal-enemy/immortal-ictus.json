@@ -2,8 +2,7 @@
   "id": "immortal-ictus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Immortal Ictus",

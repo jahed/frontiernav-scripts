@@ -2,8 +2,7 @@
   "id": "pit-terebra",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pit Terebra",

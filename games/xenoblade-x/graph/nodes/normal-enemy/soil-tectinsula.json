@@ -2,8 +2,7 @@
   "id": "soil-tectinsula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Soil Tectinsula",

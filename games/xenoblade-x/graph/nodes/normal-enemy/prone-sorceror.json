@@ -2,8 +2,7 @@
   "id": "prone-sorceror",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Sorceror",

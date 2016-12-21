@@ -1,8 +1,7 @@
 {
   "id": "prinplup",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 394,

@@ -2,8 +2,7 @@
   "id": "lunar-ceto",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lunar Ceto",

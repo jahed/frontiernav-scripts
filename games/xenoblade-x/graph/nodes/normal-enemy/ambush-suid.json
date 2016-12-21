@@ -2,8 +2,7 @@
   "id": "ambush-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ambush Suid",

@@ -2,8 +2,7 @@
   "id": "drone-king-quo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Drone King Quo",

@@ -2,8 +2,7 @@
   "id": "tectonic-tectinsula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tectonic Tectinsula",

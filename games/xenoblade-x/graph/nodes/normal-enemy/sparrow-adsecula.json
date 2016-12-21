@@ -2,8 +2,7 @@
   "id": "sparrow-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sparrow Adsecula",

@@ -2,8 +2,7 @@
   "id": "adonis-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Adonis Turba",

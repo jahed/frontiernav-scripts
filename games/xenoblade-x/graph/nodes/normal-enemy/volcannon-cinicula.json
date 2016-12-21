@@ -2,8 +2,7 @@
   "id": "volcannon-cinicula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Volcannon Cinicula",

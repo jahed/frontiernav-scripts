@@ -2,8 +2,7 @@
   "id": "carmine-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Carmine Germivore",

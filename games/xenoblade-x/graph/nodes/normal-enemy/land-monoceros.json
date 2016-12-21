@@ -2,8 +2,7 @@
   "id": "land-monoceros",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Land Monoceros",

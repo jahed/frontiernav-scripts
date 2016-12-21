@@ -2,8 +2,7 @@
   "id": "guardian-pugilith",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Guardian Pugilith",

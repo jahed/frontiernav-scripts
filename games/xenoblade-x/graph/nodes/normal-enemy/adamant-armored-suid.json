@@ -2,8 +2,7 @@
   "id": "adamant-armored-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Adamant Armored Suid",

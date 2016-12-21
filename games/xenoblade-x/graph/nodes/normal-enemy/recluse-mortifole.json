@@ -2,8 +2,7 @@
   "id": "recluse-mortifole",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Recluse Mortifole",

@@ -2,8 +2,7 @@
   "id": "poisonous-caecus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Poisonous Caecus",

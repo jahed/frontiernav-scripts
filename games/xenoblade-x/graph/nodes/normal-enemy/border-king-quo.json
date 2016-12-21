@@ -2,8 +2,7 @@
   "id": "border-king-quo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Border King Quo",

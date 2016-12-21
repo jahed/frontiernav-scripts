@@ -1,8 +1,7 @@
 {
   "id": "hi-spec-sensor-module",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Hi-Spec Sensor Module"

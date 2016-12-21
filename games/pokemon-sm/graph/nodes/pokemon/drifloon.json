@@ -1,8 +1,7 @@
 {
   "id": "drifloon",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 425,

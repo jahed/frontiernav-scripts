@@ -1,8 +1,7 @@
 {
   "id": "lv3",
   "labels": [
-    "MapLayer",
-    "XenobladeX"
+    "MapLayer"
   ],
   "data": {
     "name": "Probes",

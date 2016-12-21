@@ -2,8 +2,7 @@
   "id": "volcannon-tersqual",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Volcannon Tersqual",

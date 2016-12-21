@@ -1,8 +1,7 @@
 {
   "id": "ivysaur",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 2,

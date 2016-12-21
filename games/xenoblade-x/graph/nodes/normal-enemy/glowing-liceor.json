@@ -2,8 +2,7 @@
   "id": "glowing-liceor",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Glowing Liceor",

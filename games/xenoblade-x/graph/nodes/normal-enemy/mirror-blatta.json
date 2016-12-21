@@ -2,8 +2,7 @@
   "id": "mirror-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mirror Blatta",

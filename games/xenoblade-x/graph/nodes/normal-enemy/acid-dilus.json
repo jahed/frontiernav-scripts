@@ -2,8 +2,7 @@
   "id": "acid-dilus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Acid Dilus",

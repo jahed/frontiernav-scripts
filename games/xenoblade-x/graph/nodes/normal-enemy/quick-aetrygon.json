@@ -2,8 +2,7 @@
   "id": "quick-aetrygon",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Quick Aetrygon",

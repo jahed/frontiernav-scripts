@@ -1,8 +1,7 @@
 {
   "id": "simisear",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 514,

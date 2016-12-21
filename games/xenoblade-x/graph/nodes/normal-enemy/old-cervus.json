@@ -2,8 +2,7 @@
   "id": "old-cervus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Old Cervus",

@@ -2,8 +2,7 @@
   "id": "tidal-purgovent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tidal Purgovent",

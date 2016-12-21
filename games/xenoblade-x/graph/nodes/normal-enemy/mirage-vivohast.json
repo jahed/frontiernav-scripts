@@ -2,8 +2,7 @@
   "id": "mirage-vivohast",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mirage Vivohast",

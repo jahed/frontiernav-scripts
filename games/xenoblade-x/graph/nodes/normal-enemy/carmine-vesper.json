@@ -2,8 +2,7 @@
   "id": "carmine-vesper",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Carmine Vesper",

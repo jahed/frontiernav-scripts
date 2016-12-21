@@ -1,8 +1,7 @@
 {
   "id": "standard-crank",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Standard Crank"

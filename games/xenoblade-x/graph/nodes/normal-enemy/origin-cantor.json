@@ -2,8 +2,7 @@
   "id": "origin-cantor",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Origin Cantor",

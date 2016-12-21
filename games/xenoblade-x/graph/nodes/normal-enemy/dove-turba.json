@@ -2,8 +2,7 @@
   "id": "dove-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Dove Turba",

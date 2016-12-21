@@ -2,8 +2,7 @@
   "id": "coral-balaena",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Coral Balaena",

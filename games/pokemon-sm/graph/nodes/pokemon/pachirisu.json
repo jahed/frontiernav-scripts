@@ -1,8 +1,7 @@
 {
   "id": "pachirisu",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 417,

@@ -1,8 +1,7 @@
 {
   "id": "blaziken",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 257,

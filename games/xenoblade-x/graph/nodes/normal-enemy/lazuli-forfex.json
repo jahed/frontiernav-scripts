@@ -2,8 +2,7 @@
   "id": "lazuli-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lazuli Forfex",

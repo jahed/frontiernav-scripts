@@ -2,8 +2,7 @@
   "id": "everlasting-millesaur",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Everlasting Millesaur",

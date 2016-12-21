@@ -2,8 +2,7 @@
   "id": "nomad-lepyx",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nomad Lepyx",

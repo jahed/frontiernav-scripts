@@ -1,8 +1,7 @@
 {
   "id": "trevenant",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 709,

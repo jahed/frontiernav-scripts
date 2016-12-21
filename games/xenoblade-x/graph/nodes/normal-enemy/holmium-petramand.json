@@ -2,8 +2,7 @@
   "id": "holmium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Holmium Petramand",

@@ -2,8 +2,7 @@
   "id": "minor-sabula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Minor Sabula",

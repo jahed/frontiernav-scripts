@@ -2,8 +2,7 @@
   "id": "auto-gunner-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Auto Gunner Zig",

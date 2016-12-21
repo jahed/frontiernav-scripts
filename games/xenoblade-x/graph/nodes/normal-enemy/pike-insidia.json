@@ -2,8 +2,7 @@
   "id": "pike-insidia",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pike Insidia",

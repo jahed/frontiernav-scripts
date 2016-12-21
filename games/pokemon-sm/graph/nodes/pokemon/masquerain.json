@@ -1,8 +1,7 @@
 {
   "id": "masquerain",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 284,

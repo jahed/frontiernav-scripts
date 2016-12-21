@@ -2,8 +2,7 @@
   "id": "chieftain-ictus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Chieftain Ictus",

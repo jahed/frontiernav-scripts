@@ -1,8 +1,7 @@
 {
   "id": "corphish",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 341,

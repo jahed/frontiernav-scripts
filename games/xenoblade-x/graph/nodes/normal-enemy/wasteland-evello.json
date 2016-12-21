@@ -2,8 +2,7 @@
   "id": "wasteland-evello",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wasteland Evello",

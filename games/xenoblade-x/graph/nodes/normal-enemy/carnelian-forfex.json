@@ -2,8 +2,7 @@
   "id": "carnelian-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Carnelian Forfex",

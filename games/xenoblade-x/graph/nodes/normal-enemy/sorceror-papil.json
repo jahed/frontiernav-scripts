@@ -2,8 +2,7 @@
   "id": "sorceror-papil",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sorceror Papil",

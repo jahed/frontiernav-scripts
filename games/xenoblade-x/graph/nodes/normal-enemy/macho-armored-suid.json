@@ -2,8 +2,7 @@
   "id": "macho-armored-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Macho Armored Suid",

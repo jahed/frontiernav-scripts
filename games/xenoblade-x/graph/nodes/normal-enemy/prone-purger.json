@@ -2,8 +2,7 @@
   "id": "prone-purger",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Purger",

@@ -2,8 +2,7 @@
   "id": "pebble-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pebble Blatta",

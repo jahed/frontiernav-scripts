@@ -2,8 +2,7 @@
   "id": "cave-xiphias",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cave Xiphias",

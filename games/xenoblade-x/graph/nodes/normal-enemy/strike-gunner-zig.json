@@ -2,8 +2,7 @@
   "id": "strike-gunner-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Strike Gunner Zig",

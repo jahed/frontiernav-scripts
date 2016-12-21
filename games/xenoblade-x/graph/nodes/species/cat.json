@@ -1,8 +1,7 @@
 {
   "id": "cat",
   "labels": [
-    "Species",
-    "XenobladeX"
+    "Species"
   ],
   "data": {
     "name": "Cat",

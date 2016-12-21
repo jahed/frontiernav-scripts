@@ -2,8 +2,7 @@
   "id": "spear-insidia",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Spear Insidia",

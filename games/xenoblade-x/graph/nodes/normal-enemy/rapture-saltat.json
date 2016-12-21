@@ -2,8 +2,7 @@
   "id": "rapture-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Rapture Saltat",

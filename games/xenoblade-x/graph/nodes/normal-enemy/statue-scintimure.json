@@ -2,8 +2,7 @@
   "id": "statue-scintimure",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Statue Scintimure",

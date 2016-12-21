@@ -2,8 +2,7 @@
   "id": "merciful-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Merciful Scirpo",

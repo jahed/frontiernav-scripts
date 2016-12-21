@@ -1,8 +1,7 @@
 {
   "id": "reinforced-thruster",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Reinforced Thruster"

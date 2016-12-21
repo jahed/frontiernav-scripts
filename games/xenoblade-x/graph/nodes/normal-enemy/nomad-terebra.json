@@ -2,8 +2,7 @@
   "id": "nomad-terebra",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nomad Terebra",

@@ -2,8 +2,7 @@
   "id": "raging-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Raging Forfex",

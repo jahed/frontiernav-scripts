@@ -2,8 +2,7 @@
   "id": "revolver-barrager-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Revolver Barrager Zig",

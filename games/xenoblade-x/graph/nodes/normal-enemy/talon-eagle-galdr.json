@@ -2,8 +2,7 @@
   "id": "talon-eagle-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Talon Eagle Galdr",

@@ -2,8 +2,7 @@
   "id": "azure-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Azure Blatta",

@@ -2,8 +2,7 @@
   "id": "darling-purgovent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Darling Purgovent",

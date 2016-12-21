@@ -2,8 +2,7 @@
   "id": "star-cinicula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Star Cinicula",

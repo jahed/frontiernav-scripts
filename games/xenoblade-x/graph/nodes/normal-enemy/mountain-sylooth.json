@@ -2,8 +2,7 @@
   "id": "mountain-sylooth",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mountain Sylooth",

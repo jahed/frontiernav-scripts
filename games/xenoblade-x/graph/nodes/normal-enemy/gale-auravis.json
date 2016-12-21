@@ -2,8 +2,7 @@
   "id": "gale-auravis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Gale Auravis",

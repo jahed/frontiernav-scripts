@@ -2,8 +2,7 @@
   "id": "drone-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Drone Adsecula",

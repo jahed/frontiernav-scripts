@@ -2,8 +2,7 @@
   "id": "recluse-thallus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Recluse Thallus",

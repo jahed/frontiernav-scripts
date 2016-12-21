@@ -2,8 +2,7 @@
   "id": "echo-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Echo Germivore",

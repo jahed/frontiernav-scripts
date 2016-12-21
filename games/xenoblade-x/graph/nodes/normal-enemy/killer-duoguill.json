@@ -2,8 +2,7 @@
   "id": "killer-duoguill",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Killer Duoguill",

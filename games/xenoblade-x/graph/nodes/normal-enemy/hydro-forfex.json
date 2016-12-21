@@ -2,8 +2,7 @@
   "id": "hydro-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hydro Forfex",

@@ -2,8 +2,7 @@
   "id": "canyon-cantor",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Canyon Cantor",

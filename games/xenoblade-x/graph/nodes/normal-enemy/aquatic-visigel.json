@@ -2,8 +2,7 @@
   "id": "aquatic-visigel",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Aquatic Visigel",

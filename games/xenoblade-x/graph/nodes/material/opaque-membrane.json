@@ -1,8 +1,7 @@
 {
   "id": "opaque-membrane",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Opaque Membrane"

@@ -2,8 +2,7 @@
   "id": "buoyant-lophid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Buoyant Lophid",

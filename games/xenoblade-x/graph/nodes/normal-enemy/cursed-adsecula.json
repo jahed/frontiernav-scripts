@@ -2,8 +2,7 @@
   "id": "cursed-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cursed Adsecula",

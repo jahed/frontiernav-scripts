@@ -2,8 +2,7 @@
   "id": "sentinel-satellis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sentinel Satellis",

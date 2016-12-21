@@ -2,8 +2,7 @@
   "id": "flood-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Flood Galdr",

@@ -1,8 +1,7 @@
 {
   "id": "blade-barracks-entrance-marker",
   "labels": [
-    "MapMarker",
-    "XenobladeX"
+    "MapMarker"
   ],
   "data": {
     "latLng": {

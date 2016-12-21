@@ -2,8 +2,7 @@
   "id": "thunder-duoguill",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Thunder Duoguill",

@@ -2,8 +2,7 @@
   "id": "abyssal-vesper",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Abyssal Vesper",

@@ -2,8 +2,7 @@
   "id": "lethal-unafulge",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lethal Unafulge",

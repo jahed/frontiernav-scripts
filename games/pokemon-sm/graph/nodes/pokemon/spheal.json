@@ -1,8 +1,7 @@
 {
   "id": "spheal",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 363,

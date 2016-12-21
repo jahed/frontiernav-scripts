@@ -2,8 +2,7 @@
   "id": "ocean-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ocean Forfex",

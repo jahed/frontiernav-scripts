@@ -2,8 +2,7 @@
   "id": "hunter-dilus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hunter Dilus",

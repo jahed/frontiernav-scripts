@@ -2,8 +2,7 @@
   "id": "ceres-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ceres Petramand",

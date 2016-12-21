@@ -2,8 +2,7 @@
   "id": "crazed-femina-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Crazed Femina Suid",

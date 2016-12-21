@@ -2,8 +2,7 @@
   "id": "wrath-simius",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wrath Simius",

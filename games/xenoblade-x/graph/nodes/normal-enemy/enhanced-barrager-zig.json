@@ -2,8 +2,7 @@
   "id": "enhanced-barrager-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Enhanced Barrager Zig",

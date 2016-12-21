@@ -2,8 +2,7 @@
   "id": "machine-king-quo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Machine King Quo",

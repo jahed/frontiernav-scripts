@@ -2,8 +2,7 @@
   "id": "prone-vix-griffon",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Vix Griffon",

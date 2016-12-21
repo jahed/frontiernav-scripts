@@ -2,8 +2,7 @@
   "id": "milsaadi-fighter",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Milsaadi Fighter",

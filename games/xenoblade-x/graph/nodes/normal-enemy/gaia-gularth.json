@@ -2,8 +2,7 @@
   "id": "gaia-gularth",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Gaia Gularth",

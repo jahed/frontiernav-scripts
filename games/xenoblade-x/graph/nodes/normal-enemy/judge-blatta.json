@@ -2,8 +2,7 @@
   "id": "judge-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Judge Blatta",

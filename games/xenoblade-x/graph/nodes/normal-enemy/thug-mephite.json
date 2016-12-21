@@ -2,8 +2,7 @@
   "id": "thug-mephite",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Thug Mephite",

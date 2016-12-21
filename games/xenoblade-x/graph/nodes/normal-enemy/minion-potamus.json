@@ -2,8 +2,7 @@
   "id": "minion-potamus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Minion Potamus",

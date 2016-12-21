@@ -2,8 +2,7 @@
   "id": "nocturnal-vesper",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nocturnal Vesper",

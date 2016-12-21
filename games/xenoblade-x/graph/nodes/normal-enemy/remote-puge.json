@@ -2,8 +2,7 @@
   "id": "remote-puge",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Remote Puge",

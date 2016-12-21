@@ -2,8 +2,7 @@
   "id": "prometheus-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prometheus Petramand",

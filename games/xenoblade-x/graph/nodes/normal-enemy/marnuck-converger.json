@@ -2,8 +2,7 @@
   "id": "marnuck-converger",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Marnuck Converger",

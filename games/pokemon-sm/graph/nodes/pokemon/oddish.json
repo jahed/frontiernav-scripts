@@ -1,8 +1,7 @@
 {
   "id": "oddish",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 43,

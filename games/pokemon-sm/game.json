@@ -1,9 +1,7 @@
 {
   "id": "pokemon-sun-moon",
   "labels": [
-    "Game",
-    "PokemonSeries",
-    "PokemonSunMoon"
+    "Game"
   ],
   "data": {
     "name": "Pokémon Sun & Moon",
@@ -18,10 +16,6 @@
     },
     "mapBackground": {
       "color": "#092844"
-    },
-    "searchLabels": {
-      "PokemonSunMoon": true,
-      "PokemonSeries": true
     }
   }
 }

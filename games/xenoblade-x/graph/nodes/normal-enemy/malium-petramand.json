@@ -2,8 +2,7 @@
   "id": "malium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Malium Petramand",

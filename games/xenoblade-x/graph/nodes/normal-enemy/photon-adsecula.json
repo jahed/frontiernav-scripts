@@ -2,8 +2,7 @@
   "id": "photon-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Photon Adsecula",

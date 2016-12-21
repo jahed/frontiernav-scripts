@@ -2,8 +2,7 @@
   "id": "squall-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Squall Blatta",

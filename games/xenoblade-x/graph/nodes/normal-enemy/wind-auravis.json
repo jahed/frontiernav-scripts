@@ -2,8 +2,7 @@
   "id": "wind-auravis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wind Auravis",

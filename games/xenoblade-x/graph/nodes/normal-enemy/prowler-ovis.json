@@ -2,8 +2,7 @@
   "id": "prowler-ovis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prowler Ovis",

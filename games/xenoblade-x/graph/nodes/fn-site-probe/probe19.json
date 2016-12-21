@@ -1,8 +1,7 @@
 {
   "id": "probe19",
   "labels": [
-    "FNSiteProbe",
-    "XenobladeX"
+    "FNSiteProbe"
   ],
   "data": {
     "name": "Booster Probe G2",

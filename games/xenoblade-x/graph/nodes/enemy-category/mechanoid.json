@@ -1,8 +1,7 @@
 {
   "id": "mechanoid",
   "labels": [
-    "EnemyCategory",
-    "XenobladeX"
+    "EnemyCategory"
   ],
   "data": {
     "name": "Mechanoid"

@@ -2,8 +2,7 @@
   "id": "volcannon-vigent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Volcannon Vigent",

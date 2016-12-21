@@ -2,8 +2,7 @@
   "id": "swift-evello",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Swift Evello",

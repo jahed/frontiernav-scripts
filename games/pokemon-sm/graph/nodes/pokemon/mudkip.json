@@ -1,8 +1,7 @@
 {
   "id": "mudkip",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 258,

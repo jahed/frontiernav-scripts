@@ -1,8 +1,7 @@
 {
   "id": "industrial-district",
   "labels": [
-    "Region",
-    "XenobladeX"
+    "Region"
   ],
   "data": {
     "name": "Industrial District"

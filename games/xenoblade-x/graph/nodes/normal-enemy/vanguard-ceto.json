@@ -2,8 +2,7 @@
   "id": "vanguard-ceto",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Vanguard Ceto",

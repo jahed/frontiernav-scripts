@@ -2,8 +2,7 @@
   "id": "sapphire-visigel",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sapphire Visigel",

@@ -2,8 +2,7 @@
   "id": "cleaner-grex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cleaner Grex",

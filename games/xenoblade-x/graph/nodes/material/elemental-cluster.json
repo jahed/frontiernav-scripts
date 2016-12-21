@@ -1,8 +1,7 @@
 {
   "id": "elemental-cluster",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Elemental Cluster"

@@ -1,8 +1,7 @@
 {
   "id": "cranidos",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 408,

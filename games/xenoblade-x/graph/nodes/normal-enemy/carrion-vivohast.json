@@ -2,8 +2,7 @@
   "id": "carrion-vivohast",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Carrion Vivohast",

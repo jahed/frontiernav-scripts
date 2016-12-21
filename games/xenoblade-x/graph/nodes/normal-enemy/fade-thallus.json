@@ -2,8 +2,7 @@
   "id": "fade-thallus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Fade Thallus",

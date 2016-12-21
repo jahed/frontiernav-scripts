@@ -2,8 +2,7 @@
   "id": "deadland-caro",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Deadland Caro",

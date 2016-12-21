@@ -2,8 +2,7 @@
   "id": "wood-potamus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wood Potamus",

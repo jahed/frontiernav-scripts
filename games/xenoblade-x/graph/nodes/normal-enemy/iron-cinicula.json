@@ -2,8 +2,7 @@
   "id": "iron-cinicula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Iron Cinicula",

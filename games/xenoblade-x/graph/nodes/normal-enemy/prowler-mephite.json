@@ -2,8 +2,7 @@
   "id": "prowler-mephite",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prowler Mephite",

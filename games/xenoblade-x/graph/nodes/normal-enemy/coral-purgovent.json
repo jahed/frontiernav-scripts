@@ -2,8 +2,7 @@
   "id": "coral-purgovent",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Coral Purgovent",

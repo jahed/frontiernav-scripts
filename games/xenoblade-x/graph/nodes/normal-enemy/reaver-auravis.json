@@ -2,8 +2,7 @@
   "id": "reaver-auravis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Reaver Auravis",

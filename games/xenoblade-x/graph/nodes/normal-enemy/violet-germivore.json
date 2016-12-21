@@ -2,8 +2,7 @@
   "id": "violet-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Violet Germivore",

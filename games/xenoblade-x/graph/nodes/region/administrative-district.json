@@ -1,8 +1,7 @@
 {
   "id": "administrative-district",
   "labels": [
-    "Region",
-    "XenobladeX"
+    "Region"
   ],
   "data": {
     "name": "Administrative District"

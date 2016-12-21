@@ -1,8 +1,7 @@
 {
   "id": "excadrill",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 530,

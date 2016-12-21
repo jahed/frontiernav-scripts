@@ -2,8 +2,7 @@
   "id": "frenzy-coronid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Frenzy Coronid",

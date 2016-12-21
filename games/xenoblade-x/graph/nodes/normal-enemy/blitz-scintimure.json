@@ -2,8 +2,7 @@
   "id": "blitz-scintimure",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Blitz Scintimure",

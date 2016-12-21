@@ -2,8 +2,7 @@
   "id": "rhenium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Rhenium Oc-serv",

@@ -1,8 +1,7 @@
 {
   "id": "jynx",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 124,

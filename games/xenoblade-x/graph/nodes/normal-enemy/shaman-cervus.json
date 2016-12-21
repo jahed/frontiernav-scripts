@@ -2,8 +2,7 @@
   "id": "shaman-cervus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Shaman Cervus",

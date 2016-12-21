@@ -2,8 +2,7 @@
   "id": "monoceros-colt",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Monoceros Colt",

@@ -2,8 +2,7 @@
   "id": "bluff-gerrid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Bluff Gerrid",

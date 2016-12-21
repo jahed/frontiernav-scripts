@@ -2,8 +2,7 @@
   "id": "pillager-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Pillager Scirpo",

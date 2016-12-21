@@ -2,8 +2,7 @@
   "id": "prone-fury",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Prone Fury",

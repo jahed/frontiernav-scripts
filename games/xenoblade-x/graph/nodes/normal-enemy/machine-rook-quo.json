@@ -2,8 +2,7 @@
   "id": "machine-rook-quo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Machine Rook Quo",

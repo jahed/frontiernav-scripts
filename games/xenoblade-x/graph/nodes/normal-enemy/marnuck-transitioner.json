@@ -2,8 +2,7 @@
   "id": "marnuck-transitioner",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Marnuck Transitioner",

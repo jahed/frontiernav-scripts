@@ -2,8 +2,7 @@
   "id": "tornado-jacul",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Tornado Jacul",

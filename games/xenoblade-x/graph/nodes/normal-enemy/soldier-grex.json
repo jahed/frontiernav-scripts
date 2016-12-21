@@ -2,8 +2,7 @@
   "id": "soldier-grex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Soldier Grex",

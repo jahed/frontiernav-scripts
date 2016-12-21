@@ -2,8 +2,7 @@
   "id": "citrine-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Citrine Saltat",

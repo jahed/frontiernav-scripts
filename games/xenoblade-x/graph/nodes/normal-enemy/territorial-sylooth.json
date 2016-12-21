@@ -2,8 +2,7 @@
   "id": "territorial-sylooth",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Territorial Sylooth",

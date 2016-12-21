@@ -2,8 +2,7 @@
   "id": "crest-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Crest Saltat",

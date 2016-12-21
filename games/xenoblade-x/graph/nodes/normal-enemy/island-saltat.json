@@ -2,8 +2,7 @@
   "id": "island-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Island Saltat",

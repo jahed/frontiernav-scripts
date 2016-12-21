@@ -2,8 +2,7 @@
   "id": "wood-lepyx",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Wood Lepyx",

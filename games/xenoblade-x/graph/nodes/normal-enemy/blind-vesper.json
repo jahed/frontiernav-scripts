@@ -2,8 +2,7 @@
   "id": "blind-vesper",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Blind Vesper",

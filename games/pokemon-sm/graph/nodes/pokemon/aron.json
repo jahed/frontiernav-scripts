@@ -1,8 +1,7 @@
 {
   "id": "aron",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 304,

@@ -2,8 +2,7 @@
   "id": "zeppelin-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Zeppelin Germivore",

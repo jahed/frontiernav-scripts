@@ -2,8 +2,7 @@
   "id": "callow-virago",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Callow Virago",

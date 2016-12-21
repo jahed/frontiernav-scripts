@@ -2,8 +2,7 @@
   "id": "blast-lophid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Blast Lophid",

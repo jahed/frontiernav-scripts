@@ -2,8 +2,7 @@
   "id": "vulcan-cannon-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Vulcan Cannon Zig",

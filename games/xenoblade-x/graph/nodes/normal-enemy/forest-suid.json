@@ -2,8 +2,7 @@
   "id": "forest-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Forest Suid",

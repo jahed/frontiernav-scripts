@@ -2,8 +2,7 @@
   "id": "hunter-grex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hunter Grex",

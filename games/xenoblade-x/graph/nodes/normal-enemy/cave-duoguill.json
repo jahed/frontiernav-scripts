@@ -2,8 +2,7 @@
   "id": "cave-duoguill",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cave Duoguill",

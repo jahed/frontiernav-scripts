@@ -2,8 +2,7 @@
   "id": "storm-caro",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Storm Caro",

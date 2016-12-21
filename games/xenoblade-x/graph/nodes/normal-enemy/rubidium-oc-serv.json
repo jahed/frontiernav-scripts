@@ -2,8 +2,7 @@
   "id": "rubidium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Rubidium Oc-serv",

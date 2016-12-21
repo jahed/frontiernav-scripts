@@ -2,8 +2,7 @@
   "id": "palace-queen-qmoeva",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Palace Queen Qmoeva",

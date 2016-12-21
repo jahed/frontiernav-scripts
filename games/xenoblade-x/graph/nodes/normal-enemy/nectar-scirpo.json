@@ -2,8 +2,7 @@
   "id": "nectar-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nectar Scirpo",

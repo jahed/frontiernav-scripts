@@ -1,8 +1,7 @@
 {
   "id": "combat-boost-meds",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Combat Boost Meds"

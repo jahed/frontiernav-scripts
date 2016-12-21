@@ -2,8 +2,7 @@
   "id": "fake-thallus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Fake Thallus",

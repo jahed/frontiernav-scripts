@@ -2,8 +2,7 @@
   "id": "definian-clone",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Definian Clone",

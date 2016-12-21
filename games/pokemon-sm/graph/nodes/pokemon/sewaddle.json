@@ -1,8 +1,7 @@
 {
   "id": "sewaddle",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 540,

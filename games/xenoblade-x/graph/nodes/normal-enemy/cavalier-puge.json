@@ -2,8 +2,7 @@
   "id": "cavalier-puge",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cavalier Puge",

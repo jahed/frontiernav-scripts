@@ -1,8 +1,7 @@
 {
   "id": "textmarkermap1circ",
   "labels": [
-    "MapMarker",
-    "XenobladeX"
+    "MapMarker"
   ],
   "data": {
     "latLng": {

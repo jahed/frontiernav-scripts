@@ -2,8 +2,7 @@
   "id": "welkin-auravis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Welkin Auravis",

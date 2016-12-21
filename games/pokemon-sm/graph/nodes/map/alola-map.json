@@ -1,9 +1,7 @@
 {
   "id": "alola-map",
   "labels": [
-    "Map",
-    "PokemonSeries",
-    "PokemonSunMoon"
+    "Map"
   ],
   "data": {
     "name": "Alola",

@@ -2,8 +2,7 @@
   "id": "luminous-puge",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Luminous Puge",

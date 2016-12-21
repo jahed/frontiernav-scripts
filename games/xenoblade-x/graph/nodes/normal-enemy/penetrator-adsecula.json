@@ -2,8 +2,7 @@
   "id": "penetrator-adsecula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Penetrator Adsecula",

@@ -1,8 +1,7 @@
 {
   "id": "shape2i32",
   "labels": [
-    "MapArea",
-    "XenobladeX"
+    "MapArea"
   ],
   "data": {
     "latLngs": [

@@ -2,8 +2,7 @@
   "id": "sizzling-visigel",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sizzling Visigel",

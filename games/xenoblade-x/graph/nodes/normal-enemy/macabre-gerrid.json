@@ -2,8 +2,7 @@
   "id": "macabre-gerrid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Macabre Gerrid",

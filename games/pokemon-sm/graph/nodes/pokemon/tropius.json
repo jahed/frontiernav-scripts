@@ -1,8 +1,7 @@
 {
   "id": "tropius",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 357,

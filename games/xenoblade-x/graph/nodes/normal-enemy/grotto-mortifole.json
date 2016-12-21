@@ -2,8 +2,7 @@
   "id": "grotto-mortifole",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Grotto Mortifole",

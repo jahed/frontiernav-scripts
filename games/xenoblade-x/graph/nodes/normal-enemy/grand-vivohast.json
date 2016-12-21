@@ -2,8 +2,7 @@
   "id": "grand-vivohast",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Grand Vivohast",

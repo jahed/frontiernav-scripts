@@ -2,8 +2,7 @@
   "id": "ymir-gularth",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Ymir Gularth",

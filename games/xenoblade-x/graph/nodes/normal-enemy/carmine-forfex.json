@@ -2,8 +2,7 @@
   "id": "carmine-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Carmine Forfex",

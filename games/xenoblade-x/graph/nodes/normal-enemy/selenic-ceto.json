@@ -2,8 +2,7 @@
   "id": "selenic-ceto",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Selenic Ceto",

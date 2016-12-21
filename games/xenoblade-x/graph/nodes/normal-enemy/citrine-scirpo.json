@@ -2,8 +2,7 @@
   "id": "citrine-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Citrine Scirpo",

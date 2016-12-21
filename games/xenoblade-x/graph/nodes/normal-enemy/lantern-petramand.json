@@ -2,8 +2,7 @@
   "id": "lantern-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lantern Petramand",

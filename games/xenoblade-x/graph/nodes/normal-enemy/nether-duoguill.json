@@ -2,8 +2,7 @@
   "id": "nether-duoguill",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Nether Duoguill",

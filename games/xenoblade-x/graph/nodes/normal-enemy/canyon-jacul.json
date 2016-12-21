@@ -2,8 +2,7 @@
   "id": "canyon-jacul",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Canyon Jacul",

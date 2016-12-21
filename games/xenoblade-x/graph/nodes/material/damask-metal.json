@@ -1,8 +1,7 @@
 {
   "id": "damask-metal",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Damask Metal"

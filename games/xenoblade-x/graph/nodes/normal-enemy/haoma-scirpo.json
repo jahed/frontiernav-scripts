@@ -2,8 +2,7 @@
   "id": "haoma-scirpo",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Haoma Scirpo",

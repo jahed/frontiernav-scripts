@@ -2,8 +2,7 @@
   "id": "femme-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Femme Forfex",

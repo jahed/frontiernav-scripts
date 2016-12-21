@@ -2,8 +2,7 @@
   "id": "strike-barrager-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Strike Barrager Zig",

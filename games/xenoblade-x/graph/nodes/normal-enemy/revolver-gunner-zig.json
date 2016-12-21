@@ -2,8 +2,7 @@
   "id": "revolver-gunner-zig",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Revolver Gunner Zig",

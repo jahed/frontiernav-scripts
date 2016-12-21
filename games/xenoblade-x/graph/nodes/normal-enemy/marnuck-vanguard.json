@@ -2,8 +2,7 @@
   "id": "marnuck-vanguard",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Marnuck Vanguard",

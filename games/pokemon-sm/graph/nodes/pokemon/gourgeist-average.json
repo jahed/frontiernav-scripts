@@ -1,8 +1,7 @@
 {
   "id": "gourgeist-average",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 711,

@@ -2,8 +2,7 @@
   "id": "hermit-ictus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hermit Ictus",

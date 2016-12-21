@@ -2,8 +2,7 @@
   "id": "mist-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Mist Germivore",

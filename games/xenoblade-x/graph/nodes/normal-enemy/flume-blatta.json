@@ -2,8 +2,7 @@
   "id": "flume-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Flume Blatta",

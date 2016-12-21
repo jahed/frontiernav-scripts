@@ -1,8 +1,7 @@
 {
   "id": "cobalion",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 638,

@@ -2,8 +2,7 @@
   "id": "viridian-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Viridian Saltat",

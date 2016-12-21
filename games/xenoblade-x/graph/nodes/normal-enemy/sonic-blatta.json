@@ -2,8 +2,7 @@
   "id": "sonic-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sonic Blatta",

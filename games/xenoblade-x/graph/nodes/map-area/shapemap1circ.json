@@ -1,8 +1,7 @@
 {
   "id": "shapemap1circ",
   "labels": [
-    "MapArea",
-    "XenobladeX"
+    "MapArea"
   ],
   "data": {
     "latLng": {

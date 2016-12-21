@@ -2,8 +2,7 @@
   "id": "egg-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Egg Blatta",

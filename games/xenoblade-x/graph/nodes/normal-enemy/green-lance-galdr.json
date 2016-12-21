@@ -2,8 +2,7 @@
   "id": "green-lance-galdr",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Green Lance Galdr",

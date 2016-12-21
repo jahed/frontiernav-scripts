@@ -2,8 +2,7 @@
   "id": "furious-simius",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Furious Simius",

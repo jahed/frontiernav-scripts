@@ -1,8 +1,7 @@
 {
   "id": "meganium",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 154,

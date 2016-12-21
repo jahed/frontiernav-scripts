@@ -2,8 +2,7 @@
   "id": "lake-dilus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lake Dilus",

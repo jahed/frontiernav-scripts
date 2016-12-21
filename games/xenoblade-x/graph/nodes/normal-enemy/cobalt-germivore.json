@@ -2,8 +2,7 @@
   "id": "cobalt-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cobalt Germivore",

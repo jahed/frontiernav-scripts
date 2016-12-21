@@ -2,8 +2,7 @@
   "id": "cave-visigel",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Cave Visigel",

@@ -2,8 +2,7 @@
   "id": "sludge-caecus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sludge Caecus",

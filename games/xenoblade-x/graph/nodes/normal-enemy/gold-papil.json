@@ -2,8 +2,7 @@
   "id": "gold-papil",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Gold Papil",

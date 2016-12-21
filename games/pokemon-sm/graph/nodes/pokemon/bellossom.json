@@ -1,8 +1,7 @@
 {
   "id": "bellossom",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 182,

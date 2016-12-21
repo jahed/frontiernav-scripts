@@ -1,8 +1,7 @@
 {
   "id": "standard-sensor-part",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Standard Sensor Part"

@@ -2,8 +2,7 @@
   "id": "steel-femina-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Steel Femina Suid",

@@ -2,8 +2,7 @@
   "id": "lord-xe-dom",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lord Xe-dom",

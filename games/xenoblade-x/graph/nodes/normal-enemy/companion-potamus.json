@@ -2,8 +2,7 @@
   "id": "companion-potamus",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Companion Potamus",

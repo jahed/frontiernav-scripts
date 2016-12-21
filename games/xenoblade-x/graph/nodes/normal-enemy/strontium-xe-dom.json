@@ -2,8 +2,7 @@
   "id": "strontium-xe-dom",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Strontium Xe-dom",

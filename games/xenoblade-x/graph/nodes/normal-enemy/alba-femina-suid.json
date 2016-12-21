@@ -2,8 +2,7 @@
   "id": "alba-femina-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Alba Femina Suid",

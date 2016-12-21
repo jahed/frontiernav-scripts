@@ -2,8 +2,7 @@
   "id": "strange-liceor",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Strange Liceor",

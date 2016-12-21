@@ -2,8 +2,7 @@
   "id": "sky-aetrygon",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sky Aetrygon",

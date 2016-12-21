@@ -2,8 +2,7 @@
   "id": "negator-tectinsula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Negator Tectinsula",

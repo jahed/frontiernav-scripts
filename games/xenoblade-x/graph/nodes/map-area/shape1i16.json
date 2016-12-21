@@ -1,8 +1,7 @@
 {
   "id": "shape1i16",
   "labels": [
-    "MapMarker",
-    "XenobladeX"
+    "MapMarker"
   ],
   "data": {
     "latLng": {

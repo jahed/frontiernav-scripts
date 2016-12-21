@@ -2,8 +2,7 @@
   "id": "viridian-monoceros",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Viridian Monoceros",

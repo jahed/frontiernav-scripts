@@ -2,8 +2,7 @@
   "id": "lightning-progen",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Lightning Progen",

@@ -2,8 +2,7 @@
   "id": "stray-ovis",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Stray Ovis",

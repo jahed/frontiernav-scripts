@@ -2,8 +2,7 @@
   "id": "arc-caro",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Arc Caro",

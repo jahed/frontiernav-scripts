@@ -2,8 +2,7 @@
   "id": "trained-armored-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Trained Armored Suid",

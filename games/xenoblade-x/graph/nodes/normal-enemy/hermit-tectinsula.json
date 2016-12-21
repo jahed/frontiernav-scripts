@@ -2,8 +2,7 @@
   "id": "hermit-tectinsula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Hermit Tectinsula",

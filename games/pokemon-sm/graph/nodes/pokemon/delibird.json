@@ -1,8 +1,7 @@
 {
   "id": "delibird",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 225,

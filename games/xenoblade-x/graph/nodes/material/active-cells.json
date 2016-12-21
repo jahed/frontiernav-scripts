@@ -1,8 +1,7 @@
 {
   "id": "active-cells",
   "labels": [
-    "Material",
-    "XenobladeX"
+    "Material"
   ],
   "data": {
     "name": "Active Cells"

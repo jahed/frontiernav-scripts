@@ -2,8 +2,7 @@
   "id": "indigo-turba",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Indigo Turba",

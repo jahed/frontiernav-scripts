@@ -2,8 +2,7 @@
   "id": "bismuth-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Bismuth Oc-serv",

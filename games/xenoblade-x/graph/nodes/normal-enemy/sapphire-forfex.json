@@ -2,8 +2,7 @@
   "id": "sapphire-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sapphire Forfex",

@@ -2,8 +2,7 @@
   "id": "beryllium-oc-serv",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Beryllium Oc-serv",

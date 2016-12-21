@@ -1,8 +1,7 @@
 {
   "id": "prone",
   "labels": [
-    "EnemySubcategory",
-    "XenobladeX"
+    "EnemySubcategory"
   ],
   "data": {
     "name": "Prone"

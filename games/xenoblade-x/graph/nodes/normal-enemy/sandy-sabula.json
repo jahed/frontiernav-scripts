@@ -2,8 +2,7 @@
   "id": "sandy-sabula",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Sandy Sabula",

@@ -2,8 +2,7 @@
   "id": "shadow-germivore",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Shadow Germivore",

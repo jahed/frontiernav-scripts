@@ -2,8 +2,7 @@
   "id": "garnet-saltat",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Garnet Saltat",

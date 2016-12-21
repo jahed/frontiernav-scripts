@@ -2,8 +2,7 @@
   "id": "land-forfex",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Land Forfex",

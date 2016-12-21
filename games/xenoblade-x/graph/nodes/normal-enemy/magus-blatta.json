@@ -2,8 +2,7 @@
   "id": "magus-blatta",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Magus Blatta",

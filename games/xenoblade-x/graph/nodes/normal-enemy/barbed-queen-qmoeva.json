@@ -2,8 +2,7 @@
   "id": "barbed-queen-qmoeva",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Barbed Queen Qmoeva",

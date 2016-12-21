@@ -2,8 +2,7 @@
   "id": "bronze-suid",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Bronze Suid",

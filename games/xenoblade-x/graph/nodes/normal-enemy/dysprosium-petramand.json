@@ -2,8 +2,7 @@
   "id": "dysprosium-petramand",
   "labels": [
     "NormalEnemy",
-    "Enemy",
-    "XenobladeX"
+    "Enemy"
   ],
   "data": {
     "name": "Dysprosium Petramand",

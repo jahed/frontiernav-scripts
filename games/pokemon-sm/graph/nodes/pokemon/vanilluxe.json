@@ -1,8 +1,7 @@
 {
   "id": "vanilluxe",
   "labels": [
-    "Pokemon",
-    "PokemonSeries"
+    "Pokemon"
   ],
   "data": {
     "species_id": 584,
