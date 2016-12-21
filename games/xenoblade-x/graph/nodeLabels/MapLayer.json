@@ -1,0 +1,10 @@
+{
+  "id": "MapLayer",
+  "name": "Map Layer",
+  "pageDescription": "Map Layers are used to create various views on top of a map.",
+  "properties": {
+    "name": {},
+    "description": {},
+    "thumbnail": {}
+  }
+}

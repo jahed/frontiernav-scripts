@@ -1,0 +1,16 @@
+{
+  "id": "Character",
+  "name": "Character",
+  "searchable": true,
+  "pageDescription": "Find out more about {name} and where you can find them in Xenoblade Chronicles X.",
+  "properties": {
+    "name": {
+      "required": true
+    },
+    "gender": {},
+    "age": {},
+    "species": {},
+    "image": {},
+    "thumbnail": {}
+  }
+}

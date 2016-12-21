@@ -1,0 +1,9 @@
+{
+  "id": "REGION",
+  "startLabels": [
+    "Collectible"
+  ],
+  "endLabels": [
+    "Region"
+  ]
+}

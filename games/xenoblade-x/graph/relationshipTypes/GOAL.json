@@ -1,0 +1,14 @@
+{
+  "id": "GOAL",
+  "startLabels": [
+    "Segment"
+  ],
+  "endLabels": [
+    "HeartToHeart",
+    "Mission",
+    "Tyrant",
+    "Treasure",
+    "Character",
+    "FNSite"
+  ]
+}

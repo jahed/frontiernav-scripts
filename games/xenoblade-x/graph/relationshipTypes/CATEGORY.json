@@ -1,0 +1,9 @@
+{
+  "id": "CATEGORY",
+  "startLabels": [
+    "Collectible"
+  ],
+  "endLabels": [
+    "CollectibleCategory"
+  ]
+}

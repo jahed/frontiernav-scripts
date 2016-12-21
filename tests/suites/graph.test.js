@@ -4,15 +4,16 @@ const _ = require('lodash')
 const Ajv = require('ajv')
 const readGraph = require('../helpers/readGraph')
 const countGraph = require('../helpers/countGraph')
+const readObjects = require('../helpers/readObjects')
 
-const graph = readGraph('./graph')
-const { nodeLabels, nodes, relationships, relationshipTypes, locales, properties } = graph
+const graph = readGraph('./games/xenoblade-x/graph')
+const { nodeLabels, nodes, relationships, relationshipTypes, properties } = graph
+
+const locales = readObjects('./locales')
 
 describe('Graph', () => {
 
-    it(`read (${countGraph(graph)})`, () => {
-
-    })
+    it(`read (${countGraph(graph)})`, () => {})
 
     it('filenames should match assigned IDs', () => {
         const assertIdsMatch = (type, graphObject) => {
