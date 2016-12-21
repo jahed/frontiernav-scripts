@@ -1,9 +1,0 @@
-{
-  "id": "DROPS",
-  "startLabels": [
-    "Enemy"
-  ],
-  "endLabels": [
-    "Material"
-  ]
-}
