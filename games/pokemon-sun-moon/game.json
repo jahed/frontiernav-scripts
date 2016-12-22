@@ -1,8 +1,5 @@
 {
   "id": "pokemon-sun-moon",
-  "labels": [
-    "Game"
-  ],
   "data": {
     "name": "Pokémon Sun & Moon",
     "boxart": "pokemon-sun-moon-boxart.jpg",
