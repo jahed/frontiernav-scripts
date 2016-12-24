@@ -1,0 +1,20 @@
+{
+  "id": "pokemon-sun-moon",
+  "labels": [
+    "Game"
+  ],
+  "data": {
+    "name": "Pokémon Sun & Moon",
+    "boxart": "pokemon-sun-moon-boxart.jpg",
+    "image": "pokemon-alola-banner.jpg",
+    "platform": "Nintendo 3DS",
+    "initialRelease": "2016",
+    "theme": {
+      "mainColor": "#092844",
+      "stylesheet": "alola"
+    },
+    "mapBackground": {
+      "color": "#092844"
+    }
+  }
+}

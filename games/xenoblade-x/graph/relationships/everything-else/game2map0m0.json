@@ -1,0 +1,9 @@
+{
+  "id": "game2map0m0",
+  "type": "HAS",
+  "start": "game0",
+  "end": "map0",
+  "data": {
+    "order": 0
+  }
+}
