@@ -23,28 +23,28 @@
         "subheading": "Discover",
         "links": [
           {
-            "to": "/visualisations/game0/map/search?filter=Location",
+            "to": "/explore/game0/search?filter=Location",
             "icon": "map-marker",
             "title": "Locations"
           },
           {
-            "to": "/visualisations/game0/map/search?filter=Collectible",
+            "to": "/explore/game0/search?filter=Collectible",
             "icon": "book",
             "title": "Collectibles"
           },
           {
-            "to": "/visualisations/game0/map/search?filter=FNSite",
+            "to": "/explore/game0/search?filter=FNSite",
             "icon": "diamond",
             "title": "FN Sites"
           },
           {
-            "to": "/visualisations/game0/map/search?filter=Enemy",
+            "to": "/explore/game0/search?filter=Enemy",
             "pack": "rpg",
             "icon": "lion",
             "title": "Enemies"
           },
           {
-            "to": "/visualisations/game0/map/search?filter=Mission",
+            "to": "/explore/game0/search?filter=Mission",
             "icon": "file-text-o",
             "title": "Missions"
           }
