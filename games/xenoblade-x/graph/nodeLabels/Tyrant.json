@@ -2,5 +2,20 @@
   "id": "Tyrant",
   "name": "Tyrant",
   "searchable": true,
-  "pageDescription": "Find out where you can find {name} in Xenoblade Chronicles X."
+  "pageDescription": "Find out where you can find {name} in Xenoblade Chronicles X.",
+  "properties": {
+    "name": {
+      "required": true
+    },
+    "level": {},
+    "notes": {},
+    "category": {
+      "required": true
+    },
+    "subcategory": {
+      "required": true
+    },
+    "image": {},
+    "time": {}
+  }
 }
