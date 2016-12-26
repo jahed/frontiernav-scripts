@@ -1,0 +1,32 @@
+{
+  "id": "x-speed",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 350,
+    "name": "X Speed",
+    "summary": "Raises Speed by one stage in battle.  Raises happiness.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Speed by one stage.  Increases happiness by 1/1/0."
+  },
+  "locale": {
+    "ja": {
+      "name": "スピーダー"
+    },
+    "ko": {
+      "name": "스피드업"
+    },
+    "fr": {
+      "name": "Vitesse +"
+    },
+    "de": {
+      "name": "X-Tempo"
+    },
+    "es": {
+      "name": "Velocidad X"
+    },
+    "it": {
+      "name": "Velocità X"
+    }
+  }
+}

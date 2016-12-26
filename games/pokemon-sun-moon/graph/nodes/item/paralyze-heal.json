@@ -1,0 +1,32 @@
+{
+  "id": "paralyze-heal",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Paralyze Heal",
+    "summary": "Cures paralysis.",
+    "description": "Used on a party Pokémon\n:   Cures paralysis."
+  },
+  "locale": {
+    "ja": {
+      "name": "まひなおし"
+    },
+    "ko": {
+      "name": "마비치료제"
+    },
+    "fr": {
+      "name": "Anti-Para"
+    },
+    "de": {
+      "name": "Para-Heiler"
+    },
+    "es": {
+      "name": "Antiparalizador"
+    },
+    "it": {
+      "name": "Antiparalisi"
+    }
+  }
+}

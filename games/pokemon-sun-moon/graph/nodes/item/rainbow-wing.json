@@ -1,0 +1,32 @@
+{
+  "id": "rainbow-wing",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Rainbow Wing",
+    "summary": "Summons Ho-Oh at the top of the Bell Tower.",
+    "description": "Causes []{pokemon:ho-oh} to appear at the top of []{location:bell-tower}."
+  },
+  "locale": {
+    "ja": {
+      "name": "にじいろのはね"
+    },
+    "ko": {
+      "name": "무지갯빛날개"
+    },
+    "fr": {
+      "name": "Arcenci'Aile"
+    },
+    "de": {
+      "name": "Buntschwinge"
+    },
+    "es": {
+      "name": "Ala Arcoíris"
+    },
+    "it": {
+      "name": "Ala d'Iride"
+    }
+  }
+}

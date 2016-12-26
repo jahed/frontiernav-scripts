@@ -1,0 +1,32 @@
+{
+  "id": "sharp-beak",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Sharp Beak",
+    "summary": "Held: Flying-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Flying moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "するどいくちばし"
+    },
+    "ko": {
+      "name": "예리한부리"
+    },
+    "fr": {
+      "name": "Bec Pointu"
+    },
+    "de": {
+      "name": "Hackattack"
+    },
+    "es": {
+      "name": "Pico Afilado"
+    },
+    "it": {
+      "name": "Beccaffilato"
+    }
+  }
+}

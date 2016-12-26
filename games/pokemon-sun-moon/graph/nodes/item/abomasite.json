@@ -1,0 +1,30 @@
+{
+  "id": "abomasite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Abomasite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ユキノオナイト"
+    },
+    "ko": {
+      "name": "눈설왕나이트"
+    },
+    "fr": {
+      "name": "Blizzarite"
+    },
+    "de": {
+      "name": "Rexblisarnit"
+    },
+    "es": {
+      "name": "Abomasnowita"
+    },
+    "it": {
+      "name": "Abomasnowite"
+    }
+  }
+}

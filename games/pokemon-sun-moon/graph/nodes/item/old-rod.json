@@ -1,0 +1,32 @@
+{
+  "id": "old-rod",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Old Rod",
+    "summary": "Used to catch Pokémon in bodies of water.",
+    "description": "Used to find Pokémon on the Old Rod list for an area, which are generally Magikarp or similar."
+  },
+  "locale": {
+    "ja": {
+      "name": "ボロのつりざお"
+    },
+    "ko": {
+      "name": "낡은낚싯대"
+    },
+    "fr": {
+      "name": "Canne"
+    },
+    "de": {
+      "name": "Angel"
+    },
+    "es": {
+      "name": "Caña Vieja"
+    },
+    "it": {
+      "name": "Amo Vecchio"
+    }
+  }
+}

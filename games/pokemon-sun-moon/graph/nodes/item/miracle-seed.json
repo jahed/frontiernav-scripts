@@ -1,0 +1,32 @@
+{
+  "id": "miracle-seed",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Miracle Seed",
+    "summary": "Held: Grass-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Grass moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "きせきのタネ"
+    },
+    "ko": {
+      "name": "기적의씨"
+    },
+    "fr": {
+      "name": "Grain Miracle"
+    },
+    "de": {
+      "name": "Wundersaat"
+    },
+    "es": {
+      "name": "Semilla Milagro"
+    },
+    "it": {
+      "name": "Miracolseme"
+    }
+  }
+}

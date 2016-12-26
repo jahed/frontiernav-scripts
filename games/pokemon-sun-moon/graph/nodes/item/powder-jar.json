@@ -1,0 +1,29 @@
+{
+  "id": "powder-jar",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Powder Jar",
+    "summary": "Stores Berry Powder made using a Berry Crusher.",
+    "description": "Holds Berry Powder from Berry Crushing."
+  },
+  "locale": {
+    "ja": {
+      "name": "こないれ"
+    },
+    "fr": {
+      "name": "Pot Poudre"
+    },
+    "de": {
+      "name": "Puderdöschen"
+    },
+    "es": {
+      "name": "Bote Polvos"
+    },
+    "it": {
+      "name": "Portafarina"
+    }
+  }
+}

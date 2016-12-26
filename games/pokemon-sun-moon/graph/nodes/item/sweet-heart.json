@@ -1,0 +1,32 @@
+{
+  "id": "sweet-heart",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Sweet Heart",
+    "summary": "Restores 20 HP.",
+    "description": "Used on a friendly Pokémon\n:   Restores 20 HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "ハートスイーツ"
+    },
+    "ko": {
+      "name": "하트스위트"
+    },
+    "fr": {
+      "name": "Chococœur"
+    },
+    "de": {
+      "name": "Herzkonfekt"
+    },
+    "es": {
+      "name": "Corazón Dulce"
+    },
+    "it": {
+      "name": "Dolcecuore"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "gram-2",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Gram 2",
+    "summary": "Part of a sidequest to obtain []{item:tm89}.",
+    "description": "Give to the []{pokemon:wingull} on []{location:unova-route-13}, along with []{item:gram-1} and []{item:gram-3}, to receive []{item:tm89}."
+  },
+  "locale": {
+    "ja": {
+      "name": "はいたつぶつ２"
+    },
+    "ko": {
+      "name": "배달물2"
+    },
+    "fr": {
+      "name": "Courrier 2"
+    },
+    "de": {
+      "name": "Briefpost 2"
+    },
+    "es": {
+      "name": "Envío 2"
+    },
+    "it": {
+      "name": "Missiva 2"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tm14",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 5500,
+    "name": "TM14",
+    "summary": "Teaches Blizzard to a compatible Pokémon.",
+    "description": "Teaches Blizzard to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン１４"
+    },
+    "ko": {
+      "name": "기술머신14"
+    },
+    "fr": {
+      "name": "CT14"
+    },
+    "de": {
+      "name": "TM14"
+    },
+    "es": {
+      "name": "MT14"
+    },
+    "it": {
+      "name": "MT14"
+    }
+  }
+}

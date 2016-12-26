@@ -1,0 +1,29 @@
+{
+  "id": "meteorite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Meteorite",
+    "summary": "FL: Deliver to Lostelle's father. RSE: Trade to Professor Cozmo for TM27 (Return).",
+    "description": "RSE: May be traded to Professor Cozmo for []{item:tm27}.\n\nFRLG: A meteorite to be delivered to Lostelle's father."
+  },
+  "locale": {
+    "ja": {
+      "name": "いんせき"
+    },
+    "fr": {
+      "name": "Météorite"
+    },
+    "de": {
+      "name": "Meteorit"
+    },
+    "es": {
+      "name": "Meteorito"
+    },
+    "it": {
+      "name": "Meteorite"
+    }
+  }
+}

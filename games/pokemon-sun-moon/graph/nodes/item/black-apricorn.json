@@ -1,0 +1,32 @@
+{
+  "id": "black-apricorn",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Black Apricorn",
+    "summary": "Used to make a Heavy Ball.",
+    "description": "May be given to Kurt in []{location:azalea-town} to produce a []{item:heavy-ball}."
+  },
+  "locale": {
+    "ja": {
+      "name": "くろぼんぐり"
+    },
+    "ko": {
+      "name": "검은규토리"
+    },
+    "fr": {
+      "name": "Noigrume Noi"
+    },
+    "de": {
+      "name": "Aprikoko Swz"
+    },
+    "es": {
+      "name": "Bonguri Negro"
+    },
+    "it": {
+      "name": "Ghicocca Nera"
+    }
+  }
+}

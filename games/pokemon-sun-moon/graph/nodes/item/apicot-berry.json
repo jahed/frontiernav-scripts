@@ -1,0 +1,32 @@
+{
+  "id": "apicot-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Apicot Berry",
+    "summary": "Held: Consumed at 1/4 max HP to boost Special Defense.",
+    "description": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Special Defense by one stage."
+  },
+  "locale": {
+    "ja": {
+      "name": "ズアのみ"
+    },
+    "ko": {
+      "name": "규살열매"
+    },
+    "fr": {
+      "name": "Baie Abriko"
+    },
+    "de": {
+      "name": "Apikobeere"
+    },
+    "es": {
+      "name": "Baya Aricoc"
+    },
+    "it": {
+      "name": "Baccacocca"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "razor-fang",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Razor Fang",
+    "summary": "Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.",
+    "description": "Held: When the holder attacks with most damaging moves, provides an extra 11.7% (30/256) chance for the target to flinch.\nHeld by Gligar: Evolves the holder into Gliscor when it levels up."
+  },
+  "locale": {
+    "ja": {
+      "name": "するどいキバ"
+    },
+    "ko": {
+      "name": "예리한이빨"
+    },
+    "fr": {
+      "name": "Croc Rasoir"
+    },
+    "de": {
+      "name": "Scharfzahn"
+    },
+    "es": {
+      "name": "Colmillo Agudo"
+    },
+    "it": {
+      "name": "Affilodente"
+    }
+  }
+}

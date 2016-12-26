@@ -1,0 +1,32 @@
+{
+  "id": "damp-mulch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Damp Mulch",
+    "summary": "Growing time of berries is increased, but the soil dries out slower.",
+    "description": "Used on a patch of soil\n:   Plant's growth stages will each last 25% more time.  Dries soil out more slowly."
+  },
+  "locale": {
+    "ja": {
+      "name": "じめじめこやし"
+    },
+    "ko": {
+      "name": "축축이비료"
+    },
+    "fr": {
+      "name": "Fertihumide"
+    },
+    "de": {
+      "name": "Feuchtmulch"
+    },
+    "es": {
+      "name": "Abono Lento"
+    },
+    "it": {
+      "name": "Fertilidro"
+    }
+  }
+}

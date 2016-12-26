@@ -1,0 +1,32 @@
+{
+  "id": "sea-incense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9600,
+    "name": "Sea Incense",
+    "summary": "Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.",
+    "description": "Held: Increases the power of the holder's Water moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "うしおのおこう"
+    },
+    "ko": {
+      "name": "바닷물향로"
+    },
+    "fr": {
+      "name": "Encens Mer"
+    },
+    "de": {
+      "name": "Seerauch"
+    },
+    "es": {
+      "name": "Incienso Marino"
+    },
+    "it": {
+      "name": "Marearoma"
+    }
+  }
+}

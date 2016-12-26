@@ -1,0 +1,32 @@
+{
+  "id": "ring-target",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Ring Target",
+    "summary": "Held: Negates the holder's type immunities. Ability immunities are not removed.",
+    "description": "Held\n:   When one of the user's types would render it immune to damage, that type is ignored for damage calculation."
+  },
+  "locale": {
+    "ja": {
+      "name": "ねらいのまと"
+    },
+    "ko": {
+      "name": "겨냥표적"
+    },
+    "fr": {
+      "name": "Point de Mire"
+    },
+    "de": {
+      "name": "Zielscheibe"
+    },
+    "es": {
+      "name": "Blanco"
+    },
+    "it": {
+      "name": "Facilsaglio"
+    }
+  }
+}

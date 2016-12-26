@@ -1,0 +1,30 @@
+{
+  "id": "amaze-mulch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Amaze Mulch"
+  },
+  "locale": {
+    "ja": {
+      "name": "とんでもこやし"
+    },
+    "ko": {
+      "name": "기절초풍비료"
+    },
+    "fr": {
+      "name": "Fertiprodige"
+    },
+    "de": {
+      "name": "Ultramulch"
+    },
+    "es": {
+      "name": "Abono Insólito"
+    },
+    "it": {
+      "name": "Fertilprodigio"
+    }
+  }
+}

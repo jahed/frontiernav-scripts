@@ -1,0 +1,32 @@
+{
+  "id": "green-scarf",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Green Scarf",
+    "summary": "Raises the holder's Smartness while in a contest.",
+    "description": "Held: Increases the holder's Smartness during a Super Contest's Visual Competition."
+  },
+  "locale": {
+    "ja": {
+      "name": "みどりのバンダナ"
+    },
+    "ko": {
+      "name": "초록밴드"
+    },
+    "fr": {
+      "name": "Foulard Vert"
+    },
+    "de": {
+      "name": "Grüner Schal"
+    },
+    "es": {
+      "name": "Pañuelo Verde"
+    },
+    "it": {
+      "name": "Fascia Verde"
+    }
+  }
+}

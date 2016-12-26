@@ -1,0 +1,32 @@
+{
+  "id": "tm07",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM07",
+    "summary": "Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)",
+    "description": "Teaches Hail to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン０７"
+    },
+    "ko": {
+      "name": "기술머신07"
+    },
+    "fr": {
+      "name": "CT07"
+    },
+    "de": {
+      "name": "TM07"
+    },
+    "es": {
+      "name": "MT07"
+    },
+    "it": {
+      "name": "MT07"
+    }
+  }
+}

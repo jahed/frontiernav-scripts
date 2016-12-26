@@ -1,0 +1,32 @@
+{
+  "id": "unown-report",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Unown Report",
+    "summary": "Keeps track of Unown types caught.",
+    "description": "Lists which []{pokemon:unown} forms the trainer has caught."
+  },
+  "locale": {
+    "ja": {
+      "name": "アンノーンノート"
+    },
+    "ko": {
+      "name": "안농노트"
+    },
+    "fr": {
+      "name": "Carnet Zarbi"
+    },
+    "de": {
+      "name": "Icognitoheft"
+    },
+    "es": {
+      "name": "Bloc Unown"
+    },
+    "it": {
+      "name": "UnownBloc"
+    }
+  }
+}

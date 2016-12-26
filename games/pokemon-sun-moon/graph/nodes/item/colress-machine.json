@@ -1,0 +1,32 @@
+{
+  "id": "colress-machine",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Colress Machine",
+    "summary": "Wakes up the Crustle blocking the way in Seaside Cave.",
+    "description": ""
+  },
+  "locale": {
+    "ja": {
+      "name": "アクロママシーン"
+    },
+    "ko": {
+      "name": "아크로마머신"
+    },
+    "fr": {
+      "name": "Nikodule"
+    },
+    "de": {
+      "name": "Achromat"
+    },
+    "es": {
+      "name": "Acromáquina"
+    },
+    "it": {
+      "name": "Acrocongegno"
+    }
+  }
+}

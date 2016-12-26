@@ -1,0 +1,32 @@
+{
+  "id": "tm94",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 10000,
+    "name": "TM94",
+    "summary": "Teaches Rock Smash to a compatible Pokémon.",
+    "description": "Teaches []{move:rock-smash} to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン９４"
+    },
+    "ko": {
+      "name": "기술머신94"
+    },
+    "fr": {
+      "name": "CT94"
+    },
+    "de": {
+      "name": "TM94"
+    },
+    "es": {
+      "name": "MT94"
+    },
+    "it": {
+      "name": "MT94"
+    }
+  }
+}

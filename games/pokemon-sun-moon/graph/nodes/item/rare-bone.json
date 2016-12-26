@@ -1,0 +1,32 @@
+{
+  "id": "rare-bone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 10000,
+    "name": "Rare Bone",
+    "summary": "Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "きちょうなホネ"
+    },
+    "ko": {
+      "name": "귀중한뼈"
+    },
+    "fr": {
+      "name": "Os Rare"
+    },
+    "de": {
+      "name": "Steinknochen"
+    },
+    "es": {
+      "name": "Hueso Raro"
+    },
+    "it": {
+      "name": "Osso Raro"
+    }
+  }
+}

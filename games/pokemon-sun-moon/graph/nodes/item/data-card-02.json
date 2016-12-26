@@ -1,0 +1,32 @@
+{
+  "id": "data-card-02",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 02",
+    "summary": "Records the number of times the trainer has come in last place overall in the Pokéathlon.",
+    "description": "Records the number of times the trainer has come in last place overall in the Pokéathlon."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード０２"
+    },
+    "ko": {
+      "name": "데이터카드02"
+    },
+    "fr": {
+      "name": "Carte Mémo02"
+    },
+    "de": {
+      "name": "Datenkarte02"
+    },
+    "es": {
+      "name": "Tarjeta Datos 02"
+    },
+    "it": {
+      "name": "Scheda Dati 02"
+    }
+  }
+}

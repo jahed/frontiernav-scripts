@@ -1,0 +1,32 @@
+{
+  "id": "lustrous-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 10000,
+    "name": "Lustrous Orb",
+    "summary": "Boosts the damage from Palkia's Dragon-type and Water-type moves by 20%.",
+    "description": "Held by []{pokemon:palkia}\n:   Holder's []{type:dragon}- and []{type:water}-type moves have 1.2× their usual power."
+  },
+  "locale": {
+    "ja": {
+      "name": "しらたま"
+    },
+    "ko": {
+      "name": "백옥"
+    },
+    "fr": {
+      "name": "Orbe Perlé"
+    },
+    "de": {
+      "name": "Weiß-Orb"
+    },
+    "es": {
+      "name": "Lustresfera"
+    },
+    "it": {
+      "name": "Splendisfera"
+    }
+  }
+}

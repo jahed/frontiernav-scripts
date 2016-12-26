@@ -1,0 +1,32 @@
+{
+  "id": "enigma-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Enigma Berry",
+    "summary": "Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.",
+    "description": "Held in battle\n:   When the holder takes super-effective damage, it consumes this item to restore 1/4 its max HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "ナゾのみ"
+    },
+    "ko": {
+      "name": "의문열매"
+    },
+    "fr": {
+      "name": "Baie Enigma"
+    },
+    "de": {
+      "name": "Enigmabeere"
+    },
+    "es": {
+      "name": "Baya Enigma"
+    },
+    "it": {
+      "name": "Baccaenigma"
+    }
+  }
+}

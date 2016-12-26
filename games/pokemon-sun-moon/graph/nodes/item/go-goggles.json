@@ -1,0 +1,29 @@
+{
+  "id": "go-goggles",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Go-Goggles",
+    "summary": "Allows passage through windy deserts.",
+    "description": "Allows the trainer to enter the desert on []{location:hoenn-route-111}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴーゴーゴーグル"
+    },
+    "fr": {
+      "name": "Lunet. Sable"
+    },
+    "de": {
+      "name": "Wüstenglas"
+    },
+    "es": {
+      "name": "Gaf. Aislan."
+    },
+    "it": {
+      "name": "Occhialoni"
+    }
+  }
+}

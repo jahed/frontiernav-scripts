@@ -1,0 +1,32 @@
+{
+  "id": "tm08",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1500,
+    "name": "TM08",
+    "summary": "Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)",
+    "description": "Teaches Bulk Up to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン０８"
+    },
+    "ko": {
+      "name": "기술머신08"
+    },
+    "fr": {
+      "name": "CT08"
+    },
+    "de": {
+      "name": "TM08"
+    },
+    "es": {
+      "name": "MT08"
+    },
+    "it": {
+      "name": "MT08"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "holo-caster",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Holo Caster"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホロキャスター"
+    },
+    "ko": {
+      "name": "홀로캐스터"
+    },
+    "fr": {
+      "name": "Holokit"
+    },
+    "de": {
+      "name": "Holo-Log"
+    },
+    "es": {
+      "name": "Holomisor"
+    },
+    "it": {
+      "name": "Holovox"
+    }
+  }
+}

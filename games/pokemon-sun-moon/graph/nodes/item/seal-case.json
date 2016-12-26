@@ -1,0 +1,32 @@
+{
+  "id": "seal-case",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Seal Case",
+    "summary": "Stores Seals that can be applied to Poké Ball capsules.",
+    "description": "Contains Seals used for decorating Pokéballs."
+  },
+  "locale": {
+    "ja": {
+      "name": "シールいれ"
+    },
+    "ko": {
+      "name": "실상자"
+    },
+    "fr": {
+      "name": "Boîte Sceaux"
+    },
+    "de": {
+      "name": "Stick.Koffer"
+    },
+    "es": {
+      "name": "Caja Sellos"
+    },
+    "it": {
+      "name": "Portabolli"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tm47",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM47",
+    "summary": "Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)",
+    "description": "Teaches Steel Wing to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン４７"
+    },
+    "ko": {
+      "name": "기술머신47"
+    },
+    "fr": {
+      "name": "CT47"
+    },
+    "de": {
+      "name": "TM47"
+    },
+    "es": {
+      "name": "MT47"
+    },
+    "it": {
+      "name": "MT47"
+    }
+  }
+}

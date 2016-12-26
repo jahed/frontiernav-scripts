@@ -1,0 +1,32 @@
+{
+  "id": "tm90",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM90",
+    "summary": "Teaches Substitute to a compatible Pokémon.",
+    "description": "Teaches Substitute to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン９０"
+    },
+    "ko": {
+      "name": "기술머신90"
+    },
+    "fr": {
+      "name": "CT90"
+    },
+    "de": {
+      "name": "TM90"
+    },
+    "es": {
+      "name": "MT90"
+    },
+    "it": {
+      "name": "MT90"
+    }
+  }
+}

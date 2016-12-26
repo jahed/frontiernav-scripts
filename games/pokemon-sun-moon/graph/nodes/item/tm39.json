@@ -1,0 +1,32 @@
+{
+  "id": "tm39",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM39",
+    "summary": "Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)",
+    "description": "Teaches Rock Tomb to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３９"
+    },
+    "ko": {
+      "name": "기술머신39"
+    },
+    "fr": {
+      "name": "CT39"
+    },
+    "de": {
+      "name": "TM39"
+    },
+    "es": {
+      "name": "MT39"
+    },
+    "it": {
+      "name": "MT39"
+    }
+  }
+}

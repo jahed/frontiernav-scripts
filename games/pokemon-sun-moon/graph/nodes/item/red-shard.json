@@ -1,0 +1,32 @@
+{
+  "id": "red-shard",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Red Shard",
+    "summary": "No effect. Can be traded for items or moves.",
+    "description": "No effect.\n\nIn Diamond and Pearl, trade ten for a []{move:sunny-day} TM in the house midway along the southern section of []{location:sinnoh-route-212}.\n\nIn Platinum, trade to move tutors on []{location:sinnoh-route-212}, in []{location:snowpoint-city}, and in the []{location:survival-area}.  Eight shards total are required per tutelage, but the particular combination of colors varies by move.\n\nIn HeartGold and SoulSilver, trade one for a []{item:cheri-berry}, a []{item:leppa-berry}, and a []{item:pecha-berry} with the Juggler near the Pokémon Center in []{location:violet-city}.\n\nIn HeartGold and SoulSilver, trade one for a []{item:persim-berry}, a []{item:pomeg-berry}, and a []{item:razz-berry} with the Juggler near the []{location:pal-park} entrance in []{location:fuchsia-city}."
+  },
+  "locale": {
+    "ja": {
+      "name": "あかいかけら"
+    },
+    "ko": {
+      "name": "빨강조각"
+    },
+    "fr": {
+      "name": "Tesson Rouge"
+    },
+    "de": {
+      "name": "Purpurstück"
+    },
+    "es": {
+      "name": "Parte Roja"
+    },
+    "it": {
+      "name": "Coccio Rosso"
+    }
+  }
+}

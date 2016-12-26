@@ -1,0 +1,29 @@
+{
+  "id": "devon-goods",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Devon Goods",
+    "summary": "Contains mechanical parts to be delivered to Captain Stern.",
+    "description": "Contains a machine part to be delivered to Captain Stern."
+  },
+  "locale": {
+    "ja": {
+      "name": "デボンのにもつ"
+    },
+    "fr": {
+      "name": "Pack Devon"
+    },
+    "de": {
+      "name": "Devon-Waren"
+    },
+    "es": {
+      "name": "Piezas Devon"
+    },
+    "it": {
+      "name": "Merce Devon"
+    }
+  }
+}

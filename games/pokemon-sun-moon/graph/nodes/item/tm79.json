@@ -1,0 +1,32 @@
+{
+  "id": "tm79",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM79",
+    "summary": "Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)",
+    "description": "Teaches Dark Pulse to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン７９"
+    },
+    "ko": {
+      "name": "기술머신79"
+    },
+    "fr": {
+      "name": "CT79"
+    },
+    "de": {
+      "name": "TM79"
+    },
+    "es": {
+      "name": "MT79"
+    },
+    "it": {
+      "name": "MT79"
+    }
+  }
+}

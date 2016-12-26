@@ -1,0 +1,30 @@
+{
+  "id": "lumiose-galette",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Lumiose Galette"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミアレガレット"
+    },
+    "ko": {
+      "name": "미르갈레트"
+    },
+    "fr": {
+      "name": "Galette Illumis"
+    },
+    "de": {
+      "name": "Illumina-Galette"
+    },
+    "es": {
+      "name": "Crêpe Luminalia"
+    },
+    "it": {
+      "name": "Pan di Lumi"
+    }
+  }
+}

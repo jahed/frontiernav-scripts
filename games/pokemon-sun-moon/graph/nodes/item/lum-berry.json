@@ -1,0 +1,32 @@
+{
+  "id": "lum-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Lum Berry",
+    "summary": "Held: Consumed to cure any status condition or confusion.",
+    "description": "Held in battle\n:   When the holder is afflicted with a major status ailment, it consumes this item to cure the ailment.\n\nUsed on a party Pokémon\n:   Cures any major status ailment."
+  },
+  "locale": {
+    "ja": {
+      "name": "ラムのみ"
+    },
+    "ko": {
+      "name": "리샘열매"
+    },
+    "fr": {
+      "name": "Baie Prine"
+    },
+    "de": {
+      "name": "Prunusbeere"
+    },
+    "es": {
+      "name": "Baya Ziuela"
+    },
+    "it": {
+      "name": "Baccaprugna"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "weakness-policy",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Weakness Policy"
+  },
+  "locale": {
+    "ja": {
+      "name": "じゃくてんほけん"
+    },
+    "ko": {
+      "name": "약점보험"
+    },
+    "fr": {
+      "name": "Vulné-Assurance"
+    },
+    "de": {
+      "name": "Schwächenschutz"
+    },
+    "es": {
+      "name": "Seguro Debilidad"
+    },
+    "it": {
+      "name": "Vulneropolizza"
+    }
+  }
+}

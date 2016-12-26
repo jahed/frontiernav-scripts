@@ -1,0 +1,32 @@
+{
+  "id": "machine-part",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Machine Part",
+    "summary": "Must be replaced in the Power Plant to power the Magnet Train.",
+    "description": "Must be replaced in the []{location:power-plant} to power the Magnet Train."
+  },
+  "locale": {
+    "ja": {
+      "name": "きかいのぶひん"
+    },
+    "ko": {
+      "name": "기계부품"
+    },
+    "fr": {
+      "name": "Partie Machine"
+    },
+    "de": {
+      "name": "Spule"
+    },
+    "es": {
+      "name": "Maquinaria"
+    },
+    "it": {
+      "name": "Pezzo macch."
+    }
+  }
+}

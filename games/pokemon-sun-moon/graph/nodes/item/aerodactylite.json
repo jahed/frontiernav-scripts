@@ -1,0 +1,30 @@
+{
+  "id": "aerodactylite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Aerodactylite"
+  },
+  "locale": {
+    "ja": {
+      "name": "プテラナイト"
+    },
+    "ko": {
+      "name": "프테라나이트"
+    },
+    "fr": {
+      "name": "Ptéraïte"
+    },
+    "de": {
+      "name": "Aerodactylonit"
+    },
+    "es": {
+      "name": "Aerodactylita"
+    },
+    "it": {
+      "name": "Aerodactylite"
+    }
+  }
+}

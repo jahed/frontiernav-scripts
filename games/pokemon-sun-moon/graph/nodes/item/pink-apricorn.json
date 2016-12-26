@@ -1,0 +1,32 @@
+{
+  "id": "pink-apricorn",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Pink Apricorn",
+    "summary": "Used to make a Love Ball.",
+    "description": "May be given to Kurt in []{location:azalea-town} to produce a []{item:love-ball}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ももぼんぐり"
+    },
+    "ko": {
+      "name": "담홍규토리"
+    },
+    "fr": {
+      "name": "Noigrume Ros"
+    },
+    "de": {
+      "name": "Aprikoko Pnk"
+    },
+    "es": {
+      "name": "Bonguri Rosa"
+    },
+    "it": {
+      "name": "Ghicocca Rosa"
+    }
+  }
+}

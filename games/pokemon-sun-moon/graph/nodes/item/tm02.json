@@ -1,0 +1,32 @@
+{
+  "id": "tm02",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM02",
+    "summary": "Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)",
+    "description": "Teaches Dragon Claw to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン０２"
+    },
+    "ko": {
+      "name": "기술머신02"
+    },
+    "fr": {
+      "name": "CT02"
+    },
+    "de": {
+      "name": "TM02"
+    },
+    "es": {
+      "name": "MT02"
+    },
+    "it": {
+      "name": "MT02"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "poison-barb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Poison Barb",
+    "summary": "Held: Poison-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Poison moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "どくバリ"
+    },
+    "ko": {
+      "name": "독바늘"
+    },
+    "fr": {
+      "name": "Pic Venin"
+    },
+    "de": {
+      "name": "Giftstich"
+    },
+    "es": {
+      "name": "Flecha Venenosa"
+    },
+    "it": {
+      "name": "Velenaculeo"
+    }
+  }
+}

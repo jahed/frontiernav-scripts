@@ -1,0 +1,32 @@
+{
+  "id": "x-attack-2",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "X Attack 2",
+    "summary": "Raises Attack by two stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Attack by two stages.\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "プラスパワー２"
+    },
+    "ko": {
+      "name": "플러스파워2"
+    },
+    "fr": {
+      "name": "Attaque 2"
+    },
+    "de": {
+      "name": "X-Angriff2"
+    },
+    "es": {
+      "name": "Ataque X 2"
+    },
+    "it": {
+      "name": "Attacco X-2"
+    }
+  }
+}

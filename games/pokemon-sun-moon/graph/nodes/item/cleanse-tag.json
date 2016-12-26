@@ -1,0 +1,32 @@
+{
+  "id": "cleanse-tag",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Cleanse Tag",
+    "summary": "Prevents wild encounters of level lower than your party's lead Pokémon.",
+    "description": "Held by lead Pokémon: Prevents wild battles with Pokémon that are lower level than the holder."
+  },
+  "locale": {
+    "ja": {
+      "name": "きよめのおふだ"
+    },
+    "ko": {
+      "name": "순결의부적"
+    },
+    "fr": {
+      "name": "Rune Purifiante"
+    },
+    "de": {
+      "name": "Schutzband"
+    },
+    "es": {
+      "name": "Amuleto"
+    },
+    "it": {
+      "name": "Velopuro"
+    }
+  }
+}

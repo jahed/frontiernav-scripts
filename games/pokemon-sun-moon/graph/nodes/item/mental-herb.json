@@ -1,0 +1,32 @@
+{
+  "id": "mental-herb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Mental Herb",
+    "summary": "Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",
+    "description": "Held in battle\n:   When the holder is attracted, it consumes this item to cure the attraction."
+  },
+  "locale": {
+    "ja": {
+      "name": "メンタルハーブ"
+    },
+    "ko": {
+      "name": "멘탈허브"
+    },
+    "fr": {
+      "name": "Herbe Mental"
+    },
+    "de": {
+      "name": "Mentalkraut"
+    },
+    "es": {
+      "name": "Hierba Mental"
+    },
+    "it": {
+      "name": "Mentalerba"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tyranitarite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Tyranitarite"
+  },
+  "locale": {
+    "ja": {
+      "name": "バンギラスナイト"
+    },
+    "ko": {
+      "name": "마기라스나이트"
+    },
+    "fr": {
+      "name": "Tyranocivite"
+    },
+    "de": {
+      "name": "Despotarnit"
+    },
+    "es": {
+      "name": "Tyranitarita"
+    },
+    "it": {
+      "name": "Tyranitarite"
+    }
+  }
+}

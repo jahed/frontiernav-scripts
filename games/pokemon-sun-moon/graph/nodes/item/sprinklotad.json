@@ -1,0 +1,30 @@
+{
+  "id": "sprinklotad",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Sprinklotad"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハスボーじょうろ"
+    },
+    "ko": {
+      "name": "연꽃몬물뿌리개"
+    },
+    "fr": {
+      "name": "Nénurrosoir"
+    },
+    "de": {
+      "name": "Loturzelkanne"
+    },
+    "es": {
+      "name": "Lotadgadera"
+    },
+    "it": {
+      "name": "Irrigalotad"
+    }
+  }
+}

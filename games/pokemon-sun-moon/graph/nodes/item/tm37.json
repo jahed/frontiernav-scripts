@@ -1,0 +1,32 @@
+{
+  "id": "tm37",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM37",
+    "summary": "Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)",
+    "description": "Teaches Sandstorm to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３７"
+    },
+    "ko": {
+      "name": "기술머신37"
+    },
+    "fr": {
+      "name": "CT37"
+    },
+    "de": {
+      "name": "TM37"
+    },
+    "es": {
+      "name": "MT37"
+    },
+    "it": {
+      "name": "MT37"
+    }
+  }
+}

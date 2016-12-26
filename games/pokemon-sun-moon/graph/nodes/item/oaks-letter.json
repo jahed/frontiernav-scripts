@@ -1,0 +1,32 @@
+{
+  "id": "oaks-letter",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Oak's Letter",
+    "summary": "Allows access to Seabreak path, Flower Paradise, and Shaymin.",
+    "description": "Grants access to Flower Paradise and Shaymin."
+  },
+  "locale": {
+    "ja": {
+      "name": "オーキドのてがみ"
+    },
+    "ko": {
+      "name": "오박사의편지"
+    },
+    "fr": {
+      "name": "Lettre Chen"
+    },
+    "de": {
+      "name": "Eichs Brief"
+    },
+    "es": {
+      "name": "Carta Prof. Oak"
+    },
+    "it": {
+      "name": "Lettera Oak"
+    }
+  }
+}

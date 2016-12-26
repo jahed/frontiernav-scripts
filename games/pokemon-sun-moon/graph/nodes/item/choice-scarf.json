@@ -1,0 +1,32 @@
+{
+  "id": "choice-scarf",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Choice Scarf",
+    "summary": "Held: Increases Speed by 50%, but restricts the holder to only one move.",
+    "description": "Held: Increases the holder's Speed by 50%, but restricts it to the first move it uses until it leaves battle or loses this item.  If this item is swapped for another Choice item via Trick or Switcheroo, the holder's restriction is still lifted, but it will again be restricted to the next move it uses.\n(Quirk: If the holder is switched in by U-Turn and it also knows U-Turn, U-Turn becomes its restricted move.)"
+  },
+  "locale": {
+    "ja": {
+      "name": "こだわりスカーフ"
+    },
+    "ko": {
+      "name": "구애스카프"
+    },
+    "fr": {
+      "name": "Mouchoir Choix"
+    },
+    "de": {
+      "name": "Wahlschal"
+    },
+    "es": {
+      "name": "Pañuelo Elegido"
+    },
+    "it": {
+      "name": "Stolascelta"
+    }
+  }
+}

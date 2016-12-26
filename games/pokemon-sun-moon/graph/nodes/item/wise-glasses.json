@@ -1,0 +1,32 @@
+{
+  "id": "wise-glasses",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Wise Glasses",
+    "summary": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%).",
+    "description": "Held: Increases the power of the holder's special moves by 10%."
+  },
+  "locale": {
+    "ja": {
+      "name": "ものしりメガネ"
+    },
+    "ko": {
+      "name": "박식안경"
+    },
+    "fr": {
+      "name": "Lunettes Sages"
+    },
+    "de": {
+      "name": "Schlauglas"
+    },
+    "es": {
+      "name": "Gafas Especiales"
+    },
+    "it": {
+      "name": "Saviocchiali"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "charizardite-y",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Charizardite Y"
+  },
+  "locale": {
+    "ja": {
+      "name": "リザードナイトＹ"
+    },
+    "ko": {
+      "name": "리자몽나이트Y"
+    },
+    "fr": {
+      "name": "Dracaufite Y"
+    },
+    "de": {
+      "name": "Gluraknit Y"
+    },
+    "es": {
+      "name": "Charizardita Y"
+    },
+    "it": {
+      "name": "Charizardite Y"
+    }
+  }
+}

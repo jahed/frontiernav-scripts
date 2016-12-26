@@ -1,0 +1,32 @@
+{
+  "id": "x-defense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 550,
+    "name": "X Defense",
+    "summary": "Raises Defense by one stage in battle.  Raises happiness.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Defense by one stage.  Increases happiness by 1/1/0."
+  },
+  "locale": {
+    "ja": {
+      "name": "ディフェンダー"
+    },
+    "ko": {
+      "name": "디펜드업"
+    },
+    "fr": {
+      "name": "Défense +"
+    },
+    "de": {
+      "name": "X-Abwehr"
+    },
+    "es": {
+      "name": "Defensa X"
+    },
+    "it": {
+      "name": "Difesa X"
+    }
+  }
+}

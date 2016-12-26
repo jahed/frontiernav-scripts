@@ -1,0 +1,32 @@
+{
+  "id": "poke-radar",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Poké Radar",
+    "summary": "Use to track down rare or shiny Pokémon. 50 steps to recharge.",
+    "description": "Designates several nearby patches of grass as containing Pokémon, some of which may be special radar-only Pokémon.  Successive uses in a certain way create chains of encounters with the same species; longer chains increase the chance that a shiny Pokémon of that species will appear."
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケトレ"
+    },
+    "ko": {
+      "name": "포켓트레"
+    },
+    "fr": {
+      "name": "Poké Radar"
+    },
+    "de": {
+      "name": "Pokéradar"
+    },
+    "es": {
+      "name": "Pokéradar"
+    },
+    "it": {
+      "name": "Poké Radar"
+    }
+  }
+}

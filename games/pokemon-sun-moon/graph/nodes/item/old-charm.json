@@ -1,0 +1,32 @@
+{
+  "id": "old-charm",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Old Charm",
+    "summary": "Trade to Cynthia's grandmother in Celestic Town for HM04 (Surf).",
+    "description": "Given to Cynthia's grandmother to get the Surf HM."
+  },
+  "locale": {
+    "ja": {
+      "name": "こだいのおまもり"
+    },
+    "ko": {
+      "name": "고대의부적"
+    },
+    "fr": {
+      "name": "Vieux Grigri"
+    },
+    "de": {
+      "name": "Talisman"
+    },
+    "es": {
+      "name": "Talismán"
+    },
+    "it": {
+      "name": "Arcamuleto"
+    }
+  }
+}

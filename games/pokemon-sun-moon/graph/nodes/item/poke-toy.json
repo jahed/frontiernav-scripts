@@ -1,0 +1,32 @@
+{
+  "id": "poke-toy",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Poké Toy",
+    "summary": "Ends a wild battle.",
+    "description": "Used in battle\n:   Ends a wild battle.  Cannot be used in trainer battles."
+  },
+  "locale": {
+    "ja": {
+      "name": "ポケじゃらし"
+    },
+    "ko": {
+      "name": "포켓풀"
+    },
+    "fr": {
+      "name": "Poképlumet"
+    },
+    "de": {
+      "name": "Pokéwedel"
+    },
+    "es": {
+      "name": "Pokéseñuelo"
+    },
+    "it": {
+      "name": "Pokégingillo"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "town-map",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Town Map",
+    "summary": "Use to see the overworld map.",
+    "description": "Displays a map of the region including the trainer's position, location names, visited towns, gym locations, and where the trainer has been walking recently."
+  },
+  "locale": {
+    "ja": {
+      "name": "タウンマップ"
+    },
+    "ko": {
+      "name": "타운맵"
+    },
+    "fr": {
+      "name": "Carte"
+    },
+    "de": {
+      "name": "Karte"
+    },
+    "es": {
+      "name": "Mapa"
+    },
+    "it": {
+      "name": "Mappa Città"
+    }
+  }
+}

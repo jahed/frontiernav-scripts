@@ -1,0 +1,32 @@
+{
+  "id": "tm10",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM10",
+    "summary": "Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)",
+    "description": "Teaches Hidden Power to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン１０"
+    },
+    "ko": {
+      "name": "기술머신10"
+    },
+    "fr": {
+      "name": "CT10"
+    },
+    "de": {
+      "name": "TM10"
+    },
+    "es": {
+      "name": "MT10"
+    },
+    "it": {
+      "name": "MT10"
+    }
+  }
+}

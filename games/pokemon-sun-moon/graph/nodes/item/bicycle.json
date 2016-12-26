@@ -1,0 +1,32 @@
+{
+  "id": "bicycle",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Bicycle",
+    "summary": "Use for fast transit.",
+    "description": "Increases movement speed outside or in caves.  In high gear, allows the trainer to hop over some rocks and ascend muddy slopes."
+  },
+  "locale": {
+    "ja": {
+      "name": "じてんしゃ"
+    },
+    "ko": {
+      "name": "자전거"
+    },
+    "fr": {
+      "name": "Bicyclette"
+    },
+    "de": {
+      "name": "Fahrrad"
+    },
+    "es": {
+      "name": "Bici"
+    },
+    "it": {
+      "name": "Bicicletta"
+    }
+  }
+}

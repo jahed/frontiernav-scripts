@@ -1,0 +1,32 @@
+{
+  "id": "light-stone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Light Stone",
+    "summary": "Summons Reshiram for the final battle against N.",
+    "description": "Summons []{pokemon:reshiram} for the final battle against N."
+  },
+  "locale": {
+    "ja": {
+      "name": "ライトストーン"
+    },
+    "ko": {
+      "name": "라이트스톤"
+    },
+    "fr": {
+      "name": "Galet Blanc"
+    },
+    "de": {
+      "name": "Lichtstein"
+    },
+    "es": {
+      "name": "Orbe Claro"
+    },
+    "it": {
+      "name": "Chiarolite"
+    }
+  }
+}

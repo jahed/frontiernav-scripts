@@ -1,0 +1,32 @@
+{
+  "id": "poke-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Poké Ball",
+    "summary": "Tries to catch a wild Pokémon.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "モンスターボール"
+    },
+    "ko": {
+      "name": "몬스터볼"
+    },
+    "fr": {
+      "name": "Poké Ball"
+    },
+    "de": {
+      "name": "Pokéball"
+    },
+    "es": {
+      "name": "Poké Ball"
+    },
+    "it": {
+      "name": "Poké Ball"
+    }
+  }
+}

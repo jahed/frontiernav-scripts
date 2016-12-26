@@ -1,0 +1,30 @@
+{
+  "id": "aggronite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Aggronite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ボスゴドラナイト"
+    },
+    "ko": {
+      "name": "보스로라나이트"
+    },
+    "fr": {
+      "name": "Galekingite"
+    },
+    "de": {
+      "name": "Stollossnit"
+    },
+    "es": {
+      "name": "Aggronita"
+    },
+    "it": {
+      "name": "Aggronite"
+    }
+  }
+}

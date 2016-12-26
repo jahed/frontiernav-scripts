@@ -1,0 +1,32 @@
+{
+  "id": "tm71",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM71",
+    "summary": "Teaches Stone Edge to a compatible Pokémon.",
+    "description": "Teaches Stone Edge to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン７１"
+    },
+    "ko": {
+      "name": "기술머신71"
+    },
+    "fr": {
+      "name": "CT71"
+    },
+    "de": {
+      "name": "TM71"
+    },
+    "es": {
+      "name": "MT71"
+    },
+    "it": {
+      "name": "MT71"
+    }
+  }
+}

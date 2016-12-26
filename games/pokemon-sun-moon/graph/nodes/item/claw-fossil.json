@@ -1,0 +1,32 @@
+{
+  "id": "claw-fossil",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Claw Fossil",
+    "summary": "Can be revived into an Anorith.",
+    "description": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:anorith}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ツメのカセキ"
+    },
+    "ko": {
+      "name": "발톱화석"
+    },
+    "fr": {
+      "name": "Fossile Griffe"
+    },
+    "de": {
+      "name": "Klauenfossil"
+    },
+    "es": {
+      "name": "Fósil Garra"
+    },
+    "it": {
+      "name": "Fossilunghia"
+    }
+  }
+}

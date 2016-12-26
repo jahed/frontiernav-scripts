@@ -1,0 +1,32 @@
+{
+  "id": "revival-herb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2800,
+    "name": "Revival Herb",
+    "summary": "Revives with full HP, but lowers happiness.",
+    "description": "Used on a party Pokémon\n:   Revives a fainted Pokémon and restores its HP to full.  Decreases happiness by 10/10/15."
+  },
+  "locale": {
+    "ja": {
+      "name": "ふっかつそう"
+    },
+    "ko": {
+      "name": "부활초"
+    },
+    "fr": {
+      "name": "Herbe Rappel"
+    },
+    "de": {
+      "name": "Vitalkraut"
+    },
+    "es": {
+      "name": "Hierba Revivir"
+    },
+    "it": {
+      "name": "Vitalerba"
+    }
+  }
+}

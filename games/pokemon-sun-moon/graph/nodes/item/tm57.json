@@ -1,0 +1,32 @@
+{
+  "id": "tm57",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM57",
+    "summary": "Teaches Charge Beam to a compatible Pokémon.",
+    "description": "Teaches Charge Beam to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン５７"
+    },
+    "ko": {
+      "name": "기술머신57"
+    },
+    "fr": {
+      "name": "CT57"
+    },
+    "de": {
+      "name": "TM57"
+    },
+    "es": {
+      "name": "MT57"
+    },
+    "it": {
+      "name": "MT57"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "reset-urge",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Reset Urge",
+    "summary": "Resets a friendly Pokémon's stat changes.",
+    "description": "Used on a party Pokémon in battle\n:   Selects another friendly Pokémon at random.  Removes all of that Pokémon's stat changes.\n\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "フラットコール"
+    },
+    "ko": {
+      "name": "플랫콜"
+    },
+    "fr": {
+      "name": "Réamorçage"
+    },
+    "de": {
+      "name": "Umkehrappell"
+    },
+    "es": {
+      "name": "Quitaestado"
+    },
+    "it": {
+      "name": "Ripristino"
+    }
+  }
+}

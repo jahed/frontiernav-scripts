@@ -1,0 +1,32 @@
+{
+  "id": "plasma-card",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Plasma Card",
+    "summary": "Required to progress in the Plasma Frigate.",
+    "description": ""
+  },
+  "locale": {
+    "ja": {
+      "name": "プラズマカード"
+    },
+    "ko": {
+      "name": "플라스마카드"
+    },
+    "fr": {
+      "name": "Carte Plasma"
+    },
+    "de": {
+      "name": "Plasmakarte"
+    },
+    "es": {
+      "name": "Tarjeta Plasma"
+    },
+    "it": {
+      "name": "Carta Plasma"
+    }
+  }
+}

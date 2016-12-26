@@ -1,0 +1,32 @@
+{
+  "id": "suite-key",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Suite Key",
+    "summary": "Opens a locked building in the Lakeside Resort.",
+    "description": "Opens the locked building in the lakeside resort."
+  },
+  "locale": {
+    "ja": {
+      "name": "ルームキー"
+    },
+    "ko": {
+      "name": "룸키"
+    },
+    "fr": {
+      "name": "Clé Chambre"
+    },
+    "de": {
+      "name": "B-Schlüssel"
+    },
+    "es": {
+      "name": "Llave Suite"
+    },
+    "it": {
+      "name": "Chiave Suite"
+    }
+  }
+}

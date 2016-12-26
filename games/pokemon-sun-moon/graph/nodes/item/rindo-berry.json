@@ -1,0 +1,32 @@
+{
+  "id": "rindo-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Rindo Berry",
+    "summary": "Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.",
+    "description": "Held in battle\n:   When the holder would take super-effective []{type:grass}-type damage, it consumes this item to halve the amount of damage taken."
+  },
+  "locale": {
+    "ja": {
+      "name": "リンドのみ"
+    },
+    "ko": {
+      "name": "린드열매"
+    },
+    "fr": {
+      "name": "Baie Ratam"
+    },
+    "de": {
+      "name": "Grindobeere"
+    },
+    "es": {
+      "name": "Baya Tamar"
+    },
+    "it": {
+      "name": "Baccarindo"
+    }
+  }
+}

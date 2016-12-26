@@ -1,0 +1,32 @@
+{
+  "id": "ether",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1200,
+    "name": "Ether",
+    "summary": "Restores 10 PP for one move.",
+    "description": "Used on a party Pokémon\n:   Restores 10 PP for a selected move."
+  },
+  "locale": {
+    "ja": {
+      "name": "ピーピーエイド"
+    },
+    "ko": {
+      "name": "PP에이드"
+    },
+    "fr": {
+      "name": "Huile"
+    },
+    "de": {
+      "name": "Äther"
+    },
+    "es": {
+      "name": "Éter"
+    },
+    "it": {
+      "name": "Etere"
+    }
+  }
+}

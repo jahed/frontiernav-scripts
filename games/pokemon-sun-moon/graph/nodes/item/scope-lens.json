@@ -1,0 +1,32 @@
+{
+  "id": "scope-lens",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Scope Lens",
+    "summary": "Held: Raises the holder's critical hit ratio by one stage.",
+    "description": "Held: Raises the holder's critical hit counter by 1."
+  },
+  "locale": {
+    "ja": {
+      "name": "ピントレンズ"
+    },
+    "ko": {
+      "name": "초점렌즈"
+    },
+    "fr": {
+      "name": "Lentilscope"
+    },
+    "de": {
+      "name": "Scope-Linse"
+    },
+    "es": {
+      "name": "Periscopio"
+    },
+    "it": {
+      "name": "Mirino"
+    }
+  }
+}

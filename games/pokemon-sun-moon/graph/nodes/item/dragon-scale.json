@@ -1,0 +1,32 @@
+{
+  "id": "dragon-scale",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Dragon Scale",
+    "summary": "Traded on a Seadra: Holder evolves into Kingdra.",
+    "description": "Held by Seadra: Evolves the holder into Kingdra when traded."
+  },
+  "locale": {
+    "ja": {
+      "name": "りゅうのウロコ"
+    },
+    "ko": {
+      "name": "용의비늘"
+    },
+    "fr": {
+      "name": "Écaille Draco"
+    },
+    "de": {
+      "name": "Drachenhaut"
+    },
+    "es": {
+      "name": "Escamadragón"
+    },
+    "it": {
+      "name": "Squama Drago"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "wave-incense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9600,
+    "name": "Wave Incense",
+    "summary": "Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg.",
+    "description": "Held: Increases the power of the holder's Water moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "さざなみのおこう"
+    },
+    "ko": {
+      "name": "잔물결향로"
+    },
+    "fr": {
+      "name": "Encens Vague"
+    },
+    "de": {
+      "name": "Wellenrauch"
+    },
+    "es": {
+      "name": "Incienso Aqua"
+    },
+    "it": {
+      "name": "Ondaroma"
+    }
+  }
+}

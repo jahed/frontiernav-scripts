@@ -1,0 +1,30 @@
+{
+  "id": "houndoominite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Houndoominite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヘルガナイト"
+    },
+    "ko": {
+      "name": "헬가나이트"
+    },
+    "fr": {
+      "name": "Démolossite"
+    },
+    "de": {
+      "name": "Hundemonit"
+    },
+    "es": {
+      "name": "Houndoomita"
+    },
+    "it": {
+      "name": "Houndoomite"
+    }
+  }
+}

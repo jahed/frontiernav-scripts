@@ -1,0 +1,32 @@
+{
+  "id": "heal-powder",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 450,
+    "name": "Heal Powder",
+    "summary": "Cures any status ailment, but lowers happiness.",
+    "description": "Used on a party Pokémon\n:   Cures any status ailment.  Decreases happiness by 5/5/10."
+  },
+  "locale": {
+    "ja": {
+      "name": "ばんのうごな"
+    },
+    "ko": {
+      "name": "만능가루"
+    },
+    "fr": {
+      "name": "Poudre Soin"
+    },
+    "de": {
+      "name": "Heilpuder"
+    },
+    "es": {
+      "name": "Polvo Curación"
+    },
+    "it": {
+      "name": "Polvocura"
+    }
+  }
+}

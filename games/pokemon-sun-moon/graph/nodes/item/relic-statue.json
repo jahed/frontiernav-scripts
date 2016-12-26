@@ -1,0 +1,32 @@
+{
+  "id": "relic-statue",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Relic Statue",
+    "summary": "Sell to Villa Owner 200000 Pokédollars.",
+    "description": "Cult vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "こだいのせきぞう"
+    },
+    "ko": {
+      "name": "고대의석상"
+    },
+    "fr": {
+      "name": "Vieux Santon"
+    },
+    "de": {
+      "name": "Alte Statue"
+    },
+    "es": {
+      "name": "Efigie Antigua"
+    },
+    "it": {
+      "name": "Statuantica"
+    }
+  }
+}

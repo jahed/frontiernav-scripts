@@ -1,0 +1,32 @@
+{
+  "id": "soothe-bell",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Soothe Bell",
+    "summary": "Held: Doubles the happiness earned by the holder.",
+    "description": "Held\n:   When the holder would earn happiness for any reason, it earns twice that amount instead."
+  },
+  "locale": {
+    "ja": {
+      "name": "やすらぎのすず"
+    },
+    "ko": {
+      "name": "평온의방울"
+    },
+    "fr": {
+      "name": "Grelot Zen"
+    },
+    "de": {
+      "name": "Sanftglocke"
+    },
+    "es": {
+      "name": "Campana Alivio"
+    },
+    "it": {
+      "name": "Calmanella"
+    }
+  }
+}

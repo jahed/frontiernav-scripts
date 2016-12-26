@@ -1,0 +1,32 @@
+{
+  "id": "fire-stone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Fire Stone",
+    "summary": "Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales.",
+    "description": "Used on a party Pokémon\n:   Evolves an []{pokemon:eevee} into []{pokemon:flareon}, a []{pokemon:growlithe} into []{pokemon:arcanine}, a []{pokemon:pansear} into []{pokemon:simisear}, or a []{pokemon:vulpix} into []{pokemon:ninetales}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ほのおのいし"
+    },
+    "ko": {
+      "name": "불꽃의돌"
+    },
+    "fr": {
+      "name": "Pierre Feu"
+    },
+    "de": {
+      "name": "Feuerstein"
+    },
+    "es": {
+      "name": "Piedra Fuego"
+    },
+    "it": {
+      "name": "Pietrafocaia"
+    }
+  }
+}

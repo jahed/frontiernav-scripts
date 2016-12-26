@@ -1,0 +1,32 @@
+{
+  "id": "full-incense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9600,
+    "name": "Full Incense",
+    "summary": "Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.",
+    "description": "Held: The holder will go last within its move's priority bracket, regardless of Speed.  If multiple Pokémon within the same priority bracket are subject to this effect, the slower Pokémon will go first.  The holder will move after Pokémon with Stall.  If the holder has Stall, Stall is ignored.  This item ignores Trick Room."
+  },
+  "locale": {
+    "ja": {
+      "name": "まんぷくおこう"
+    },
+    "ko": {
+      "name": "만복향로"
+    },
+    "fr": {
+      "name": "Encens Plein"
+    },
+    "de": {
+      "name": "Lahmrauch"
+    },
+    "es": {
+      "name": "Incienso Lento"
+    },
+    "it": {
+      "name": "Gonfioaroma"
+    }
+  }
+}

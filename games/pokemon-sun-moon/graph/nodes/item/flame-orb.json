@@ -1,0 +1,32 @@
+{
+  "id": "flame-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Flame Orb",
+    "summary": "Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.",
+    "description": "Held: Burns the holder at the end of each turn."
+  },
+  "locale": {
+    "ja": {
+      "name": "かえんだま"
+    },
+    "ko": {
+      "name": "화염구슬"
+    },
+    "fr": {
+      "name": "Orbe Flamme"
+    },
+    "de": {
+      "name": "Heiß-Orb"
+    },
+    "es": {
+      "name": "Llamasfera"
+    },
+    "it": {
+      "name": "Fiammosfera"
+    }
+  }
+}

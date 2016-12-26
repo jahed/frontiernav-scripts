@@ -1,0 +1,29 @@
+{
+  "id": "berry-pouch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Berry Pouch",
+    "summary": "Holds berries.",
+    "description": "Stores Berries."
+  },
+  "locale": {
+    "ja": {
+      "name": "きのみぶくろ"
+    },
+    "fr": {
+      "name": "Sac à Baies"
+    },
+    "de": {
+      "name": "Beerentüte"
+    },
+    "es": {
+      "name": "Saco Bayas"
+    },
+    "it": {
+      "name": "Portabacche"
+    }
+  }
+}

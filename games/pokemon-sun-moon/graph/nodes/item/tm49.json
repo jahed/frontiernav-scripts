@@ -1,0 +1,32 @@
+{
+  "id": "tm49",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1500,
+    "name": "TM49",
+    "summary": "Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)",
+    "description": "Teaches Snatch to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン４９"
+    },
+    "ko": {
+      "name": "기술머신49"
+    },
+    "fr": {
+      "name": "CT49"
+    },
+    "de": {
+      "name": "TM49"
+    },
+    "es": {
+      "name": "MT49"
+    },
+    "it": {
+      "name": "MT49"
+    }
+  }
+}

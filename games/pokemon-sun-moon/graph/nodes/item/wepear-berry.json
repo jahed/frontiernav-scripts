@@ -1,0 +1,32 @@
+{
+  "id": "wepear-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Wepear Berry",
+    "summary": "Used for creating PokéBlocks and Poffins.",
+    "description": "No effect; only useful for planting and cooking."
+  },
+  "locale": {
+    "ja": {
+      "name": "セシナのみ"
+    },
+    "ko": {
+      "name": "서배열매"
+    },
+    "fr": {
+      "name": "Baie Repoi"
+    },
+    "de": {
+      "name": "Nirbebeere"
+    },
+    "es": {
+      "name": "Baya Peragu"
+    },
+    "it": {
+      "name": "Baccapera"
+    }
+  }
+}

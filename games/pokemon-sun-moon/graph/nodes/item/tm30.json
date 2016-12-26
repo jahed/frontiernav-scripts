@@ -1,0 +1,32 @@
+{
+  "id": "tm30",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM30",
+    "summary": "Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)",
+    "description": "Teaches Shadow Ball to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３０"
+    },
+    "ko": {
+      "name": "기술머신30"
+    },
+    "fr": {
+      "name": "CT30"
+    },
+    "de": {
+      "name": "TM30"
+    },
+    "es": {
+      "name": "MT30"
+    },
+    "it": {
+      "name": "MT30"
+    }
+  }
+}

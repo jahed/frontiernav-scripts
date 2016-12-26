@@ -1,0 +1,32 @@
+{
+  "id": "safari-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Safari Ball",
+    "summary": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1.5×.\n\nThis item can only be used in the []{location:great-marsh} or []{location:kanto-safari-zone}."
+  },
+  "locale": {
+    "ja": {
+      "name": "サファリボール"
+    },
+    "ko": {
+      "name": "사파리볼"
+    },
+    "fr": {
+      "name": "Safari Ball"
+    },
+    "de": {
+      "name": "Safariball"
+    },
+    "es": {
+      "name": "Safari Ball"
+    },
+    "it": {
+      "name": "Safari Ball"
+    }
+  }
+}

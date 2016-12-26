@@ -1,0 +1,32 @@
+{
+  "id": "premier-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Premier Ball",
+    "summary": "Tries to catch a wild Pokémon.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "プレミアボール"
+    },
+    "ko": {
+      "name": "프레미어볼"
+    },
+    "fr": {
+      "name": "Honor Ball"
+    },
+    "de": {
+      "name": "Premierball"
+    },
+    "es": {
+      "name": "Honor Ball"
+    },
+    "it": {
+      "name": "Premier Ball"
+    }
+  }
+}

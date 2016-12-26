@@ -1,0 +1,30 @@
+{
+  "id": "fairy-gem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Fairy Gem"
+  },
+  "locale": {
+    "ja": {
+      "name": "ようせいジュエル"
+    },
+    "ko": {
+      "name": "페어리주얼"
+    },
+    "fr": {
+      "name": "Joyau Fée"
+    },
+    "de": {
+      "name": "Feenjuwel"
+    },
+    "es": {
+      "name": "Gema Hada"
+    },
+    "it": {
+      "name": "Bijoufolletto"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "surprise-mulch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Surprise Mulch"
+  },
+  "locale": {
+    "ja": {
+      "name": "びっくりこやし"
+    },
+    "ko": {
+      "name": "깜놀비료"
+    },
+    "fr": {
+      "name": "Fertistantané"
+    },
+    "de": {
+      "name": "Wundermulch"
+    },
+    "es": {
+      "name": "Abono Sorpresa"
+    },
+    "it": {
+      "name": "Fertilsorpresa"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "burn-drive",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Burn Drive",
+    "summary": "Grants Genesect a red, Fire-type Techno Blast.",
+    "description": "Held by []{pokemon:genesect}\n:   Holder's buster is red, and its []{move:techno-blast} is []{type:fire}-type."
+  },
+  "locale": {
+    "ja": {
+      "name": "ブレイズカセット"
+    },
+    "ko": {
+      "name": "블레이즈카세트"
+    },
+    "fr": {
+      "name": "Module Pyro"
+    },
+    "de": {
+      "name": "Flammenmodul"
+    },
+    "es": {
+      "name": "PiroROM"
+    },
+    "it": {
+      "name": "Piromodulo"
+    }
+  }
+}

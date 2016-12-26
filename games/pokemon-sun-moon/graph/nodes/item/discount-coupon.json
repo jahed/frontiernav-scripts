@@ -1,0 +1,30 @@
+{
+  "id": "discount-coupon",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Discount Coupon"
+  },
+  "locale": {
+    "ja": {
+      "name": "バーゲンチケット"
+    },
+    "ko": {
+      "name": "바겐세일티켓"
+    },
+    "fr": {
+      "name": "Bon Réduction"
+    },
+    "de": {
+      "name": "Rabattmarke"
+    },
+    "es": {
+      "name": "Vale Descuento"
+    },
+    "it": {
+      "name": "Buono sconto"
+    }
+  }
+}

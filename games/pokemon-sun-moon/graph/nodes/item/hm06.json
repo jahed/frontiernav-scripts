@@ -1,0 +1,32 @@
+{
+  "id": "hm06",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "HM06",
+    "summary": "Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)",
+    "description": "Teaches Rock Smash to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひでんマシン０６"
+    },
+    "ko": {
+      "name": "비전머신06"
+    },
+    "fr": {
+      "name": "CS06"
+    },
+    "de": {
+      "name": "VM06"
+    },
+    "es": {
+      "name": "MO06"
+    },
+    "it": {
+      "name": "MN06"
+    }
+  }
+}

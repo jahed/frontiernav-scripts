@@ -1,0 +1,29 @@
+{
+  "id": "tm-case",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "TM Case",
+    "summary": "Holds TMs.",
+    "description": "Stores TMs and HMs."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシンケース"
+    },
+    "fr": {
+      "name": "Boîte CT"
+    },
+    "de": {
+      "name": "VM/TM-Box"
+    },
+    "es": {
+      "name": "Tubo MT-MO"
+    },
+    "it": {
+      "name": "Porta-MT"
+    }
+  }
+}

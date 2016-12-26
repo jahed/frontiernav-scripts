@@ -1,0 +1,32 @@
+{
+  "id": "pretty-wing",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Pretty Wing",
+    "summary": "Sell for 100 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "きれいなハネ"
+    },
+    "ko": {
+      "name": "고운날개"
+    },
+    "fr": {
+      "name": "Jolie Aile"
+    },
+    "de": {
+      "name": "Prachtfeder"
+    },
+    "es": {
+      "name": "Pluma Bella"
+    },
+    "it": {
+      "name": "Piumabella"
+    }
+  }
+}

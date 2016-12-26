@@ -1,0 +1,32 @@
+{
+  "id": "leftovers",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Leftovers",
+    "summary": "Held: Restores 1/16 (6.25%) holder's max HP at the end of each turn.",
+    "description": "Held: Heals the holder by 1/16 its max HP at the end of each turn."
+  },
+  "locale": {
+    "ja": {
+      "name": "たべのこし"
+    },
+    "ko": {
+      "name": "먹다남은음식"
+    },
+    "fr": {
+      "name": "Restes"
+    },
+    "de": {
+      "name": "Überreste"
+    },
+    "es": {
+      "name": "Restos"
+    },
+    "it": {
+      "name": "Avanzi"
+    }
+  }
+}

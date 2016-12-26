@@ -1,0 +1,32 @@
+{
+  "id": "nanab-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Nanab Berry",
+    "summary": "Used for creating PokéBlocks and Poffins.",
+    "description": "No effect; only useful for planting and cooking."
+  },
+  "locale": {
+    "ja": {
+      "name": "ナナのみ"
+    },
+    "ko": {
+      "name": "나나열매"
+    },
+    "fr": {
+      "name": "Baie Nanab"
+    },
+    "de": {
+      "name": "Nanabbeere"
+    },
+    "es": {
+      "name": "Baya Latano"
+    },
+    "it": {
+      "name": "Baccabana"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "timer-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Timer Ball",
+    "summary": "Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon.  Has a catch rate of 1.1× on the first turn of the battle and increases by 0.1× every turn, to a maximum of 4× on turn 30.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "タイマーボール"
+    },
+    "ko": {
+      "name": "타이마볼"
+    },
+    "fr": {
+      "name": "Chrono Ball"
+    },
+    "de": {
+      "name": "Timerball"
+    },
+    "es": {
+      "name": "Turno Ball"
+    },
+    "it": {
+      "name": "Timer Ball"
+    }
+  }
+}

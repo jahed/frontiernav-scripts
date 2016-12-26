@@ -1,0 +1,32 @@
+{
+  "id": "sky-plate",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Sky Plate",
+    "summary": "Held: Flying-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Flying.",
+    "description": "Held: Increases the power of the holder's Flying moves by 20%.\nHeld by a Multitype Pokémon: Holder's type becomes Flying."
+  },
+  "locale": {
+    "ja": {
+      "name": "あおぞらプレート"
+    },
+    "ko": {
+      "name": "푸른하늘플레이트"
+    },
+    "fr": {
+      "name": "Plaque Ciel"
+    },
+    "de": {
+      "name": "Wolkentafel"
+    },
+    "es": {
+      "name": "Tabla Cielo"
+    },
+    "it": {
+      "name": "Lastracielo"
+    }
+  }
+}

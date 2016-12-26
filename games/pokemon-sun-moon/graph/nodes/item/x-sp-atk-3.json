@@ -1,0 +1,32 @@
+{
+  "id": "x-sp-atk-3",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "X Sp. Atk 3",
+    "summary": "Raises Special Attack by three stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Special Attack by three stages.\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "ＳＰアップ３"
+    },
+    "ko": {
+      "name": "스페셜업3"
+    },
+    "fr": {
+      "name": "Atq. Spé. 3"
+    },
+    "de": {
+      "name": "X-Spezial3"
+    },
+    "es": {
+      "name": "Especial X 3"
+    },
+    "it": {
+      "name": "Special X-3"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "custap-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Custap Berry",
+    "summary": "Held: Consumed at 1/4 max HP when using a move to go first.",
+    "description": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item.  On the following turn, the holder will act first among moves with the same priority, regardless of Speed."
+  },
+  "locale": {
+    "ja": {
+      "name": "イバンのみ"
+    },
+    "ko": {
+      "name": "애슈열매"
+    },
+    "fr": {
+      "name": "Baie Chérim"
+    },
+    "de": {
+      "name": "Eipfelbeere"
+    },
+    "es": {
+      "name": "Baya Chiri"
+    },
+    "it": {
+      "name": "Baccacrela"
+    }
+  }
+}

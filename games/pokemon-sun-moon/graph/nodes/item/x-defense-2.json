@@ -1,0 +1,32 @@
+{
+  "id": "x-defense-2",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "X Defense 2",
+    "summary": "Raises Defense by two stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Defense by two stages.\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "ディフェンダー２"
+    },
+    "ko": {
+      "name": "디펜드업2"
+    },
+    "fr": {
+      "name": "Défense 2"
+    },
+    "de": {
+      "name": "X-Abwehr2"
+    },
+    "es": {
+      "name": "Defensa X 2"
+    },
+    "it": {
+      "name": "Difesa X-2"
+    }
+  }
+}

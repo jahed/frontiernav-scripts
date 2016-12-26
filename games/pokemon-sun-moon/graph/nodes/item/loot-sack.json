@@ -1,0 +1,32 @@
+{
+  "id": "loot-sack",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Loot Sack",
+    "summary": "Carries coal mine loot.",
+    "description": "Unused."
+  },
+  "locale": {
+    "ja": {
+      "name": "たからぶくろ"
+    },
+    "ko": {
+      "name": "보물주머니"
+    },
+    "fr": {
+      "name": "Sac Butin"
+    },
+    "de": {
+      "name": "Beutesack"
+    },
+    "es": {
+      "name": "Saca Botín"
+    },
+    "it": {
+      "name": "Bottinosacca"
+    }
+  }
+}

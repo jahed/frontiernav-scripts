@@ -1,0 +1,30 @@
+{
+  "id": "blazikenite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Blazikenite"
+  },
+  "locale": {
+    "ja": {
+      "name": "バシャーモナイト"
+    },
+    "ko": {
+      "name": "번치코나이트"
+    },
+    "fr": {
+      "name": "Braségalite"
+    },
+    "de": {
+      "name": "Lohgocknit"
+    },
+    "es": {
+      "name": "Blazikenita"
+    },
+    "it": {
+      "name": "Blazikenite"
+    }
+  }
+}

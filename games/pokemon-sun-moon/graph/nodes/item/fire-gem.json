@@ -1,0 +1,32 @@
+{
+  "id": "fire-gem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Fire Gem",
+    "summary": "Held: When the holder uses a damaging []{type:fire}-type move, the move has 1.5× power and this item is consumed.",
+    "description": "Held\n:   When the holder uses a damaging []{type:fire}-type move, the move has 1.5× power and this item is consumed."
+  },
+  "locale": {
+    "ja": {
+      "name": "ほのおのジュエル"
+    },
+    "ko": {
+      "name": "불꽃주얼"
+    },
+    "fr": {
+      "name": "Joyau Feu"
+    },
+    "de": {
+      "name": "Feuerjuwel"
+    },
+    "es": {
+      "name": "Gema Fuego"
+    },
+    "it": {
+      "name": "Bijoufuoco"
+    }
+  }
+}

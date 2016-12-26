@@ -1,0 +1,32 @@
+{
+  "id": "love-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 300,
+    "name": "Love Ball",
+    "summary": "8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn.",
+    "description": "Used by a trainer in battle\n:   Attempts to catch a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.\n\n    If the trainer's Pokémon and wild Pokémon are of the same species but opposite genders, the wild Pokémon's catch rate is 8× normal."
+  },
+  "locale": {
+    "ja": {
+      "name": "ラブラブボール"
+    },
+    "ko": {
+      "name": "러브러브볼"
+    },
+    "fr": {
+      "name": "Love Ball"
+    },
+    "de": {
+      "name": "Sympaball"
+    },
+    "es": {
+      "name": "Amor Ball"
+    },
+    "it": {
+      "name": "Love Ball"
+    }
+  }
+}

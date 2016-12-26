@@ -1,0 +1,30 @@
+{
+  "id": "mega-ring",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Mega Ring"
+  },
+  "locale": {
+    "ja": {
+      "name": "メガリング"
+    },
+    "ko": {
+      "name": "메가링"
+    },
+    "fr": {
+      "name": "Méga-Anneau"
+    },
+    "de": {
+      "name": "Mega-Ring"
+    },
+    "es": {
+      "name": "Mega-Aro"
+    },
+    "it": {
+      "name": "Megacerchio"
+    }
+  }
+}

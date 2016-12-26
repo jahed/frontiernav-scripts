@@ -1,0 +1,32 @@
+{
+  "id": "calcium",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9800,
+    "name": "Calcium",
+    "summary": "Raises Special Attack effort and happiness.",
+    "description": "Used on a party Pokémon\n:   Increases Special Attack effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+  },
+  "locale": {
+    "ja": {
+      "name": "リゾチウム"
+    },
+    "ko": {
+      "name": "리보플라빈"
+    },
+    "fr": {
+      "name": "Calcium"
+    },
+    "de": {
+      "name": "Kalzium"
+    },
+    "es": {
+      "name": "Calcio"
+    },
+    "it": {
+      "name": "Calcio"
+    }
+  }
+}

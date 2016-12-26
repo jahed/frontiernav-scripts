@@ -1,0 +1,30 @@
+{
+  "id": "lens-case",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Lens Case"
+  },
+  "locale": {
+    "ja": {
+      "name": "レンズケース"
+    },
+    "ko": {
+      "name": "렌즈케이스"
+    },
+    "fr": {
+      "name": "Boîte Lentilles"
+    },
+    "de": {
+      "name": "Linsenetui"
+    },
+    "es": {
+      "name": "Portalentillas"
+    },
+    "it": {
+      "name": "Portalenti"
+    }
+  }
+}

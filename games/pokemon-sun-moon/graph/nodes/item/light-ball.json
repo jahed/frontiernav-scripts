@@ -1,0 +1,32 @@
+{
+  "id": "light-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Light Ball",
+    "summary": "Doubles Pikachu's Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.",
+    "description": "Held by Pikachu: Doubles the holder's initial Attack and Special Attack."
+  },
+  "locale": {
+    "ja": {
+      "name": "でんきだま"
+    },
+    "ko": {
+      "name": "전기구슬"
+    },
+    "fr": {
+      "name": "Balle Lumière"
+    },
+    "de": {
+      "name": "Kugelblitz"
+    },
+    "es": {
+      "name": "Bolaluminosa"
+    },
+    "it": {
+      "name": "Elettropalla"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kangaskhanite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Kangaskhanite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガルーラナイト"
+    },
+    "ko": {
+      "name": "캥카나이트"
+    },
+    "fr": {
+      "name": "Kangourexite"
+    },
+    "de": {
+      "name": "Kangamanit"
+    },
+    "es": {
+      "name": "Kangaskhanita"
+    },
+    "it": {
+      "name": "Kangaskhanite"
+    }
+  }
+}

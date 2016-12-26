@@ -1,0 +1,32 @@
+{
+  "id": "odd-incense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9600,
+    "name": "Odd Incense",
+    "summary": "Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.",
+    "description": "Held: Increases the power of the holder's Psychic moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "あやしいおこう"
+    },
+    "ko": {
+      "name": "괴상한향로"
+    },
+    "fr": {
+      "name": "Encens Bizarre"
+    },
+    "de": {
+      "name": "Schrägrauch"
+    },
+    "es": {
+      "name": "Incienso Raro"
+    },
+    "it": {
+      "name": "Bizzoaroma"
+    }
+  }
+}

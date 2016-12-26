@@ -1,0 +1,32 @@
+{
+  "id": "tm32",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "TM32",
+    "summary": "Teaches Double Team to a compatible Pokémon.",
+    "description": "Teaches Double Team to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３２"
+    },
+    "ko": {
+      "name": "기술머신32"
+    },
+    "fr": {
+      "name": "CT32"
+    },
+    "de": {
+      "name": "TM32"
+    },
+    "es": {
+      "name": "MT32"
+    },
+    "it": {
+      "name": "MT32"
+    }
+  }
+}

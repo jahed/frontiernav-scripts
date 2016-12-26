@@ -1,0 +1,32 @@
+{
+  "id": "tm91",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM91",
+    "summary": "Teaches Flash Cannon to a compatible Pokémon.",
+    "description": "Teaches Flash Cannon to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン９１"
+    },
+    "ko": {
+      "name": "기술머신91"
+    },
+    "fr": {
+      "name": "CT91"
+    },
+    "de": {
+      "name": "TM91"
+    },
+    "es": {
+      "name": "MT91"
+    },
+    "it": {
+      "name": "MT91"
+    }
+  }
+}

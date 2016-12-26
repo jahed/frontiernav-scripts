@@ -1,0 +1,32 @@
+{
+  "id": "tm23",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM23",
+    "summary": "Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage)",
+    "description": "Teaches Iron Tail to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン２３"
+    },
+    "ko": {
+      "name": "기술머신23"
+    },
+    "fr": {
+      "name": "CT23"
+    },
+    "de": {
+      "name": "TM23"
+    },
+    "es": {
+      "name": "MT23"
+    },
+    "it": {
+      "name": "MT23"
+    }
+  }
+}

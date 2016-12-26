@@ -1,0 +1,32 @@
+{
+  "id": "hm03",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "HM03",
+    "summary": "Teaches Surf to a compatible Pokémon.",
+    "description": "Teaches Surf to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひでんマシン０３"
+    },
+    "ko": {
+      "name": "비전머신03"
+    },
+    "fr": {
+      "name": "CS03"
+    },
+    "de": {
+      "name": "VM03"
+    },
+    "es": {
+      "name": "MO03"
+    },
+    "it": {
+      "name": "MN03"
+    }
+  }
+}

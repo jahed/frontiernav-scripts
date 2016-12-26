@@ -1,0 +1,32 @@
+{
+  "id": "blue-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Blue Orb",
+    "summary": "Summons Kyogre to the Embedded Tower.",
+    "description": "Causes []{pokemon:kyogre} to appear in the []{location:embedded-tower}."
+  },
+  "locale": {
+    "ja": {
+      "name": "あいいろのたま"
+    },
+    "ko": {
+      "name": "쪽빛구슬"
+    },
+    "fr": {
+      "name": "Orbe Bleu"
+    },
+    "de": {
+      "name": "Blaue Kugel"
+    },
+    "es": {
+      "name": "Esfera Azul"
+    },
+    "it": {
+      "name": "Sfera Blu"
+    }
+  }
+}

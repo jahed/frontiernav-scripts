@@ -1,0 +1,32 @@
+{
+  "id": "tm21",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "TM21",
+    "summary": "Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)",
+    "description": "Teaches Frustration to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン２１"
+    },
+    "ko": {
+      "name": "기술머신21"
+    },
+    "fr": {
+      "name": "CT21"
+    },
+    "de": {
+      "name": "TM21"
+    },
+    "es": {
+      "name": "MT21"
+    },
+    "it": {
+      "name": "MT21"
+    }
+  }
+}

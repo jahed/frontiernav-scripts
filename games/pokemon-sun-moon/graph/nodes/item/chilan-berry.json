@@ -1,0 +1,32 @@
+{
+  "id": "chilan-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Chilan Berry",
+    "summary": "Held: Consumed when struck by a Normal-type attack to halve the damage.",
+    "description": "Held in battle\n:   When the holder would take []{type:normal}-type damage, it consumes this item to halve the amount of damage taken."
+  },
+  "locale": {
+    "ja": {
+      "name": "ホズのみ"
+    },
+    "ko": {
+      "name": "카리열매"
+    },
+    "fr": {
+      "name": "Baie Zalis"
+    },
+    "de": {
+      "name": "Latchibeere"
+    },
+    "es": {
+      "name": "Baya Chilan"
+    },
+    "it": {
+      "name": "Baccacinlan"
+    }
+  }
+}

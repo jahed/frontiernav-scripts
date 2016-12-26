@@ -1,0 +1,30 @@
+{
+  "id": "safety-goggles",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Safety Goggles"
+  },
+  "locale": {
+    "ja": {
+      "name": "ぼうじんゴーグル"
+    },
+    "ko": {
+      "name": "방진고글"
+    },
+    "fr": {
+      "name": "Lunettes Filtre"
+    },
+    "de": {
+      "name": "Schutzbrille"
+    },
+    "es": {
+      "name": "Gafa Protectora"
+    },
+    "it": {
+      "name": "Visierantisabbia"
+    }
+  }
+}

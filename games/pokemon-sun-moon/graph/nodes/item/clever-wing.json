@@ -1,0 +1,32 @@
+{
+  "id": "clever-wing",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Clever Wing",
+    "summary": "Increases Special Defense effort by 1.",
+    "description": "Used on a party Pokémon\n:   Increases the target's Special Defense effort by 1."
+  },
+  "locale": {
+    "ja": {
+      "name": "せいしんのハネ"
+    },
+    "ko": {
+      "name": "정신력날개"
+    },
+    "fr": {
+      "name": "Aile Mental"
+    },
+    "de": {
+      "name": "Espritfeder"
+    },
+    "es": {
+      "name": "Pluma Mente"
+    },
+    "it": {
+      "name": "Piumintuito"
+    }
+  }
+}

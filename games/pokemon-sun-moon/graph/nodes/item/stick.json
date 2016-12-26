@@ -1,0 +1,32 @@
+{
+  "id": "stick",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Stick",
+    "summary": "Raises Farfetch'd's critical hit ratio by two stages.",
+    "description": "Held by Farfetch'd: Raises the holder's critical hit counter by 2."
+  },
+  "locale": {
+    "ja": {
+      "name": "ながねぎ"
+    },
+    "ko": {
+      "name": "대파"
+    },
+    "fr": {
+      "name": "Bâton"
+    },
+    "de": {
+      "name": "Lauchstange"
+    },
+    "es": {
+      "name": "Palo"
+    },
+    "it": {
+      "name": "Gambo"
+    }
+  }
+}

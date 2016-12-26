@@ -1,0 +1,32 @@
+{
+  "id": "cheri-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Cheri Berry",
+    "summary": "Held: Consumed when paralyzed to cure paralysis.",
+    "description": "Held in battle\n:   When the holder is paralyzed, it consumes this item to cure the paralysis.\n\nUsed on a party Pokémon\n:   Cures paralysis."
+  },
+  "locale": {
+    "ja": {
+      "name": "クラボのみ"
+    },
+    "ko": {
+      "name": "버치열매"
+    },
+    "fr": {
+      "name": "Baie Ceriz"
+    },
+    "de": {
+      "name": "Amrenabeere"
+    },
+    "es": {
+      "name": "Baya Zreza"
+    },
+    "it": {
+      "name": "Baccaliegia"
+    }
+  }
+}

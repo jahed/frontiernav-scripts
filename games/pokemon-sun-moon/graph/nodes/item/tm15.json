@@ -1,0 +1,32 @@
+{
+  "id": "tm15",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 7500,
+    "name": "TM15",
+    "summary": "Teaches Hyper Beam to a compatible Pokémon.",
+    "description": "Teaches Hyper Beam to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン１５"
+    },
+    "ko": {
+      "name": "기술머신15"
+    },
+    "fr": {
+      "name": "CT15"
+    },
+    "de": {
+      "name": "TM15"
+    },
+    "es": {
+      "name": "MT15"
+    },
+    "it": {
+      "name": "MT15"
+    }
+  }
+}

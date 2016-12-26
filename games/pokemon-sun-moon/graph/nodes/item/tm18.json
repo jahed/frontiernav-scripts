@@ -1,0 +1,32 @@
+{
+  "id": "tm18",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM18",
+    "summary": "Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)",
+    "description": "Teaches Rain Dance to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン１８"
+    },
+    "ko": {
+      "name": "기술머신18"
+    },
+    "fr": {
+      "name": "CT18"
+    },
+    "de": {
+      "name": "TM18"
+    },
+    "es": {
+      "name": "MT18"
+    },
+    "it": {
+      "name": "MT18"
+    }
+  }
+}

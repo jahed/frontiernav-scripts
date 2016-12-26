@@ -1,0 +1,32 @@
+{
+  "id": "comet-shard",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Comet Shard",
+    "summary": "Sell to Ore Collector for 60000 Pokédollars.",
+    "description": "Cult vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "すいせいのかけら"
+    },
+    "ko": {
+      "name": "혜성조각"
+    },
+    "fr": {
+      "name": "Morceau Comète"
+    },
+    "de": {
+      "name": "Kometstück"
+    },
+    "es": {
+      "name": "Fragmento Cometa"
+    },
+    "it": {
+      "name": "Pezzo Cometa"
+    }
+  }
+}

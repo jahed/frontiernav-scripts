@@ -1,0 +1,32 @@
+{
+  "id": "max-repel",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 700,
+    "name": "Max Repel",
+    "summary": "For 250 steps, prevents wild encounters of level lower than your party's lead Pokémon.",
+    "description": "Used outside of battle\n:   Trainer will skip encounters with wild Pokémon of a lower level than the lead party Pokémon.  This effect wears off after the trainer takes 250 steps."
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴールドスプレー"
+    },
+    "ko": {
+      "name": "골드스프레이"
+    },
+    "fr": {
+      "name": "Max Repousse"
+    },
+    "de": {
+      "name": "Top-Schutz"
+    },
+    "es": {
+      "name": "Repelente Máximo"
+    },
+    "it": {
+      "name": "Repellente Max"
+    }
+  }
+}

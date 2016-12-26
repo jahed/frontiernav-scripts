@@ -1,0 +1,32 @@
+{
+  "id": "data-card-07",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 07",
+    "summary": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.",
+    "description": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード０７"
+    },
+    "ko": {
+      "name": "데이터카드07"
+    },
+    "fr": {
+      "name": "Carte Mémo07"
+    },
+    "de": {
+      "name": "Datenkarte07"
+    },
+    "es": {
+      "name": "Tarjeta Datos 07"
+    },
+    "it": {
+      "name": "Scheda Dati 07"
+    }
+  }
+}

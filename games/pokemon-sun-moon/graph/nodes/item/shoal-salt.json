@@ -1,0 +1,32 @@
+{
+  "id": "shoal-salt",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Shoal Salt",
+    "summary": "No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.",
+    "description": "No effect."
+  },
+  "locale": {
+    "ja": {
+      "name": "あさせのしお"
+    },
+    "ko": {
+      "name": "여울소금"
+    },
+    "fr": {
+      "name": "Sel Tréfonds"
+    },
+    "de": {
+      "name": "Küstensalz"
+    },
+    "es": {
+      "name": "Sal Cardumen"
+    },
+    "it": {
+      "name": "Sale Ondoso"
+    }
+  }
+}

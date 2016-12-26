@@ -1,0 +1,32 @@
+{
+  "id": "power-band",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Power Band",
+    "summary": "Held: Holder gains 4 Special Defense effort values, but has halved Speed in battle.",
+    "description": "Held: Decreases the holder's Speed by 50%.  Whenever the holder gains Special Defense effort from battle, increases that effort by 4; this applies before the PokéRUS doubling effect."
+  },
+  "locale": {
+    "ja": {
+      "name": "パワーバンド"
+    },
+    "ko": {
+      "name": "파워밴드"
+    },
+    "fr": {
+      "name": "Bandeau Pouvoir"
+    },
+    "de": {
+      "name": "Machtband"
+    },
+    "es": {
+      "name": "Banda Recia"
+    },
+    "it": {
+      "name": "Vigorbanda"
+    }
+  }
+}

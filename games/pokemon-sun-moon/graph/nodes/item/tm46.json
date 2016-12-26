@@ -1,0 +1,32 @@
+{
+  "id": "tm46",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM46",
+    "summary": "Teaches Thief to a compatible Pokémon. (Gen I: Psywave)",
+    "description": "Teaches Thief to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン４６"
+    },
+    "ko": {
+      "name": "기술머신46"
+    },
+    "fr": {
+      "name": "CT46"
+    },
+    "de": {
+      "name": "TM46"
+    },
+    "es": {
+      "name": "MT46"
+    },
+    "it": {
+      "name": "MT46"
+    }
+  }
+}

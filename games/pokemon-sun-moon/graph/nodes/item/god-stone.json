@@ -1,0 +1,17 @@
+{
+  "id": "god-stone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "god stone",
+    "summary": "Unknown.  Currently unused.",
+    "description": "Unknown.  Currently unused."
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴッドストーン"
+    }
+  }
+}

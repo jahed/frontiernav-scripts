@@ -1,0 +1,32 @@
+{
+  "id": "flame-plate",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Flame Plate",
+    "summary": "Held: Fire-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fire.",
+    "description": "Held: Increases the power of the holder's Fire moves by 20%.\nHeld by a Multitype Pokémon: Holder's type becomes Fire."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひのたまプレート"
+    },
+    "ko": {
+      "name": "불구슬플레이트"
+    },
+    "fr": {
+      "name": "Plaque Flamme"
+    },
+    "de": {
+      "name": "Feuertafel"
+    },
+    "es": {
+      "name": "Tabla Llama"
+    },
+    "it": {
+      "name": "Lastrarogo"
+    }
+  }
+}

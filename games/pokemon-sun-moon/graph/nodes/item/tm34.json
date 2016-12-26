@@ -1,0 +1,32 @@
+{
+  "id": "tm34",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM34",
+    "summary": "Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide)",
+    "description": "Teaches Shock Wave to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３４"
+    },
+    "ko": {
+      "name": "기술머신34"
+    },
+    "fr": {
+      "name": "CT34"
+    },
+    "de": {
+      "name": "TM34"
+    },
+    "es": {
+      "name": "MT34"
+    },
+    "it": {
+      "name": "MT34"
+    }
+  }
+}

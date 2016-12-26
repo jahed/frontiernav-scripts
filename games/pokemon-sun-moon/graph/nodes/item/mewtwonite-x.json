@@ -1,0 +1,30 @@
+{
+  "id": "mewtwonite-x",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Mewtwonite X"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミュウツナイトＸ"
+    },
+    "ko": {
+      "name": "뮤츠나이트X"
+    },
+    "fr": {
+      "name": "Mewtwoïte X"
+    },
+    "de": {
+      "name": "Mewtunit X"
+    },
+    "es": {
+      "name": "Mewtwoita X"
+    },
+    "it": {
+      "name": "Mewtwoite X"
+    }
+  }
+}

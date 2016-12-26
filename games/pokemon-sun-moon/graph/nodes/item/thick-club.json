@@ -1,0 +1,32 @@
+{
+  "id": "thick-club",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 500,
+    "name": "Thick Club",
+    "summary": "Doubles Cubone or Marowak's Attack.",
+    "description": "Held by Cubone or Marowak: Doubles the holder's Attack."
+  },
+  "locale": {
+    "ja": {
+      "name": "ふといホネ"
+    },
+    "ko": {
+      "name": "굵은뼈"
+    },
+    "fr": {
+      "name": "Masse Os"
+    },
+    "de": {
+      "name": "Kampfknochen"
+    },
+    "es": {
+      "name": "Hueso Grueso"
+    },
+    "it": {
+      "name": "Ossospesso"
+    }
+  }
+}

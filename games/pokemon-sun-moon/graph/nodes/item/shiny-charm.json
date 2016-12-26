@@ -1,0 +1,32 @@
+{
+  "id": "shiny-charm",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Shiny Charm",
+    "summary": "Raises the chance of finding a shiny Pokémon.",
+    "description": ""
+  },
+  "locale": {
+    "ja": {
+      "name": "ひかるおまもり"
+    },
+    "ko": {
+      "name": "빛나는부적"
+    },
+    "fr": {
+      "name": "Charme Chroma"
+    },
+    "de": {
+      "name": "Schillerpin"
+    },
+    "es": {
+      "name": "Amuleto Iris"
+    },
+    "it": {
+      "name": "Cromamuleto"
+    }
+  }
+}

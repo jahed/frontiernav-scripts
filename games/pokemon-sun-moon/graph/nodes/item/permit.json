@@ -1,0 +1,32 @@
+{
+  "id": "permit",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Permit",
+    "summary": "Grants access to the Nature Preserve.",
+    "description": ""
+  },
+  "locale": {
+    "ja": {
+      "name": "きょかしょう"
+    },
+    "ko": {
+      "name": "허가증"
+    },
+    "fr": {
+      "name": "Permis"
+    },
+    "de": {
+      "name": "Genehmigung"
+    },
+    "es": {
+      "name": "Pase"
+    },
+    "it": {
+      "name": "Permesso"
+    }
+  }
+}

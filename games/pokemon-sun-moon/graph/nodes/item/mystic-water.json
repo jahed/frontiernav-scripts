@@ -1,0 +1,32 @@
+{
+  "id": "mystic-water",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Mystic Water",
+    "summary": "Held: Water-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Water moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "しんぴのしずく"
+    },
+    "ko": {
+      "name": "신비의물방울"
+    },
+    "fr": {
+      "name": "Eau Mystique"
+    },
+    "de": {
+      "name": "Zauberwasser"
+    },
+    "es": {
+      "name": "Agua Mística"
+    },
+    "it": {
+      "name": "Acqua Magica"
+    }
+  }
+}

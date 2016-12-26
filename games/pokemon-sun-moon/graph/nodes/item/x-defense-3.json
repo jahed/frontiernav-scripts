@@ -1,0 +1,32 @@
+{
+  "id": "x-defense-3",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "X Defense 3",
+    "summary": "Raises Defense by three stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Defense by three stages.\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "ディフェンダー３"
+    },
+    "ko": {
+      "name": "디펜드업3"
+    },
+    "fr": {
+      "name": "Défense 3"
+    },
+    "de": {
+      "name": "X-Abwehr3"
+    },
+    "es": {
+      "name": "Defensa X 3"
+    },
+    "it": {
+      "name": "Difesa X-3"
+    }
+  }
+}

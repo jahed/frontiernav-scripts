@@ -1,0 +1,32 @@
+{
+  "id": "point-card",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Point Card",
+    "summary": "Keeps count of Battle Points earned.",
+    "description": "Tracks Battle Points."
+  },
+  "locale": {
+    "ja": {
+      "name": "ポイントカード"
+    },
+    "ko": {
+      "name": "포인트카드"
+    },
+    "fr": {
+      "name": "Carte Points"
+    },
+    "de": {
+      "name": "Punktekarte"
+    },
+    "es": {
+      "name": "Tarjeta Puntos"
+    },
+    "it": {
+      "name": "Scheda Punti"
+    }
+  }
+}

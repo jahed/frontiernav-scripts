@@ -1,0 +1,32 @@
+{
+  "id": "tm61",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM61",
+    "summary": "Teaches Will-O-Wisp to a compatible Pokémon.",
+    "description": "Teaches Will-O-Wisp to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン６１"
+    },
+    "ko": {
+      "name": "기술머신61"
+    },
+    "fr": {
+      "name": "CT61"
+    },
+    "de": {
+      "name": "TM61"
+    },
+    "es": {
+      "name": "MT61"
+    },
+    "it": {
+      "name": "MT61"
+    }
+  }
+}

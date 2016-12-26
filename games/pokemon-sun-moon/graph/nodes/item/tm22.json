@@ -1,0 +1,32 @@
+{
+  "id": "tm22",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM22",
+    "summary": "Teaches SolarBeam to a compatible Pokémon.",
+    "description": "Teaches SolarBeam to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン２２"
+    },
+    "ko": {
+      "name": "기술머신22"
+    },
+    "fr": {
+      "name": "CT22"
+    },
+    "de": {
+      "name": "TM22"
+    },
+    "es": {
+      "name": "MT22"
+    },
+    "it": {
+      "name": "MT22"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "wide-lens",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Wide Lens",
+    "summary": "Held: Provides a 1/10 (10%) boost in accuracy to the holder.",
+    "description": "Held: Increases the accuracy of any move the holder uses by 10% (multiplied; i.e. 70% accuracy is increased to 77%)."
+  },
+  "locale": {
+    "ja": {
+      "name": "こうかくレンズ"
+    },
+    "ko": {
+      "name": "광각렌즈"
+    },
+    "fr": {
+      "name": "Loupe"
+    },
+    "de": {
+      "name": "Großlinse"
+    },
+    "es": {
+      "name": "Lupa"
+    },
+    "it": {
+      "name": "Grandelente"
+    }
+  }
+}

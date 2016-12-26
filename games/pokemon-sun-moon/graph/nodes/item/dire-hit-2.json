@@ -1,0 +1,32 @@
+{
+  "id": "dire-hit-2",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Dire Hit 2",
+    "summary": "Raises critical hit rate by two stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's critical hit rate by two stages.\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "クリティカット２"
+    },
+    "ko": {
+      "name": "크리티컬커터2"
+    },
+    "fr": {
+      "name": "Muscle 2"
+    },
+    "de": {
+      "name": "Angriffplus2"
+    },
+    "es": {
+      "name": "Directo 2"
+    },
+    "it": {
+      "name": "Supercolpo 2"
+    }
+  }
+}

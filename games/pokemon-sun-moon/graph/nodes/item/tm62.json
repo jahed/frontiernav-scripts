@@ -1,0 +1,32 @@
+{
+  "id": "tm62",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM62",
+    "summary": "Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)",
+    "description": "Teaches Silver Wind to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン６２"
+    },
+    "ko": {
+      "name": "기술머신62"
+    },
+    "fr": {
+      "name": "CT62"
+    },
+    "de": {
+      "name": "TM62"
+    },
+    "es": {
+      "name": "MT62"
+    },
+    "it": {
+      "name": "MT62"
+    }
+  }
+}

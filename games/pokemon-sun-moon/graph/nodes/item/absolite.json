@@ -1,0 +1,30 @@
+{
+  "id": "absolite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Absolite"
+  },
+  "locale": {
+    "ja": {
+      "name": "アブソルナイト"
+    },
+    "ko": {
+      "name": "앱솔나이트"
+    },
+    "fr": {
+      "name": "Absolite"
+    },
+    "de": {
+      "name": "Absolnit"
+    },
+    "es": {
+      "name": "Absolita"
+    },
+    "it": {
+      "name": "Absolite"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blue-card",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Blue Card",
+    "summary": "Keeps track of points from Buena's show.",
+    "description": "Allows the trainer to answer the daily question on Buena's radio show.  Records the points earned for correct answers."
+  },
+  "locale": {
+    "ja": {
+      "name": "ブルーカード"
+    },
+    "ko": {
+      "name": "블루카드"
+    },
+    "fr": {
+      "name": "Carte Bleue"
+    },
+    "de": {
+      "name": "Blaue Karte"
+    },
+    "es": {
+      "name": "Tarjeta Azul"
+    },
+    "it": {
+      "name": "Carta Blu"
+    }
+  }
+}

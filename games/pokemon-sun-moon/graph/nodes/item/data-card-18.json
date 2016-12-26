@@ -1,0 +1,32 @@
+{
+  "id": "data-card-18",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 18",
+    "summary": "Records the number of times the trainer has come in first in the Pokéathlon Circle Push.",
+    "description": "Records the number of times the trainer has come in first in the Pokéathlon Circle Push."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード１８"
+    },
+    "ko": {
+      "name": "데이터카드18"
+    },
+    "fr": {
+      "name": "Carte Mémo18"
+    },
+    "de": {
+      "name": "Datenkarte18"
+    },
+    "es": {
+      "name": "Tarjeta Datos 18"
+    },
+    "it": {
+      "name": "Scheda Dati 18"
+    }
+  }
+}

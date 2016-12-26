@@ -1,0 +1,32 @@
+{
+  "id": "kasib-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Kasib Berry",
+    "summary": "Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.",
+    "description": "Held in battle\n:   When the holder would take super-effective []{type:ghost}-type damage, it consumes this item to halve the amount of damage taken."
+  },
+  "locale": {
+    "ja": {
+      "name": "カシブのみ"
+    },
+    "ko": {
+      "name": "수불열매"
+    },
+    "fr": {
+      "name": "Baie Sédra"
+    },
+    "de": {
+      "name": "Zitarzbeere"
+    },
+    "es": {
+      "name": "Baya Drasi"
+    },
+    "it": {
+      "name": "Baccacitrus"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "teachy-tv",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Teachy TV",
+    "summary": "Teachers basic trainer advice.",
+    "description": "Teaches beginning trainers basic information."
+  },
+  "locale": {
+    "ja": {
+      "name": "おしえテレビ"
+    },
+    "fr": {
+      "name": "TV ABC"
+    },
+    "de": {
+      "name": "Lehrkanal"
+    },
+    "es": {
+      "name": "Poké Tele"
+    },
+    "it": {
+      "name": "Pokétivù"
+    }
+  }
+}

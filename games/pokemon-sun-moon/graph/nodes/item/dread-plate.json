@@ -1,0 +1,32 @@
+{
+  "id": "dread-plate",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Dread Plate",
+    "summary": "Held: Dark-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dark.",
+    "description": "Held: Increases the power of the holder's Dark moves by 20%.\nHeld by a Multitype Pokémon: Holder's type becomes Dark."
+  },
+  "locale": {
+    "ja": {
+      "name": "こわもてプレート"
+    },
+    "ko": {
+      "name": "공포플레이트"
+    },
+    "fr": {
+      "name": "Plaque Ombre"
+    },
+    "de": {
+      "name": "Furchttafel"
+    },
+    "es": {
+      "name": "Tabla Oscura"
+    },
+    "it": {
+      "name": "Lastratimore"
+    }
+  }
+}

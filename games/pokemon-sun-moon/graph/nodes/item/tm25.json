@@ -1,0 +1,32 @@
+{
+  "id": "tm25",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 5500,
+    "name": "TM25",
+    "summary": "Teaches Thunder to a compatible Pokémon.",
+    "description": "Teaches Thunder to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン２５"
+    },
+    "ko": {
+      "name": "기술머신25"
+    },
+    "fr": {
+      "name": "CT25"
+    },
+    "de": {
+      "name": "TM25"
+    },
+    "es": {
+      "name": "MT25"
+    },
+    "it": {
+      "name": "MT25"
+    }
+  }
+}

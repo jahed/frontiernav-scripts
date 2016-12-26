@@ -1,0 +1,32 @@
+{
+  "id": "ground-gem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Ground Gem",
+    "summary": "Held: When the holder uses a damaging []{type:ground}-type move, the move has 1.5× power and this item is consumed.",
+    "description": "Held\n:   When the holder uses a damaging []{type:ground}-type move, the move has 1.5× power and this item is consumed."
+  },
+  "locale": {
+    "ja": {
+      "name": "じめんのジュエル"
+    },
+    "ko": {
+      "name": "땅주얼"
+    },
+    "fr": {
+      "name": "Joyau Sol"
+    },
+    "de": {
+      "name": "Bodenjuwel"
+    },
+    "es": {
+      "name": "Gema Tierra"
+    },
+    "it": {
+      "name": "Bijouterra"
+    }
+  }
+}

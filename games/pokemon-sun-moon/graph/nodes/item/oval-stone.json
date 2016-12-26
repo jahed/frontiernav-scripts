@@ -1,0 +1,32 @@
+{
+  "id": "oval-stone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Oval Stone",
+    "summary": "Level-up during Day on a Happiny: Holder evolves into Chansey.",
+    "description": "Held by []{pokemon:happiny}\n:   Holder evolves into []{pokemon:chansey} when it levels up during the daytime."
+  },
+  "locale": {
+    "ja": {
+      "name": "まんまるいし"
+    },
+    "ko": {
+      "name": "동글동글돌"
+    },
+    "fr": {
+      "name": "Pierre Ovale"
+    },
+    "de": {
+      "name": "Ovaler Stein"
+    },
+    "es": {
+      "name": "Piedra Oval"
+    },
+    "it": {
+      "name": "Pietraovale"
+    }
+  }
+}

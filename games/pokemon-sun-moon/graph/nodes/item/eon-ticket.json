@@ -1,0 +1,29 @@
+{
+  "id": "eon-ticket",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Eon Ticket",
+    "summary": "Provides access to Southern Island and Latias or Latios.",
+    "description": "Provides access to []{location:southern-island} and either []{pokemon:latias} or []{pokemon:latios}, whichever is not available roaming around Hoenn."
+  },
+  "locale": {
+    "ja": {
+      "name": "むげんのチケット"
+    },
+    "fr": {
+      "name": "Passe Éon"
+    },
+    "de": {
+      "name": "Äon-Ticket"
+    },
+    "es": {
+      "name": "Ticket Eón"
+    },
+    "it": {
+      "name": "Bigl. Eone"
+    }
+  }
+}

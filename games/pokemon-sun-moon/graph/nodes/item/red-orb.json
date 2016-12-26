@@ -1,0 +1,32 @@
+{
+  "id": "red-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Red Orb",
+    "summary": "Summons Groudon to the Embedded Tower.",
+    "description": "Causes []{pokemon:groudon} to appear in the []{location:embedded-tower}."
+  },
+  "locale": {
+    "ja": {
+      "name": "べにいろのたま"
+    },
+    "ko": {
+      "name": "주홍구슬"
+    },
+    "fr": {
+      "name": "Orbe Rouge"
+    },
+    "de": {
+      "name": "Rote Kugel"
+    },
+    "es": {
+      "name": "Esfera Roja"
+    },
+    "it": {
+      "name": "Sfera Rossa"
+    }
+  }
+}

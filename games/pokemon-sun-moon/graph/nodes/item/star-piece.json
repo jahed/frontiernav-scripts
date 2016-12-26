@@ -1,0 +1,32 @@
+{
+  "id": "star-piece",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9800,
+    "name": "Star Piece",
+    "summary": "Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "ほしのかけら"
+    },
+    "ko": {
+      "name": "별의조각"
+    },
+    "fr": {
+      "name": "Morceau d'Étoile"
+    },
+    "de": {
+      "name": "Sternenstück"
+    },
+    "es": {
+      "name": "Trozo Estrella"
+    },
+    "it": {
+      "name": "Pezzo Stella"
+    }
+  }
+}

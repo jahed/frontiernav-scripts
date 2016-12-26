@@ -1,0 +1,29 @@
+{
+  "id": "magma-emblem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Magma Emblem",
+    "summary": "Provides access to the Team Magma Hideout in the Jagged Pass.",
+    "description": "Provides access to the []{location:magma-hideout} in the []{location:jagged-pass}."
+  },
+  "locale": {
+    "ja": {
+      "name": "マグマのしるし"
+    },
+    "fr": {
+      "name": "Sceau Magma"
+    },
+    "de": {
+      "name": "Magmaemblem"
+    },
+    "es": {
+      "name": "Signo Magma"
+    },
+    "it": {
+      "name": "Stemma Magma"
+    }
+  }
+}

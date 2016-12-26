@@ -1,0 +1,30 @@
+{
+  "id": "heracronite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Heracronite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヘラクロスナイト"
+    },
+    "ko": {
+      "name": "헤라크로스나이트"
+    },
+    "fr": {
+      "name": "Scarhinoïte"
+    },
+    "de": {
+      "name": "Skarabornit"
+    },
+    "es": {
+      "name": "Heracrossita"
+    },
+    "it": {
+      "name": "Heracrossite"
+    }
+  }
+}

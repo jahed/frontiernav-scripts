@@ -1,0 +1,32 @@
+{
+  "id": "friend-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 300,
+    "name": "Friend Ball",
+    "summary": "Caught Pokémon start with 200 happiness. Made from Grn Apricorn.",
+    "description": "Used by a trainer in battle\n:   Attempts to catch a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.\n\n    If caught, the wild Pokémon's happiness starts at 200."
+  },
+  "locale": {
+    "ja": {
+      "name": "フレンドボール"
+    },
+    "ko": {
+      "name": "프렌드볼"
+    },
+    "fr": {
+      "name": "Copain Ball"
+    },
+    "de": {
+      "name": "Freundesball"
+    },
+    "es": {
+      "name": "Amigo Ball"
+    },
+    "it": {
+      "name": "Friend Ball"
+    }
+  }
+}
