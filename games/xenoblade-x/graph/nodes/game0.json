@@ -9,6 +9,8 @@
     "image": "home-banner.jpg",
     "platform": "Wii U",
     "initialRelease": "2015",
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
     "theme": {
       "mainColor": "#2A6F74",
       "stylesheet": "xenobladex"

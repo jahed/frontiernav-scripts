@@ -9,6 +9,8 @@
     "image": "pokemon-alola-banner.jpg",
     "platform": "Nintendo 3DS",
     "initialRelease": "2016",
+    "developer": "Game Freak",
+    "publisher": "The Pokémon Company",
     "theme": {
       "mainColor": "#092844",
       "stylesheet": "alola"
