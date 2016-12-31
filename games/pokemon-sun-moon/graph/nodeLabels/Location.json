@@ -1,0 +1,8 @@
+{
+  "id": "Location",
+  "name": "Location",
+  "searchable": true,
+  "pageDescription": "Find out more about {name} and where you can it.",
+  "properties": {
+  }
+}
