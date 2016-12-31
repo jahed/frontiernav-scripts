@@ -1,0 +1,9 @@
+{
+  "id": "AT_TIME",
+  "startLabels": null,
+  "endLabels": [
+    "Time"
+  ],
+  "properties": {
+  }
+}

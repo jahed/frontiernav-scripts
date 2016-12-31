@@ -1,0 +1,9 @@
+{
+  "id": "AT_LOCATION",
+  "startLabels": null,
+  "endLabels": [
+    "Location"
+  ],
+  "properties": {
+  }
+}

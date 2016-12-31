@@ -1,0 +1,9 @@
+{
+  "id": "Move",
+  "name": "Move",
+  "description": "A move used by a Pokemon.",
+  "searchable": true,
+  "pageDescription": "Find out more about {name} and where you can find them.",
+  "properties": {
+  }
+}
