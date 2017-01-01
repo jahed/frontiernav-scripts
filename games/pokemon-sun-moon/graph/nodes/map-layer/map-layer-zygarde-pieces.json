@@ -1,0 +1,10 @@
+{
+  "id": "map-layer-zygarde-pieces",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Zygarde Pieces",
+    "thumbnail": "pokemon/zygarde-pieces/zygarde-cell.png"
+  }
+}
