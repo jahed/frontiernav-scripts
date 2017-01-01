@@ -1,0 +1,13 @@
+{
+  "id": "marker-zygarde-core-4",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -24.186847428521233,
+      "lng": 84.5068359375
+    },
+    "markerStyle": "image"
+  }
+}
