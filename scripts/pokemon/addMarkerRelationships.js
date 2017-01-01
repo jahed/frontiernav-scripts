@@ -9,7 +9,7 @@ function arrayToIdMap(rawGraph) {
 
 const graphDir = './games/pokemon-sun-moon/graph'
 const graph = arrayToIdMap(readGraph(graphDir, ({ content }) => content))
-const encounterRegex = /^encounter-zygarde-cell-(\d+)$/
+const encounterRegex = /^encounter-zygarde-core-(\d+)$/
 
 let newGraph = graph
 _(graph.nodes).forEach(node => {
@@ -17,7 +17,7 @@ _(graph.nodes).forEach(node => {
         const matches = encounterRegex.exec(node.id)
         const number = matches[1]
         if(number) {
-            const markerId = `marker-zygarde-cell-${number}`
+            const markerId = `marker-zygarde-core-${number}`
             const rid = `${markerId}__MAP_LINK__${node.id}`
             newGraph = Object.assign({}, newGraph, {
                 relationships: Object.assign({}, newGraph.relationships, {

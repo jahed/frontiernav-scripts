@@ -9,7 +9,7 @@ function arrayToIdMap(rawGraph) {
 
 const graphDir = './games/pokemon-sun-moon/graph'
 const graph = arrayToIdMap(readGraph(graphDir, ({ content }) => content))
-const nodeRegex = /^marker-zygarde-cell-\d+$/
+const nodeRegex = /^marker-zygarde-core-\d+$/
 
 let newGraph = graph
 _(graph.nodes).forEach(node => {

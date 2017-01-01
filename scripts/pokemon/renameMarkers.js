@@ -16,7 +16,7 @@ _(graph.nodes).forEach(node => {
     if(node.labels.indexOf('MapMarker') !== -1 && markerIdRegex.test(node.id)) {
         const matches = markerIdRegex.exec(node.id)
         if(matches[1]) {
-            newGraph = changeNodeId(newGraph, node.id, `marker-zygarde-cell-${matches[1]}`)
+            newGraph = changeNodeId(newGraph, node.id, `marker-zygarde-core-${matches[1]}`)
         }
     }
 })
