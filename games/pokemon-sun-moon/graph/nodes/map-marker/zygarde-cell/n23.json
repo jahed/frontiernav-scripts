@@ -1,0 +1,13 @@
+{
+  "id": "n23",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": 21.4121622297254,
+      "lng": 51.52587890625001
+    },
+    "markerStyle": "crosshair"
+  }
+}
