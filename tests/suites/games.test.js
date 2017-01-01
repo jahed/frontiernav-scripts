@@ -3,9 +3,9 @@ const fs = require('fs')
 const assert = require('assert')
 const _ = require('lodash')
 const Ajv = require('ajv')
-const readGraph = require('../helpers/readGraph')
-const countGraph = require('../helpers/countGraph')
-const readObjects = require('../helpers/readObjects')
+const readGraph = require('../../scripts/helpers/readGraph')
+const countGraph = require('../../scripts/helpers/countGraph')
+const readObjects = require('../../scripts/helpers/readObjects')
 
 const locales = readObjects('./locales')
 
