@@ -2,9 +2,7 @@
   "id": "MAP_LINK",
   "startLabels": [
     "MapMarker",
-    "MapArea",
-    "FNSiteGraph",
-    "SegmentGrid"
+    "MapArea"
   ],
   "endLabels": null
 }

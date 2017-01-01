@@ -8,6 +8,6 @@
       "lat": 16.509832826905846,
       "lng": 24.521484375000004
     },
-    "markerStyle": "crosshair"
+    "markerStyle": "image"
   }
 }
