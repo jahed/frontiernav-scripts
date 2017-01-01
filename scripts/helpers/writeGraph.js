@@ -3,7 +3,7 @@ const readGraph = require('./readGraph')
 const fs = require('fs')
 const path = require('path')
 
-function writeGraph(graphRoot, newGraph) {
+function writeGraph(graphRoot, newGraph, options = {}) {
     console.log('\nReading existing graph...')
     // Always read graph to pick up previous changes and any manual changes.
     const rawGraph = readGraph(graphRoot, ({ absoluteFilePath, content }) => ({ absoluteFilePath, content }))
@@ -32,11 +32,15 @@ function writeGraph(graphRoot, newGraph) {
             const newItem = newGraph[collectionId][itemId]
             if(!newItem) {
                 console.log(`Deleting object under ${itemWithPath.absoluteFilePath}`)
-                fs.unlinkSync(itemWithPath.absoluteFilePath)
+                if(!options.dryRun) {
+                    fs.unlinkSync(itemWithPath.absoluteFilePath)
+                }
                 deleted[collectionId][itemId] = true
             } else if(!_.isEqual(itemWithPath.content, newItem)) {
                 console.log(`Updating object under ${itemWithPath.absoluteFilePath}`)
-                fs.writeFileSync(itemWithPath.absoluteFilePath, JSON.stringify(newItem, null, 2) + '\n')
+                if(!options.dryRun) {
+                    fs.writeFileSync(itemWithPath.absoluteFilePath, JSON.stringify(newItem, null, 2) + '\n')
+                }
                 updated[collectionId][itemId] = true
             } else {
                 ignored[collectionId][itemId] = true
@@ -51,7 +55,9 @@ function writeGraph(graphRoot, newGraph) {
             .forEach(item => {
                 const absoluteFilePath = path.resolve(graphRoot, `./${collectionId}/${item.id}.json`)
                 console.log(`Creating new object under ${absoluteFilePath}`)
-                fs.writeFileSync(absoluteFilePath, JSON.stringify(item, null, 2) + '\n')
+                if(!options.dryRun) {
+                    fs.writeFileSync(absoluteFilePath, JSON.stringify(item, null, 2) + '\n')
+                }
                 created[collectionId][item.id] = true
             })
     })

@@ -9,7 +9,17 @@ function arrayToIdMap(rawGraph) {
 
 const graphDir = './games/pokemon-sun-moon/graph'
 const graph = arrayToIdMap(readGraph(graphDir, ({ content }) => content))
+const markerIdRegex = /^n(\d+)$/
 
-const newGraph = changeNodeId(graph, 'n1', 'marker-zygarde-cell-1')
+let newGraph = graph
+_(graph.nodes).forEach(node => {
+    if(node.labels.indexOf('MapMarker') !== -1 && markerIdRegex.test(node.id)) {
+        const matches = markerIdRegex.exec(node.id)
+        if(matches[1]) {
+            newGraph = changeNodeId(newGraph, node.id, `marker-zygarde-cell-${matches[1]}`)
+        }
+    }
+})
 
-writeGraph(graphDir, newGraph)
+
+writeGraph(graphDir, newGraph, { dryRun: false })
