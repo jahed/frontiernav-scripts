@@ -1,0 +1,22 @@
+{
+  "id": "xenoblade-chronicles-2",
+  "labels": [
+    "Game"
+  ],
+  "data": {
+    "name": "Xenoblade Chronicles 2",
+    "boxart": "xenoblade-chronicles-2/boxart.jpg",
+    "image": "xenoblade-chronicles-2/banner.jpg",
+    "platform": "Switch",
+    "initialRelease": "2017",
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "theme": {
+      "mainColor": "#5488b7",
+      "stylesheet": "xenoblade-chronicles-2"
+    },
+    "mapBackground": {
+      "color": "#01040d"
+    }
+  }
+}
