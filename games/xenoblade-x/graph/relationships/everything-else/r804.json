@@ -1,7 +1,7 @@
 {
   "id": "r804",
-  "type": "HAS",
-  "start": "map2",
-  "end": "n338",
+  "type": "MAP_LINK",
+  "start": "n338",
+  "end": "map2",
   "data": {}
 }

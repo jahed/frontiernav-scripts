@@ -1,6 +1,6 @@
 {
   "id": "rlshapeloc258shapelocloc258circ",
-  "start": "loc258",
-  "end": "shapelocloc258circ",
-  "type": "HAS"
+  "start": "shapelocloc258circ",
+  "end": "loc258",
+  "type": "MAP_LINK"
 }
