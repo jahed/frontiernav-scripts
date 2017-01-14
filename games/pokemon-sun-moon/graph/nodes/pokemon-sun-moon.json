@@ -12,8 +12,7 @@
     "developer": "Game Freak",
     "publisher": "The Pokémon Company",
     "theme": {
-      "mainColor": "#092844",
-      "stylesheet": "alola"
+      "mainColor": "#092844"
     },
     "mapBackground": {
       "color": "#092844"

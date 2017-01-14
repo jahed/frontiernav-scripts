@@ -12,8 +12,7 @@
     "developer": "Monolith Soft",
     "publisher": "Nintendo",
     "theme": {
-      "mainColor": "#5488b7",
-      "stylesheet": "xenoblade-chronicles-2"
+      "mainColor": "#5488b7"
     },
     "mapBackground": {
       "color": "#01040d"

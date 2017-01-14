@@ -12,8 +12,7 @@
     "developer": "Nintendo EPD",
     "publisher": "Nintendo",
     "theme": {
-      "mainColor": "#1acff8",
-      "stylesheet": "the-legend-of-zelda-breath-of-the-wild"
+      "mainColor": "#1acff8"
     },
     "mapBackground": {
       "color": "#01040d",

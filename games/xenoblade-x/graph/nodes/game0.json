@@ -12,8 +12,7 @@
     "developer": "Monolith Soft",
     "publisher": "Nintendo",
     "theme": {
-      "mainColor": "#2A6F74",
-      "stylesheet": "xenobladex"
+      "mainColor": "#2A6F74"
     },
     "mapBackground": {
       "image": "map-pattern-1.png",
