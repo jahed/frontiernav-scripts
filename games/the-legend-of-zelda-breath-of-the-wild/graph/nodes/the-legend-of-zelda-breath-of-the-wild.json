@@ -1,0 +1,24 @@
+{
+  "id": "the-legend-of-zelda-breath-of-the-wild",
+  "labels": [
+    "Game"
+  ],
+  "data": {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "boxart": "the-legend-of-zelda-breath-of-the-wild/boxart.jpg",
+    "image": "the-legend-of-zelda-breath-of-the-wild/banner.jpg",
+    "platform": "Switch / Wii U",
+    "initialRelease": "2017",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "theme": {
+      "mainColor": "#1acff8",
+      "stylesheet": "the-legend-of-zelda-breath-of-the-wild"
+    },
+    "mapBackground": {
+      "color": "#01040d",
+      "image": "the-legend-of-zelda-breath-of-the-wild/map-tile.png",
+      "repeat": true
+    }
+  }
+}
