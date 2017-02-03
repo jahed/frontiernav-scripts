@@ -1,0 +1,32 @@
+{
+  "id": "yggralith-zero-notification",
+  "labels": [
+    "Notification"
+  ],
+  "data": {
+    "name": "Yggralith Zero, Global Nemesis",
+    "description": "Notifies the combat state of Yggralith Zero.",
+    "states": {
+      "sighted": {
+        "id": "sighted",
+        "title": "Yggralith Zero has been sighted!"
+      },
+      "half-rp": {
+        "id": "half-rp",
+        "title": "Yggralith Zero's RP has been reduced to half!"
+      },
+      "nearing-defeat": {
+        "id": "nearing-defeat",
+        "title": "Yggralith Zero is almost out of RP!"
+      },
+      "defeated": {
+        "id": "defeated",
+        "title": "Yggralith Zero has been defeated. Excellent work, BLADEs!"
+      },
+      "escaped": {
+        "id": "escaped",
+        "title": "Yggralith Zero got away... this time."
+      }
+    }
+  }
+}
