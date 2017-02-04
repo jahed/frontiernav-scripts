@@ -46,13 +46,16 @@
       "maximum": 36
     },
     "notes": "Found at 107(n),102N(n),116(n),Drop Shaft",
-    "time": "TBD",
-    "weather": "TBD",
     "physical_resistance": 0,
     "beam_resistance": 0,
     "ether_resistance": -25,
     "thermal_resistance": -50,
     "electric_resistance": 0,
     "gravity_resistance": -25
+  },
+  "locale": {
+    "de": {
+      "name": "Nachtaktive Vesper"
+    }
   }
 }

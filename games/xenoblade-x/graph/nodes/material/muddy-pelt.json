@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Muddy Pelt"
+  },
+  "locale": {
+    "de": {
+      "name": "Dreckiger Pelz"
+    }
   }
 }

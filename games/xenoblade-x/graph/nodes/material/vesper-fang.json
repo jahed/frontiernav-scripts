@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Vesper Fang"
+  },
+  "locale": {
+    "de": {
+      "name": "Vesperhauer"
+    }
   }
 }

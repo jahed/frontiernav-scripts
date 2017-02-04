@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Sharp Ear"
+  },
+  "locale": {
+    "de": {
+      "name": "Spitzes Ohr"
+    }
   }
 }

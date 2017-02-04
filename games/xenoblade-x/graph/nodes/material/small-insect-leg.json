@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Small Insect Leg"
+  },
+  "locale": {
+    "de": {
+      "name": "Dünnes Käferbein"
+    }
   }
 }

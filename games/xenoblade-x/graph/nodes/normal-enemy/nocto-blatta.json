@@ -46,13 +46,16 @@
       "maximum": 33
     },
     "notes": "Found at 102E,116,JanpathW/N",
-    "time": "TBD",
-    "weather": "TBD",
     "physical_resistance": 20,
     "beam_resistance": 0,
     "ether_resistance": -25,
     "thermal_resistance": -25,
     "electric_resistance": 0,
     "gravity_resistance": 0
+  },
+  "locale": {
+    "de": {
+      "name": "Düster-Blatta"
+    }
   }
 }

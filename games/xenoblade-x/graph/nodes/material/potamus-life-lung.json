@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Potamus Life Lung"
+  },
+  "locale": {
+    "de": {
+      "name": "Potamus-Lebenslunge"
+    }
   }
 }

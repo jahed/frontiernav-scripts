@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Poisonous Needle"
+  },
+  "locale": {
+    "de": {
+      "name": "Giftnadel"
+    }
   }
 }

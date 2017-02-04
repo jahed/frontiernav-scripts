@@ -45,14 +45,18 @@
       "minimum": 15,
       "maximum": 33
     },
-    "notes": "Found at [19:00~5:00]:102,107,118N",
-    "time": "TBD",
-    "weather": "TBD",
+    "notes": "Found at 102,107,118N",
+    "time": "19:00 - 5:00",
     "physical_resistance": 20,
     "beam_resistance": 0,
     "ether_resistance": -25,
     "thermal_resistance": -25,
     "electric_resistance": 0,
     "gravity_resistance": 0
+  },
+  "locale": {
+    "de": {
+      "name": "Kiesel-Blatta"
+    }
   }
 }
