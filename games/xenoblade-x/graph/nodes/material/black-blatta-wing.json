@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Black Blatta Wing"
+  },
+  "locale": {
+    "de": {
+      "name": "Schwarzer Blattaflügel"
+    }
   }
 }

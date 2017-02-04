@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Taut Leather"
+  },
+  "locale": {
+    "de": {
+      "name": "Feste Haut"
+    }
   }
 }

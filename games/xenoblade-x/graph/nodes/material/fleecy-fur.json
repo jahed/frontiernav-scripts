@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Fleecy Fur"
+  },
+  "locale": {
+    "de": {
+      "name": "Flauschiges Fell"
+    }
   }
 }

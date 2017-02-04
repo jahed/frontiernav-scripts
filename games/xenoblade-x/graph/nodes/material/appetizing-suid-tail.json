@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Appetizing Suid Tail"
+  },
+  "locale": {
+    "de": {
+      "name": "Appetitlicher Suidschwanz"
+    }
   }
 }

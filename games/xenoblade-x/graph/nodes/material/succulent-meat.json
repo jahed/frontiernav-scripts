@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Succulent Meat"
+  },
+  "locale": {
+    "de": {
+      "name": "Fleischiges Fleisch"
+    }
   }
 }

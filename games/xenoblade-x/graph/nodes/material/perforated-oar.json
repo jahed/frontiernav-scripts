@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Perforated Oar"
+  },
+  "locale": {
+    "de": {
+      "name": "Lochschwimmhaut"
+    }
   }
 }

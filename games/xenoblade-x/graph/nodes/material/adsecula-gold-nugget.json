@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Adsecula Gold Nugget"
+  },
+  "locale": {
+    "de": {
+      "name": "Adsecula-Goldkorn"
+    }
   }
 }

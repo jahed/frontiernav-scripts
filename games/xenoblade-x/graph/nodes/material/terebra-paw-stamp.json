@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Terebra Paw Stamp"
+  },
+  "locale": {
+    "de": {
+      "name": "Terebrapfote"
+    }
   }
 }

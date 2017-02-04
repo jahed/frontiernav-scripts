@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Tatty Insect Wing"
+  },
+  "locale": {
+    "de": {
+      "name": "Käferflügelfetzen"
+    }
   }
 }

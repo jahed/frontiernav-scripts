@@ -45,14 +45,18 @@
       "minimum": 15,
       "maximum": 34
     },
-    "notes": "Found at [19:00~5:00]: 102,116,119",
-    "time": "TBD",
-    "weather": "TBD",
+    "notes": "Found at 102,116,119",
+    "time": "19:00 - 5:00",
     "physical_resistance": 35,
     "beam_resistance": 0,
     "ether_resistance": -25,
     "thermal_resistance": -25,
     "electric_resistance": 0,
     "gravity_resistance": -25
+  },
+  "locale": {
+    "de": {
+      "name": "Kleine Adsecula"
+    }
   }
 }

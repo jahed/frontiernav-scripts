@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Marbled Suid Fillet"
+  },
+  "locale": {
+    "de": {
+      "name": "Durchwachsenes Suidfilet"
+    }
   }
 }
