@@ -1,0 +1,44 @@
+{
+  "id": "seviper",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 336,
+    "height": 27,
+    "weight": 525,
+    "base_experience": 160,
+    "name": "Seviper",
+    "genus": "Fang Snake"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハブネーク",
+      "genus": "キバへび"
+    },
+    "ko": {
+      "name": "세비퍼",
+      "genus": "송곳뱀"
+    },
+    "zh": {
+      "name": "飯匙蛇",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Séviper",
+      "genus": "Serpacroc"
+    },
+    "de": {
+      "name": "Vipitis",
+      "genus": "Reißzahn"
+    },
+    "es": {
+      "name": "Seviper",
+      "genus": "Colmillos"
+    },
+    "it": {
+      "name": "Seviper",
+      "genus": "Zannaserpe"
+    }
+  }
+}

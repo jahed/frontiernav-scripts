@@ -1,0 +1,10 @@
+{
+  "id": "silver-tabby",
+  "labels": [
+    "Pet"
+  ],
+  "data": {
+    "name": "Silver Tabby",
+    "description": "A pet to keep in the BLADE Barracks."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "loc86",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Elephant's Trunk",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Lunga Proboscide"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "grass-gem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Grass Gem",
+    "summary": "Held: When the holder uses a damaging []{type:grass}-type move, the move has 1.5× power and this item is consumed.",
+    "description": "Held\n:   When the holder uses a damaging []{type:grass}-type move, the move has 1.5× power and this item is consumed."
+  },
+  "locale": {
+    "ja": {
+      "name": "くさのジュエル"
+    },
+    "ko": {
+      "name": "풀주얼"
+    },
+    "fr": {
+      "name": "Joyau Plante"
+    },
+    "de": {
+      "name": "Pflanzjuwel"
+    },
+    "es": {
+      "name": "Gema Planta"
+    },
+    "it": {
+      "name": "Bijouerba"
+    }
+  }
+}

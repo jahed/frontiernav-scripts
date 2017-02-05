@@ -1,0 +1,40 @@
+{
+  "id": "noibat",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 714,
+    "height": 5,
+    "weight": 80,
+    "base_experience": 49,
+    "name": "Noibat",
+    "genus": "Sound Wave"
+  },
+  "locale": {
+    "ja": {
+      "name": "オンバット",
+      "genus": "おんぱ"
+    },
+    "ko": {
+      "name": "음뱃",
+      "genus": "음파"
+    },
+    "fr": {
+      "name": "Sonistrelle",
+      "genus": "Ondes"
+    },
+    "de": {
+      "name": "eF-eM",
+      "genus": "Schallwellen"
+    },
+    "es": {
+      "name": "Noibat",
+      "genus": "Onda Sónica"
+    },
+    "it": {
+      "name": "Noibat",
+      "genus": "Ondasonora"
+    }
+  }
+}

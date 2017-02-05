@@ -1,0 +1,44 @@
+{
+  "id": "ponyta",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 77,
+    "height": 10,
+    "weight": 300,
+    "base_experience": 82,
+    "name": "Ponyta",
+    "genus": "Fire Horse"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポニータ",
+      "genus": "ひのうま"
+    },
+    "ko": {
+      "name": "포니타",
+      "genus": "불의말"
+    },
+    "zh": {
+      "name": "小火馬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ponyta",
+      "genus": "Cheval Feu"
+    },
+    "de": {
+      "name": "Ponita",
+      "genus": "Feuerpferd"
+    },
+    "es": {
+      "name": "Ponyta",
+      "genus": "Caballo F."
+    },
+    "it": {
+      "name": "Ponyta",
+      "genus": "Cavalfuoco"
+    }
+  }
+}

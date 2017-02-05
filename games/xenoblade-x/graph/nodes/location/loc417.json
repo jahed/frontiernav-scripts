@@ -1,0 +1,11 @@
+{
+  "id": "loc417",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Wonderment Bluff",
+    "cave": false,
+    "locationTypeId": "Unexplored"
+  }
+}

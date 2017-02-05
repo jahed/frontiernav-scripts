@@ -1,0 +1,32 @@
+{
+  "id": "tm56",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM56",
+    "summary": "Teaches Fling to a compatible Pokémon.",
+    "description": "Teaches Fling to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン５６"
+    },
+    "ko": {
+      "name": "기술머신56"
+    },
+    "fr": {
+      "name": "CT56"
+    },
+    "de": {
+      "name": "TM56"
+    },
+    "es": {
+      "name": "MT56"
+    },
+    "it": {
+      "name": "MT56"
+    }
+  }
+}

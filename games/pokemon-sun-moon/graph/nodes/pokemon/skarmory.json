@@ -1,0 +1,44 @@
+{
+  "id": "skarmory",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 227,
+    "height": 17,
+    "weight": 505,
+    "base_experience": 163,
+    "name": "Skarmory",
+    "genus": "Armor Bird"
+  },
+  "locale": {
+    "ja": {
+      "name": "エアームド",
+      "genus": "よろいどり"
+    },
+    "ko": {
+      "name": "무장조",
+      "genus": "갑옷새"
+    },
+    "zh": {
+      "name": "盔甲鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Airmure",
+      "genus": "Armoiseau"
+    },
+    "de": {
+      "name": "Panzaeron",
+      "genus": "Flugstahl"
+    },
+    "es": {
+      "name": "Skarmory",
+      "genus": "Coraza Ave"
+    },
+    "it": {
+      "name": "Skarmory",
+      "genus": "Armuccello"
+    }
+  }
+}

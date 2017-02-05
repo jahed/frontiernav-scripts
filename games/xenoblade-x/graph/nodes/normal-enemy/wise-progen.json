@@ -1,0 +1,58 @@
+{
+  "id": "wise-progen",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Wise Progen",
+    "subcategory": "Progen",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 149,
+      "maximum": 245
+    },
+    "health_range": {
+      "minimum": 29082,
+      "maximum": 49539
+    },
+    "melee_power_range": {
+      "minimum": 333,
+      "maximum": 491
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 324,
+      "maximum": 478
+    },
+    "ranged_accuracy_range": {
+      "minimum": 143,
+      "maximum": 174
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 59,
+      "maximum": 91
+    },
+    "notes": "Found at 301,303N,310(lo)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

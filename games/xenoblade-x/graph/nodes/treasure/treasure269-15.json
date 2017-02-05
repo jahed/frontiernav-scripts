@@ -1,0 +1,13 @@
+{
+  "id": "treasure269-15",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Trailer Wreckage",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 1
+    }
+  }
+}

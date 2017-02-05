@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i33",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Sanelac Pearl",
+    "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Perla Sanelac"
+    }
+  }
+}

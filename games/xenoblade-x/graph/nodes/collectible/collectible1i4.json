@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i4",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Ball Mosquito",
+    "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Kugelmoskito"
+    },
+    "it": {
+      "name": "Zanzara palla"
+    }
+  }
+}

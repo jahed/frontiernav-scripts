@@ -1,0 +1,44 @@
+{
+  "id": "regirock",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 377,
+    "height": 17,
+    "weight": 2300,
+    "base_experience": 261,
+    "name": "Regirock",
+    "genus": "Rock Peak"
+  },
+  "locale": {
+    "ja": {
+      "name": "レジロック",
+      "genus": "いわやま"
+    },
+    "ko": {
+      "name": "레지락",
+      "genus": "바위산"
+    },
+    "zh": {
+      "name": "雷吉洛克",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Regirock",
+      "genus": "Pic Rocheux"
+    },
+    "de": {
+      "name": "Regirock",
+      "genus": "Steingipfel"
+    },
+    "es": {
+      "name": "Regirock",
+      "genus": "Pico Roca"
+    },
+    "it": {
+      "name": "Regirock",
+      "genus": "Picco"
+    }
+  }
+}

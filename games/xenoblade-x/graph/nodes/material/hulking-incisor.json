@@ -1,0 +1,14 @@
+{
+  "id": "hulking-incisor",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Hulking Incisor"
+  },
+  "locale": {
+    "de": {
+      "name": "Makelloser Schneidezahn"
+    }
+  }
+}

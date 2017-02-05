@@ -1,0 +1,30 @@
+{
+  "id": "manectite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Manectite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ライボルトナイト"
+    },
+    "ko": {
+      "name": "썬더볼트나이트"
+    },
+    "fr": {
+      "name": "Élecsprintite"
+    },
+    "de": {
+      "name": "Voltensonit"
+    },
+    "es": {
+      "name": "Manectricita"
+    },
+    "it": {
+      "name": "Manectricite"
+    }
+  }
+}

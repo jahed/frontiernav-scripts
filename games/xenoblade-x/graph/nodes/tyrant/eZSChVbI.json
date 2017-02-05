@@ -1,0 +1,15 @@
+{
+  "id": "eZSChVbI",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Pyotr, the Shepherd",
+    "level": 74,
+    "notes": "\"Pyotr, the Shepherd\" is at the grassy area north west of Middle Hushflood in Noctilum. True to its name Pyotr is a shepherd of two Ovis and will enrage if you kill the herd first.",
+    "category": "Humanoid",
+    "subcategory": "Sylooth",
+    "image": "eZSChVbI"
+  }
+}

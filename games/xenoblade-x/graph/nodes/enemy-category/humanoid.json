@@ -1,0 +1,9 @@
+{
+  "id": "humanoid",
+  "labels": [
+    "EnemyCategory"
+  ],
+  "data": {
+    "name": "Humanoid"
+  }
+}

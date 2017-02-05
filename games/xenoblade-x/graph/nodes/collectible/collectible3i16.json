@@ -1,0 +1,10 @@
+{
+  "id": "collectible3i16",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Shadow Fly",
+    "rarity": 2
+  }
+}

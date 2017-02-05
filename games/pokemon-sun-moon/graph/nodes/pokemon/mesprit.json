@@ -1,0 +1,44 @@
+{
+  "id": "mesprit",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 481,
+    "height": 3,
+    "weight": 3,
+    "base_experience": 261,
+    "name": "Mesprit",
+    "genus": "Emotion"
+  },
+  "locale": {
+    "ja": {
+      "name": "エムリット",
+      "genus": "かんじょう"
+    },
+    "ko": {
+      "name": "엠라이트",
+      "genus": "감정"
+    },
+    "zh": {
+      "name": "艾姆利多",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Créfollet",
+      "genus": "Émotion"
+    },
+    "de": {
+      "name": "Vesprit",
+      "genus": "Emotion"
+    },
+    "es": {
+      "name": "Mesprit",
+      "genus": "Sensorio"
+    },
+    "it": {
+      "name": "Mesprit",
+      "genus": "Emozione"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "collectible5i15",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Iron Akebi Fruit",
+    "requirements": true,
+    "rarity": 4,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

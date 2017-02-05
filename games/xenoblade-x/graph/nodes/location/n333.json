@@ -1,0 +1,18 @@
+{
+  "id": "n333",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Armory Alley",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Arsenal-Allee"
+    },
+    "it": {
+      "name": "Via dell'Armeria"
+    }
+  }
+}

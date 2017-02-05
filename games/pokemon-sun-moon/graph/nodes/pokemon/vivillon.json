@@ -1,0 +1,40 @@
+{
+  "id": "vivillon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 666,
+    "height": 12,
+    "weight": 170,
+    "base_experience": 185,
+    "name": "Vivillon",
+    "genus": "Scale"
+  },
+  "locale": {
+    "ja": {
+      "name": "ビビヨン",
+      "genus": "りんぷん"
+    },
+    "ko": {
+      "name": "비비용",
+      "genus": "인분"
+    },
+    "fr": {
+      "name": "Prismillon",
+      "genus": "Lépidécaille"
+    },
+    "de": {
+      "name": "Vivillon",
+      "genus": "Flügelstaub"
+    },
+    "es": {
+      "name": "Vivillon",
+      "genus": "Escamaposa"
+    },
+    "it": {
+      "name": "Vivillon",
+      "genus": "Farfascaglia"
+    }
+  }
+}

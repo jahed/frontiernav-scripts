@@ -1,0 +1,32 @@
+{
+  "id": "earth-plate",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Earth Plate",
+    "summary": "Held: Ground-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ground.",
+    "description": "Held: Increases the power of the holder's Ground moves by 20%.\nHeld by a Multitype Pokémon: Holder's type becomes Ground."
+  },
+  "locale": {
+    "ja": {
+      "name": "だいちのプレート"
+    },
+    "ko": {
+      "name": "대지플레이트"
+    },
+    "fr": {
+      "name": "Plaque Terre"
+    },
+    "de": {
+      "name": "Erdtafel"
+    },
+    "es": {
+      "name": "Tabla Terrax"
+    },
+    "it": {
+      "name": "Lastrageo"
+    }
+  }
+}

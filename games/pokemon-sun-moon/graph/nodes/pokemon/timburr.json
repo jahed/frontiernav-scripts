@@ -1,0 +1,40 @@
+{
+  "id": "timburr",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 532,
+    "height": 6,
+    "weight": 125,
+    "base_experience": 61,
+    "name": "Timburr",
+    "genus": "Muscular"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドッコラー",
+      "genus": "きんこつ"
+    },
+    "ko": {
+      "name": "으랏차",
+      "genus": "근골"
+    },
+    "fr": {
+      "name": "Charpenti",
+      "genus": "Costaud"
+    },
+    "de": {
+      "name": "Praktibalk",
+      "genus": "Muskel"
+    },
+    "es": {
+      "name": "Timburr",
+      "genus": "Musculoso"
+    },
+    "it": {
+      "name": "Timburr",
+      "genus": "Forzaimmane"
+    }
+  }
+}

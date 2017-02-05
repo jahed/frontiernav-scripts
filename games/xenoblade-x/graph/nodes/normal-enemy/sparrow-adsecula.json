@@ -1,0 +1,58 @@
+{
+  "id": "sparrow-adsecula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Sparrow Adsecula",
+    "subcategory": "Adsecula",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 90,
+      "maximum": 147
+    },
+    "health_range": {
+      "minimum": 16479,
+      "maximum": 28072
+    },
+    "melee_power_range": {
+      "minimum": 238,
+      "maximum": 351
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 75
+    },
+    "ranged_power_range": {
+      "minimum": 238,
+      "maximum": 351
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 57,
+      "maximum": 89
+    },
+    "notes": "Found at 408",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

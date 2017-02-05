@@ -1,0 +1,11 @@
+{
+  "id": "loc321",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Primordia Base Camp 7",
+    "cave": false,
+    "locationTypeId": "Camp"
+  }
+}

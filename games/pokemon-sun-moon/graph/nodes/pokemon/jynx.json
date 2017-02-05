@@ -1,0 +1,44 @@
+{
+  "id": "jynx",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 124,
+    "height": 14,
+    "weight": 406,
+    "base_experience": 159,
+    "name": "Jynx",
+    "genus": "Human Shape"
+  },
+  "locale": {
+    "ja": {
+      "name": "ルージュラ",
+      "genus": "ひとがた"
+    },
+    "ko": {
+      "name": "루주라",
+      "genus": "인간형태"
+    },
+    "zh": {
+      "name": "迷唇姐",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Lippoutou",
+      "genus": "Humanoïde"
+    },
+    "de": {
+      "name": "Rossana",
+      "genus": "Humanotyp"
+    },
+    "es": {
+      "name": "Jynx",
+      "genus": "Forma Humana"
+    },
+    "it": {
+      "name": "Jynx",
+      "genus": "Umanoide"
+    }
+  }
+}

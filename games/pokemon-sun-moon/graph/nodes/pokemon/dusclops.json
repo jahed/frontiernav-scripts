@@ -1,0 +1,44 @@
+{
+  "id": "dusclops",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 356,
+    "height": 16,
+    "weight": 306,
+    "base_experience": 159,
+    "name": "Dusclops",
+    "genus": "Beckon"
+  },
+  "locale": {
+    "ja": {
+      "name": "サマヨール",
+      "genus": "てまねき"
+    },
+    "ko": {
+      "name": "미라몽",
+      "genus": "손짓"
+    },
+    "zh": {
+      "name": "夜巨人",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Téraclope",
+      "genus": "Appel"
+    },
+    "de": {
+      "name": "Zwirrklop",
+      "genus": "Wink"
+    },
+    "es": {
+      "name": "Dusclops",
+      "genus": "Atrayente"
+    },
+    "it": {
+      "name": "Dusclops",
+      "genus": "Ipnosguardo"
+    }
+  }
+}

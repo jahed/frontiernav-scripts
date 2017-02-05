@@ -1,0 +1,44 @@
+{
+  "id": "hitmonchan",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 107,
+    "height": 14,
+    "weight": 502,
+    "base_experience": 159,
+    "name": "Hitmonchan",
+    "genus": "Punching"
+  },
+  "locale": {
+    "ja": {
+      "name": "エビワラー",
+      "genus": "パンチ"
+    },
+    "ko": {
+      "name": "홍수몬",
+      "genus": "펀치"
+    },
+    "zh": {
+      "name": "艾比郎",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tygnon",
+      "genus": "Puncheur"
+    },
+    "de": {
+      "name": "Nockchan",
+      "genus": "Puncher"
+    },
+    "es": {
+      "name": "Hitmonchan",
+      "genus": "Puñetazo"
+    },
+    "it": {
+      "name": "Hitmonchan",
+      "genus": "Tirapugni"
+    }
+  }
+}

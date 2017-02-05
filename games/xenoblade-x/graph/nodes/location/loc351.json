@@ -1,0 +1,16 @@
+{
+  "id": "loc351",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Seaswept Ridge",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Crinale Tempesta Marina"
+    }
+  }
+}

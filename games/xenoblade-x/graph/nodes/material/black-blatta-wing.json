@@ -1,0 +1,14 @@
+{
+  "id": "black-blatta-wing",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Black Blatta Wing"
+  },
+  "locale": {
+    "de": {
+      "name": "Schwarzer Blattaflügel"
+    }
+  }
+}

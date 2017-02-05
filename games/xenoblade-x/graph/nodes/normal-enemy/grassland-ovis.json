@@ -1,0 +1,58 @@
+{
+  "id": "grassland-ovis",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Grassland Ovis",
+    "subcategory": "Ovis",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 9,
+      "maximum": 25
+    },
+    "health_range": {
+      "minimum": 1224,
+      "maximum": 6982
+    },
+    "melee_power_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "melee_accuracy_range": {
+      "minimum": 102,
+      "maximum": 119
+    },
+    "ranged_power_range": {
+      "minimum": 30,
+      "maximum": 106
+    },
+    "ranged_accuracy_range": {
+      "minimum": 97,
+      "maximum": 115
+    },
+    "potential_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "evasion_range": {
+      "minimum": 15,
+      "maximum": 33
+    },
+    "notes": "Found at [5:00~19:00]: 112, 114, 116",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "loc400",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Twin Hammers",
+    "locationTypeId": "Area"
+  }
+}

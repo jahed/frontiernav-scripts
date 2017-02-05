@@ -1,0 +1,32 @@
+{
+  "id": "muscle-wing",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Muscle Wing",
+    "summary": "Increases Attack effort by 1.",
+    "description": "Used on a party Pokémon\n:   Increases the target's Attack effort by 1."
+  },
+  "locale": {
+    "ja": {
+      "name": "きんりょくのハネ"
+    },
+    "ko": {
+      "name": "근력날개"
+    },
+    "fr": {
+      "name": "Aile Force"
+    },
+    "de": {
+      "name": "Kraftfeder"
+    },
+    "es": {
+      "name": "Pluma Músculo"
+    },
+    "it": {
+      "name": "Piumpotenza"
+    }
+  }
+}

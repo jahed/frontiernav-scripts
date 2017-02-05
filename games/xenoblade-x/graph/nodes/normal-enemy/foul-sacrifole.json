@@ -1,0 +1,58 @@
+{
+  "id": "foul-sacrifole",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Foul Sacrifole",
+    "subcategory": "Sacrifole",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 404,
+      "maximum": 680
+    },
+    "health_range": {
+      "minimum": 58113,
+      "maximum": 78999
+    },
+    "melee_power_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 290
+    },
+    "ranged_power_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 285
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 1097
+    },
+    "evasion_range": {
+      "minimum": 157,
+      "maximum": 205
+    },
+    "notes": "Found at Bestial Utopia",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

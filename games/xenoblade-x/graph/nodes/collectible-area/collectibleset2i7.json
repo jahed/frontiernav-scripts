@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i7",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Stream Area",
+    "itemType": "Collectible"
+  }
+}

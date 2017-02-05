@@ -1,0 +1,16 @@
+{
+  "id": "ejsr9oK0",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Ignit, the Ultimate Chaos",
+    "level": 88,
+    "notes": "\"Ignit, the Ultimate Chaos\" will appear in the eastern half of Lake Ciel in Sylvalum during a Crimson Aurora. During the Crimson Aurora the normally docile Ancient Coronid in the area will become aggressive Frenzied Coronid.",
+    "category": "Theroid",
+    "subcategory": "Coronid",
+    "weather": "Crimsom Auroras",
+    "image": "ejsr9oK0"
+  }
+}

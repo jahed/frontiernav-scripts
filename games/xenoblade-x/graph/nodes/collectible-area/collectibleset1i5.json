@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset1i5",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Primordia North Area",
+    "itemType": "Collectible"
+  }
+}

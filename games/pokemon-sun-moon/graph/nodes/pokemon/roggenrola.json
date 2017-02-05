@@ -1,0 +1,40 @@
+{
+  "id": "roggenrola",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 524,
+    "height": 4,
+    "weight": 180,
+    "base_experience": 56,
+    "name": "Roggenrola",
+    "genus": "Mantle"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダンゴロ",
+      "genus": "マントル"
+    },
+    "ko": {
+      "name": "단굴",
+      "genus": "맨틀"
+    },
+    "fr": {
+      "name": "Nodulithe",
+      "genus": "Manteau"
+    },
+    "de": {
+      "name": "Kiesling",
+      "genus": "Erdmantel"
+    },
+    "es": {
+      "name": "Roggenrola",
+      "genus": "Manto"
+    },
+    "it": {
+      "name": "Roggenrola",
+      "genus": "Placca"
+    }
+  }
+}

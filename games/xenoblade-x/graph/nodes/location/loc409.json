@@ -1,0 +1,18 @@
+{
+  "id": "loc409",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "West Gate Plain",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Westtorsteppe"
+    },
+    "it": {
+      "name": "Pianura cancello ovest"
+    }
+  }
+}

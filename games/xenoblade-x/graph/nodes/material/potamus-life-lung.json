@@ -1,0 +1,14 @@
+{
+  "id": "potamus-life-lung",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Potamus Life Lung"
+  },
+  "locale": {
+    "de": {
+      "name": "Potamus-Lebenslunge"
+    }
+  }
+}

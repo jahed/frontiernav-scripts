@@ -1,0 +1,10 @@
+{
+  "id": "loc403",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Victory Rock",
+    "locationTypeId": "Area"
+  }
+}

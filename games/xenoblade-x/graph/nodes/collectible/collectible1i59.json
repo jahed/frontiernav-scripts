@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i59",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "California Sunset",
+    "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Tramonto californiano"
+    }
+  }
+}

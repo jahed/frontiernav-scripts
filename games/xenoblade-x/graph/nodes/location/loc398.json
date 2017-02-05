@@ -1,0 +1,11 @@
+{
+  "id": "loc398",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Turtle Nest",
+    "cave": false,
+    "locationTypeId": "Unexplored"
+  }
+}

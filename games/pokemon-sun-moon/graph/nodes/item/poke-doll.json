@@ -1,0 +1,32 @@
+{
+  "id": "poke-doll",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Poké Doll",
+    "summary": "Ends a wild battle.",
+    "description": "Used in battle\n:   Ends a wild battle.  Cannot be used in trainer battles."
+  },
+  "locale": {
+    "ja": {
+      "name": "ピッピにんぎょう"
+    },
+    "ko": {
+      "name": "삐삐인형"
+    },
+    "fr": {
+      "name": "Poképoupée"
+    },
+    "de": {
+      "name": "Poképuppe"
+    },
+    "es": {
+      "name": "Poké Muñeco"
+    },
+    "it": {
+      "name": "Poké Bambola"
+    }
+  }
+}

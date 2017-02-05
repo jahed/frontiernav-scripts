@@ -1,0 +1,16 @@
+{
+  "id": "en84RSs9",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Durvin, the Perceptive",
+    "level": 70,
+    "notes": "\"Durvin, the Perceptive\" appears during the day inside of beasts lair, a Grex filled cave that can be entered from the northern edge of Sayram Lake in central Primordia.",
+    "category": "Theroid",
+    "subcategory": "Sphinx",
+    "time": "5:00 - 19:00",
+    "image": "en84RSs9"
+  }
+}

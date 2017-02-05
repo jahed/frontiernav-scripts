@@ -1,0 +1,40 @@
+{
+  "id": "reuniclus",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 579,
+    "height": 10,
+    "weight": 201,
+    "base_experience": 221,
+    "name": "Reuniclus",
+    "genus": "Multiplying"
+  },
+  "locale": {
+    "ja": {
+      "name": "ランクルス",
+      "genus": "ぞうふく"
+    },
+    "ko": {
+      "name": "란쿨루스",
+      "genus": "증폭"
+    },
+    "fr": {
+      "name": "Symbios",
+      "genus": "Multiplié"
+    },
+    "de": {
+      "name": "Zytomega",
+      "genus": "Vermehrung"
+    },
+    "es": {
+      "name": "Reuniclus",
+      "genus": "Ampliación"
+    },
+    "it": {
+      "name": "Reuniclus",
+      "genus": "Espansione"
+    }
+  }
+}

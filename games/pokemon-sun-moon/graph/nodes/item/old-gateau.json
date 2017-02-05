@@ -1,0 +1,32 @@
+{
+  "id": "old-gateau",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Old Gateau",
+    "summary": "Cures any status ailment and confusion.",
+    "description": "Used on a party Pokémon\n:   Cures any status ailment and confusion."
+  },
+  "locale": {
+    "ja": {
+      "name": "もりのヨウカン"
+    },
+    "ko": {
+      "name": "숲의양갱"
+    },
+    "fr": {
+      "name": "Vieux Gâteau"
+    },
+    "de": {
+      "name": "Spezialität"
+    },
+    "es": {
+      "name": "Barrita Plus"
+    },
+    "it": {
+      "name": "Dolce Gateau"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rufflet",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 627,
+    "height": 5,
+    "weight": 105,
+    "base_experience": 70,
+    "name": "Rufflet",
+    "genus": "Eaglet"
+  },
+  "locale": {
+    "ja": {
+      "name": "ワシボン",
+      "genus": "ヒナわし"
+    },
+    "ko": {
+      "name": "수리둥보",
+      "genus": "새끼독수리"
+    },
+    "fr": {
+      "name": "Furaiglon",
+      "genus": "Aiglon"
+    },
+    "de": {
+      "name": "Geronimatz",
+      "genus": "Adlerküken"
+    },
+    "es": {
+      "name": "Rufflet",
+      "genus": "Aguilucho"
+    },
+    "it": {
+      "name": "Rufflet",
+      "genus": "Aquilotto"
+    }
+  }
+}

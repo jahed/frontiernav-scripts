@@ -1,0 +1,57 @@
+{
+  "id": "swift-shrad",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Swift Shrad",
+    "subcategory": "Shrad",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 227,
+      "maximum": 314
+    },
+    "health_range": {
+      "minimum": 53851,
+      "maximum": 65160
+    },
+    "melee_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "melee_accuracy_range": {
+      "minimum": 260,
+      "maximum": 300
+    },
+    "ranged_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "ranged_accuracy_range": {
+      "minimum": 253,
+      "maximum": 293
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 129,
+      "maximum": 165
+    },
+    "notes": "Found at 504(hi),507NW,Kw'arah Cloister",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

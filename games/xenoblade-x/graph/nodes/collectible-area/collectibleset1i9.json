@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset1i9",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Primordia Cave Areas",
+    "itemType": "Collectible"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "aspear-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Aspear Berry",
+    "summary": "Held: Consumed when frozen to cure frozen.",
+    "description": "Held in battle\n:   When the holder is frozen, it consumes this item to thaw itself.\n\nUsed on a party Pokémon\n:   Cures freezing."
+  },
+  "locale": {
+    "ja": {
+      "name": "ナナシのみ"
+    },
+    "ko": {
+      "name": "배리열매"
+    },
+    "fr": {
+      "name": "Baie Willia"
+    },
+    "de": {
+      "name": "Wilbirbeere"
+    },
+    "es": {
+      "name": "Baya Perasi"
+    },
+    "it": {
+      "name": "Baccaperina"
+    }
+  }
+}

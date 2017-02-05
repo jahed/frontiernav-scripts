@@ -1,0 +1,32 @@
+{
+  "id": "power-anklet",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Power Anklet",
+    "summary": "Held: Holder gains 4 Speed effort values, but has halved Speed in battle.",
+    "description": "Held: Decreases the holder's Speed by 50%.  Whenever the holder gains Speed effort from battle, increases that effort by 4; this applies before the PokéRUS doubling effect."
+  },
+  "locale": {
+    "ja": {
+      "name": "パワーアンクル"
+    },
+    "ko": {
+      "name": "파워앵클릿"
+    },
+    "fr": {
+      "name": "Chaîne Pouvoir"
+    },
+    "de": {
+      "name": "Machtkette"
+    },
+    "es": {
+      "name": "Franja Recia"
+    },
+    "it": {
+      "name": "Vigorgliera"
+    }
+  }
+}

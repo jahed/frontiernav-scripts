@@ -1,0 +1,44 @@
+{
+  "id": "magnezone",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 462,
+    "height": 12,
+    "weight": 1800,
+    "base_experience": 241,
+    "name": "Magnezone",
+    "genus": "Magnet Area"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジバコイル",
+      "genus": "じば"
+    },
+    "ko": {
+      "name": "자포코일",
+      "genus": "자기장"
+    },
+    "zh": {
+      "name": "自爆磁怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Magnézone",
+      "genus": "Aimant"
+    },
+    "de": {
+      "name": "Magnezone",
+      "genus": "Magnetgebiet"
+    },
+    "es": {
+      "name": "Magnezone",
+      "genus": "Magnético"
+    },
+    "it": {
+      "name": "Magnezone",
+      "genus": "Magnetico"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "primeape",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 57,
+    "height": 10,
+    "weight": 320,
+    "base_experience": 159,
+    "name": "Primeape",
+    "genus": "Pig Monkey"
+  },
+  "locale": {
+    "ja": {
+      "name": "オコリザル",
+      "genus": "ぶたざる"
+    },
+    "ko": {
+      "name": "성원숭",
+      "genus": "돈숭이"
+    },
+    "zh": {
+      "name": "火爆猴",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Colossinge",
+      "genus": "Porsinge"
+    },
+    "de": {
+      "name": "Rasaff",
+      "genus": "Schw./ Affe"
+    },
+    "es": {
+      "name": "Primeape",
+      "genus": "Mono Cerdo"
+    },
+    "it": {
+      "name": "Primeape",
+      "genus": "Suinpanzé"
+    }
+  }
+}

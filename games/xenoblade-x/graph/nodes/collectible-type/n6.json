@@ -1,0 +1,17 @@
+{
+  "id": "n6",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Natural Artifacts"
+  },
+  "locale": {
+    "de": {
+      "name": "Natur"
+    },
+    "it": {
+      "name": "Artefatti naturali"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "staravia",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 397,
+    "height": 6,
+    "weight": 155,
+    "base_experience": 119,
+    "name": "Staravia",
+    "genus": "Starling"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムクバード",
+      "genus": "むくどり"
+    },
+    "ko": {
+      "name": "찌르버드",
+      "genus": "찌르레기"
+    },
+    "zh": {
+      "name": "姆克鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Étourvol",
+      "genus": "Étourneau"
+    },
+    "de": {
+      "name": "Staravia",
+      "genus": "Star"
+    },
+    "es": {
+      "name": "Staravia",
+      "genus": "Estornino"
+    },
+    "it": {
+      "name": "Staravia",
+      "genus": "Storno"
+    }
+  }
+}

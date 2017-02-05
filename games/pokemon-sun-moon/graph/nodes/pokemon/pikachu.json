@@ -1,0 +1,44 @@
+{
+  "id": "pikachu",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 25,
+    "height": 4,
+    "weight": 60,
+    "base_experience": 112,
+    "name": "Pikachu",
+    "genus": "Mouse"
+  },
+  "locale": {
+    "ja": {
+      "name": "ピカチュウ",
+      "genus": "ねずみ"
+    },
+    "ko": {
+      "name": "피카츄",
+      "genus": "쥐"
+    },
+    "zh": {
+      "name": "皮卡丘",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Pikachu",
+      "genus": "Souris"
+    },
+    "de": {
+      "name": "Pikachu",
+      "genus": "Maus"
+    },
+    "es": {
+      "name": "Pikachu",
+      "genus": "Ratón"
+    },
+    "it": {
+      "name": "Pikachu",
+      "genus": "Topo"
+    }
+  }
+}

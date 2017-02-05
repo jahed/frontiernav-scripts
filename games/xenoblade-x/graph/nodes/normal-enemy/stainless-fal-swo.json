@@ -1,0 +1,57 @@
+{
+  "id": "stainless-fal-swo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Stainless Fal-swo",
+    "subcategory": "Fal-swo",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 269,
+      "maximum": 381
+    },
+    "health_range": {
+      "minimum": 50559,
+      "maximum": 70776
+    },
+    "melee_power_range": {
+      "minimum": 590,
+      "maximum": 806
+    },
+    "melee_accuracy_range": {
+      "minimum": 160,
+      "maximum": 184
+    },
+    "ranged_power_range": {
+      "minimum": 537,
+      "maximum": 734
+    },
+    "ranged_accuracy_range": {
+      "minimum": 164,
+      "maximum": 190
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 96,
+      "maximum": 126
+    },
+    "notes": "Found at [19:00~5:00]: 405NE(hi),412S",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

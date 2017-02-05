@@ -1,0 +1,40 @@
+{
+  "id": "gogoat",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 673,
+    "height": 17,
+    "weight": 910,
+    "base_experience": 186,
+    "name": "Gogoat",
+    "genus": "Mount"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴーゴート",
+      "genus": "ライド"
+    },
+    "ko": {
+      "name": "고고트",
+      "genus": "라이드"
+    },
+    "fr": {
+      "name": "Chevroum",
+      "genus": "Monture"
+    },
+    "de": {
+      "name": "Chevrumm",
+      "genus": "Ritt"
+    },
+    "es": {
+      "name": "Gogoat",
+      "genus": "Montura"
+    },
+    "it": {
+      "name": "Gogoat",
+      "genus": "Cavalcatura"
+    }
+  }
+}

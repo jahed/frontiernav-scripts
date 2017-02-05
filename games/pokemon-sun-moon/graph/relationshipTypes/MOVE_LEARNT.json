@@ -1,0 +1,9 @@
+{
+  "id": "MOVE_LEARNT",
+  "startLabels": null,
+  "endLabels": [
+    "Move"
+  ],
+  "properties": {
+  }
+}

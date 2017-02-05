@@ -1,0 +1,32 @@
+{
+  "id": "hm01",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "HM01",
+    "summary": "Teaches Cut to a compatible Pokémon.",
+    "description": "Teaches Cut to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひでんマシン０１"
+    },
+    "ko": {
+      "name": "비전머신01"
+    },
+    "fr": {
+      "name": "CS01"
+    },
+    "de": {
+      "name": "VM01"
+    },
+    "es": {
+      "name": "MO01"
+    },
+    "it": {
+      "name": "MN01"
+    }
+  }
+}

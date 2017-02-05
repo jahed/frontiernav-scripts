@@ -1,0 +1,40 @@
+{
+  "id": "aromatisse",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 683,
+    "height": 8,
+    "weight": 155,
+    "base_experience": 162,
+    "name": "Aromatisse",
+    "genus": "Fragrance"
+  },
+  "locale": {
+    "ja": {
+      "name": "フレフワン",
+      "genus": "ほうこう"
+    },
+    "ko": {
+      "name": "프레프티르",
+      "genus": "방향"
+    },
+    "fr": {
+      "name": "Cocotine",
+      "genus": "Parfum"
+    },
+    "de": {
+      "name": "Parfinesse",
+      "genus": "Duft"
+    },
+    "es": {
+      "name": "Aromatisse",
+      "genus": "Fragancia"
+    },
+    "it": {
+      "name": "Aromatisse",
+      "genus": "Fragranza"
+    }
+  }
+}

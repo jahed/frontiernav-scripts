@@ -1,0 +1,58 @@
+{
+  "id": "lake-mortifole",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Lake Mortifole",
+    "subcategory": "Mortifole",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 36,
+      "maximum": 62
+    },
+    "health_range": {
+      "minimum": 6765,
+      "maximum": 14397
+    },
+    "melee_power_range": {
+      "minimum": 122,
+      "maximum": 214
+    },
+    "melee_accuracy_range": {
+      "minimum": 125,
+      "maximum": 143
+    },
+    "ranged_power_range": {
+      "minimum": 135,
+      "maximum": 236
+    },
+    "ranged_accuracy_range": {
+      "minimum": 126,
+      "maximum": 144
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 53
+    },
+    "notes": "Found at 222",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

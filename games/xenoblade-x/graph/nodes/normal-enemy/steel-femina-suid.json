@@ -1,0 +1,58 @@
+{
+  "id": "steel-femina-suid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Steel Femina Suid",
+    "subcategory": "Suid",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 84,
+      "maximum": 138
+    },
+    "health_range": {
+      "minimum": 20939,
+      "maximum": 35668
+    },
+    "melee_power_range": {
+      "minimum": 244,
+      "maximum": 360
+    },
+    "melee_accuracy_range": {
+      "minimum": 137,
+      "maximum": 166
+    },
+    "ranged_power_range": {
+      "minimum": 231,
+      "maximum": 341
+    },
+    "ranged_accuracy_range": {
+      "minimum": 136,
+      "maximum": 165
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 56,
+      "maximum": 87
+    },
+    "notes": "Found at 108SW(lo),115S,UnicornRock",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

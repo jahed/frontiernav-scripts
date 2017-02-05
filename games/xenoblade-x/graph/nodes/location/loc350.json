@@ -1,0 +1,11 @@
+{
+  "id": "loc350",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Seaswept Base",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

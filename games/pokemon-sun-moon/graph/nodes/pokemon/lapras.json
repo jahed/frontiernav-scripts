@@ -1,0 +1,44 @@
+{
+  "id": "lapras",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 131,
+    "height": 25,
+    "weight": 2200,
+    "base_experience": 187,
+    "name": "Lapras",
+    "genus": "Transport"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラプラス",
+      "genus": "のりもの"
+    },
+    "ko": {
+      "name": "라프라스",
+      "genus": "탈것"
+    },
+    "zh": {
+      "name": "乘龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Lokhlass",
+      "genus": "Transport"
+    },
+    "de": {
+      "name": "Lapras",
+      "genus": "Transport"
+    },
+    "es": {
+      "name": "Lapras",
+      "genus": "Transporte"
+    },
+    "it": {
+      "name": "Lapras",
+      "genus": "Trasporto"
+    }
+  }
+}

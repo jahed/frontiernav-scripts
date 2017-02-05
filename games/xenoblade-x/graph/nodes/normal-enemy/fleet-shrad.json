@@ -1,0 +1,57 @@
+{
+  "id": "fleet-shrad",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Fleet Shrad",
+    "subcategory": "Shrad",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 90,
+      "maximum": 147
+    },
+    "health_range": {
+      "minimum": 19388,
+      "maximum": 33026
+    },
+    "melee_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 181,
+      "maximum": 218
+    },
+    "ranged_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "ranged_accuracy_range": {
+      "minimum": 175,
+      "maximum": 212
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 80,
+      "maximum": 93
+    },
+    "notes": "Found at White Phosphor Lake",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

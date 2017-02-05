@@ -1,0 +1,10 @@
+{
+  "id": "loc222",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Grieving Plains",
+    "locationTypeId": "Landmark"
+  }
+}

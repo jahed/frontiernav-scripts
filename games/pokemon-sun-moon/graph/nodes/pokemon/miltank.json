@@ -1,0 +1,44 @@
+{
+  "id": "miltank",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 241,
+    "height": 12,
+    "weight": 755,
+    "base_experience": 172,
+    "name": "Miltank",
+    "genus": "Milk Cow"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミルタンク",
+      "genus": "ちちうし"
+    },
+    "ko": {
+      "name": "밀탱크",
+      "genus": "젖소"
+    },
+    "zh": {
+      "name": "大奶罐",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Écrémeuh",
+      "genus": "Vachalait"
+    },
+    "de": {
+      "name": "Miltank",
+      "genus": "Milchkuh"
+    },
+    "es": {
+      "name": "Miltank",
+      "genus": "Lechera"
+    },
+    "it": {
+      "name": "Miltank",
+      "genus": "Bovino"
+    }
+  }
+}

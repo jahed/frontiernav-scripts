@@ -1,0 +1,32 @@
+{
+  "id": "tm60",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM60",
+    "summary": "Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)",
+    "description": "Teaches Drain Punch to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン６０"
+    },
+    "ko": {
+      "name": "기술머신60"
+    },
+    "fr": {
+      "name": "CT60"
+    },
+    "de": {
+      "name": "TM60"
+    },
+    "es": {
+      "name": "MT60"
+    },
+    "it": {
+      "name": "MT60"
+    }
+  }
+}

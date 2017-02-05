@@ -1,0 +1,10 @@
+{
+  "id": "loc16",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Balance Rock",
+    "locationTypeId": "Landmark"
+  }
+}

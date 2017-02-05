@@ -1,0 +1,44 @@
+{
+  "id": "grovyle",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 253,
+    "height": 9,
+    "weight": 216,
+    "base_experience": 142,
+    "name": "Grovyle",
+    "genus": "Wood Gecko"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジュプトル",
+      "genus": "もりトカゲ"
+    },
+    "ko": {
+      "name": "나무돌이",
+      "genus": "숲도마뱀"
+    },
+    "zh": {
+      "name": "森林蜥蜴",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Massko",
+      "genus": "Bois Gecko"
+    },
+    "de": {
+      "name": "Reptain",
+      "genus": "Waldgecko"
+    },
+    "es": {
+      "name": "Grovyle",
+      "genus": "Geco Bosque"
+    },
+    "it": {
+      "name": "Grovyle",
+      "genus": "Legnogeco"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ampharos",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 181,
+    "height": 14,
+    "weight": 615,
+    "base_experience": 230,
+    "name": "Ampharos",
+    "genus": "Light"
+  },
+  "locale": {
+    "ja": {
+      "name": "デンリュウ",
+      "genus": "ライト"
+    },
+    "ko": {
+      "name": "전룡",
+      "genus": "라이트"
+    },
+    "zh": {
+      "name": "電龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Pharamp",
+      "genus": "Lumière"
+    },
+    "de": {
+      "name": "Ampharos",
+      "genus": "Leuchte"
+    },
+    "es": {
+      "name": "Ampharos",
+      "genus": "Luz"
+    },
+    "it": {
+      "name": "Ampharos",
+      "genus": "Luce"
+    }
+  }
+}

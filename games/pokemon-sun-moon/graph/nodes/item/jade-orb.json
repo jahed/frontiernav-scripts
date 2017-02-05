@@ -1,0 +1,32 @@
+{
+  "id": "jade-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Jade Orb",
+    "summary": "Summons Rayquaza to the Embedded Tower.",
+    "description": "Causes []{pokemon:rayquaza} to appear in the []{location:embedded-tower}."
+  },
+  "locale": {
+    "ja": {
+      "name": "もえぎいろのたま"
+    },
+    "ko": {
+      "name": "연둣빛구슬"
+    },
+    "fr": {
+      "name": "Orbe Vert"
+    },
+    "de": {
+      "name": "Grüne Kugel"
+    },
+    "es": {
+      "name": "Esfera Verde"
+    },
+    "it": {
+      "name": "Sfera Verde"
+    }
+  }
+}

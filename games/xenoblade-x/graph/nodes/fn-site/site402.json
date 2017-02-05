@@ -1,0 +1,12 @@
+{
+  "id": "site402",
+  "labels": [
+    "FNSite"
+  ],
+  "data": {
+    "number": 402,
+    "production": "A",
+    "revenue": "B",
+    "combat_support": "B"
+  }
+}

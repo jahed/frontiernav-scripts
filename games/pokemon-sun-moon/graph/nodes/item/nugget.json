@@ -1,0 +1,32 @@
+{
+  "id": "nugget",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 10000,
+    "name": "Nugget",
+    "summary": "Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "きんのたま"
+    },
+    "ko": {
+      "name": "금구슬"
+    },
+    "fr": {
+      "name": "Pépite"
+    },
+    "de": {
+      "name": "Nugget"
+    },
+    "es": {
+      "name": "Pepita"
+    },
+    "it": {
+      "name": "Pepita"
+    }
+  }
+}

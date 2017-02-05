@@ -1,0 +1,16 @@
+{
+  "id": "e1gt4vKn",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Sviatoslav, the Reproachful",
+    "level": 39,
+    "notes": "\"Sviatoslav, the Reproachful\" appears in the south east of Bardarich Desert during rainy weather. Fast travelling will randomise the weather on each trip. Can reflect Ether attacks.",
+    "category": "Theroid",
+    "subcategory": "Aprica",
+    "weather": "Rain",
+    "image": "e1gt4vKn"
+  }
+}

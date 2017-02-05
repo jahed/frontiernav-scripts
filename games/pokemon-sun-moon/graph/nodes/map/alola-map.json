@@ -1,0 +1,20 @@
+{
+  "id": "alola-map",
+  "labels": [
+    "Map"
+  ],
+  "data": {
+    "name": "Alola",
+    "tileLayers": {
+      "normal": {
+        "folder": "pokemon-alola-game",
+        "extension": "jpg",
+        "background": {
+          "color": "#08145A"
+        }
+      }
+    },
+    "defaultZoom": 3,
+    "maxNativeZoom": 4
+  }
+}

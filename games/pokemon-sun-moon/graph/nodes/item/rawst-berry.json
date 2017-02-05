@@ -1,0 +1,32 @@
+{
+  "id": "rawst-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Rawst Berry",
+    "summary": "Held: Consumed when burned to cure a burn.",
+    "description": "Held in battle\n:   When the holder is burned, it consumes this item to cure the burn.\n\nUsed on a party Pokémon\n:   Cures a burn."
+  },
+  "locale": {
+    "ja": {
+      "name": "チーゴのみ"
+    },
+    "ko": {
+      "name": "복분열매"
+    },
+    "fr": {
+      "name": "Baie Fraive"
+    },
+    "de": {
+      "name": "Fragiabeere"
+    },
+    "es": {
+      "name": "Baya Safre"
+    },
+    "it": {
+      "name": "Baccafrago"
+    }
+  }
+}

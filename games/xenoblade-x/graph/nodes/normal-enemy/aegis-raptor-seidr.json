@@ -1,0 +1,57 @@
+{
+  "id": "aegis-raptor-seidr",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Aegis Raptor Seidr",
+    "subcategory": "Seidr",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 1108,
+      "maximum": 1529
+    },
+    "health_range": {
+      "minimum": 387724,
+      "maximum": 469152
+    },
+    "melee_power_range": {
+      "minimum": 1185,
+      "maximum": 1535
+    },
+    "melee_accuracy_range": {
+      "minimum": 208,
+      "maximum": 240
+    },
+    "ranged_power_range": {
+      "minimum": 1185,
+      "maximum": 1535
+    },
+    "ranged_accuracy_range": {
+      "minimum": 223,
+      "maximum": 258
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1279
+    },
+    "evasion_range": {
+      "minimum": 94,
+      "maximum": 120
+    },
+    "notes": "Found at [air]: 505,Boxtrap Checkpoint",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

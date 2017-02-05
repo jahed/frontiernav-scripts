@@ -1,0 +1,30 @@
+{
+  "id": "scizorite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Scizorite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハッサムナイト"
+    },
+    "ko": {
+      "name": "핫삼나이트"
+    },
+    "fr": {
+      "name": "Cizayoxite"
+    },
+    "de": {
+      "name": "Scheroxnit"
+    },
+    "es": {
+      "name": "Scizorita"
+    },
+    "it": {
+      "name": "Scizorite"
+    }
+  }
+}

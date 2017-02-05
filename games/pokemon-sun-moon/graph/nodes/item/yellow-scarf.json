@@ -1,0 +1,32 @@
+{
+  "id": "yellow-scarf",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Yellow Scarf",
+    "summary": "Raises the holder's Toughness while in a contest.",
+    "description": "Held: Increases the holder's Toughness during a Super Contest's Visual Competition."
+  },
+  "locale": {
+    "ja": {
+      "name": "きいろのバンダナ"
+    },
+    "ko": {
+      "name": "노랑밴드"
+    },
+    "fr": {
+      "name": "Foulard Jaune"
+    },
+    "de": {
+      "name": "Gelber Schal"
+    },
+    "es": {
+      "name": "Pañuelo Amarillo"
+    },
+    "it": {
+      "name": "Fascia Gialla"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "residential-district",
+  "labels": [
+    "Region"
+  ],
+  "data": {
+    "name": "Residential District"
+  }
+}

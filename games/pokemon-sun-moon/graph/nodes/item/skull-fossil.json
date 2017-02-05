@@ -1,0 +1,32 @@
+{
+  "id": "skull-fossil",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Skull Fossil",
+    "summary": "Can be revived into a Cranidos.",
+    "description": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:cranidos}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ずがいのカセキ"
+    },
+    "ko": {
+      "name": "두개의화석"
+    },
+    "fr": {
+      "name": "Fossile Crâne"
+    },
+    "de": {
+      "name": "Kopffossil"
+    },
+    "es": {
+      "name": "Fósil Cráneo"
+    },
+    "it": {
+      "name": "Fossilcranio"
+    }
+  }
+}

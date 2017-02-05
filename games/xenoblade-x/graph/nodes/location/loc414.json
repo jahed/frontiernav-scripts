@@ -1,0 +1,11 @@
+{
+  "id": "loc414",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Whale's Weeper",
+    "locationTypeId": "Unexplored"
+  }
+}

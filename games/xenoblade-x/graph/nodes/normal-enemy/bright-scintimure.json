@@ -1,0 +1,57 @@
+{
+  "id": "bright-scintimure",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Bright Scintimure",
+    "subcategory": "Scintimure",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 809,
+      "maximum": 1117
+    },
+    "health_range": {
+      "minimum": 339261,
+      "maximum": 410508
+    },
+    "melee_power_range": {
+      "minimum": 963,
+      "maximum": 1248
+    },
+    "melee_accuracy_range": {
+      "minimum": 249,
+      "maximum": 288
+    },
+    "ranged_power_range": {
+      "minimum": 1062,
+      "maximum": 1376
+    },
+    "ranged_accuracy_range": {
+      "minimum": 243,
+      "maximum": 282
+    },
+    "potential_range": {
+      "minimum": 988,
+      "maximum": 1280
+    },
+    "evasion_range": {
+      "minimum": 126,
+      "maximum": 161
+    },
+    "notes": "Found at 416SE(air),420",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

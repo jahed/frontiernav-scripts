@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i20",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Ancient Allure",
+    "requirements": true,
+    "rarity": 3,
+    "time": "Early Morning",
+    "weather": "Rain"
+  },
+  "locale": {
+    "it": {
+      "name": "Richiamo primordiale"
+    }
+  }
+}

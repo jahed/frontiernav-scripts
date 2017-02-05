@@ -1,0 +1,44 @@
+{
+  "id": "luvdisc",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 370,
+    "height": 6,
+    "weight": 87,
+    "base_experience": 116,
+    "name": "Luvdisc",
+    "genus": "Rendezvous"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラブカス",
+      "genus": "ランデブー"
+    },
+    "ko": {
+      "name": "사랑동이",
+      "genus": "랑데부"
+    },
+    "zh": {
+      "name": "愛心魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Lovdisc",
+      "genus": "Rendezvous"
+    },
+    "de": {
+      "name": "Liebiskus",
+      "genus": "Rendezvous"
+    },
+    "es": {
+      "name": "Luvdisc",
+      "genus": "Cita"
+    },
+    "it": {
+      "name": "Luvdisc",
+      "genus": "Rendezvous"
+    }
+  }
+}

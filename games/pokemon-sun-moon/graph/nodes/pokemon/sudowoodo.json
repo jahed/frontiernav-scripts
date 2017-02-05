@@ -1,0 +1,44 @@
+{
+  "id": "sudowoodo",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 185,
+    "height": 12,
+    "weight": 380,
+    "base_experience": 144,
+    "name": "Sudowoodo",
+    "genus": "Imitation"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウソッキー",
+      "genus": "まね"
+    },
+    "ko": {
+      "name": "꼬지모",
+      "genus": "흉내"
+    },
+    "zh": {
+      "name": "胡說樹",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Simularbre",
+      "genus": "Imitation"
+    },
+    "de": {
+      "name": "Mogelbaum",
+      "genus": "Imitation"
+    },
+    "es": {
+      "name": "Sudowoodo",
+      "genus": "Imitación"
+    },
+    "it": {
+      "name": "Sudowoodo",
+      "genus": "Imitazione"
+    }
+  }
+}

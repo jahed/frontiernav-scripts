@@ -1,0 +1,13 @@
+{
+  "id": "treasure1112-13",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Vehicle Wreckage",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 1
+    }
+  }
+}

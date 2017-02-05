@@ -1,0 +1,44 @@
+{
+  "id": "torkoal",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 324,
+    "height": 5,
+    "weight": 804,
+    "base_experience": 165,
+    "name": "Torkoal",
+    "genus": "Coal"
+  },
+  "locale": {
+    "ja": {
+      "name": "コータス",
+      "genus": "せきたん"
+    },
+    "ko": {
+      "name": "코터스",
+      "genus": "석탄"
+    },
+    "zh": {
+      "name": "煤炭龜",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Chartor",
+      "genus": "Charbon"
+    },
+    "de": {
+      "name": "Qurtel",
+      "genus": "Kohle"
+    },
+    "es": {
+      "name": "Torkoal",
+      "genus": "Carbón"
+    },
+    "it": {
+      "name": "Torkoal",
+      "genus": "Carbone"
+    }
+  }
+}

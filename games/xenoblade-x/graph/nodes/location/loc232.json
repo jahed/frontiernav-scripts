@@ -1,0 +1,10 @@
+{
+  "id": "loc232",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Island 1",
+    "locationTypeId": "Island"
+  }
+}

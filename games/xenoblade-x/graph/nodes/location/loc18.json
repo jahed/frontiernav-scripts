@@ -1,0 +1,11 @@
+{
+  "id": "loc18",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Banshee Cave",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "swinub",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 220,
+    "height": 4,
+    "weight": 65,
+    "base_experience": 50,
+    "name": "Swinub",
+    "genus": "Pig"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウリムー",
+      "genus": "いのぶた"
+    },
+    "ko": {
+      "name": "꾸꾸리",
+      "genus": "산돼지"
+    },
+    "zh": {
+      "name": "小山豬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Marcacrin",
+      "genus": "Cochon"
+    },
+    "de": {
+      "name": "Quiekel",
+      "genus": "Ferkel"
+    },
+    "es": {
+      "name": "Swinub",
+      "genus": "Cerdo"
+    },
+    "it": {
+      "name": "Swinub",
+      "genus": "Maiale"
+    }
+  }
+}

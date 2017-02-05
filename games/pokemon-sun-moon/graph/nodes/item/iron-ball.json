@@ -1,0 +1,32 @@
+{
+  "id": "iron-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Iron Ball",
+    "summary": "Held: Holder's Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",
+    "description": "Held: Decreases the holder's Speed by 50%.  If the holder is Flying or has Levitate, it takes regular damage from Ground attacks and is suspectible to Spikes and Toxic Spikes."
+  },
+  "locale": {
+    "ja": {
+      "name": "くろいてっきゅう"
+    },
+    "ko": {
+      "name": "검은철구"
+    },
+    "fr": {
+      "name": "Balle Fer"
+    },
+    "de": {
+      "name": "Eisenkugel"
+    },
+    "es": {
+      "name": "Bola Férrea"
+    },
+    "it": {
+      "name": "Ferropalla"
+    }
+  }
+}

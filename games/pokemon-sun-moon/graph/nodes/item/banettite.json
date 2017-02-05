@@ -1,0 +1,30 @@
+{
+  "id": "banettite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Banettite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジュペッタナイト"
+    },
+    "ko": {
+      "name": "다크펫나이트"
+    },
+    "fr": {
+      "name": "Branettite"
+    },
+    "de": {
+      "name": "Banetteonit"
+    },
+    "es": {
+      "name": "Banettita"
+    },
+    "it": {
+      "name": "Banettite"
+    }
+  }
+}

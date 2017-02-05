@@ -1,0 +1,40 @@
+{
+  "id": "stoutland",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 508,
+    "height": 12,
+    "weight": 610,
+    "base_experience": 225,
+    "name": "Stoutland",
+    "genus": "Big-Hearted"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムーランド",
+      "genus": "かんだい"
+    },
+    "ko": {
+      "name": "바랜드",
+      "genus": "관대"
+    },
+    "fr": {
+      "name": "Mastouffe",
+      "genus": "Magnanime"
+    },
+    "de": {
+      "name": "Bissbark",
+      "genus": "Großmut"
+    },
+    "es": {
+      "name": "Stoutland",
+      "genus": "Magnánimo"
+    },
+    "it": {
+      "name": "Stoutland",
+      "genus": "Generosità"
+    }
+  }
+}

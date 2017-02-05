@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i27",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Amidresian Tomato",
+    "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Pomodoro Amidoresia"
+    }
+  }
+}

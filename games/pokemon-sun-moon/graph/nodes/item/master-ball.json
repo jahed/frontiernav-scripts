@@ -1,0 +1,32 @@
+{
+  "id": "master-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Master Ball",
+    "summary": "Catches a wild Pokémon every time.",
+    "description": "Used in battle\n:   Catches a wild Pokémon without fail.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "マスターボール"
+    },
+    "ko": {
+      "name": "마스터볼"
+    },
+    "fr": {
+      "name": "Master Ball"
+    },
+    "de": {
+      "name": "Meisterball"
+    },
+    "es": {
+      "name": "Master Ball"
+    },
+    "it": {
+      "name": "Master Ball"
+    }
+  }
+}

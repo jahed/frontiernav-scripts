@@ -1,0 +1,15 @@
+{
+  "id": "loc255",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Leaning Ring",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Anello Arcano"
+    }
+  }
+}

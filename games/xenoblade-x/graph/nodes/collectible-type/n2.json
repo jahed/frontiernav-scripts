@@ -1,0 +1,17 @@
+{
+  "id": "n2",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Insects"
+  },
+  "locale": {
+    "de": {
+      "name": "Insekten"
+    },
+    "it": {
+      "name": "Insetti"
+    }
+  }
+}

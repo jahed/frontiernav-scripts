@@ -1,0 +1,11 @@
+{
+  "id": "loc221",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Green Threshold",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

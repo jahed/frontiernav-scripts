@@ -1,0 +1,44 @@
+{
+  "id": "lumineon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 457,
+    "height": 12,
+    "weight": 240,
+    "base_experience": 161,
+    "name": "Lumineon",
+    "genus": "Neon"
+  },
+  "locale": {
+    "ja": {
+      "name": "ネオラント",
+      "genus": "ネオン"
+    },
+    "ko": {
+      "name": "네오라이트",
+      "genus": "네온"
+    },
+    "zh": {
+      "name": "霓虹魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Luminéon",
+      "genus": "Néon"
+    },
+    "de": {
+      "name": "Lumineon",
+      "genus": "Neon"
+    },
+    "es": {
+      "name": "Lumineon",
+      "genus": "Neón"
+    },
+    "it": {
+      "name": "Lumineon",
+      "genus": "Neon"
+    }
+  }
+}

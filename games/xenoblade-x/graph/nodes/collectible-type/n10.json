@@ -1,0 +1,14 @@
+{
+  "id": "n10",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Curios"
+  },
+  "locale": {
+    "it": {
+      "name": "Misteriosi"
+    }
+  }
+}

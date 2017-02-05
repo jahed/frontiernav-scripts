@@ -1,0 +1,58 @@
+{
+  "id": "surtr-scirpo",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Surtr Scirpo",
+    "subcategory": "Scirpo",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 149,
+      "maximum": 245
+    },
+    "health_range": {
+      "minimum": 21191,
+      "maximum": 36097
+    },
+    "melee_power_range": {
+      "minimum": 333,
+      "maximum": 491
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 333,
+      "maximum": 491
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 55,
+      "maximum": 85
+    },
+    "notes": "Found at 215,220N",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

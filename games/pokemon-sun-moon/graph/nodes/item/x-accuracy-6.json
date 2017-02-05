@@ -1,0 +1,32 @@
+{
+  "id": "x-accuracy-6",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "X Accuracy 6",
+    "summary": "Raises accuracy by six stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's accuracy by six stages.\n\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "ヨクアタール６"
+    },
+    "ko": {
+      "name": "잘-맞히기6"
+    },
+    "fr": {
+      "name": "Précision 6"
+    },
+    "de": {
+      "name": "X-Treffer6"
+    },
+    "es": {
+      "name": "Precisión X 6"
+    },
+    "it": {
+      "name": "Precisione X-6"
+    }
+  }
+}

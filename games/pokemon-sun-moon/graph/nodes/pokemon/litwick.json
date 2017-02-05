@@ -1,0 +1,40 @@
+{
+  "id": "litwick",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 607,
+    "height": 3,
+    "weight": 31,
+    "base_experience": 55,
+    "name": "Litwick",
+    "genus": "Candle"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒトモシ",
+      "genus": "ろうそく"
+    },
+    "ko": {
+      "name": "불켜미",
+      "genus": "양초"
+    },
+    "fr": {
+      "name": "Funécire",
+      "genus": "Chandelle"
+    },
+    "de": {
+      "name": "Lichtel",
+      "genus": "Kerze"
+    },
+    "es": {
+      "name": "Litwick",
+      "genus": "Vela"
+    },
+    "it": {
+      "name": "Litwick",
+      "genus": "Candela"
+    }
+  }
+}

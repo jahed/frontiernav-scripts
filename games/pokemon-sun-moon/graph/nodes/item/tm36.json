@@ -1,0 +1,32 @@
+{
+  "id": "tm36",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM36",
+    "summary": "Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)",
+    "description": "Teaches Sludge Bomb to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３６"
+    },
+    "ko": {
+      "name": "기술머신36"
+    },
+    "fr": {
+      "name": "CT36"
+    },
+    "de": {
+      "name": "TM36"
+    },
+    "es": {
+      "name": "MT36"
+    },
+    "it": {
+      "name": "MT36"
+    }
+  }
+}

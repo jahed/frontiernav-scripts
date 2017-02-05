@@ -1,0 +1,44 @@
+{
+  "id": "misdreavus",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 200,
+    "height": 7,
+    "weight": 10,
+    "base_experience": 87,
+    "name": "Misdreavus",
+    "genus": "Screech"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムウマ",
+      "genus": "よなき"
+    },
+    "ko": {
+      "name": "무우마",
+      "genus": "야명"
+    },
+    "zh": {
+      "name": "夢妖",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Feuforêve",
+      "genus": "Strident"
+    },
+    "de": {
+      "name": "Traunfugil",
+      "genus": "Kreischer"
+    },
+    "es": {
+      "name": "Misdreavus",
+      "genus": "Chirrido"
+    },
+    "it": {
+      "name": "Misdreavus",
+      "genus": "Strido"
+    }
+  }
+}

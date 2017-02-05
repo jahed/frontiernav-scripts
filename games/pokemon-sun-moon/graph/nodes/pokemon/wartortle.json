@@ -1,0 +1,44 @@
+{
+  "id": "wartortle",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 8,
+    "height": 10,
+    "weight": 225,
+    "base_experience": 142,
+    "name": "Wartortle",
+    "genus": "Turtle"
+  },
+  "locale": {
+    "ja": {
+      "name": "カメール",
+      "genus": "かめ"
+    },
+    "ko": {
+      "name": "어니부기",
+      "genus": "거북"
+    },
+    "zh": {
+      "name": "卡咪龜",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Carabaffe",
+      "genus": "Tortue"
+    },
+    "de": {
+      "name": "Schillok",
+      "genus": "Kröte"
+    },
+    "es": {
+      "name": "Wartortle",
+      "genus": "Tortuga"
+    },
+    "it": {
+      "name": "Wartortle",
+      "genus": "Tartaruga"
+    }
+  }
+}

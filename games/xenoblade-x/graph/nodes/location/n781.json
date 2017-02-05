@@ -1,0 +1,15 @@
+{
+  "id": "n781",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Cathedral",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Cattedrale"
+    }
+  }
+}

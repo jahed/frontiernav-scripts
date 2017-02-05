@@ -1,0 +1,44 @@
+{
+  "id": "elekid",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 239,
+    "height": 6,
+    "weight": 235,
+    "base_experience": 72,
+    "name": "Elekid",
+    "genus": "Electric"
+  },
+  "locale": {
+    "ja": {
+      "name": "エレキッド",
+      "genus": "でんき"
+    },
+    "ko": {
+      "name": "에레키드",
+      "genus": "전류"
+    },
+    "zh": {
+      "name": "電擊怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Élekid",
+      "genus": "Électrique"
+    },
+    "de": {
+      "name": "Elekid",
+      "genus": "Elektro"
+    },
+    "es": {
+      "name": "Elekid",
+      "genus": "Eléctrico"
+    },
+    "it": {
+      "name": "Elekid",
+      "genus": "Elettrico"
+    }
+  }
+}

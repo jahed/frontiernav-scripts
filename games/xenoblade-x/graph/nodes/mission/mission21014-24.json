@@ -1,0 +1,14 @@
+{
+  "id": "mission21014-24",
+  "labels": [
+    "Mission"
+  ],
+  "data": {
+    "name": "Data Miner"
+  },
+  "locale": {
+    "it": {
+      "name": "Estrattore di dati"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "taut-leather",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Taut Leather"
+  },
+  "locale": {
+    "de": {
+      "name": "Feste Haut"
+    }
+  }
+}

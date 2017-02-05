@@ -1,0 +1,44 @@
+{
+  "id": "porygon-z",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 474,
+    "height": 9,
+    "weight": 340,
+    "base_experience": 241,
+    "name": "Porygon-Z",
+    "genus": "Virtual"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポリゴンＺ",
+      "genus": "バーチャル"
+    },
+    "ko": {
+      "name": "폴리곤Z",
+      "genus": "가상"
+    },
+    "zh": {
+      "name": "3D龍Z",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Porygon-Z",
+      "genus": "Virtuel"
+    },
+    "de": {
+      "name": "Porygon-Z",
+      "genus": "Virtuell"
+    },
+    "es": {
+      "name": "Porygon-Z",
+      "genus": "Virtual"
+    },
+    "it": {
+      "name": "Porygon-Z",
+      "genus": "Virtuale"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "remote-pugilith",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Remote Pugilith",
+    "subcategory": "Pugilith",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 282,
+      "maximum": 400
+    },
+    "health_range": {
+      "minimum": 49508,
+      "maximum": 69305
+    },
+    "melee_power_range": {
+      "minimum": 550,
+      "maximum": 752
+    },
+    "melee_accuracy_range": {
+      "minimum": 169,
+      "maximum": 194
+    },
+    "ranged_power_range": {
+      "minimum": 576,
+      "maximum": 787
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 524,
+      "maximum": 715
+    },
+    "evasion_range": {
+      "minimum": 79,
+      "maximum": 103
+    },
+    "notes": "Found at northisle",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tm58",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM58",
+    "summary": "Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)",
+    "description": "Teaches Endure to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン５８"
+    },
+    "ko": {
+      "name": "기술머신58"
+    },
+    "fr": {
+      "name": "CT58"
+    },
+    "de": {
+      "name": "TM58"
+    },
+    "es": {
+      "name": "MT58"
+    },
+    "it": {
+      "name": "MT58"
+    }
+  }
+}

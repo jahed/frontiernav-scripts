@@ -1,0 +1,44 @@
+{
+  "id": "dratini",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 147,
+    "height": 18,
+    "weight": 33,
+    "base_experience": 60,
+    "name": "Dratini",
+    "genus": "Dragon"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミニリュウ",
+      "genus": "ドラゴン"
+    },
+    "ko": {
+      "name": "미뇽",
+      "genus": "드래곤"
+    },
+    "zh": {
+      "name": "迷你龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Minidraco",
+      "genus": "Dragon"
+    },
+    "de": {
+      "name": "Dratini",
+      "genus": "Drache"
+    },
+    "es": {
+      "name": "Dratini",
+      "genus": "Dragón"
+    },
+    "it": {
+      "name": "Dratini",
+      "genus": "Drago"
+    }
+  }
+}

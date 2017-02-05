@@ -1,0 +1,15 @@
+{
+  "id": "loc243",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Janpath Lake",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Lago Janpath"
+    }
+  }
+}

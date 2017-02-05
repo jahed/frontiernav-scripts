@@ -1,0 +1,40 @@
+{
+  "id": "gigalith",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 526,
+    "height": 17,
+    "weight": 2600,
+    "base_experience": 232,
+    "name": "Gigalith",
+    "genus": "Compressed"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギガイアス",
+      "genus": "こうあつ"
+    },
+    "ko": {
+      "name": "기가이어스",
+      "genus": "고압"
+    },
+    "fr": {
+      "name": "Gigalithe",
+      "genus": "Surpression"
+    },
+    "de": {
+      "name": "Brockoloss",
+      "genus": "Kompression"
+    },
+    "es": {
+      "name": "Gigalith",
+      "genus": "Presurizado"
+    },
+    "it": {
+      "name": "Gigalith",
+      "genus": "Pressionalta"
+    }
+  }
+}

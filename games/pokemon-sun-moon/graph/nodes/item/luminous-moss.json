@@ -1,0 +1,30 @@
+{
+  "id": "luminous-moss",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Luminous Moss"
+  },
+  "locale": {
+    "ja": {
+      "name": "ひかりごけ"
+    },
+    "ko": {
+      "name": "빛이끼"
+    },
+    "fr": {
+      "name": "Lichen Lumineux"
+    },
+    "de": {
+      "name": "Leuchtmoos"
+    },
+    "es": {
+      "name": "Musgo Brillante"
+    },
+    "it": {
+      "name": "Muschioluce"
+    }
+  }
+}

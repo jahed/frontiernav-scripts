@@ -1,0 +1,9 @@
+{
+  "id": "this-fair-city__REQUIRES__celica",
+  "start": "this-fair-city",
+  "type": "REQUIRES",
+  "end": "celica",
+  "data": {
+    "affinity": 1
+  }
+}

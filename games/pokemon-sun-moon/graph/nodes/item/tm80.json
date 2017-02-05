@@ -1,0 +1,32 @@
+{
+  "id": "tm80",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM80",
+    "summary": "Teaches Rock Slide to a compatible Pokémon.",
+    "description": "Teaches Rock Slide to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン８０"
+    },
+    "ko": {
+      "name": "기술머신80"
+    },
+    "fr": {
+      "name": "CT80"
+    },
+    "de": {
+      "name": "TM80"
+    },
+    "es": {
+      "name": "MT80"
+    },
+    "it": {
+      "name": "MT80"
+    }
+  }
+}

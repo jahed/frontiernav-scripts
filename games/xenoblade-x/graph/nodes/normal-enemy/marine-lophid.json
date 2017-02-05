@@ -1,0 +1,57 @@
+{
+  "id": "marine-lophid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Marine Lophid",
+    "subcategory": "Lophid",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1151,
+      "maximum": 1482
+    },
+    "health_range": {
+      "minimum": 438339,
+      "maximum": 512958
+    },
+    "melee_power_range": {
+      "minimum": 1513,
+      "maximum": 1886
+    },
+    "melee_accuracy_range": {
+      "minimum": 231,
+      "maximum": 266
+    },
+    "ranged_power_range": {
+      "minimum": 1283,
+      "maximum": 1599
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 261
+    },
+    "potential_range": {
+      "minimum": 1316,
+      "maximum": 1640
+    },
+    "evasion_range": {
+      "minimum": 173,
+      "maximum": 213
+    },
+    "notes": "Found at [19:00~5:00]: 107S,111",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

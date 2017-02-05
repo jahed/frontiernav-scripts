@@ -1,0 +1,40 @@
+{
+  "id": "klinklang",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 601,
+    "height": 6,
+    "weight": 810,
+    "base_experience": 234,
+    "name": "Klinklang",
+    "genus": "Gear"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギギギアル",
+      "genus": "はぐるま"
+    },
+    "ko": {
+      "name": "기기기어르",
+      "genus": "톱니바퀴"
+    },
+    "fr": {
+      "name": "Cliticlic",
+      "genus": "Engrenage"
+    },
+    "de": {
+      "name": "Klikdiklak",
+      "genus": "Getriebe"
+    },
+    "es": {
+      "name": "Klinklang",
+      "genus": "Engranaje"
+    },
+    "it": {
+      "name": "Klinklang",
+      "genus": "Ingranaggio"
+    }
+  }
+}

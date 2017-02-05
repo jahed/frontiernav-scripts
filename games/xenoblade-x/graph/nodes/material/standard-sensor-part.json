@@ -1,0 +1,9 @@
+{
+  "id": "standard-sensor-part",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Standard Sensor Part"
+  }
+}

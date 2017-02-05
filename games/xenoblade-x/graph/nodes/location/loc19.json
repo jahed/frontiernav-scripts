@@ -1,0 +1,15 @@
+{
+  "id": "loc19",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Barbarich Desert",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Deserto Barbarich"
+    }
+  }
+}

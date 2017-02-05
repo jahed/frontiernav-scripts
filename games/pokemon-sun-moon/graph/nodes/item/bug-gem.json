@@ -1,0 +1,32 @@
+{
+  "id": "bug-gem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Bug Gem",
+    "summary": "Held: When the holder uses a damaging []{type:bug}-type move, the move has 1.5× power and this item is consumed.",
+    "description": "Held\n:   When the holder uses a damaging []{type:bug}-type move, the move has 1.5× power and this item is consumed."
+  },
+  "locale": {
+    "ja": {
+      "name": "むしのジュエル"
+    },
+    "ko": {
+      "name": "벌레주얼"
+    },
+    "fr": {
+      "name": "Joyau Insecte"
+    },
+    "de": {
+      "name": "Käferjuwel"
+    },
+    "es": {
+      "name": "Gema Bicho"
+    },
+    "it": {
+      "name": "Bijoucoleottero"
+    }
+  }
+}

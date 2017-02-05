@@ -1,0 +1,15 @@
+{
+  "id": "exYxPQap",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Claire, the Sheltered",
+    "level": 60,
+    "notes": "\"Claire, the Sheltered\" can be found at the grassy area north west of Middle Hushflood in Noctilum and is the first half of the pair of Ovis that Pyotr, the Shepherd guards.",
+    "category": "Theroid",
+    "subcategory": "Ovis",
+    "image": "exYxPQap"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "old-sea-map",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Old Sea Map",
+    "summary": "Allows access to Faraway Island and Mew. Unreleased outside of Japan.",
+    "description": "Provides access to Faraway Island and []{pokemon:mew}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ふるびたかいず"
+    },
+    "fr": {
+      "name": "Vieillecarte"
+    },
+    "de": {
+      "name": "Alte Karte"
+    },
+    "es": {
+      "name": "Mapa Viejo"
+    },
+    "it": {
+      "name": "Mappa Stinta"
+    }
+  }
+}

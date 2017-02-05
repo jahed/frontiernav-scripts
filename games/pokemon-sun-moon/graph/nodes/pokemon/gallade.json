@@ -1,0 +1,44 @@
+{
+  "id": "gallade",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 475,
+    "height": 16,
+    "weight": 520,
+    "base_experience": 233,
+    "name": "Gallade",
+    "genus": "Blade"
+  },
+  "locale": {
+    "ja": {
+      "name": "エルレイド",
+      "genus": "やいば"
+    },
+    "ko": {
+      "name": "엘레이드",
+      "genus": "검"
+    },
+    "zh": {
+      "name": "艾路雷朵",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Gallame",
+      "genus": "Lame"
+    },
+    "de": {
+      "name": "Galagladi",
+      "genus": "Klinge"
+    },
+    "es": {
+      "name": "Gallade",
+      "genus": "Cuchilla"
+    },
+    "it": {
+      "name": "Gallade",
+      "genus": "Lama"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "marnuck-barrager",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Marnuck Barrager",
+    "subcategory": "Marnuck",
+    "category": "Humanoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 67,
+      "maximum": 110
+    },
+    "health_range": {
+      "minimum": 17294,
+      "maximum": 29459
+    },
+    "melee_power_range": {
+      "minimum": 262,
+      "maximum": 386
+    },
+    "melee_accuracy_range": {
+      "minimum": 155,
+      "maximum": 188
+    },
+    "ranged_power_range": {
+      "minimum": 228,
+      "maximum": 336
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 228,
+      "maximum": 336
+    },
+    "evasion_range": {
+      "minimum": 55,
+      "maximum": 85
+    },
+    "notes": "Found at 502(hi),isleWof501,isleSEof507",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

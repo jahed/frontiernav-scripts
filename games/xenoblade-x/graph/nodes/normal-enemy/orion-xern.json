@@ -1,0 +1,57 @@
+{
+  "id": "orion-xern",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Orion Xern",
+    "subcategory": "Xern",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 80
+    },
+    "experience_range": {
+      "minimum": 2452,
+      "maximum": 5147
+    },
+    "health_range": {
+      "minimum": 996225,
+      "maximum": 1542735
+    },
+    "melee_power_range": {
+      "minimum": 1974,
+      "maximum": 3534
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 350
+    },
+    "ranged_power_range": {
+      "minimum": 2566,
+      "maximum": 4594
+    },
+    "ranged_accuracy_range": {
+      "minimum": 298,
+      "maximum": 431
+    },
+    "potential_range": {
+      "minimum": 2566,
+      "maximum": 4594
+    },
+    "evasion_range": {
+      "minimum": 77,
+      "maximum": 137
+    },
+    "notes": "Found at [air]: 503S,505SW,509NE,512",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

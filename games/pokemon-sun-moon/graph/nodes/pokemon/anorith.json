@@ -1,0 +1,44 @@
+{
+  "id": "anorith",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 347,
+    "height": 7,
+    "weight": 125,
+    "base_experience": 71,
+    "name": "Anorith",
+    "genus": "Old Shrimp"
+  },
+  "locale": {
+    "ja": {
+      "name": "アノプス",
+      "genus": "むかしエビ"
+    },
+    "ko": {
+      "name": "아노딥스",
+      "genus": "고대새우"
+    },
+    "zh": {
+      "name": "太古羽蟲",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Anorith",
+      "genus": "Crustage"
+    },
+    "de": {
+      "name": "Anorith",
+      "genus": "Krebssenior"
+    },
+    "es": {
+      "name": "Anorith",
+      "genus": "Camarón"
+    },
+    "it": {
+      "name": "Anorith",
+      "genus": "Primaceo"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "stream-jacul",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Stream Jacul",
+    "subcategory": "Jacul",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 509,
+      "maximum": 857
+    },
+    "health_range": {
+      "minimum": 87136,
+      "maximum": 118453
+    },
+    "melee_power_range": {
+      "minimum": 961,
+      "maximum": 1459
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 290
+    },
+    "ranged_power_range": {
+      "minimum": 1011,
+      "maximum": 1533
+    },
+    "ranged_accuracy_range": {
+      "minimum": 244,
+      "maximum": 292
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1497
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 210
+    },
+    "notes": "Found at [5:00~19:00]: Isle(NW 404)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

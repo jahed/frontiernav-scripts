@@ -1,0 +1,14 @@
+{
+  "id": "suid-fillet",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Suid Fillet"
+  },
+  "locale": {
+    "de": {
+      "name": "Suidfilet"
+    }
+  }
+}

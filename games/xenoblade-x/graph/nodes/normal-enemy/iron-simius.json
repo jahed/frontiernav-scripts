@@ -1,0 +1,58 @@
+{
+  "id": "iron-simius",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Iron Simius",
+    "subcategory": "Simius",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 282,
+      "maximum": 400
+    },
+    "health_range": {
+      "minimum": 53796,
+      "maximum": 75308
+    },
+    "melee_power_range": {
+      "minimum": 603,
+      "maximum": 824
+    },
+    "melee_accuracy_range": {
+      "minimum": 173,
+      "maximum": 199
+    },
+    "ranged_power_range": {
+      "minimum": 537,
+      "maximum": 734
+    },
+    "ranged_accuracy_range": {
+      "minimum": 168,
+      "maximum": 195
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 88,
+      "maximum": 115
+    },
+    "notes": "Found at [5:00~19:00]: 110(lo) on a cliff above Sayram Lake BC",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

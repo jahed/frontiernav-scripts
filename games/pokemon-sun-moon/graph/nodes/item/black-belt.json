@@ -1,0 +1,32 @@
+{
+  "id": "black-belt",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Black Belt",
+    "summary": "Held: Fighting-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Fighting moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "くろおび"
+    },
+    "ko": {
+      "name": "검은띠"
+    },
+    "fr": {
+      "name": "Ceinture Noire"
+    },
+    "de": {
+      "name": "Schwarzgurt"
+    },
+    "es": {
+      "name": "Cinturón Negro"
+    },
+    "it": {
+      "name": "Cinturanera"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "loc359",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Sickle Rock Rise",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Colle Roccafalce"
+    }
+  }
+}

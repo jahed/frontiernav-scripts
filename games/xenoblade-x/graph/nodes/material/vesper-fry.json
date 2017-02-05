@@ -1,0 +1,14 @@
+{
+  "id": "vesper-fry",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Vesper Fry"
+  },
+  "locale": {
+    "de": {
+      "name": "Vesperbraten"
+    }
+  }
+}

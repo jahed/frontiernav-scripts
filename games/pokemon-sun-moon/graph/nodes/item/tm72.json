@@ -1,0 +1,32 @@
+{
+  "id": "tm72",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM72",
+    "summary": "Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)",
+    "description": "Teaches Avalanche to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン７２"
+    },
+    "ko": {
+      "name": "기술머신72"
+    },
+    "fr": {
+      "name": "CT72"
+    },
+    "de": {
+      "name": "TM72"
+    },
+    "es": {
+      "name": "MT72"
+    },
+    "it": {
+      "name": "MT72"
+    }
+  }
+}

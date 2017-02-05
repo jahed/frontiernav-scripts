@@ -1,0 +1,32 @@
+{
+  "id": "mystery-egg",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Mystery Egg",
+    "summary": "Deliver to Professor Elm.",
+    "description": "Must be obtained to trigger the break-in at Professor Elm's lab, the first rival battle, and access to []{location:johto-route-31}."
+  },
+  "locale": {
+    "ja": {
+      "name": "ふしぎなタマゴ"
+    },
+    "ko": {
+      "name": "이상한알"
+    },
+    "fr": {
+      "name": "Œuf Mystère"
+    },
+    "de": {
+      "name": "Rätsel-Ei"
+    },
+    "es": {
+      "name": "Huevo Misterioso"
+    },
+    "it": {
+      "name": "Uovo Mistero"
+    }
+  }
+}

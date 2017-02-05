@@ -1,0 +1,32 @@
+{
+  "id": "park-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Park Ball",
+    "summary": "Catches Pokémon in the Pal Park every time.",
+    "description": "Used by a trainer in battle\n:   Catches a wild Pokémon.\n\nThis item can only be used in []{location:pal-park}."
+  },
+  "locale": {
+    "ja": {
+      "name": "パークボール"
+    },
+    "ko": {
+      "name": "파크볼"
+    },
+    "fr": {
+      "name": "Parc Ball"
+    },
+    "de": {
+      "name": "Parkball"
+    },
+    "es": {
+      "name": "Parque Ball"
+    },
+    "it": {
+      "name": "Parco Ball"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "loc251",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "La Mancha",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

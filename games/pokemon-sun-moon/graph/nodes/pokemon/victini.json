@@ -1,0 +1,40 @@
+{
+  "id": "victini",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 494,
+    "height": 4,
+    "weight": 40,
+    "base_experience": 270,
+    "name": "Victini",
+    "genus": "Victory"
+  },
+  "locale": {
+    "ja": {
+      "name": "ビクティニ",
+      "genus": "しょうり"
+    },
+    "ko": {
+      "name": "비크티니",
+      "genus": "승리"
+    },
+    "fr": {
+      "name": "Victini",
+      "genus": "Victoire"
+    },
+    "de": {
+      "name": "Victini",
+      "genus": "Triumph"
+    },
+    "es": {
+      "name": "Victini",
+      "genus": "Victoria"
+    },
+    "it": {
+      "name": "Victini",
+      "genus": "Vittoria"
+    }
+  }
+}

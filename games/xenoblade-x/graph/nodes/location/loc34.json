@@ -1,0 +1,10 @@
+{
+  "id": "loc34",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Big Arch",
+    "locationTypeId": "Area"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dugtrio",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 51,
+    "height": 7,
+    "weight": 333,
+    "base_experience": 142,
+    "name": "Dugtrio",
+    "genus": "Mole"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダグトリオ",
+      "genus": "もぐら"
+    },
+    "ko": {
+      "name": "닥트리오",
+      "genus": "두더지"
+    },
+    "zh": {
+      "name": "三地鼠",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Triopikeur",
+      "genus": "Taupe"
+    },
+    "de": {
+      "name": "Digdri",
+      "genus": "Maulwurf"
+    },
+    "es": {
+      "name": "Dugtrio",
+      "genus": "Topo"
+    },
+    "it": {
+      "name": "Dugtrio",
+      "genus": "Talpa"
+    }
+  }
+}

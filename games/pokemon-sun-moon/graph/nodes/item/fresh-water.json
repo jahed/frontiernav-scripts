@@ -1,0 +1,32 @@
+{
+  "id": "fresh-water",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Fresh Water",
+    "summary": "Restores 50 HP.",
+    "description": "Used on a party Pokémon\n:   Restores 50 HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "おいしいみず"
+    },
+    "ko": {
+      "name": "맛있는물"
+    },
+    "fr": {
+      "name": "Eau Fraîche"
+    },
+    "de": {
+      "name": "Tafelwasser"
+    },
+    "es": {
+      "name": "Agua Fresca"
+    },
+    "it": {
+      "name": "Acqua Fresca"
+    }
+  }
+}

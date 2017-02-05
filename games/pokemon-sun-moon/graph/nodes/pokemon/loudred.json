@@ -1,0 +1,44 @@
+{
+  "id": "loudred",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 294,
+    "height": 10,
+    "weight": 405,
+    "base_experience": 126,
+    "name": "Loudred",
+    "genus": "Big Voice"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドゴーム",
+      "genus": "おおごえ"
+    },
+    "ko": {
+      "name": "노공룡",
+      "genus": "큰목소리"
+    },
+    "zh": {
+      "name": "吼爆彈",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ramboum",
+      "genus": "Grosse Voix"
+    },
+    "de": {
+      "name": "Krakeelo",
+      "genus": "Lauthals"
+    },
+    "es": {
+      "name": "Loudred",
+      "genus": "Chillón"
+    },
+    "it": {
+      "name": "Loudred",
+      "genus": "Vocione"
+    }
+  }
+}

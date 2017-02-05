@@ -1,0 +1,44 @@
+{
+  "id": "mamoswine",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 473,
+    "height": 25,
+    "weight": 2910,
+    "base_experience": 239,
+    "name": "Mamoswine",
+    "genus": "Twin Tusk"
+  },
+  "locale": {
+    "ja": {
+      "name": "マンムー",
+      "genus": "２ほんキバ"
+    },
+    "ko": {
+      "name": "맘모꾸리",
+      "genus": "2개송곳니"
+    },
+    "zh": {
+      "name": "象牙豬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mammochon",
+      "genus": "Deudéfenses"
+    },
+    "de": {
+      "name": "Mamutel",
+      "genus": "Doppelstoßzahn"
+    },
+    "es": {
+      "name": "Mamoswine",
+      "genus": "Doscolmillos"
+    },
+    "it": {
+      "name": "Mamoswine",
+      "genus": "Duezanne"
+    }
+  }
+}

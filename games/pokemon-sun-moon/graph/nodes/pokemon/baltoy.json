@@ -1,0 +1,44 @@
+{
+  "id": "baltoy",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 343,
+    "height": 5,
+    "weight": 215,
+    "base_experience": 60,
+    "name": "Baltoy",
+    "genus": "Clay Doll"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤジロン",
+      "genus": "どぐう"
+    },
+    "ko": {
+      "name": "오뚝군",
+      "genus": "토우"
+    },
+    "zh": {
+      "name": "天秤偶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Balbuto",
+      "genus": "Poupargile"
+    },
+    "de": {
+      "name": "Puppance",
+      "genus": "Lehmpuppe"
+    },
+    "es": {
+      "name": "Baltoy",
+      "genus": "Muñeca Barro"
+    },
+    "it": {
+      "name": "Baltoy",
+      "genus": "Argilla"
+    }
+  }
+}

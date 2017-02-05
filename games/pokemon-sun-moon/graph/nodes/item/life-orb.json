@@ -1,0 +1,32 @@
+{
+  "id": "life-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Life Orb",
+    "summary": "Held: Holder's moves inflict 30% extra damage, but cost 10% max HP.",
+    "description": "Held: Damage from the holder's moves is increased by 30%.  On each turn the holder uses a damage-inflicting move, it takes 10% its max HP in damage."
+  },
+  "locale": {
+    "ja": {
+      "name": "いのちのたま"
+    },
+    "ko": {
+      "name": "생명의구슬"
+    },
+    "fr": {
+      "name": "Orbe Vie"
+    },
+    "de": {
+      "name": "Leben-Orb"
+    },
+    "es": {
+      "name": "Vidasfera"
+    },
+    "it": {
+      "name": "Assorbisfera"
+    }
+  }
+}

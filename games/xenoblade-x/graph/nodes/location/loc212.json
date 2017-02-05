@@ -1,0 +1,11 @@
+{
+  "id": "loc212",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Ganglion Antropolis",
+    "locationTypeId": "Unexplored"
+  }
+}

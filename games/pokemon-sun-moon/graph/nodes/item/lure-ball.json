@@ -1,0 +1,32 @@
+{
+  "id": "lure-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 300,
+    "name": "Lure Ball",
+    "summary": "3× effectiveness while fishing. Made from Blu Apricorn.",
+    "description": "Used by trainer in battle\n:   Attempts to catch a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.\n\n    If the wild Pokémon was encountered by fishing, the wild Pokémon's catch rate is 3× normal."
+  },
+  "locale": {
+    "ja": {
+      "name": "ルアーボール"
+    },
+    "ko": {
+      "name": "루어볼"
+    },
+    "fr": {
+      "name": "Appât Ball"
+    },
+    "de": {
+      "name": "Köderball"
+    },
+    "es": {
+      "name": "Cebo Ball"
+    },
+    "it": {
+      "name": "Esca Ball"
+    }
+  }
+}

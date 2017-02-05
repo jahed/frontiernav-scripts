@@ -1,0 +1,58 @@
+{
+  "id": "wind-auravis",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Wind Auravis",
+    "subcategory": "Auravis",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 141,
+      "maximum": 232
+    },
+    "health_range": {
+      "minimum": 25437,
+      "maximum": 43330
+    },
+    "melee_power_range": {
+      "minimum": 350,
+      "maximum": 516
+    },
+    "melee_accuracy_range": {
+      "minimum": 148,
+      "maximum": 179
+    },
+    "ranged_power_range": {
+      "minimum": 333,
+      "maximum": 491
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 57,
+      "maximum": 89
+    },
+    "notes": "Found at [5:00~19:00]: 211,222(air)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

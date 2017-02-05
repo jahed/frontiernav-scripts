@@ -1,0 +1,11 @@
+{
+  "id": "loc1",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Abandoned Bivouac",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

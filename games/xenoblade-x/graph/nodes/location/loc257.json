@@ -1,0 +1,11 @@
+{
+  "id": "loc257",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Lesser Gemini Bridge",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

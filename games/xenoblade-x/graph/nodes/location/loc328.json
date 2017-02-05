@@ -1,0 +1,11 @@
+{
+  "id": "loc328",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Rock Cavern",
+    "cave": true,
+    "locationTypeId": "Unexplored"
+  }
+}

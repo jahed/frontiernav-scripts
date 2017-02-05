@@ -1,0 +1,58 @@
+{
+  "id": "crater-saltat",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Crater Saltat",
+    "subcategory": "Saltat",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 301,
+      "maximum": 416
+    },
+    "health_range": {
+      "minimum": 80776,
+      "maximum": 97740
+    },
+    "melee_power_range": {
+      "minimum": 597,
+      "maximum": 774
+    },
+    "melee_accuracy_range": {
+      "minimum": 228,
+      "maximum": 264
+    },
+    "ranged_power_range": {
+      "minimum": 597,
+      "maximum": 774
+    },
+    "ranged_accuracy_range": {
+      "minimum": 223,
+      "maximum": 258
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 129,
+      "maximum": 165
+    },
+    "notes": "Found at [Clear]: randomly replaces Gypsy Saltats",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

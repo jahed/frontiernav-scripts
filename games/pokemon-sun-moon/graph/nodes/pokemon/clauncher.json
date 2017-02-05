@@ -1,0 +1,40 @@
+{
+  "id": "clauncher",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 692,
+    "height": 5,
+    "weight": 83,
+    "base_experience": 66,
+    "name": "Clauncher",
+    "genus": "Water Gun"
+  },
+  "locale": {
+    "ja": {
+      "name": "ウデッポウ",
+      "genus": "みずでっぽう"
+    },
+    "ko": {
+      "name": "완철포",
+      "genus": "물대포"
+    },
+    "fr": {
+      "name": "Flingouste",
+      "genus": "Lance à Eau"
+    },
+    "de": {
+      "name": "Scampisto",
+      "genus": "Aquapistole"
+    },
+    "es": {
+      "name": "Clauncher",
+      "genus": "Proyectagua"
+    },
+    "it": {
+      "name": "Clauncher",
+      "genus": "Zampillo"
+    }
+  }
+}

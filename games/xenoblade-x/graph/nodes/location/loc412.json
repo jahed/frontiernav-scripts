@@ -1,0 +1,11 @@
+{
+  "id": "loc412",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Whale's Gullet",
+    "locationTypeId": "Area"
+  }
+}

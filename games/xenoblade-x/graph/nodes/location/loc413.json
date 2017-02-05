@@ -1,0 +1,16 @@
+{
+  "id": "loc413",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Whale's Nostril",
+    "cave": true,
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Soffio di Balena"
+    }
+  }
+}

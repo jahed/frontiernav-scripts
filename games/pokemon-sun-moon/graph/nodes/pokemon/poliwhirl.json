@@ -1,0 +1,44 @@
+{
+  "id": "poliwhirl",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 61,
+    "height": 10,
+    "weight": 200,
+    "base_experience": 135,
+    "name": "Poliwhirl",
+    "genus": "Tadpole"
+  },
+  "locale": {
+    "ja": {
+      "name": "ニョロゾ",
+      "genus": "おたま"
+    },
+    "ko": {
+      "name": "슈륙챙이",
+      "genus": "올챙이"
+    },
+    "zh": {
+      "name": "蚊香蛙",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Têtarte",
+      "genus": "Têtard"
+    },
+    "de": {
+      "name": "Quaputzi",
+      "genus": "Kaulquappe"
+    },
+    "es": {
+      "name": "Poliwhirl",
+      "genus": "Renacuajo"
+    },
+    "it": {
+      "name": "Poliwhirl",
+      "genus": "Girino"
+    }
+  }
+}

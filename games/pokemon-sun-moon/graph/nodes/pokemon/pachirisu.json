@@ -1,0 +1,44 @@
+{
+  "id": "pachirisu",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 417,
+    "height": 4,
+    "weight": 39,
+    "base_experience": 142,
+    "name": "Pachirisu",
+    "genus": "EleSquirrel"
+  },
+  "locale": {
+    "ja": {
+      "name": "パチリス",
+      "genus": "でんきりす"
+    },
+    "ko": {
+      "name": "파치리스",
+      "genus": "전기다람쥐"
+    },
+    "zh": {
+      "name": "帕奇利茲",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Pachirisu",
+      "genus": "Écurélec"
+    },
+    "de": {
+      "name": "Pachirisu",
+      "genus": "Elektrohörnchen"
+    },
+    "es": {
+      "name": "Pachirisu",
+      "genus": "Ardillalec"
+    },
+    "it": {
+      "name": "Pachirisu",
+      "genus": "Elescoiatto"
+    }
+  }
+}

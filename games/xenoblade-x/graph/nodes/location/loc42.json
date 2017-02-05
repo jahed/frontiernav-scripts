@@ -1,0 +1,16 @@
+{
+  "id": "loc42",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Castaway Cavern",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Caverna isolata"
+    }
+  }
+}

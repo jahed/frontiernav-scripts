@@ -1,0 +1,44 @@
+{
+  "id": "wigglytuff",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 40,
+    "height": 10,
+    "weight": 120,
+    "base_experience": 196,
+    "name": "Wigglytuff",
+    "genus": "Balloon"
+  },
+  "locale": {
+    "ja": {
+      "name": "プクリン",
+      "genus": "ふうせん"
+    },
+    "ko": {
+      "name": "푸크린",
+      "genus": "풍선"
+    },
+    "zh": {
+      "name": "胖可丁",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Grodoudou",
+      "genus": "Bouboule"
+    },
+    "de": {
+      "name": "Knuddeluff",
+      "genus": "Ballon"
+    },
+    "es": {
+      "name": "Wigglytuff",
+      "genus": "Globo"
+    },
+    "it": {
+      "name": "Wigglytuff",
+      "genus": "Pallone"
+    }
+  }
+}

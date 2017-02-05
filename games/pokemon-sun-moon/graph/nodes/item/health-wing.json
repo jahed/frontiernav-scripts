@@ -1,0 +1,32 @@
+{
+  "id": "health-wing",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Health Wing",
+    "summary": "Increases HP effort by 1.",
+    "description": "Used on a party Pokémon\n:   Increases the target's HP effort by 1."
+  },
+  "locale": {
+    "ja": {
+      "name": "たいりょくのハネ"
+    },
+    "ko": {
+      "name": "체력날개"
+    },
+    "fr": {
+      "name": "Aile Santé"
+    },
+    "de": {
+      "name": "Heilfeder"
+    },
+    "es": {
+      "name": "Pluma Vigor"
+    },
+    "it": {
+      "name": "Piumsalute"
+    }
+  }
+}

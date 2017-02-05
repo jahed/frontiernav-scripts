@@ -1,0 +1,16 @@
+{
+  "id": "e4HLoSBA",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Barnabas, the Despot",
+    "level": 65,
+    "notes": "\"Barnabas, the Despot\" freely runs around Oblivias Aaroy Plain during the day covering a large area between FN Sites 304, 306 and 309. Starts from Cliffside Camp, the high level ganglion outpost.",
+    "category": "Theroid",
+    "subcategory": "Vigent",
+    "time": "5:00 - 19:00",
+    "image": "e4HLoSBA"
+  }
+}

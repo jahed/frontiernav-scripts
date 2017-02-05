@@ -1,0 +1,32 @@
+{
+  "id": "enigma-stone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Enigma Stone",
+    "summary": "S: Summons Latias H: Summons Latios.",
+    "description": "When taken to the []{location:pewter-city} museum, causes []{pokemon:latias} or []{pokemon:latios} to attack the trainer.\n\nThe Pokémon to appear will be whicher can't be encountered roaming in the wild."
+  },
+  "locale": {
+    "ja": {
+      "name": "なぞのすいしょう"
+    },
+    "ko": {
+      "name": "수수께끼의수정"
+    },
+    "fr": {
+      "name": "Mystécristal"
+    },
+    "de": {
+      "name": "Mytokristall"
+    },
+    "es": {
+      "name": "Misticristal"
+    },
+    "it": {
+      "name": "Misticristal"
+    }
+  }
+}

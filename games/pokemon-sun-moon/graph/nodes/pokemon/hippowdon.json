@@ -1,0 +1,44 @@
+{
+  "id": "hippowdon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 450,
+    "height": 20,
+    "weight": 3000,
+    "base_experience": 184,
+    "name": "Hippowdon",
+    "genus": "Heavyweight"
+  },
+  "locale": {
+    "ja": {
+      "name": "カバルドン",
+      "genus": "じゅうりょう"
+    },
+    "ko": {
+      "name": "하마돈",
+      "genus": "중량"
+    },
+    "zh": {
+      "name": "河馬獸",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Hippodocus",
+      "genus": "Poids Lourd"
+    },
+    "de": {
+      "name": "Hippoterus",
+      "genus": "Schwergewicht"
+    },
+    "es": {
+      "name": "Hippowdon",
+      "genus": "Peso Pesado"
+    },
+    "it": {
+      "name": "Hippowdon",
+      "genus": "Grandepeso"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "prop-case",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Prop Case",
+    "summary": "Stores props for the Pokémon Musical.",
+    "description": "Stores props for the Pokémon Musical."
+  },
+  "locale": {
+    "ja": {
+      "name": "グッズケース"
+    },
+    "ko": {
+      "name": "굿즈케이스"
+    },
+    "fr": {
+      "name": "Boîte Parure"
+    },
+    "de": {
+      "name": "Deko-Box"
+    },
+    "es": {
+      "name": "Neceser"
+    },
+    "it": {
+      "name": "Portagadget"
+    }
+  }
+}

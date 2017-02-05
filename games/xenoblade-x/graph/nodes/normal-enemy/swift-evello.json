@@ -1,0 +1,57 @@
+{
+  "id": "swift-evello",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Swift Evello",
+    "subcategory": "Evello",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 163,
+      "maximum": 231
+    },
+    "health_range": {
+      "minimum": 37885,
+      "maximum": 53034
+    },
+    "melee_power_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 365,
+      "maximum": 499
+    },
+    "ranged_accuracy_range": {
+      "minimum": 168,
+      "maximum": 195
+    },
+    "potential_range": {
+      "minimum": 404,
+      "maximum": 552
+    },
+    "evasion_range": {
+      "minimum": 88,
+      "maximum": 115
+    },
+    "notes": "Found at [5:00~19:00]: 110",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

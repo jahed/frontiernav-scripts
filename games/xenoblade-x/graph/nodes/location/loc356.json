@@ -1,0 +1,19 @@
+{
+  "id": "loc356",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Shadow Rise",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Halbdunkelsteige"
+    },
+    "it": {
+      "name": "Cima Ombraoscura"
+    }
+  }
+}

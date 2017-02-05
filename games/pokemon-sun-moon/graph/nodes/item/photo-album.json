@@ -1,0 +1,32 @@
+{
+  "id": "photo-album",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Photo Album",
+    "summary": "Stores photos from your adventure.",
+    "description": "Does nothing."
+  },
+  "locale": {
+    "ja": {
+      "name": "フォトアルバム"
+    },
+    "ko": {
+      "name": "포토앨범"
+    },
+    "fr": {
+      "name": "Album Photo"
+    },
+    "de": {
+      "name": "Fotoalbum"
+    },
+    "es": {
+      "name": "Álbum"
+    },
+    "it": {
+      "name": "Album"
+    }
+  }
+}

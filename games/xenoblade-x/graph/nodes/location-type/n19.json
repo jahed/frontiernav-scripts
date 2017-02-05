@@ -1,0 +1,14 @@
+{
+  "id": "n19",
+  "labels": [
+    "LocationType"
+  ],
+  "data": {
+    "name": "Island"
+  },
+  "locale": {
+    "de": {
+      "name": "Insel"
+    }
+  }
+}

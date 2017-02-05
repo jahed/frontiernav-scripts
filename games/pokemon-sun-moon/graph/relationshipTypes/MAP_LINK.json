@@ -1,0 +1,8 @@
+{
+  "id": "MAP_LINK",
+  "startLabels": [
+    "MapMarker",
+    "MapArea"
+  ],
+  "endLabels": null
+}

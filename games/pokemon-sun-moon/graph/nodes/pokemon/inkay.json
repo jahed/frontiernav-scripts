@@ -1,0 +1,40 @@
+{
+  "id": "inkay",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 686,
+    "height": 4,
+    "weight": 35,
+    "base_experience": 58,
+    "name": "Inkay",
+    "genus": "Revolving"
+  },
+  "locale": {
+    "ja": {
+      "name": "マーイーカ",
+      "genus": "かいてん"
+    },
+    "ko": {
+      "name": "오케이징",
+      "genus": "회전"
+    },
+    "fr": {
+      "name": "Sepiatop",
+      "genus": "Rotation"
+    },
+    "de": {
+      "name": "Iscalar",
+      "genus": "Rotation"
+    },
+    "es": {
+      "name": "Inkay",
+      "genus": "Rotación"
+    },
+    "it": {
+      "name": "Inkay",
+      "genus": "Volteggio"
+    }
+  }
+}

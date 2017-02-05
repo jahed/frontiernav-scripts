@@ -1,0 +1,11 @@
+{
+  "id": "loc389",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Tallpack Peak",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

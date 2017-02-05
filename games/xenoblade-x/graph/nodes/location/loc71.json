@@ -1,0 +1,11 @@
+{
+  "id": "loc71",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Devil's Colony",
+    "locationTypeId": "Area"
+  }
+}

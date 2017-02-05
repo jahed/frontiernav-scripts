@@ -1,0 +1,40 @@
+{
+  "id": "landorus-incarnate",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 645,
+    "height": 15,
+    "weight": 680,
+    "base_experience": 270,
+    "name": "Landorus",
+    "genus": "Abundance"
+  },
+  "locale": {
+    "ja": {
+      "name": "ランドロス",
+      "genus": "ほうじょう"
+    },
+    "ko": {
+      "name": "랜드로스",
+      "genus": "풍요"
+    },
+    "fr": {
+      "name": "Démétéros",
+      "genus": "Fertilité"
+    },
+    "de": {
+      "name": "Demeteros",
+      "genus": "Reichtum"
+    },
+    "es": {
+      "name": "Landorus",
+      "genus": "Fertilidad"
+    },
+    "it": {
+      "name": "Landorus",
+      "genus": "Fertilità"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "loc12",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Azure Lagoon",
+    "locationTypeId": "Scenic"
+  }
+}

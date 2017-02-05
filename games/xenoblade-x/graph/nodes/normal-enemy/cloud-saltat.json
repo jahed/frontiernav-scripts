@@ -1,0 +1,58 @@
+{
+  "id": "cloud-saltat",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Cloud Saltat",
+    "subcategory": "Saltat",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 412,
+      "maximum": 530
+    },
+    "health_range": {
+      "minimum": 83018,
+      "maximum": 97151
+    },
+    "melee_power_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "melee_accuracy_range": {
+      "minimum": 250,
+      "maximum": 287
+    },
+    "ranged_power_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "ranged_accuracy_range": {
+      "minimum": 244,
+      "maximum": 281
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "evasion_range": {
+      "minimum": 157,
+      "maximum": 194
+    },
+    "notes": "Found at [Rainbow]: M'gandoE(hi)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "probe11",
+  "labels": [
+    "FNSiteProbe"
+  ],
+  "data": {
+    "name": "Mining Probe G10",
+    "type": 1,
+    "attributes": {
+      "production_multiplier": 3,
+      "revenue_multiplier": 0.3
+    }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda da estrazione G10"
+    }
+  }
+}

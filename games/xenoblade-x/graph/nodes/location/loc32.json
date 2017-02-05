@@ -1,0 +1,11 @@
+{
+  "id": "loc32",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Biahno Water-Purification Plant",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

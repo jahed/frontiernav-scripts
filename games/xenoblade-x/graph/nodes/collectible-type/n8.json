@@ -1,0 +1,17 @@
+{
+  "id": "n8",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Relics"
+  },
+  "locale": {
+    "de": {
+      "name": "Relikte"
+    },
+    "it": {
+      "name": "Reliquie"
+    }
+  }
+}

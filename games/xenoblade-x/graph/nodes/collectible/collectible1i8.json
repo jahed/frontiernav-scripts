@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i8",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Lacey Potato",
+    "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Spitzkartoffel"
+    },
+    "it": {
+      "name": "Patata legata"
+    }
+  }
+}

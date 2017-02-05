@@ -1,0 +1,10 @@
+{
+  "id": "loc9",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Arc Rock",
+    "locationTypeId": "Scenic"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "prone-eagle",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Prone Eagle",
+    "subcategory": "Prone",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 170,
+      "maximum": 235
+    },
+    "health_range": {
+      "minimum": 54928,
+      "maximum": 66463
+    },
+    "melee_power_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "melee_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 469,
+      "maximum": 608
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 223
+    },
+    "potential_range": {
+      "minimum": 494,
+      "maximum": 640
+    },
+    "evasion_range": {
+      "minimum": 106,
+      "maximum": 135
+    },
+    "notes": "Found at 222NE",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "treasure289-17",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Alien Container",
+    "requirements": {
+      "field_skill": "Mechanical"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ability-urge",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Ability Urge",
+    "summary": "Forcibly activates a friendly Pokémon's ability.",
+    "description": "Used on a party Pokémon in battle\n:   Selects another friendly Pokémon at random.  If that Pokémon's ability is normally activated by some condition—i.e., is not continuous and passive—its effect is forcibly activated.\n\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "スキルコール"
+    },
+    "ko": {
+      "name": "스킬콜"
+    },
+    "fr": {
+      "name": "Appel Talent"
+    },
+    "de": {
+      "name": "Fäh.-Appell"
+    },
+    "es": {
+      "name": "Habilitador"
+    },
+    "it": {
+      "name": "Chiamabilità"
+    }
+  }
+}

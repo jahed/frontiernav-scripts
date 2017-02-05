@@ -1,0 +1,16 @@
+{
+  "id": "e3dCVGOT",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Atreides, the Distinguished",
+    "level": 74,
+    "notes": "\"Atreides, the Distinguished\" can be seen leaping high into the sky during the day in the northern half of Sylvalum. During the night it waits with its mouth open like a giant and highly suspicious spiked dinner plate in the sand for unsuspecting prey to move to the middle. Will call for his mate Gesserith when at low health which brings a second giant worm into the battle.",
+    "category": "Insectoid",
+    "subcategory": "Sabula",
+    "time": "0:00 - 0:00 (active during day, sleeping/hunting during night)",
+    "image": "e3dCVGOT"
+  }
+}

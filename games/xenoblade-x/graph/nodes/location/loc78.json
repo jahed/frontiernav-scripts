@@ -1,0 +1,11 @@
+{
+  "id": "loc78",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Drop Shaft",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

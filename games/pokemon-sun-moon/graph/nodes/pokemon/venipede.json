@@ -1,0 +1,40 @@
+{
+  "id": "venipede",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 543,
+    "height": 4,
+    "weight": 53,
+    "base_experience": 52,
+    "name": "Venipede",
+    "genus": "Centipede"
+  },
+  "locale": {
+    "ja": {
+      "name": "フシデ",
+      "genus": "ムカデ"
+    },
+    "ko": {
+      "name": "마디네",
+      "genus": "지네"
+    },
+    "fr": {
+      "name": "Venipatte",
+      "genus": "Chilopode"
+    },
+    "de": {
+      "name": "Toxiped",
+      "genus": "Tausendfüßer"
+    },
+    "es": {
+      "name": "Venipede",
+      "genus": "Ciempiés"
+    },
+    "it": {
+      "name": "Venipede",
+      "genus": "Centipede"
+    }
+  }
+}

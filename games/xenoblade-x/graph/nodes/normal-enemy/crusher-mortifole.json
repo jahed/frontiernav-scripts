@@ -1,0 +1,58 @@
+{
+  "id": "crusher-mortifole",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Crusher Mortifole",
+    "subcategory": "Mortifole",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 192,
+      "maximum": 272
+    },
+    "health_range": {
+      "minimum": 31857,
+      "maximum": 44597
+    },
+    "melee_power_range": {
+      "minimum": 365,
+      "maximum": 499
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 432,
+      "maximum": 591
+    },
+    "ranged_accuracy_range": {
+      "minimum": 190,
+      "maximum": 220
+    },
+    "potential_range": {
+      "minimum": 385,
+      "maximum": 525
+    },
+    "evasion_range": {
+      "minimum": 77,
+      "maximum": 100
+    },
+    "notes": "Found at 205,208,221SW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

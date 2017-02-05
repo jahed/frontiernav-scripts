@@ -1,0 +1,32 @@
+{
+  "id": "moomoo-milk",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 500,
+    "name": "Moomoo Milk",
+    "summary": "Restores 100 HP.",
+    "description": "Used on a party Pokémon\n:   Restores 100 HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "モーモーミルク"
+    },
+    "ko": {
+      "name": "튼튼밀크"
+    },
+    "fr": {
+      "name": "Lait Meumeu"
+    },
+    "de": {
+      "name": "Kuhmuh-Milch"
+    },
+    "es": {
+      "name": "Leche Mu-mu"
+    },
+    "it": {
+      "name": "Latte Mumu"
+    }
+  }
+}

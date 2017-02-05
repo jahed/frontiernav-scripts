@@ -1,0 +1,32 @@
+{
+  "id": "berry-pots",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Berry Pots",
+    "summary": "Allows portable berry growing.",
+    "description": "Contains four portable pots of soil suitable for growing berries."
+  },
+  "locale": {
+    "ja": {
+      "name": "きのみプランター"
+    },
+    "ko": {
+      "name": "나무열매플랜터"
+    },
+    "fr": {
+      "name": "Plante-Baies"
+    },
+    "de": {
+      "name": "Pflanzset"
+    },
+    "es": {
+      "name": "Plantabayas"
+    },
+    "it": {
+      "name": "Piantabacche"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "n7",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Wreckage"
+  },
+  "locale": {
+    "de": {
+      "name": "Trümmer"
+    },
+    "it": {
+      "name": "Rottami"
+    }
+  }
+}

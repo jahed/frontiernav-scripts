@@ -1,0 +1,44 @@
+{
+  "id": "seedot",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 273,
+    "height": 5,
+    "weight": 40,
+    "base_experience": 44,
+    "name": "Seedot",
+    "genus": "Acorn"
+  },
+  "locale": {
+    "ja": {
+      "name": "タネボー",
+      "genus": "どんぐり"
+    },
+    "ko": {
+      "name": "도토링",
+      "genus": "도토리"
+    },
+    "zh": {
+      "name": "橡實果",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Grainipiot",
+      "genus": "Gland"
+    },
+    "de": {
+      "name": "Samurzel",
+      "genus": "Eichelnuss"
+    },
+    "es": {
+      "name": "Seedot",
+      "genus": "Bellota"
+    },
+    "it": {
+      "name": "Seedot",
+      "genus": "Ghianda"
+    }
+  }
+}

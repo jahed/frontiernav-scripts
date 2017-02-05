@@ -1,0 +1,15 @@
+{
+  "id": "n782",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Sports Complex",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Centro sportivo"
+    }
+  }
+}

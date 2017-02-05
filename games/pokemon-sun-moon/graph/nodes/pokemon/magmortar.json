@@ -1,0 +1,44 @@
+{
+  "id": "magmortar",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 467,
+    "height": 16,
+    "weight": 680,
+    "base_experience": 243,
+    "name": "Magmortar",
+    "genus": "Blast"
+  },
+  "locale": {
+    "ja": {
+      "name": "ブーバーン",
+      "genus": "ばくえん"
+    },
+    "ko": {
+      "name": "마그마번",
+      "genus": "폭염"
+    },
+    "zh": {
+      "name": "鴨嘴焰龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Maganon",
+      "genus": "Explosion"
+    },
+    "de": {
+      "name": "Magbrant",
+      "genus": "Detonation"
+    },
+    "es": {
+      "name": "Magmortar",
+      "genus": "Explosión"
+    },
+    "it": {
+      "name": "Magmortar",
+      "genus": "Esplosivo"
+    }
+  }
+}

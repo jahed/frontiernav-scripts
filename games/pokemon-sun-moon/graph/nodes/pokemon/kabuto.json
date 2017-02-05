@@ -1,0 +1,44 @@
+{
+  "id": "kabuto",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 140,
+    "height": 5,
+    "weight": 115,
+    "base_experience": 71,
+    "name": "Kabuto",
+    "genus": "Shellfish"
+  },
+  "locale": {
+    "ja": {
+      "name": "カブト",
+      "genus": "こうら"
+    },
+    "ko": {
+      "name": "투구",
+      "genus": "껍질"
+    },
+    "zh": {
+      "name": "化石盔",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Kabuto",
+      "genus": "Carapace"
+    },
+    "de": {
+      "name": "Kabuto",
+      "genus": "Schaltier"
+    },
+    "es": {
+      "name": "Kabuto",
+      "genus": "Marisco"
+    },
+    "it": {
+      "name": "Kabuto",
+      "genus": "Crostaceo"
+    }
+  }
+}

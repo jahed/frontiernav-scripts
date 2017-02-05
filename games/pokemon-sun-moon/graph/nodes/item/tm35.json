@@ -1,0 +1,32 @@
+{
+  "id": "tm35",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM35",
+    "summary": "Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)",
+    "description": "Teaches Flamethrower to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン３５"
+    },
+    "ko": {
+      "name": "기술머신35"
+    },
+    "fr": {
+      "name": "CT35"
+    },
+    "de": {
+      "name": "TM35"
+    },
+    "es": {
+      "name": "MT35"
+    },
+    "it": {
+      "name": "MT35"
+    }
+  }
+}

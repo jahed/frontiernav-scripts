@@ -1,0 +1,16 @@
+{
+  "id": "eKVtq2RV",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Lyla's Galdr",
+    "level": 55,
+    "notes": "\"Lyla's Galdr\" is a rare spawn that can sometimes take the place of a Green Lance Galdr that lands at the large rock shelf controlled by Ganglion forces near Hardheart Canyon to the north east of Lake Ciel in Sylvalum. Both the tyrant and non-tyrant Galdr only appear for the short period between 5am and 7am and have the same pattern. Stay near the middle of the three lights on the shelf and look south to see the Galdr fly in. If it's the Green Lance Galdr fly to the north until it fades out and return to the light to have the game reload the Galdr for another chance to spawn Lyla's Galdr. Use the nearby base camp to change time.",
+    "category": "Mechanoid",
+    "subcategory": "Galdr",
+    "time": "5:00 - 7:00",
+    "image": "eKVtq2RV"
+  }
+}

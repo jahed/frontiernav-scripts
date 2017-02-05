@@ -1,0 +1,14 @@
+{
+  "id": "vesper-hair-clip",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Vesper Hair Clip"
+  },
+  "locale": {
+    "de": {
+      "name": "Vesper-Haarspange"
+    }
+  }
+}

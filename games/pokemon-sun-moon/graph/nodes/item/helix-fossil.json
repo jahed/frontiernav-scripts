@@ -1,0 +1,32 @@
+{
+  "id": "helix-fossil",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Helix Fossil",
+    "summary": "Can be revived into an Omanyte.",
+    "description": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:omanyte}."
+  },
+  "locale": {
+    "ja": {
+      "name": "かいのカセキ"
+    },
+    "ko": {
+      "name": "조개화석"
+    },
+    "fr": {
+      "name": "Nautile"
+    },
+    "de": {
+      "name": "Helixfossil"
+    },
+    "es": {
+      "name": "Fósil Hélix"
+    },
+    "it": {
+      "name": "Helixfossile"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "escape-rope",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 550,
+    "name": "Escape Rope",
+    "summary": "Transports user to the outside entrance of a cave.",
+    "description": "Used outside of battle\n:   Transports the trainer to the last-entered dungeon entrance.  Cannot be used outside, in buildings, or in []{location:distortion-world}, []{location:sinnoh-hall-of-origin-1}, []{location:spear-pillar}, or []{location:turnback-cave}."
+  },
+  "locale": {
+    "ja": {
+      "name": "あなぬけのヒモ"
+    },
+    "ko": {
+      "name": "동굴탈출로프"
+    },
+    "fr": {
+      "name": "Corde Sortie"
+    },
+    "de": {
+      "name": "Fluchtseil"
+    },
+    "es": {
+      "name": "Cuerda Huida"
+    },
+    "it": {
+      "name": "Fune di Fuga"
+    }
+  }
+}

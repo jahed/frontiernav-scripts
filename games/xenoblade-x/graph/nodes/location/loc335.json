@@ -1,0 +1,15 @@
+{
+  "id": "loc335",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Rust Lake",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Lago Ruggine"
+    }
+  }
+}

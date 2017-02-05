@@ -1,0 +1,14 @@
+{
+  "id": "poisonous-needle",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Poisonous Needle"
+  },
+  "locale": {
+    "de": {
+      "name": "Giftnadel"
+    }
+  }
+}

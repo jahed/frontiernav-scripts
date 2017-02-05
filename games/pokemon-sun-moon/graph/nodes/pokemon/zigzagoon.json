@@ -1,0 +1,44 @@
+{
+  "id": "zigzagoon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 263,
+    "height": 4,
+    "weight": 175,
+    "base_experience": 48,
+    "name": "Zigzagoon",
+    "genus": "Tiny Raccoon"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジグザグマ",
+      "genus": "まめだぬき"
+    },
+    "ko": {
+      "name": "지그제구리",
+      "genus": "앙증너구리"
+    },
+    "zh": {
+      "name": "蛇紋熊",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Zigzaton",
+      "genus": "Petit Raton"
+    },
+    "de": {
+      "name": "Zigzachs",
+      "genus": "Kleindachs"
+    },
+    "es": {
+      "name": "Zigzagoon",
+      "genus": "Mapachito"
+    },
+    "it": {
+      "name": "Zigzagoon",
+      "genus": "Procione"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "treasure481-9",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Alien Wreckage",
+    "requirements": {
+      "field_skill": "Archaeological",
+      "field_skill_level": 4
+    }
+  }
+}

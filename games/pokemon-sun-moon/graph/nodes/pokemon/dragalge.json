@@ -1,0 +1,40 @@
+{
+  "id": "dragalge",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 691,
+    "height": 18,
+    "weight": 815,
+    "base_experience": 173,
+    "name": "Dragalge",
+    "genus": "Mock Kelp"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドラミドロ",
+      "genus": "クサモドキ"
+    },
+    "ko": {
+      "name": "드래캄",
+      "genus": "풀모방"
+    },
+    "fr": {
+      "name": "Kravarech",
+      "genus": "Simulalgue"
+    },
+    "de": {
+      "name": "Tandrak",
+      "genus": "Tangmimikry"
+    },
+    "es": {
+      "name": "Dragalge",
+      "genus": "Pseudoalga"
+    },
+    "it": {
+      "name": "Dragalge",
+      "genus": "Similalga"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "loc21",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Beasts' Lair",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Tana delle Bestie"
+    }
+  }
+}

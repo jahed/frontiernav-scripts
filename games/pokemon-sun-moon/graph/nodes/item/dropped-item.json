@@ -1,0 +1,32 @@
+{
+  "id": "dropped-item",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Dropped Item",
+    "summary": "Returned to Curtis or Yancy as part of a sidequest.",
+    "description": ""
+  },
+  "locale": {
+    "ja": {
+      "name": "わすれもの"
+    },
+    "ko": {
+      "name": "잊은물건"
+    },
+    "fr": {
+      "name": "Objet Trouvé"
+    },
+    "de": {
+      "name": "Fundsache"
+    },
+    "es": {
+      "name": "Objeto Perdido"
+    },
+    "it": {
+      "name": "Oggetto perso"
+    }
+  }
+}

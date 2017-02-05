@@ -1,0 +1,32 @@
+{
+  "id": "magmarizer",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Magmarizer",
+    "summary": "Traded on a Magmar: Holder evolves into Magmortar.",
+    "description": "Held by Magmar: Evolves the holder into Magmortar when traded."
+  },
+  "locale": {
+    "ja": {
+      "name": "マグマブースター"
+    },
+    "ko": {
+      "name": "마그마부스터"
+    },
+    "fr": {
+      "name": "Magmariseur"
+    },
+    "de": {
+      "name": "Magmaisierer"
+    },
+    "es": {
+      "name": "Magmatizador"
+    },
+    "it": {
+      "name": "Magmatore"
+    }
+  }
+}

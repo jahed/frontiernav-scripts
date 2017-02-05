@@ -1,0 +1,30 @@
+{
+  "id": "garchompite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Garchompite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガブリアスナイト"
+    },
+    "ko": {
+      "name": "한카리아스나이트"
+    },
+    "fr": {
+      "name": "Carchacrokite"
+    },
+    "de": {
+      "name": "Knakracknit"
+    },
+    "es": {
+      "name": "Garchompita"
+    },
+    "it": {
+      "name": "Garchompite"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "combat_support",
+  "type": "string",
+  "enum": [
+    "S",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
+}

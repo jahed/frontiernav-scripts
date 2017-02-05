@@ -1,0 +1,30 @@
+{
+  "id": "roseli-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Roseli Berry"
+  },
+  "locale": {
+    "ja": {
+      "name": "ロゼルのみ"
+    },
+    "ko": {
+      "name": "로셀열매"
+    },
+    "fr": {
+      "name": "Baie Selro"
+    },
+    "de": {
+      "name": "Hibisbeere"
+    },
+    "es": {
+      "name": "Baya Hibis"
+    },
+    "it": {
+      "name": "Baccarcadè"
+    }
+  }
+}

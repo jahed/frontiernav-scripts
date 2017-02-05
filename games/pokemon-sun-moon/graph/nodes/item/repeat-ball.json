@@ -1,0 +1,32 @@
+{
+  "id": "repeat-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Repeat Ball",
+    "summary": "Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon.  If the wild Pokémon's species is marked as caught in the trainer's Pokédex, this ball has a catch rate of 3×.  Otherwise, it has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "リピートボール"
+    },
+    "ko": {
+      "name": "리피드볼"
+    },
+    "fr": {
+      "name": "Bis Ball"
+    },
+    "de": {
+      "name": "Wiederball"
+    },
+    "es": {
+      "name": "Acopio Ball"
+    },
+    "it": {
+      "name": "Bis Ball"
+    }
+  }
+}

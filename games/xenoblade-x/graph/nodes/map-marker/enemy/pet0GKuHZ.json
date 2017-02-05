@@ -1,0 +1,12 @@
+{
+  "id": "pet0GKuHZ",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -65.6582745198266,
+      "lng": 73.125
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "barbaracle",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 689,
+    "height": 13,
+    "weight": 960,
+    "base_experience": 175,
+    "name": "Barbaracle",
+    "genus": "Collective"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガメノデス",
+      "genus": "しゅうごう"
+    },
+    "ko": {
+      "name": "거북손데스",
+      "genus": "집합"
+    },
+    "fr": {
+      "name": "Golgopathe",
+      "genus": "Assemblage"
+    },
+    "de": {
+      "name": "Thanathora",
+      "genus": "Ballung"
+    },
+    "es": {
+      "name": "Barbaracle",
+      "genus": "Combinación"
+    },
+    "it": {
+      "name": "Barbaracle",
+      "genus": "Aggregato"
+    }
+  }
+}

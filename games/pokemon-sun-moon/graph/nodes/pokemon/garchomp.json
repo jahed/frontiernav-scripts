@@ -1,0 +1,44 @@
+{
+  "id": "garchomp",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 445,
+    "height": 19,
+    "weight": 950,
+    "base_experience": 270,
+    "name": "Garchomp",
+    "genus": "Mach"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガブリアス",
+      "genus": "マッハ"
+    },
+    "ko": {
+      "name": "한카리아스",
+      "genus": "마하"
+    },
+    "zh": {
+      "name": "烈咬陸鲨",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Carchacrok",
+      "genus": "Supersonic"
+    },
+    "de": {
+      "name": "Knakrack",
+      "genus": "Rasanz"
+    },
+    "es": {
+      "name": "Garchomp",
+      "genus": "Mach"
+    },
+    "it": {
+      "name": "Garchomp",
+      "genus": "Mach"
+    }
+  }
+}

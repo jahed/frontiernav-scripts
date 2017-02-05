@@ -1,0 +1,10 @@
+{
+  "id": "loc72",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Divine Roost",
+    "locationTypeId": "Area"
+  }
+}

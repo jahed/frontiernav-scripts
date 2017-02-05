@@ -1,0 +1,23 @@
+{
+  "id": "sg3",
+  "labels": [
+    "SegmentGrid"
+  ],
+  "data": {
+    "segmentDimensions": {
+      "height": 4.062
+    },
+    "segmentInset": {
+      "x": 3,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 2453,
+      "y": 2710
+    },
+    "dimensions": {
+      "x": 17,
+      "y": 12
+    }
+  }
+}

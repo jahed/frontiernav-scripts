@@ -1,0 +1,32 @@
+{
+  "id": "max-potion",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2500,
+    "name": "Max Potion",
+    "summary": "Restores HP to full.",
+    "description": "Used on a party Pokémon\n:   Restores HP to full."
+  },
+  "locale": {
+    "ja": {
+      "name": "まんたんのくすり"
+    },
+    "ko": {
+      "name": "풀회복약"
+    },
+    "fr": {
+      "name": "Potion Max"
+    },
+    "de": {
+      "name": "Top-Trank"
+    },
+    "es": {
+      "name": "Poción Máxima"
+    },
+    "it": {
+      "name": "Pozione Max"
+    }
+  }
+}

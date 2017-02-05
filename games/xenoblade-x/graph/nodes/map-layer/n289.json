@@ -1,0 +1,19 @@
+{
+  "id": "n289",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Segments",
+    "description": "Segments on the Manon Ship",
+    "thumbnail": "view-segments"
+  },
+  "locale": {
+    "de": {
+      "name": "Segmente"
+    },
+    "it": {
+      "name": "Settori"
+    }
+  }
+}

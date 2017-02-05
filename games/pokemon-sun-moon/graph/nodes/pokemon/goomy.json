@@ -1,0 +1,40 @@
+{
+  "id": "goomy",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 704,
+    "height": 3,
+    "weight": 28,
+    "base_experience": 60,
+    "name": "Goomy",
+    "genus": "Soft Tissue"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヌメラ",
+      "genus": "なんたい"
+    },
+    "ko": {
+      "name": "미끄메라",
+      "genus": "연체"
+    },
+    "fr": {
+      "name": "Mucuscule",
+      "genus": "Mollusque"
+    },
+    "de": {
+      "name": "Viscora",
+      "genus": "Schneckedei"
+    },
+    "es": {
+      "name": "Goomy",
+      "genus": "Molusco"
+    },
+    "it": {
+      "name": "Goomy",
+      "genus": "Mollusco"
+    }
+  }
+}

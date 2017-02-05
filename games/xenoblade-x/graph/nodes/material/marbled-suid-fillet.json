@@ -1,0 +1,14 @@
+{
+  "id": "marbled-suid-fillet",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Marbled Suid Fillet"
+  },
+  "locale": {
+    "de": {
+      "name": "Durchwachsenes Suidfilet"
+    }
+  }
+}

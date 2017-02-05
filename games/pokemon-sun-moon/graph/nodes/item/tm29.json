@@ -1,0 +1,32 @@
+{
+  "id": "tm29",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM29",
+    "summary": "Teaches Psychic to a compatible Pokémon.",
+    "description": "Teaches Psychic to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン２９"
+    },
+    "ko": {
+      "name": "기술머신29"
+    },
+    "fr": {
+      "name": "CT29"
+    },
+    "de": {
+      "name": "TM29"
+    },
+    "es": {
+      "name": "MT29"
+    },
+    "it": {
+      "name": "MT29"
+    }
+  }
+}

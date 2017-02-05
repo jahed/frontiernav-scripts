@@ -1,0 +1,40 @@
+{
+  "id": "braixen",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 654,
+    "height": 10,
+    "weight": 145,
+    "base_experience": 143,
+    "name": "Braixen",
+    "genus": "Fox"
+  },
+  "locale": {
+    "ja": {
+      "name": "テールナー",
+      "genus": "キツネ"
+    },
+    "ko": {
+      "name": "테르나",
+      "genus": "여우"
+    },
+    "fr": {
+      "name": "Roussil",
+      "genus": "Renard"
+    },
+    "de": {
+      "name": "Rutena",
+      "genus": "Fuchs"
+    },
+    "es": {
+      "name": "Braixen",
+      "genus": "Zorro"
+    },
+    "it": {
+      "name": "Braixen",
+      "genus": "Volpe"
+    }
+  }
+}

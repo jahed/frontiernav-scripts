@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i11",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Sweet Nerine",
+    "rarity": 2
+  },
+  "locale": {
+    "de": {
+      "name": "Honigkuchenblume"
+    },
+    "it": {
+      "name": "Nerina dolce"
+    }
+  }
+}

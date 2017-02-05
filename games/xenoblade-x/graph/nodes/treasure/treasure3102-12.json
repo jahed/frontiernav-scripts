@@ -1,0 +1,13 @@
+{
+  "id": "treasure3102-12",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Indigen Nest",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 5
+    }
+  }
+}

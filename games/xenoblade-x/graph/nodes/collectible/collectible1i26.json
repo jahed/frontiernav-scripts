@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i26",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Vagabond Ant",
+    "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Formica errante"
+    }
+  }
+}

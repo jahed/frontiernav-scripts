@@ -1,0 +1,10 @@
+{
+  "id": "loc75",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Dorian Caravan",
+    "locationTypeId": "Landmark"
+  }
+}

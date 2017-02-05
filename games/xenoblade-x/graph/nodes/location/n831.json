@@ -1,0 +1,15 @@
+{
+  "id": "n831",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Repenta Diner",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Tavola calda Repenta"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tirtouga",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 564,
+    "height": 7,
+    "weight": 165,
+    "base_experience": 71,
+    "name": "Tirtouga",
+    "genus": "Prototurtle"
+  },
+  "locale": {
+    "ja": {
+      "name": "プロトーガ",
+      "genus": "こだいがめ"
+    },
+    "ko": {
+      "name": "프로토가",
+      "genus": "옛날거북"
+    },
+    "fr": {
+      "name": "Carapagos",
+      "genus": "Tortantique"
+    },
+    "de": {
+      "name": "Galapaflos",
+      "genus": "Urzeitkröte"
+    },
+    "es": {
+      "name": "Tirtouga",
+      "genus": "Pretortuga"
+    },
+    "it": {
+      "name": "Tirtouga",
+      "genus": "Ancestruga"
+    }
+  }
+}

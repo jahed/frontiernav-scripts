@@ -1,0 +1,44 @@
+{
+  "id": "drifloon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 425,
+    "height": 4,
+    "weight": 12,
+    "base_experience": 70,
+    "name": "Drifloon",
+    "genus": "Balloon"
+  },
+  "locale": {
+    "ja": {
+      "name": "フワンテ",
+      "genus": "ふうせん"
+    },
+    "ko": {
+      "name": "흔들풍손",
+      "genus": "풍선"
+    },
+    "zh": {
+      "name": "飄飄球",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Baudrive",
+      "genus": "Bouboule"
+    },
+    "de": {
+      "name": "Driftlon",
+      "genus": "Ballon"
+    },
+    "es": {
+      "name": "Drifloon",
+      "genus": "Globo"
+    },
+    "it": {
+      "name": "Drifloon",
+      "genus": "Pallone"
+    }
+  }
+}

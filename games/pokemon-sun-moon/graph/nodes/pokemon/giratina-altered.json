@@ -1,0 +1,44 @@
+{
+  "id": "giratina-altered",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 487,
+    "height": 45,
+    "weight": 7500,
+    "base_experience": 306,
+    "name": "Giratina",
+    "genus": "Renegade"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギラティナ",
+      "genus": "はんこつ"
+    },
+    "ko": {
+      "name": "기라티나",
+      "genus": "반골"
+    },
+    "zh": {
+      "name": "騎拉帝納",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Giratina",
+      "genus": "Renégat"
+    },
+    "de": {
+      "name": "Giratina",
+      "genus": "Rebell"
+    },
+    "es": {
+      "name": "Giratina",
+      "genus": "Renegado"
+    },
+    "it": {
+      "name": "Giratina",
+      "genus": "Ribelle"
+    }
+  }
+}

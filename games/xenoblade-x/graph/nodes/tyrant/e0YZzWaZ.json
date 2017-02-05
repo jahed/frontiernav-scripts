@@ -1,0 +1,15 @@
+{
+  "id": "e0YZzWaZ",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Alexei, the Jade",
+    "level": 35,
+    "notes": "\"Alexei, the Jade\" can be found resting just up the hill a short distance to the north west of Lake Ciel in Sylvalum.",
+    "category": "Theroid",
+    "subcategory": "Progen",
+    "image": "e0YZzWaZ"
+  }
+}

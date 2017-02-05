@@ -1,0 +1,40 @@
+{
+  "id": "lilligant",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 549,
+    "height": 11,
+    "weight": 163,
+    "base_experience": 168,
+    "name": "Lilligant",
+    "genus": "Flowering"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドレディア",
+      "genus": "はなかざり"
+    },
+    "ko": {
+      "name": "드레디어",
+      "genus": "꽃장식"
+    },
+    "fr": {
+      "name": "Fragilady",
+      "genus": "Chef-Fleur"
+    },
+    "de": {
+      "name": "Dressella",
+      "genus": "Blumenzier"
+    },
+    "es": {
+      "name": "Lilligant",
+      "genus": "Adornofloral"
+    },
+    "it": {
+      "name": "Lilligant",
+      "genus": "Fiorfronzolo"
+    }
+  }
+}

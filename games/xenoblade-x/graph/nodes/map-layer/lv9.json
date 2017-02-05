@@ -1,0 +1,11 @@
+{
+  "id": "lv9",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters on the Ma-non Ship",
+    "icon": "user"
+  }
+}

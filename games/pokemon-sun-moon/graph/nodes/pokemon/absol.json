@@ -1,0 +1,44 @@
+{
+  "id": "absol",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 359,
+    "height": 12,
+    "weight": 470,
+    "base_experience": 163,
+    "name": "Absol",
+    "genus": "Disaster"
+  },
+  "locale": {
+    "ja": {
+      "name": "アブソル",
+      "genus": "わざわい"
+    },
+    "ko": {
+      "name": "앱솔",
+      "genus": "재난"
+    },
+    "zh": {
+      "name": "阿勃梭魯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Absol",
+      "genus": "Désastre"
+    },
+    "de": {
+      "name": "Absol",
+      "genus": "Desaster"
+    },
+    "es": {
+      "name": "Absol",
+      "genus": "Catástrofe"
+    },
+    "it": {
+      "name": "Absol",
+      "genus": "Catastrofe"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "eLP88fIc",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "High-Output Pugilith",
+    "level": 47,
+    "notes": "\"High-Output Pugilith\" patrols the entry ramp that leads down into the Ganglion base in the west part of Baldr Basin.",
+    "category": "Mechanoid",
+    "subcategory": "Pugilith",
+    "image": "eLP88fIc"
+  }
+}

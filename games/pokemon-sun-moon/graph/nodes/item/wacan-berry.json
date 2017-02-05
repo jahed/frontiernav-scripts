@@ -1,0 +1,32 @@
+{
+  "id": "wacan-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Wacan Berry",
+    "summary": "Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.",
+    "description": "Held in battle\n:   When the holder would take super-effective []{type:electric}-type damage, it consumes this item to halve the amount of damage taken."
+  },
+  "locale": {
+    "ja": {
+      "name": "ソクノのみ"
+    },
+    "ko": {
+      "name": "초나열매"
+    },
+    "fr": {
+      "name": "Baie Parma"
+    },
+    "de": {
+      "name": "Kerzalbeere"
+    },
+    "es": {
+      "name": "Baya Gualot"
+    },
+    "it": {
+      "name": "Baccaparmen"
+    }
+  }
+}

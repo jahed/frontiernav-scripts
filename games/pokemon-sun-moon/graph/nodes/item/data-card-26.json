@@ -1,0 +1,32 @@
+{
+  "id": "data-card-26",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 26",
+    "summary": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon.",
+    "description": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード２６"
+    },
+    "ko": {
+      "name": "데이터카드26"
+    },
+    "fr": {
+      "name": "Carte Mémo26"
+    },
+    "de": {
+      "name": "Datenkarte26"
+    },
+    "es": {
+      "name": "Tarjeta Datos 26"
+    },
+    "it": {
+      "name": "Scheda Dati 26"
+    }
+  }
+}

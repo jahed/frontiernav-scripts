@@ -1,0 +1,44 @@
+{
+  "id": "nidoqueen",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 31,
+    "height": 13,
+    "weight": 600,
+    "base_experience": 227,
+    "name": "Nidoqueen",
+    "genus": "Drill"
+  },
+  "locale": {
+    "ja": {
+      "name": "ニドクイン",
+      "genus": "ドリル"
+    },
+    "ko": {
+      "name": "니드퀸",
+      "genus": "드릴"
+    },
+    "zh": {
+      "name": "尼多后",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Nidoqueen",
+      "genus": "Perceur"
+    },
+    "de": {
+      "name": "Nidoqueen",
+      "genus": "Bohrer"
+    },
+    "es": {
+      "name": "Nidoqueen",
+      "genus": "Taladro"
+    },
+    "it": {
+      "name": "Nidoqueen",
+      "genus": "Trapano"
+    }
+  }
+}

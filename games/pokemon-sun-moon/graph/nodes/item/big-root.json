@@ -1,0 +1,32 @@
+{
+  "id": "big-root",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Big Root",
+    "summary": "Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%).",
+    "description": "Held: HP restored from Absorb, Aqua Ring, Drain Punch, Dream Eater, Giga Drain, Ingrain, Leech Life, Leech Seed, and Mega Drain is increased by 30%.  Damage inflicted is not affected."
+  },
+  "locale": {
+    "ja": {
+      "name": "おおきなねっこ"
+    },
+    "ko": {
+      "name": "큰뿌리"
+    },
+    "fr": {
+      "name": "Grosse Racine"
+    },
+    "de": {
+      "name": "Großwurzel"
+    },
+    "es": {
+      "name": "Raíz Grande"
+    },
+    "it": {
+      "name": "Granradice"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "n345",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Container",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 3
+    }
+  }
+}

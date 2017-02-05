@@ -1,0 +1,44 @@
+{
+  "id": "ursaring",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 217,
+    "height": 18,
+    "weight": 1258,
+    "base_experience": 175,
+    "name": "Ursaring",
+    "genus": "Hibernator"
+  },
+  "locale": {
+    "ja": {
+      "name": "リングマ",
+      "genus": "とうみん"
+    },
+    "ko": {
+      "name": "링곰",
+      "genus": "동면"
+    },
+    "zh": {
+      "name": "圈圈熊",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ursaring",
+      "genus": "Hibernant"
+    },
+    "de": {
+      "name": "Ursaring",
+      "genus": "Schläfer"
+    },
+    "es": {
+      "name": "Ursaring",
+      "genus": "Hibernante"
+    },
+    "it": {
+      "name": "Ursaring",
+      "genus": "Letargo"
+    }
+  }
+}

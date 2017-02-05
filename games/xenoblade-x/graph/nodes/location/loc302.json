@@ -1,0 +1,10 @@
+{
+  "id": "loc302",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Oblivia Base Camp 3",
+    "locationTypeId": "Camp"
+  }
+}

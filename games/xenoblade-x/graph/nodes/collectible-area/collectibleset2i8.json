@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i8",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Mountain Trail Area",
+    "itemType": "Collectible"
+  }
+}

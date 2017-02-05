@@ -1,0 +1,10 @@
+{
+  "id": "loc3",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Adder Byroad",
+    "locationTypeId": "Landmark"
+  }
+}

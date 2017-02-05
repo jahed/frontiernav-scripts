@@ -1,0 +1,32 @@
+{
+  "id": "tm85",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM85",
+    "summary": "Teaches Dream Eater to a compatible Pokémon.",
+    "description": "Teaches Dream Eater to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン８５"
+    },
+    "ko": {
+      "name": "기술머신85"
+    },
+    "fr": {
+      "name": "CT85"
+    },
+    "de": {
+      "name": "TM85"
+    },
+    "es": {
+      "name": "MT85"
+    },
+    "it": {
+      "name": "MT85"
+    }
+  }
+}

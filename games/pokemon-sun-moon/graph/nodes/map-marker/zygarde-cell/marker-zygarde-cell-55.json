@@ -1,0 +1,13 @@
+{
+  "id": "marker-zygarde-cell-55",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -3.283113991917241,
+      "lng": 82.60620117187501
+    },
+    "markerStyle": "image"
+  }
+}

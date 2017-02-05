@@ -1,0 +1,40 @@
+{
+  "id": "pansear",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 513,
+    "height": 6,
+    "weight": 110,
+    "base_experience": 63,
+    "name": "Pansear",
+    "genus": "High Temp"
+  },
+  "locale": {
+    "ja": {
+      "name": "バオップ",
+      "genus": "こうおん"
+    },
+    "ko": {
+      "name": "바오프",
+      "genus": "고온"
+    },
+    "fr": {
+      "name": "Flamajou",
+      "genus": "Brûlant"
+    },
+    "de": {
+      "name": "Grillmak",
+      "genus": "Hitze"
+    },
+    "es": {
+      "name": "Pansear",
+      "genus": "Ardiente"
+    },
+    "it": {
+      "name": "Pansear",
+      "genus": "Testacalda"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "this-fair-city",
+  "labels": [
+    "HeartToHeart",
+    "Encounter"
+  ],
+  "data": {
+    "name": "This Fair City",
+    "description": "Celica's 1st Heart-to-Heart.",
+    "time": "afternoon"
+  }
+}

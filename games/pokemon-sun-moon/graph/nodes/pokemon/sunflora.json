@@ -1,0 +1,44 @@
+{
+  "id": "sunflora",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 192,
+    "height": 8,
+    "weight": 85,
+    "base_experience": 149,
+    "name": "Sunflora",
+    "genus": "Sun"
+  },
+  "locale": {
+    "ja": {
+      "name": "キマワリ",
+      "genus": "たいよう"
+    },
+    "ko": {
+      "name": "해루미",
+      "genus": "태양"
+    },
+    "zh": {
+      "name": "向日花怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Héliatronc",
+      "genus": "Soleil"
+    },
+    "de": {
+      "name": "Sonnflora",
+      "genus": "Sonne"
+    },
+    "es": {
+      "name": "Sunflora",
+      "genus": "Sol"
+    },
+    "it": {
+      "name": "Sunflora",
+      "genus": "Sole"
+    }
+  }
+}

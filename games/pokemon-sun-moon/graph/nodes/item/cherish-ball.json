@@ -1,0 +1,32 @@
+{
+  "id": "cherish-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Cherish Ball",
+    "summary": "Tries to catch a wild Pokémon.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "プレシャスボール"
+    },
+    "ko": {
+      "name": "프레셔스볼"
+    },
+    "fr": {
+      "name": "Mémoire Ball"
+    },
+    "de": {
+      "name": "Jubelball"
+    },
+    "es": {
+      "name": "Gloria Ball"
+    },
+    "it": {
+      "name": "Pregio Ball"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "persim-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Persim Berry",
+    "summary": "Held: Consumed when confused to cure confusion.",
+    "description": "Held in battle\n:   When the holder is confused, it consumes this item to cure the confusion.\n\nUsed on a party Pokémon\n:   Cures confusion."
+  },
+  "locale": {
+    "ja": {
+      "name": "キーのみ"
+    },
+    "ko": {
+      "name": "시몬열매"
+    },
+    "fr": {
+      "name": "Baie Kika"
+    },
+    "de": {
+      "name": "Persimbeere"
+    },
+    "es": {
+      "name": "Baya Caquic"
+    },
+    "it": {
+      "name": "Baccaki"
+    }
+  }
+}

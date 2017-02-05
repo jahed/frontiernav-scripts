@@ -1,0 +1,10 @@
+{
+  "id": "collectible2i16",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Zandemo Eggplant",
+    "rarity": 2
+  }
+}

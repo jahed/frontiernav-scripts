@@ -1,0 +1,11 @@
+{
+  "id": "loc25",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Behemoth's Shadows",
+    "locationTypeId": "Unexplored"
+  }
+}

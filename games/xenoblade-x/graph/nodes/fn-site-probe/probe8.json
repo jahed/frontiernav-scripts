@@ -1,0 +1,19 @@
+{
+  "id": "probe8",
+  "labels": [
+    "FNSiteProbe"
+  ],
+  "data": {
+    "name": "Mining Probe G7",
+    "type": 1,
+    "attributes": {
+      "production_multiplier": 2.2,
+      "revenue_multiplier": 0.3
+    }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda da estrazione G7"
+    }
+  }
+}

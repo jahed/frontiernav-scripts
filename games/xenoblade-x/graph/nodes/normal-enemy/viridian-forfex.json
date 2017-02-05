@@ -1,0 +1,57 @@
+{
+  "id": "viridian-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Viridian Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 101,
+      "maximum": 166
+    },
+    "health_range": {
+      "minimum": 15991,
+      "maximum": 27239
+    },
+    "melee_power_range": {
+      "minimum": 275,
+      "maximum": 406
+    },
+    "melee_accuracy_range": {
+      "minimum": 152,
+      "maximum": 183
+    },
+    "ranged_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "ranged_accuracy_range": {
+      "minimum": 147,
+      "maximum": 178
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 49,
+      "maximum": 76
+    },
+    "notes": "Found at 212",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

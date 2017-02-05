@@ -1,0 +1,57 @@
+{
+  "id": "lazuli-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Lazuli Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 509,
+      "maximum": 857
+    },
+    "health_range": {
+      "minimum": 68473,
+      "maximum": 93083
+    },
+    "melee_power_range": {
+      "minimum": 1085,
+      "maximum": 1646
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 304
+    },
+    "ranged_power_range": {
+      "minimum": 888,
+      "maximum": 1347
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 299
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1497
+    },
+    "evasion_range": {
+      "minimum": 138,
+      "maximum": 180
+    },
+    "notes": "Found at Isle(NW 404)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

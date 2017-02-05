@@ -1,0 +1,57 @@
+{
+  "id": "erbium-petramand",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Erbium Petramand",
+    "subcategory": "Petramand",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 537,
+      "maximum": 692
+    },
+    "health_range": {
+      "minimum": 72591,
+      "maximum": 84949
+    },
+    "melee_power_range": {
+      "minimum": 1036,
+      "maximum": 1291
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 294
+    },
+    "ranged_power_range": {
+      "minimum": 937,
+      "maximum": 1168
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1230
+    },
+    "evasion_range": {
+      "minimum": 146,
+      "maximum": 180
+    },
+    "notes": "Found at 509SE,M'gando",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

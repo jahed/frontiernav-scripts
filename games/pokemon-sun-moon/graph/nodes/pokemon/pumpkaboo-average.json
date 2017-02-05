@@ -1,0 +1,40 @@
+{
+  "id": "pumpkaboo-average",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 710,
+    "height": 4,
+    "weight": 50,
+    "base_experience": 67,
+    "name": "Pumpkaboo",
+    "genus": "Pumpkin"
+  },
+  "locale": {
+    "ja": {
+      "name": "バケッチャ",
+      "genus": "かぼちゃ"
+    },
+    "ko": {
+      "name": "호바귀",
+      "genus": "호박"
+    },
+    "fr": {
+      "name": "Pitrouille",
+      "genus": "Citrouille"
+    },
+    "de": {
+      "name": "Irrbis",
+      "genus": "Kürbis"
+    },
+    "es": {
+      "name": "Pumpkaboo",
+      "genus": "Calabaza"
+    },
+    "it": {
+      "name": "Pumpkaboo",
+      "genus": "Zucca"
+    }
+  }
+}

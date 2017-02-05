@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i6",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "L-002 Fuel Tank",
+    "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Treibstofftank L-002"
+    },
+    "it": {
+      "name": "Serbatoio L-002"
+    }
+  }
+}

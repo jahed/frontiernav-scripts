@@ -1,0 +1,11 @@
+{
+  "id": "n23",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Lao Huang",
+    "image": "lao-banner",
+    "thumbnail": "lao-face.png"
+  }
+}

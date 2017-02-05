@@ -1,0 +1,10 @@
+{
+  "id": "loc11",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Atop the Giant Ring",
+    "locationTypeId": "Scenic"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "carvanha",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 318,
+    "height": 8,
+    "weight": 208,
+    "base_experience": 61,
+    "name": "Carvanha",
+    "genus": "Savage"
+  },
+  "locale": {
+    "ja": {
+      "name": "キバニア",
+      "genus": "どうもう"
+    },
+    "ko": {
+      "name": "샤프니아",
+      "genus": "사나움"
+    },
+    "zh": {
+      "name": "利牙魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Carvanha",
+      "genus": "Féroce"
+    },
+    "de": {
+      "name": "Kanivanha",
+      "genus": "Gnadenlos"
+    },
+    "es": {
+      "name": "Carvanha",
+      "genus": "Feroz"
+    },
+    "it": {
+      "name": "Carvanha",
+      "genus": "Feroce"
+    }
+  }
+}

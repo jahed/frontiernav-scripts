@@ -1,0 +1,16 @@
+{
+  "id": "eVf5mFdd",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Shuravas, the Enraged",
+    "level": 65,
+    "notes": "\"Shuravas, the Enraged\" appears during thunderstorms to fly through the canyon north of Qing Long Glade in central Noctilum. Breaking the fin is the only way to recieve the \"Signature Glaive: Allegiance\" drop however breaking the fin also causes it to enrage making the remainder of the fight more difficult.",
+    "category": "Insectoid",
+    "subcategory": "Millepod",
+    "weather": "Thunderstorm",
+    "image": "eVf5mFdd"
+  }
+}

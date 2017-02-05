@@ -1,0 +1,32 @@
+{
+  "id": "hyper-potion",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1200,
+    "name": "Hyper Potion",
+    "summary": "Restores 200 HP.",
+    "description": "Used on a party Pokémon\n:   Restores 200 HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "すごいキズぐすり"
+    },
+    "ko": {
+      "name": "고급상처약"
+    },
+    "fr": {
+      "name": "Hyper Potion"
+    },
+    "de": {
+      "name": "Hypertrank"
+    },
+    "es": {
+      "name": "Hiperpoción"
+    },
+    "it": {
+      "name": "Iperpozione"
+    }
+  }
+}

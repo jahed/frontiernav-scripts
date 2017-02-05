@@ -1,0 +1,32 @@
+{
+  "id": "macho-brace",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Macho Brace",
+    "summary": "Held: Holder gains double effort values from battles, but has halved Speed in battle.",
+    "description": "Held\n:   When the holder would gain effort due to battle, it gains double that effort instead.\n\nHeld in battle\n:   Holder has half its Speed."
+  },
+  "locale": {
+    "ja": {
+      "name": "きょうせいギプス"
+    },
+    "ko": {
+      "name": "교정깁스"
+    },
+    "fr": {
+      "name": "Bracelet Macho"
+    },
+    "de": {
+      "name": "Machoband"
+    },
+    "es": {
+      "name": "Brazal Firme"
+    },
+    "it": {
+      "name": "Crescicappa"
+    }
+  }
+}

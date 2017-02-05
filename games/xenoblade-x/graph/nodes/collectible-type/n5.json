@@ -1,0 +1,14 @@
+{
+  "id": "n5",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Fauna"
+  },
+  "locale": {
+    "de": {
+      "name": "Kleintiere"
+    }
+  }
+}

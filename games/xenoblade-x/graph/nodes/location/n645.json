@@ -1,0 +1,18 @@
+{
+  "id": "n645",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Barracks Interior",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Quartier"
+    },
+    "it": {
+      "name": "Interno della caserma"
+    }
+  }
+}

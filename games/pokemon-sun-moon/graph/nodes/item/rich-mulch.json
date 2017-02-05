@@ -1,0 +1,30 @@
+{
+  "id": "rich-mulch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Rich Mulch"
+  },
+  "locale": {
+    "ja": {
+      "name": "たわわこやし"
+    },
+    "ko": {
+      "name": "주렁주렁비료"
+    },
+    "fr": {
+      "name": "Fertibondance"
+    },
+    "de": {
+      "name": "Sprießmulch"
+    },
+    "es": {
+      "name": "Abono Fértil"
+    },
+    "it": {
+      "name": "Fertilflorido"
+    }
+  }
+}

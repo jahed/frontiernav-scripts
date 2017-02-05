@@ -1,0 +1,10 @@
+{
+  "id": "collectible2i18",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Sleeping Amaryllis",
+    "rarity": 3
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "electrike",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 309,
+    "height": 6,
+    "weight": 152,
+    "base_experience": 59,
+    "name": "Electrike",
+    "genus": "Lightning"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラクライ",
+      "genus": "いなずま"
+    },
+    "ko": {
+      "name": "썬더라이",
+      "genus": "천둥번개"
+    },
+    "zh": {
+      "name": "落雷獸",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Dynavolt",
+      "genus": "Orage"
+    },
+    "de": {
+      "name": "Frizelbliz",
+      "genus": "Gewitter"
+    },
+    "es": {
+      "name": "Electrike",
+      "genus": "Calambre"
+    },
+    "it": {
+      "name": "Electrike",
+      "genus": "Lampo"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "treasure4102-12",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Strange Petrified Tree",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 2
+    }
+  }
+}

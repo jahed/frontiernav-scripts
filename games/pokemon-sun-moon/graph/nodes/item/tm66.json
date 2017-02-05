@@ -1,0 +1,32 @@
+{
+  "id": "tm66",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM66",
+    "summary": "Teaches Payback to a compatible Pokémon.",
+    "description": "Teaches Payback to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン６６"
+    },
+    "ko": {
+      "name": "기술머신66"
+    },
+    "fr": {
+      "name": "CT66"
+    },
+    "de": {
+      "name": "TM66"
+    },
+    "es": {
+      "name": "MT66"
+    },
+    "it": {
+      "name": "MT66"
+    }
+  }
+}

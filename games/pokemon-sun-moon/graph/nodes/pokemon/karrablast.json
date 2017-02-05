@@ -1,0 +1,40 @@
+{
+  "id": "karrablast",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 588,
+    "height": 5,
+    "weight": 59,
+    "base_experience": 63,
+    "name": "Karrablast",
+    "genus": "Clamping"
+  },
+  "locale": {
+    "ja": {
+      "name": "カブルモ",
+      "genus": "かぶりつき"
+    },
+    "ko": {
+      "name": "딱정곤",
+      "genus": "덥석물기"
+    },
+    "fr": {
+      "name": "Carabing",
+      "genus": "Carabe"
+    },
+    "de": {
+      "name": "Laukaps",
+      "genus": "Schnappbiss"
+    },
+    "es": {
+      "name": "Karrablast",
+      "genus": "Bocado"
+    },
+    "it": {
+      "name": "Karrablast",
+      "genus": "Addentatore"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fleecy-fur",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Fleecy Fur"
+  },
+  "locale": {
+    "de": {
+      "name": "Flauschiges Fell"
+    }
+  }
+}

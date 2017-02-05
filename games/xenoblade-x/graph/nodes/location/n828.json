@@ -1,0 +1,15 @@
+{
+  "id": "n828",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Outfitters Test Hangar",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Hangar test Outfitter"
+    }
+  }
+}

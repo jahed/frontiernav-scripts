@@ -1,0 +1,15 @@
+{
+  "id": "n651",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Barista Court",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Piazza Frappè"
+    }
+  }
+}

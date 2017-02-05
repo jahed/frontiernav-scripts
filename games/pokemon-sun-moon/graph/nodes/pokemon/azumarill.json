@@ -1,0 +1,44 @@
+{
+  "id": "azumarill",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 184,
+    "height": 8,
+    "weight": 285,
+    "base_experience": 189,
+    "name": "Azumarill",
+    "genus": "Aqua Rabbit"
+  },
+  "locale": {
+    "ja": {
+      "name": "マリルリ",
+      "genus": "みずうさぎ"
+    },
+    "ko": {
+      "name": "마릴리",
+      "genus": "물토끼"
+    },
+    "zh": {
+      "name": "瑪力露麗",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Azumarill",
+      "genus": "Aqualapin"
+    },
+    "de": {
+      "name": "Azumarill",
+      "genus": "Aquahase"
+    },
+    "es": {
+      "name": "Azumarill",
+      "genus": "Conejo Agua"
+    },
+    "it": {
+      "name": "Azumarill",
+      "genus": "Acquniglio"
+    }
+  }
+}

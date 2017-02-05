@@ -1,0 +1,19 @@
+{
+  "id": "lv4",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Enemies",
+    "icon": "shield",
+    "thumbnail": "view-enemies"
+  },
+  "locale": {
+    "de": {
+      "name": "Gegner"
+    },
+    "it": {
+      "name": "Nemici"
+    }
+  }
+}

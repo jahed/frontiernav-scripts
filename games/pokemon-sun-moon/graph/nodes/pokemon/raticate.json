@@ -1,0 +1,44 @@
+{
+  "id": "raticate",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 20,
+    "height": 7,
+    "weight": 185,
+    "base_experience": 145,
+    "name": "Raticate",
+    "genus": "Mouse"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラッタ",
+      "genus": "ねずみ"
+    },
+    "ko": {
+      "name": "레트라",
+      "genus": "쥐"
+    },
+    "zh": {
+      "name": "拉達",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rattatac",
+      "genus": "Souris"
+    },
+    "de": {
+      "name": "Rattikarl",
+      "genus": "Maus"
+    },
+    "es": {
+      "name": "Raticate",
+      "genus": "Ratón"
+    },
+    "it": {
+      "name": "Raticate",
+      "genus": "Topo"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tm50",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 5500,
+    "name": "TM50",
+    "summary": "Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)",
+    "description": "Teaches Overheat to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン５０"
+    },
+    "ko": {
+      "name": "기술머신50"
+    },
+    "fr": {
+      "name": "CT50"
+    },
+    "de": {
+      "name": "TM50"
+    },
+    "es": {
+      "name": "MT50"
+    },
+    "it": {
+      "name": "MT50"
+    }
+  }
+}

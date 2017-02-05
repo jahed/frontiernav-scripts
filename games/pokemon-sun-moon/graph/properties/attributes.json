@@ -1,0 +1,15 @@
+{
+  "id": "attributes",
+  "type": "object",
+  "properties": {
+    "production_multiplier": {
+      "type": "number"
+    },
+    "revenue_multiplier": {
+      "type": "number"
+    },
+    "neighbour_primary_multiplier": {
+      "type": "number"
+    }
+  }
+}

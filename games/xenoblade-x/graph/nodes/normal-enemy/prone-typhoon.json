@@ -1,0 +1,57 @@
+{
+  "id": "prone-typhoon",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Prone Typhoon",
+    "subcategory": "Prone",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 1,
+      "maximum": 10
+    },
+    "experience_range": {
+      "minimum": 12,
+      "maximum": 34
+    },
+    "health_range": {
+      "minimum": 1399,
+      "maximum": 7980
+    },
+    "melee_power_range": {
+      "minimum": 34,
+      "maximum": 118
+    },
+    "melee_accuracy_range": {
+      "minimum": 110,
+      "maximum": 129
+    },
+    "ranged_power_range": {
+      "minimum": 29,
+      "maximum": 102
+    },
+    "ranged_accuracy_range": {
+      "minimum": 95,
+      "maximum": 112
+    },
+    "potential_range": {
+      "minimum": 31,
+      "maximum": 108
+    },
+    "evasion_range": {
+      "minimum": 13,
+      "maximum": 29
+    },
+    "notes": "Found at 119",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

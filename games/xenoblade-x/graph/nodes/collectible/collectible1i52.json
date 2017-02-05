@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i52",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Sonar Lemon",
+    "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Limone sonar"
+    }
+  }
+}

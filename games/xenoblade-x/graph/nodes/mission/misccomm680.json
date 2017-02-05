@@ -1,0 +1,14 @@
+{
+  "id": "misccomm680",
+  "labels": [
+    "Mission"
+  ],
+  "data": {
+    "name": "A Hero's Ride"
+  },
+  "locale": {
+    "it": {
+      "name": "Soccorso eroico"
+    }
+  }
+}

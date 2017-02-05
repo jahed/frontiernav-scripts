@@ -1,0 +1,14 @@
+{
+  "id": "adsecula-straw",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Adsecula Straw"
+  },
+  "locale": {
+    "de": {
+      "name": "Adsecula-Halm"
+    }
+  }
+}

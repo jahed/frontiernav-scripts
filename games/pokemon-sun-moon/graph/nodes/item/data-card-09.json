@@ -1,0 +1,32 @@
+{
+  "id": "data-card-09",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 09",
+    "summary": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.",
+    "description": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード０９"
+    },
+    "ko": {
+      "name": "데이터카드09"
+    },
+    "fr": {
+      "name": "Carte Mémo09"
+    },
+    "de": {
+      "name": "Datenkarte09"
+    },
+    "es": {
+      "name": "Tarjeta Datos 09"
+    },
+    "it": {
+      "name": "Scheda Dati 09"
+    }
+  }
+}

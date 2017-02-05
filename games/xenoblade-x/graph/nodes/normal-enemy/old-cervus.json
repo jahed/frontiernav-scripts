@@ -1,0 +1,57 @@
+{
+  "id": "old-cervus",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Old Cervus",
+    "subcategory": "Cervus",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1212,
+      "maximum": 1560
+    },
+    "health_range": {
+      "minimum": 438339,
+      "maximum": 512958
+    },
+    "melee_power_range": {
+      "minimum": 1283,
+      "maximum": 1599
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 1348,
+      "maximum": 1681
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 1316,
+      "maximum": 1640
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at Ciel",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

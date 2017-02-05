@@ -1,0 +1,15 @@
+{
+  "id": "mission278-15",
+  "labels": [
+    "Mission",
+    "AffinityMission"
+  ],
+  "data": {
+    "name": "Close Comrades"
+  },
+  "locale": {
+    "it": {
+      "name": "Compagni affiatati"
+    }
+  }
+}

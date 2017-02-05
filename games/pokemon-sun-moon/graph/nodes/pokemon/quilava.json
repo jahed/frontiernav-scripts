@@ -1,0 +1,44 @@
+{
+  "id": "quilava",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 156,
+    "height": 9,
+    "weight": 190,
+    "base_experience": 142,
+    "name": "Quilava",
+    "genus": "Volcano"
+  },
+  "locale": {
+    "ja": {
+      "name": "マグマラシ",
+      "genus": "かざん"
+    },
+    "ko": {
+      "name": "마그케인",
+      "genus": "화산"
+    },
+    "zh": {
+      "name": "火岩鼠",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Feurisson",
+      "genus": "Volcan"
+    },
+    "de": {
+      "name": "Igelavar",
+      "genus": "Vulkan"
+    },
+    "es": {
+      "name": "Quilava",
+      "genus": "Volcán"
+    },
+    "it": {
+      "name": "Quilava",
+      "genus": "Vulcano"
+    }
+  }
+}

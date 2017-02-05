@@ -1,0 +1,44 @@
+{
+  "id": "munchlax",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 446,
+    "height": 6,
+    "weight": 1050,
+    "base_experience": 78,
+    "name": "Munchlax",
+    "genus": "Big Eater"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴンベ",
+      "genus": "おおぐい"
+    },
+    "ko": {
+      "name": "먹고자",
+      "genus": "대식가"
+    },
+    "zh": {
+      "name": "小卡比獸",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Goinfrex",
+      "genus": "Goinfre"
+    },
+    "de": {
+      "name": "Mampfaxo",
+      "genus": "Nimmersatt"
+    },
+    "es": {
+      "name": "Munchlax",
+      "genus": "Comilón"
+    },
+    "it": {
+      "name": "Munchlax",
+      "genus": "Ghiottone"
+    }
+  }
+}

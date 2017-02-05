@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset5i1",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Cauldros Volcano Area",
+    "itemType": "Collectible"
+  }
+}

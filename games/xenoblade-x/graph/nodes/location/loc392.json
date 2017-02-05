@@ -1,0 +1,11 @@
+{
+  "id": "loc392",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Talon Rock Summit",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

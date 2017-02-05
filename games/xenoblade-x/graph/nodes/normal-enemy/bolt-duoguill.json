@@ -1,0 +1,57 @@
+{
+  "id": "bolt-duoguill",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Bolt Duoguill",
+    "subcategory": "Duoguill",
+    "category": "Piscinoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 162,
+      "maximum": 281
+    },
+    "health_range": {
+      "minimum": 54211,
+      "maximum": 115365
+    },
+    "melee_power_range": {
+      "minimum": 228,
+      "maximum": 399
+    },
+    "melee_accuracy_range": {
+      "minimum": 150,
+      "maximum": 171
+    },
+    "ranged_power_range": {
+      "minimum": 257,
+      "maximum": 451
+    },
+    "ranged_accuracy_range": {
+      "minimum": 144,
+      "maximum": 165
+    },
+    "potential_range": {
+      "minimum": 234,
+      "maximum": 410
+    },
+    "evasion_range": {
+      "minimum": 36,
+      "maximum": 55
+    },
+    "notes": "Found at 308W",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -50,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 10,
+    "gravity_resistance": -25
+  }
+}

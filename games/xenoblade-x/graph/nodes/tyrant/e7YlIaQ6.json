@@ -1,0 +1,16 @@
+{
+  "id": "e7YlIaQ6",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Ga-uhl, the Precept-Keeper",
+    "level": 50,
+    "notes": "\"Ga-uhl, the Precept-Keeper\" rarely appears during the night at badr stronghold, the ganglion base in the west part of Badr Basin in west Sylvalum. The spawning seems to be tied to the creatures inside the stronghold so despawn and respawn them by moving far away and after some minutes until Ga-uhl eventually appears. When it does appear it will fly in from the direction of the bridge and come to a stop above the highest tower building. Don't go to meet it near the bridge or it will despawn as it reaches the base.",
+    "category": "Mechanoid",
+    "subcategory": "Fal-swo",
+    "time": "19:00 - 5:00",
+    "image": "e7YlIaQ6"
+  }
+}

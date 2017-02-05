@@ -1,0 +1,32 @@
+{
+  "id": "data-card-24",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 24",
+    "summary": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.",
+    "description": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード２４"
+    },
+    "ko": {
+      "name": "데이터카드24"
+    },
+    "fr": {
+      "name": "Carte Mémo24"
+    },
+    "de": {
+      "name": "Datenkarte24"
+    },
+    "es": {
+      "name": "Tarjeta Datos 24"
+    },
+    "it": {
+      "name": "Scheda Dati 24"
+    }
+  }
+}

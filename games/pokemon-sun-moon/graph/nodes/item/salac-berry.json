@@ -1,0 +1,32 @@
+{
+  "id": "salac-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Salac Berry",
+    "summary": "Held: Consumed at 1/4 max HP to boost Speed.",
+    "description": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Speed by one stage."
+  },
+  "locale": {
+    "ja": {
+      "name": "カムラのみ"
+    },
+    "ko": {
+      "name": "캄라열매"
+    },
+    "fr": {
+      "name": "Baie Sailak"
+    },
+    "de": {
+      "name": "Salkabeere"
+    },
+    "es": {
+      "name": "Baya Aslac"
+    },
+    "it": {
+      "name": "Baccasalak"
+    }
+  }
+}

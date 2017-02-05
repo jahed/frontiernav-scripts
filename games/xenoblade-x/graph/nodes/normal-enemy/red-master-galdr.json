@@ -1,0 +1,57 @@
+{
+  "id": "red-master-galdr",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Red Master Galdr",
+    "subcategory": "Galdr",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 70
+    },
+    "experience_range": {
+      "minimum": 679,
+      "maximum": 1142
+    },
+    "health_range": {
+      "minimum": 103740,
+      "maximum": 141025
+    },
+    "melee_power_range": {
+      "minimum": 1011,
+      "maximum": 1533
+    },
+    "melee_accuracy_range": {
+      "minimum": 268,
+      "maximum": 319
+    },
+    "ranged_power_range": {
+      "minimum": 1110,
+      "maximum": 1683
+    },
+    "ranged_accuracy_range": {
+      "minimum": 262,
+      "maximum": 313
+    },
+    "potential_range": {
+      "minimum": 987,
+      "maximum": 1497
+    },
+    "evasion_range": {
+      "minimum": 138,
+      "maximum": 180
+    },
+    "notes": "Found at 410S(air)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

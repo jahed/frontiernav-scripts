@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i14",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Arnacian Orewood",
+    "requirements": true,
+    "rarity": 4,
+    "time": "Early Morning",
+    "weather": "Rain"
+  },
+  "locale": {
+    "de": {
+      "name": "Arnasisches Wiederz"
+    }
+  }
+}

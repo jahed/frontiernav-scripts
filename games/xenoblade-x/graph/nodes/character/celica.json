@@ -1,0 +1,11 @@
+{
+  "id": "celica",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Celica",
+    "image": "celica-banner",
+    "thumbnail": "celica-face.png"
+  }
+}

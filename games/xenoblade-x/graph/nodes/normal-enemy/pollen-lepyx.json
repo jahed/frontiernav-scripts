@@ -1,0 +1,57 @@
+{
+  "id": "pollen-lepyx",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Pollen Lepyx",
+    "subcategory": "Lepyx",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 165,
+      "maximum": 270
+    },
+    "health_range": {
+      "minimum": 32707,
+      "maximum": 55714
+    },
+    "melee_power_range": {
+      "minimum": 393,
+      "maximum": 579
+    },
+    "melee_accuracy_range": {
+      "minimum": 159,
+      "maximum": 192
+    },
+    "ranged_power_range": {
+      "minimum": 359,
+      "maximum": 529
+    },
+    "ranged_accuracy_range": {
+      "minimum": 154,
+      "maximum": 187
+    },
+    "potential_range": {
+      "minimum": 352,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 44,
+      "maximum": 68
+    },
+    "notes": "Found at 405,415",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

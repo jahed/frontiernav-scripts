@@ -1,0 +1,15 @@
+{
+  "id": "etAeJKFK",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Frontline Surveillance Zig",
+    "level": 74,
+    "notes": "\"Frontline Surveillance Zig\" keeps guard over a small island out in the ocean to the north west of Sylvalum.",
+    "category": "Mechanoid",
+    "subcategory": "Zig",
+    "image": "etAeJKFK"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "loc64",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Dead Man's Ingress",
+    "locationTypeId": "Area"
+  }
+}

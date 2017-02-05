@@ -1,0 +1,32 @@
+{
+  "id": "blue-apricorn",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Blue Apricorn",
+    "summary": "Used to make a Lure Ball.",
+    "description": "May be given to Kurt in []{location:azalea-town} to produce a []{item:lure-ball}."
+  },
+  "locale": {
+    "ja": {
+      "name": "あおぼんぐり"
+    },
+    "ko": {
+      "name": "파란규토리"
+    },
+    "fr": {
+      "name": "Noigrume Blu"
+    },
+    "de": {
+      "name": "Aprikoko Blu"
+    },
+    "es": {
+      "name": "Bonguri Azul"
+    },
+    "it": {
+      "name": "Ghicocca Blu"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "scizor",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 212,
+    "height": 18,
+    "weight": 1180,
+    "base_experience": 175,
+    "name": "Scizor",
+    "genus": "Pincer"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハッサム",
+      "genus": "はさみ"
+    },
+    "ko": {
+      "name": "핫삼",
+      "genus": "집게"
+    },
+    "zh": {
+      "name": "巨鉗螳螂",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Cizayox",
+      "genus": "Pince"
+    },
+    "de": {
+      "name": "Scherox",
+      "genus": "Kneifer"
+    },
+    "es": {
+      "name": "Scizor",
+      "genus": "Tenaza"
+    },
+    "it": {
+      "name": "Scizor",
+      "genus": "Chela"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nla-locations-layer",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Locations",
+    "description": "Locations in NLA",
+    "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "the-dadaan-girls",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "The Dadaan Girls",
+    "subcategory": "Prone",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 404,
+      "maximum": 520
+    },
+    "health_range": {
+      "minimum": 59242,
+      "maximum": 69327
+    },
+    "melee_power_range": {
+      "minimum": 658,
+      "maximum": 820
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 690,
+      "maximum": 861
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 288
+    },
+    "potential_range": {
+      "minimum": 789,
+      "maximum": 984
+    },
+    "evasion_range": {
+      "minimum": 146,
+      "maximum": 180
+    },
+    "notes": "Found at 307",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

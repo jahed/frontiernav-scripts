@@ -1,0 +1,44 @@
+{
+  "id": "shiftry",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 275,
+    "height": 13,
+    "weight": 596,
+    "base_experience": 216,
+    "name": "Shiftry",
+    "genus": "Wicked"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダーテング",
+      "genus": "よこしま"
+    },
+    "ko": {
+      "name": "다탱구",
+      "genus": "부정하기"
+    },
+    "zh": {
+      "name": "狡猾天狗",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tengalice",
+      "genus": "Malveillant"
+    },
+    "de": {
+      "name": "Tengulist",
+      "genus": "Verschlagen"
+    },
+    "es": {
+      "name": "Shiftry",
+      "genus": "Malvado"
+    },
+    "it": {
+      "name": "Shiftry",
+      "genus": "Burbero"
+    }
+  }
+}

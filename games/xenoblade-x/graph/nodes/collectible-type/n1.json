@@ -1,0 +1,17 @@
+{
+  "id": "n1",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Vegetables"
+  },
+  "locale": {
+    "de": {
+      "name": "Gemüse"
+    },
+    "it": {
+      "name": "Vegetali"
+    }
+  }
+}

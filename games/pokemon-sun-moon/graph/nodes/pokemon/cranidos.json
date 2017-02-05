@@ -1,0 +1,44 @@
+{
+  "id": "cranidos",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 408,
+    "height": 9,
+    "weight": 315,
+    "base_experience": 70,
+    "name": "Cranidos",
+    "genus": "Head Butt"
+  },
+  "locale": {
+    "ja": {
+      "name": "ズガイドス",
+      "genus": "ずつき"
+    },
+    "ko": {
+      "name": "두개도스",
+      "genus": "박치기"
+    },
+    "zh": {
+      "name": "頭蓋龍",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Kranidos",
+      "genus": "Coud'Boule"
+    },
+    "de": {
+      "name": "Koknodon",
+      "genus": "Kopfstoß"
+    },
+    "es": {
+      "name": "Cranidos",
+      "genus": "Cabezazo"
+    },
+    "it": {
+      "name": "Cranidos",
+      "genus": "Cranioso"
+    }
+  }
+}

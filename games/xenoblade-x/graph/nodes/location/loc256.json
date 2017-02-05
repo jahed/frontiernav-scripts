@@ -1,0 +1,10 @@
+{
+  "id": "loc256",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Lesser Anvil",
+    "locationTypeId": "Area"
+  }
+}

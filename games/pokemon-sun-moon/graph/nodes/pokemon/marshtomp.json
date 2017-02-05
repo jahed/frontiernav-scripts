@@ -1,0 +1,44 @@
+{
+  "id": "marshtomp",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 259,
+    "height": 7,
+    "weight": 280,
+    "base_experience": 142,
+    "name": "Marshtomp",
+    "genus": "Mud Fish"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヌマクロー",
+      "genus": "ぬまうお"
+    },
+    "ko": {
+      "name": "늪짱이",
+      "genus": "늪물고기"
+    },
+    "zh": {
+      "name": "沼躍魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Flobio",
+      "genus": "Poissonboue"
+    },
+    "de": {
+      "name": "Moorabbel",
+      "genus": "Lehmhüpfer"
+    },
+    "es": {
+      "name": "Marshtomp",
+      "genus": "Pez Lodo"
+    },
+    "it": {
+      "name": "Marshtomp",
+      "genus": "Fango Pesce"
+    }
+  }
+}

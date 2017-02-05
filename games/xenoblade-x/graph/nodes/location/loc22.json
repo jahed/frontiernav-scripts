@@ -1,0 +1,11 @@
+{
+  "id": "loc22",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Bedrock Hold",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

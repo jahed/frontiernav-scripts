@@ -1,0 +1,40 @@
+{
+  "id": "aegislash-shield",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 681,
+    "height": 17,
+    "weight": 530,
+    "base_experience": 234,
+    "name": "Aegislash",
+    "genus": "Royal Sword"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギルガルド",
+      "genus": "おうけん"
+    },
+    "ko": {
+      "name": "킬가르도",
+      "genus": "왕검"
+    },
+    "fr": {
+      "name": "Exagide",
+      "genus": "Noble Lame"
+    },
+    "de": {
+      "name": "Durengard",
+      "genus": "Königsklinge"
+    },
+    "es": {
+      "name": "Aegislash",
+      "genus": "Espada Real"
+    },
+    "it": {
+      "name": "Aegislash",
+      "genus": "Spadareale"
+    }
+  }
+}

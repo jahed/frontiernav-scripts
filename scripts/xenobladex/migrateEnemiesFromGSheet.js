@@ -3,11 +3,6 @@ const _ = require('lodash')
 const bluebird = require('bluebird')
 const fs = bluebird.promisifyAll(require('fs'))
 const csv = bluebird.promisifyAll(require('csv'))
-const request = bluebird.promisifyAll(require('request'))
-
-function getExportUrl(fileKey, sheetName) {
-    return `https://docs.google.com/spreadsheets/d/${fileKey}/gviz/tq?tqx=out:csv&sheet=${sheetName}`
-}
 
 function logJson(promise) {
     return promise.then(d => JSON.stringify(d, undefined, 2)).then(console.log)
@@ -124,15 +119,6 @@ function parseNumber(enemy, key) {
 function hasValue(v) {
     return v !== '---' && v !== ''
 }
-
-// const csvPromise = request.getAsync({ url: getExportUrl('1g0YR4M8RAHiRhCbAvV4tjXXHLEhRMrARzZMYAUGmyZ4', 'Bestiary') })
-//     .then(response => {
-//         if (response.statusCode !== 200) {
-//             throw new Error(`Request failed with ${response.statusCode}`)
-//         }
-//         const csvContent = response.body
-//         return csvContent
-//     })
 
 const csvPromise = fs.readFileAsync(path.resolve('/media/sf_shared/data/bestiary.csv'))
 

@@ -1,0 +1,44 @@
+{
+  "id": "pidgeot",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 18,
+    "height": 15,
+    "weight": 395,
+    "base_experience": 216,
+    "name": "Pidgeot",
+    "genus": "Bird"
+  },
+  "locale": {
+    "ja": {
+      "name": "ピジョット",
+      "genus": "とり"
+    },
+    "ko": {
+      "name": "피죤투",
+      "genus": "새"
+    },
+    "zh": {
+      "name": "比鵰",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Roucarnage",
+      "genus": "Oiseau"
+    },
+    "de": {
+      "name": "Tauboss",
+      "genus": "Vogel"
+    },
+    "es": {
+      "name": "Pidgeot",
+      "genus": "Pájaro"
+    },
+    "it": {
+      "name": "Pidgeot",
+      "genus": "Uccello"
+    }
+  }
+}

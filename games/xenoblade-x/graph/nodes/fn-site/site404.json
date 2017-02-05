@@ -1,0 +1,13 @@
+{
+  "id": "site404",
+  "labels": [
+    "FNSite"
+  ],
+  "data": {
+    "number": 404,
+    "production": "B",
+    "revenue": "S",
+    "combat_support": "S",
+    "sightseeing_spots": 1
+  }
+}

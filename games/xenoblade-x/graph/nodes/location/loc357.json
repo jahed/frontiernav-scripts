@@ -1,0 +1,11 @@
+{
+  "id": "loc357",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Shark's Jaws",
+    "cave": true,
+    "locationTypeId": "Area"
+  }
+}

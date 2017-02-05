@@ -1,0 +1,11 @@
+{
+  "id": "loc88",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Ensanguined Font",
+    "locationTypeId": "Unexplored"
+  }
+}

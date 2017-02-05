@@ -1,0 +1,30 @@
+{
+  "id": "boost-mulch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Boost Mulch"
+  },
+  "locale": {
+    "ja": {
+      "name": "ぐんぐんこやし"
+    },
+    "ko": {
+      "name": "부쩍부쩍비료"
+    },
+    "fr": {
+      "name": "Fertibérance"
+    },
+    "de": {
+      "name": "Wuchermulch"
+    },
+    "es": {
+      "name": "Abono Fructífero"
+    },
+    "it": {
+      "name": "Fertilcopioso"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "goliath-sylooth",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Goliath Sylooth",
+    "subcategory": "Sylooth",
+    "category": "Humanoid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 1022,
+      "maximum": 1411
+    },
+    "health_range": {
+      "minimum": 452348,
+      "maximum": 547344
+    },
+    "melee_power_range": {
+      "minimum": 1284,
+      "maximum": 1664
+    },
+    "melee_accuracy_range": {
+      "minimum": 197,
+      "maximum": 228
+    },
+    "ranged_power_range": {
+      "minimum": 1136,
+      "maximum": 1472
+    },
+    "ranged_accuracy_range": {
+      "minimum": 182,
+      "maximum": 211
+    },
+    "potential_range": {
+      "minimum": 388,
+      "maximum": 1280
+    },
+    "evasion_range": {
+      "minimum": 59,
+      "maximum": 75
+    },
+    "notes": "Found at 222E",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

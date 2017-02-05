@@ -1,0 +1,32 @@
+{
+  "id": "resist-wing",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Resist Wing",
+    "summary": "Increases Defense effort by 1.",
+    "description": "Used on a party Pokémon\n:   Increases the target's Defense effort by 1."
+  },
+  "locale": {
+    "ja": {
+      "name": "ていこうのハネ"
+    },
+    "ko": {
+      "name": "저항력날개"
+    },
+    "fr": {
+      "name": "Aile Armure"
+    },
+    "de": {
+      "name": "Abwehrfeder"
+    },
+    "es": {
+      "name": "Pluma Aguante"
+    },
+    "it": {
+      "name": "Piumtutela"
+    }
+  }
+}

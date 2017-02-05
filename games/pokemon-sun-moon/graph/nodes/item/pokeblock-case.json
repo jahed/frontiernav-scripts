@@ -1,0 +1,29 @@
+{
+  "id": "pokeblock-case",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Pokéblock Case",
+    "summary": "Holds Pokéblocks.",
+    "description": "Stores Pokéblocks."
+  },
+  "locale": {
+    "ja": {
+      "name": "ポロックケース"
+    },
+    "fr": {
+      "name": "Boîte Pokéblocs"
+    },
+    "de": {
+      "name": "Pokériegelbox"
+    },
+    "es": {
+      "name": "Tubo Pokécubos"
+    },
+    "it": {
+      "name": "PortaPokémelle"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "n334",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "BLADE Concourse",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Sammelpunkt"
+    },
+    "it": {
+      "name": "Ingresso BLADE"
+    }
+  }
+}

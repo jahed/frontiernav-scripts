@@ -1,0 +1,11 @@
+{
+  "id": "loc329",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Rockmole's Burrow",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eU3q2pvr",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Badul's Seidr",
+    "level": 61,
+    "notes": "\"Badul's Seidr\" appears at the same spot during the day.",
+    "category": "Mechanoid",
+    "subcategory": "Seidr",
+    "time": "19:00 - 5:00",
+    "image": "eU3q2pvr"
+  }
+}

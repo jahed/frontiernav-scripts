@@ -1,0 +1,32 @@
+{
+  "id": "red-chain",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Red Chain",
+    "summary": "Used to bind Palkia and Dialga.",
+    "description": "Unused."
+  },
+  "locale": {
+    "ja": {
+      "name": "あかいくさり"
+    },
+    "ko": {
+      "name": "빨강쇠사슬"
+    },
+    "fr": {
+      "name": "Chaîne Rouge"
+    },
+    "de": {
+      "name": "Rote Kette"
+    },
+    "es": {
+      "name": "Cadena Roja"
+    },
+    "it": {
+      "name": "Rossocatena"
+    }
+  }
+}

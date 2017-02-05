@@ -1,0 +1,15 @@
+{
+  "id": "loc169",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "FN Site 408",
+    "locationTypeId": "MiraniumDeposit"
+  },
+  "locale": {
+    "it": {
+      "name": "Sito FN 408"
+    }
+  }
+}

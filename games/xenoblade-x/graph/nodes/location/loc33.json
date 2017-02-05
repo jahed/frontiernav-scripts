@@ -1,0 +1,10 @@
+{
+  "id": "loc33",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Bident Crossing",
+    "locationTypeId": "Landmark"
+  }
+}

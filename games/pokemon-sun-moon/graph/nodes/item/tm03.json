@@ -1,0 +1,32 @@
+{
+  "id": "tm03",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM03",
+    "summary": "Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)",
+    "description": "Teaches Water Pulse to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン０３"
+    },
+    "ko": {
+      "name": "기술머신03"
+    },
+    "fr": {
+      "name": "CT03"
+    },
+    "de": {
+      "name": "TM03"
+    },
+    "es": {
+      "name": "MT03"
+    },
+    "it": {
+      "name": "MT03"
+    }
+  }
+}

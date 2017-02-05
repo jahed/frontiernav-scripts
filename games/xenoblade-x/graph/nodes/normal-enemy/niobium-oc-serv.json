@@ -1,0 +1,57 @@
+{
+  "id": "niobium-oc-serv",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Niobium Oc-serv",
+    "subcategory": "Oc-serv",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 269,
+      "maximum": 381
+    },
+    "health_range": {
+      "minimum": 51661,
+      "maximum": 72318
+    },
+    "melee_power_range": {
+      "minimum": 524,
+      "maximum": 715
+    },
+    "melee_accuracy_range": {
+      "minimum": 160,
+      "maximum": 184
+    },
+    "ranged_power_range": {
+      "minimum": 550,
+      "maximum": 752
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 524,
+      "maximum": 715
+    },
+    "evasion_range": {
+      "minimum": 96,
+      "maximum": 126
+    },
+    "notes": "Found at 416",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

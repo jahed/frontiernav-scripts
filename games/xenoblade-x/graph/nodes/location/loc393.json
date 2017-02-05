@@ -1,0 +1,16 @@
+{
+  "id": "loc393",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Talon Rock Third Terrane",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Roccia Sperone piana III"
+    }
+  }
+}

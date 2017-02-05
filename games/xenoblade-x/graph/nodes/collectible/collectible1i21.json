@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i21",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Hemp Wallet",
+    "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Borsa di canapa"
+    }
+  }
+}

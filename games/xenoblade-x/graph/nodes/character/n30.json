@@ -1,0 +1,11 @@
+{
+  "id": "n30",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Avatar",
+    "image": "avatar-banner",
+    "thumbnail": "avatar-face.png"
+  }
+}

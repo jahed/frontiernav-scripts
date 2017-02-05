@@ -1,0 +1,40 @@
+{
+  "id": "zweilous",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 634,
+    "height": 14,
+    "weight": 500,
+    "base_experience": 147,
+    "name": "Zweilous",
+    "genus": "Hostile"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジヘッド",
+      "genus": "らんぼう"
+    },
+    "ko": {
+      "name": "디헤드",
+      "genus": "흉포"
+    },
+    "fr": {
+      "name": "Diamat",
+      "genus": "Violent"
+    },
+    "de": {
+      "name": "Duodino",
+      "genus": "Grobheit"
+    },
+    "es": {
+      "name": "Zweilous",
+      "genus": "Violento"
+    },
+    "it": {
+      "name": "Zweilous",
+      "genus": "Irruenza"
+    }
+  }
+}

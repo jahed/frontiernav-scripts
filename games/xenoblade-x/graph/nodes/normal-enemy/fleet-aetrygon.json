@@ -1,0 +1,58 @@
+{
+  "id": "fleet-aetrygon",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Fleet Aetrygon",
+    "subcategory": "Aetrygon",
+    "category": "Piscinoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 90,
+      "maximum": 147
+    },
+    "health_range": {
+      "minimum": 18418,
+      "maximum": 31374
+    },
+    "melee_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 134,
+      "maximum": 161
+    },
+    "ranged_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "ranged_accuracy_range": {
+      "minimum": 140,
+      "maximum": 170
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 60,
+      "maximum": 93
+    },
+    "notes": "Found at 309E,312SE,313(lo),319,320",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

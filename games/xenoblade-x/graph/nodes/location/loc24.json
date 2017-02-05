@@ -1,0 +1,10 @@
+{
+  "id": "loc24",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Beehive Rock",
+    "locationTypeId": "Area"
+  }
+}

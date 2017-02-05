@@ -1,0 +1,10 @@
+{
+  "id": "loc314",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Primeval Meadow",
+    "locationTypeId": "Unexplored"
+  }
+}

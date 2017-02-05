@@ -1,0 +1,44 @@
+{
+  "id": "golbat",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 42,
+    "height": 16,
+    "weight": 550,
+    "base_experience": 159,
+    "name": "Golbat",
+    "genus": "Bat"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴルバット",
+      "genus": "こうもり"
+    },
+    "ko": {
+      "name": "골뱃",
+      "genus": "박쥐"
+    },
+    "zh": {
+      "name": "大嘴蝠",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Nosferalto",
+      "genus": "Chovsouris"
+    },
+    "de": {
+      "name": "Golbat",
+      "genus": "Fledermaus"
+    },
+    "es": {
+      "name": "Golbat",
+      "genus": "Murciélago"
+    },
+    "it": {
+      "name": "Golbat",
+      "genus": "Pipistrello"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "silph-scope",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Silph Scope",
+    "summary": "Used to identify the true forms of ghosts in Pokémon Tower.",
+    "description": "Identifies ghosts in []{location:pokemon-tower}."
+  },
+  "locale": {
+    "ja": {
+      "name": "シルフスコープ"
+    },
+    "fr": {
+      "name": "Scope Sylphe"
+    },
+    "de": {
+      "name": "Silph Scope"
+    },
+    "es": {
+      "name": "Scope Silph"
+    },
+    "it": {
+      "name": "Spettrosonda"
+    }
+  }
+}

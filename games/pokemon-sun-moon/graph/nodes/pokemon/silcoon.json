@@ -1,0 +1,44 @@
+{
+  "id": "silcoon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 266,
+    "height": 6,
+    "weight": 100,
+    "base_experience": 72,
+    "name": "Silcoon",
+    "genus": "Cocoon"
+  },
+  "locale": {
+    "ja": {
+      "name": "カラサリス",
+      "genus": "さなぎ"
+    },
+    "ko": {
+      "name": "실쿤",
+      "genus": "번데기"
+    },
+    "zh": {
+      "name": "甲殼蛹",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Armulys",
+      "genus": "Cocon"
+    },
+    "de": {
+      "name": "Schaloko",
+      "genus": "Kokon"
+    },
+    "es": {
+      "name": "Silcoon",
+      "genus": "Capullo"
+    },
+    "it": {
+      "name": "Silcoon",
+      "genus": "Bozzolo"
+    }
+  }
+}

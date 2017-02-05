@@ -1,0 +1,32 @@
+{
+  "id": "watmel-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Watmel Berry",
+    "summary": "Used for creating PokéBlocks and Poffins.",
+    "description": "No effect; only useful for planting and cooking."
+  },
+  "locale": {
+    "ja": {
+      "name": "カイスのみ"
+    },
+    "ko": {
+      "name": "슈박열매"
+    },
+    "fr": {
+      "name": "Baie Stekpa"
+    },
+    "de": {
+      "name": "Wasmelbeere"
+    },
+    "es": {
+      "name": "Baya Sambia"
+    },
+    "it": {
+      "name": "Baccacomero"
+    }
+  }
+}

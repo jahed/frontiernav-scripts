@@ -1,0 +1,40 @@
+{
+  "id": "solosis",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 577,
+    "height": 3,
+    "weight": 10,
+    "base_experience": 58,
+    "name": "Solosis",
+    "genus": "Cell"
+  },
+  "locale": {
+    "ja": {
+      "name": "ユニラン",
+      "genus": "さいぼう"
+    },
+    "ko": {
+      "name": "유니란",
+      "genus": "세포"
+    },
+    "fr": {
+      "name": "Nucléos",
+      "genus": "Cellule"
+    },
+    "de": {
+      "name": "Monozyto",
+      "genus": "Zelle"
+    },
+    "es": {
+      "name": "Solosis",
+      "genus": "Célula"
+    },
+    "it": {
+      "name": "Solosis",
+      "genus": "Cellula"
+    }
+  }
+}

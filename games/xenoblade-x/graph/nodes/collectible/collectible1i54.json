@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i54",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Assassin Springtail",
+    "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Collembolo assassino"
+    }
+  }
+}

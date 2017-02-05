@@ -1,0 +1,16 @@
+{
+  "id": "n777",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Locations",
+    "description": "Locations in BLADE Barracks",
+    "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
+  }
+}

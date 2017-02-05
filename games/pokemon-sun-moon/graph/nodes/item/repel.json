@@ -1,0 +1,32 @@
+{
+  "id": "repel",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 350,
+    "name": "Repel",
+    "summary": "For 100 steps, prevents wild encounters of level lower than your party's lead Pokémon.",
+    "description": "Used outside of battle\n:   Trainer will skip encounters with wild Pokémon of a lower level than the lead party Pokémon.  This effect wears off after the trainer takes 100 steps."
+  },
+  "locale": {
+    "ja": {
+      "name": "むしよけスプレー"
+    },
+    "ko": {
+      "name": "벌레회피스프레이"
+    },
+    "fr": {
+      "name": "Repousse"
+    },
+    "de": {
+      "name": "Schutz"
+    },
+    "es": {
+      "name": "Repelente"
+    },
+    "it": {
+      "name": "Repellente"
+    }
+  }
+}

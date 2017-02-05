@@ -1,0 +1,18 @@
+{
+  "id": "n830",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Central Industrial District",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Industriegebiet Zentrum"
+    },
+    "it": {
+      "name": "Zona industriale centro"
+    }
+  }
+}

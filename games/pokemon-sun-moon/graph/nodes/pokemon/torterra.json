@@ -1,0 +1,44 @@
+{
+  "id": "torterra",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 389,
+    "height": 22,
+    "weight": 3100,
+    "base_experience": 236,
+    "name": "Torterra",
+    "genus": "Continent"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドダイトス",
+      "genus": "たいりく"
+    },
+    "ko": {
+      "name": "토대부기",
+      "genus": "대륙"
+    },
+    "zh": {
+      "name": "土台龜",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Torterra",
+      "genus": "Continent"
+    },
+    "de": {
+      "name": "Chelterrar",
+      "genus": "Kontinent"
+    },
+    "es": {
+      "name": "Torterra",
+      "genus": "Continente"
+    },
+    "it": {
+      "name": "Torterra",
+      "genus": "Continente"
+    }
+  }
+}

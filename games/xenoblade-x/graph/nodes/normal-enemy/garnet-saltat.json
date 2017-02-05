@@ -1,0 +1,58 @@
+{
+  "id": "garnet-saltat",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Garnet Saltat",
+    "subcategory": "Saltat",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 420,
+      "maximum": 541
+    },
+    "health_range": {
+      "minimum": 89660,
+      "maximum": 104923
+    },
+    "melee_power_range": {
+      "minimum": 759,
+      "maximum": 947
+    },
+    "melee_accuracy_range": {
+      "minimum": 256,
+      "maximum": 294
+    },
+    "ranged_power_range": {
+      "minimum": 759,
+      "maximum": 947
+    },
+    "ranged_accuracy_range": {
+      "minimum": 250,
+      "maximum": 288
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at 106",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

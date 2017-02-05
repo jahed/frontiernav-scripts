@@ -1,0 +1,44 @@
+{
+  "id": "mantyke",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 458,
+    "height": 10,
+    "weight": 650,
+    "base_experience": 69,
+    "name": "Mantyke",
+    "genus": "Kite"
+  },
+  "locale": {
+    "ja": {
+      "name": "タマンタ",
+      "genus": "カイト"
+    },
+    "ko": {
+      "name": "타만타",
+      "genus": "연"
+    },
+    "zh": {
+      "name": "小球飛魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Babimanta",
+      "genus": "Cervolant"
+    },
+    "de": {
+      "name": "Mantirps",
+      "genus": "Flugrochen"
+    },
+    "es": {
+      "name": "Mantyke",
+      "genus": "Milano"
+    },
+    "it": {
+      "name": "Mantyke",
+      "genus": "Aquilone"
+    }
+  }
+}

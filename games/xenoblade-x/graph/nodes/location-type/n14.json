@@ -1,0 +1,14 @@
+{
+  "id": "n14",
+  "labels": [
+    "LocationType"
+  ],
+  "data": {
+    "name": "Scenic Viewpoint"
+  },
+  "locale": {
+    "de": {
+      "name": "Aussichtspunkt"
+    }
+  }
+}

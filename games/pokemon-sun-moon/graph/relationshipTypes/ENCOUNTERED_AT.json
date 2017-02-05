@@ -1,0 +1,9 @@
+{
+  "id": "ENCOUNTERED_AT",
+  "startLabels": null,
+  "endLabels": [
+    "Encounter"
+  ],
+  "properties": {
+  }
+}

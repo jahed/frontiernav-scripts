@@ -1,0 +1,13 @@
+{
+  "id": "shape5i91",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": 54.316523240258256,
+      "lng": 88.41796875
+    },
+    "radius": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "p68",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": 24.647017162630366,
+      "lng": 65.6103515625
+    },
+    "markerStyle": "text"
+  }
+}

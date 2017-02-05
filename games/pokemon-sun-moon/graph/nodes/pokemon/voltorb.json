@@ -1,0 +1,44 @@
+{
+  "id": "voltorb",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 100,
+    "height": 5,
+    "weight": 104,
+    "base_experience": 66,
+    "name": "Voltorb",
+    "genus": "Ball"
+  },
+  "locale": {
+    "ja": {
+      "name": "ビリリダマ",
+      "genus": "ボール"
+    },
+    "ko": {
+      "name": "찌리리공",
+      "genus": "볼"
+    },
+    "zh": {
+      "name": "雷電球",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Voltorbe",
+      "genus": "Balle"
+    },
+    "de": {
+      "name": "Voltobal",
+      "genus": "Ball"
+    },
+    "es": {
+      "name": "Voltorb",
+      "genus": "Bola"
+    },
+    "it": {
+      "name": "Voltorb",
+      "genus": "Ball"
+    }
+  }
+}

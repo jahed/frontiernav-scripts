@@ -1,0 +1,11 @@
+{
+  "id": "loc268",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Molten Hollow",
+    "cave": true,
+    "locationTypeId": "Landmark"
+  }
+}

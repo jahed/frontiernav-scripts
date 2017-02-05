@@ -1,0 +1,14 @@
+{
+  "id": "tatty-insect-wing",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Tatty Insect Wing"
+  },
+  "locale": {
+    "de": {
+      "name": "Käferflügelfetzen"
+    }
+  }
+}

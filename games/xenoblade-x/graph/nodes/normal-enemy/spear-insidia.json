@@ -1,0 +1,57 @@
+{
+  "id": "spear-insidia",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Spear Insidia",
+    "subcategory": "Insidia",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 51,
+      "maximum": 88
+    },
+    "health_range": {
+      "minimum": 9895,
+      "maximum": 21058
+    },
+    "melee_power_range": {
+      "minimum": 135,
+      "maximum": 236
+    },
+    "melee_accuracy_range": {
+      "minimum": 128,
+      "maximum": 146
+    },
+    "ranged_power_range": {
+      "minimum": 125,
+      "maximum": 219
+    },
+    "ranged_accuracy_range": {
+      "minimum": 120,
+      "maximum": 138
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 32,
+      "maximum": 49
+    },
+    "notes": "Found at 204,217,219,222",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

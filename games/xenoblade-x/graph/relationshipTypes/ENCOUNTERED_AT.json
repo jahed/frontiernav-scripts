@@ -1,0 +1,12 @@
+{
+  "id": "ENCOUNTERED_AT",
+  "data": {
+    "name": "Encountered At",
+    "description": "How something can be encountered."
+  },
+  "startLabels": null,
+  "endLabels": [
+    "Encounter"
+  ],
+  "properties": {}
+}

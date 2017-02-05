@@ -1,0 +1,32 @@
+{
+  "id": "durin-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Durin Berry",
+    "summary": "Used for creating PokéBlocks and Poffins.",
+    "description": "No effect; only useful for planting and cooking."
+  },
+  "locale": {
+    "ja": {
+      "name": "ドリのみ"
+    },
+    "ko": {
+      "name": "두리열매"
+    },
+    "fr": {
+      "name": "Baie Durin"
+    },
+    "de": {
+      "name": "Durinbeere"
+    },
+    "es": {
+      "name": "Baya Rudion"
+    },
+    "it": {
+      "name": "Baccadurian"
+    }
+  }
+}

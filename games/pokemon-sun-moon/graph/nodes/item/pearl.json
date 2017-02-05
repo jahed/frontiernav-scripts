@@ -1,0 +1,32 @@
+{
+  "id": "pearl",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1400,
+    "name": "Pearl",
+    "summary": "Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "しんじゅ"
+    },
+    "ko": {
+      "name": "진주"
+    },
+    "fr": {
+      "name": "Perle"
+    },
+    "de": {
+      "name": "Perle"
+    },
+    "es": {
+      "name": "Perla"
+    },
+    "it": {
+      "name": "Perla"
+    }
+  }
+}

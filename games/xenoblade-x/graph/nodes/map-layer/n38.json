@@ -1,0 +1,19 @@
+{
+  "id": "n38",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Segments",
+    "description": "Segments in NLA",
+    "thumbnail": "view-segments"
+  },
+  "locale": {
+    "de": {
+      "name": "Segmente"
+    },
+    "it": {
+      "name": "Settori"
+    }
+  }
+}

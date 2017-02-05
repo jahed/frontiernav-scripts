@@ -1,0 +1,57 @@
+{
+  "id": "sand-forfex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Sand Forfex",
+    "subcategory": "Forfex",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 54,
+      "maximum": 94
+    },
+    "health_range": {
+      "minimum": 7096,
+      "maximum": 15103
+    },
+    "melee_power_range": {
+      "minimum": 141,
+      "maximum": 247
+    },
+    "melee_accuracy_range": {
+      "minimum": 131,
+      "maximum": 150
+    },
+    "ranged_power_range": {
+      "minimum": 115,
+      "maximum": 202
+    },
+    "ranged_accuracy_range": {
+      "minimum": 126,
+      "maximum": 144
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 31,
+      "maximum": 47
+    },
+    "notes": "Found at IbitsaSW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 40,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

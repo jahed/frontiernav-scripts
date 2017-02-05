@@ -1,0 +1,44 @@
+{
+  "id": "honchkrow",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 430,
+    "height": 9,
+    "weight": 273,
+    "base_experience": 177,
+    "name": "Honchkrow",
+    "genus": "Big Boss"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドンカラス",
+      "genus": "おおボス"
+    },
+    "ko": {
+      "name": "돈크로우",
+      "genus": "큰형님"
+    },
+    "zh": {
+      "name": "烏鴉頭頭",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Corboss",
+      "genus": "Big Boss"
+    },
+    "de": {
+      "name": "Kramshef",
+      "genus": "Anführer"
+    },
+    "es": {
+      "name": "Honchkrow",
+      "genus": "Gran Jefe"
+    },
+    "it": {
+      "name": "Honchkrow",
+      "genus": "Grancapo"
+    }
+  }
+}

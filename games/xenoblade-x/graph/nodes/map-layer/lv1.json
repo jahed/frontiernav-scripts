@@ -1,0 +1,19 @@
+{
+  "id": "lv1",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Collectibles",
+    "icon": "book",
+    "thumbnail": "view-collectibles"
+  },
+  "locale": {
+    "de": {
+      "name": "Sammel-Items"
+    },
+    "it": {
+      "name": "Collezionabili"
+    }
+  }
+}

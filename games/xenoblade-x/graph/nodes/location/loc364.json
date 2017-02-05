@@ -1,0 +1,11 @@
+{
+  "id": "loc364",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "South Ant's Nest",
+    "locationTypeId": "Area"
+  }
+}

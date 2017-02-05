@@ -1,0 +1,15 @@
+{
+  "id": "loc287",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "North Coast",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Costa Nord"
+    }
+  }
+}

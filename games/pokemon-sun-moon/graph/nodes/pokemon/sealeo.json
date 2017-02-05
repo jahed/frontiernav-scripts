@@ -1,0 +1,44 @@
+{
+  "id": "sealeo",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 364,
+    "height": 11,
+    "weight": 876,
+    "base_experience": 144,
+    "name": "Sealeo",
+    "genus": "Ball Roll"
+  },
+  "locale": {
+    "ja": {
+      "name": "トドグラー",
+      "genus": "たままわし"
+    },
+    "ko": {
+      "name": "씨레오",
+      "genus": "공돌리기"
+    },
+    "zh": {
+      "name": "海魔獅",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Phogleur",
+      "genus": "Roule Boule"
+    },
+    "de": {
+      "name": "Seejong",
+      "genus": "Spielball"
+    },
+    "es": {
+      "name": "Sealeo",
+      "genus": "Rodabola"
+    },
+    "it": {
+      "name": "Sealeo",
+      "genus": "Rotapalla"
+    }
+  }
+}

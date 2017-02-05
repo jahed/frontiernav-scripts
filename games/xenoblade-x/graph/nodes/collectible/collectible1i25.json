@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i25",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Centrifugal Beam Generator",
+    "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Generatore a raggi"
+    }
+  }
+}

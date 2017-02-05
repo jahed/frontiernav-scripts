@@ -1,0 +1,6 @@
+{
+  "id": "level",
+  "type": "integer",
+  "minimum": 1,
+  "maximum": 99
+}

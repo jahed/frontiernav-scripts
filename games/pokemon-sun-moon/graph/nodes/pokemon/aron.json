@@ -1,0 +1,44 @@
+{
+  "id": "aron",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 304,
+    "height": 4,
+    "weight": 600,
+    "base_experience": 66,
+    "name": "Aron",
+    "genus": "Iron Armor"
+  },
+  "locale": {
+    "ja": {
+      "name": "ココドラ",
+      "genus": "てつヨロイ"
+    },
+    "ko": {
+      "name": "가보리",
+      "genus": "철갑옷"
+    },
+    "zh": {
+      "name": "可可多拉",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Galekid",
+      "genus": "Armurfer"
+    },
+    "de": {
+      "name": "Stollunior",
+      "genus": "Eisenpanzer"
+    },
+    "es": {
+      "name": "Aron",
+      "genus": "Cor. Férrea"
+    },
+    "it": {
+      "name": "Aron",
+      "genus": "Corazza"
+    }
+  }
+}

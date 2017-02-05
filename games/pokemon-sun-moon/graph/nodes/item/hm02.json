@@ -1,0 +1,32 @@
+{
+  "id": "hm02",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "HM02",
+    "summary": "Teaches Fly to a compatible Pokémon.",
+    "description": "Teaches Fly to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひでんマシン０２"
+    },
+    "ko": {
+      "name": "비전머신02"
+    },
+    "fr": {
+      "name": "CS02"
+    },
+    "de": {
+      "name": "VM02"
+    },
+    "es": {
+      "name": "MO02"
+    },
+    "it": {
+      "name": "MN02"
+    }
+  }
+}

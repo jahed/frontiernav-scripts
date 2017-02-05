@@ -1,0 +1,32 @@
+{
+  "id": "rocky-helmet",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Rocky Helmet",
+    "summary": "Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",
+    "description": "Held\n:   When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage."
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴツゴツメット"
+    },
+    "ko": {
+      "name": "울퉁불퉁멧"
+    },
+    "fr": {
+      "name": "Casque Brut"
+    },
+    "de": {
+      "name": "Beulenhelm"
+    },
+    "es": {
+      "name": "Casco Dentado"
+    },
+    "it": {
+      "name": "Bitorzolelmo"
+    }
+  }
+}

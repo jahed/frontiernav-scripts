@@ -1,0 +1,57 @@
+{
+  "id": "pure-cinicula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Pure Cinicula",
+    "subcategory": "Cinicula",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 157,
+      "maximum": 258
+    },
+    "health_range": {
+      "minimum": 24801,
+      "maximum": 42246
+    },
+    "melee_power_range": {
+      "minimum": 410,
+      "maximum": 604
+    },
+    "melee_accuracy_range": {
+      "minimum": 137,
+      "maximum": 166
+    },
+    "ranged_power_range": {
+      "minimum": 410,
+      "maximum": 604
+    },
+    "ranged_accuracy_range": {
+      "minimum": 133,
+      "maximum": 161
+    },
+    "potential_range": {
+      "minimum": 342,
+      "maximum": 504
+    },
+    "evasion_range": {
+      "minimum": 35,
+      "maximum": 55
+    },
+    "notes": "Found at 109S",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

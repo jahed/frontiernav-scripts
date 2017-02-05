@@ -1,0 +1,32 @@
+{
+  "id": "fashion-case",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Fashion Case",
+    "summary": "Holds Pokémon Accessories for use in Contests.",
+    "description": "Contains Pokémon Accessories."
+  },
+  "locale": {
+    "ja": {
+      "name": "アクセサリーいれ"
+    },
+    "ko": {
+      "name": "액세서리상자"
+    },
+    "fr": {
+      "name": "Coffret Mode"
+    },
+    "de": {
+      "name": "Modekoffer"
+    },
+    "es": {
+      "name": "Caja Corazón"
+    },
+    "it": {
+      "name": "Scatola Chic"
+    }
+  }
+}

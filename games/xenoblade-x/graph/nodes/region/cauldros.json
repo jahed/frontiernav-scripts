@@ -1,0 +1,14 @@
+{
+  "id": "cauldros",
+  "labels": [
+    "Region"
+  ],
+  "data": {
+    "name": "Cauldros",
+    "center": {
+      "lat": 76.51681887717322,
+      "lng": 90
+    },
+    "image": "cauldros"
+  }
+}

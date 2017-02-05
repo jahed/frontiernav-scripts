@@ -1,0 +1,40 @@
+{
+  "id": "vanillish",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 583,
+    "height": 11,
+    "weight": 410,
+    "base_experience": 138,
+    "name": "Vanillish",
+    "genus": "Icy Snow"
+  },
+  "locale": {
+    "ja": {
+      "name": "バニリッチ",
+      "genus": "ひょうせつ"
+    },
+    "ko": {
+      "name": "바닐리치",
+      "genus": "빙설"
+    },
+    "fr": {
+      "name": "Sorboul",
+      "genus": "Grêle"
+    },
+    "de": {
+      "name": "Gelatroppo",
+      "genus": "Firn"
+    },
+    "es": {
+      "name": "Vanillish",
+      "genus": "Nieve Helada"
+    },
+    "it": {
+      "name": "Vanillish",
+      "genus": "Geloneve"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "togetic",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 176,
+    "height": 6,
+    "weight": 32,
+    "base_experience": 142,
+    "name": "Togetic",
+    "genus": "Happiness"
+  },
+  "locale": {
+    "ja": {
+      "name": "トゲチック",
+      "genus": "しあわせ"
+    },
+    "ko": {
+      "name": "토게틱",
+      "genus": "행복"
+    },
+    "zh": {
+      "name": "波克基古",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Togetic",
+      "genus": "Bonheur"
+    },
+    "de": {
+      "name": "Togetic",
+      "genus": "Freude"
+    },
+    "es": {
+      "name": "Togetic",
+      "genus": "Felicidad"
+    },
+    "it": {
+      "name": "Togetic",
+      "genus": "Felicità"
+    }
+  }
+}

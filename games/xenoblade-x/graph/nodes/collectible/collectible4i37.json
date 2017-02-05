@@ -1,0 +1,13 @@
+{
+  "id": "collectible4i37",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "L-002 Dagoo Heat Ray",
+    "requirements": true,
+    "rarity": 4,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

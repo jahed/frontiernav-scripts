@@ -1,0 +1,40 @@
+{
+  "id": "duosion",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 578,
+    "height": 6,
+    "weight": 80,
+    "base_experience": 130,
+    "name": "Duosion",
+    "genus": "Mitosis"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダブラン",
+      "genus": "ぶんかつ"
+    },
+    "ko": {
+      "name": "듀란",
+      "genus": "분할"
+    },
+    "fr": {
+      "name": "Méios",
+      "genus": "Divisé"
+    },
+    "de": {
+      "name": "Mitodos",
+      "genus": "Zellteilung"
+    },
+    "es": {
+      "name": "Duosion",
+      "genus": "Mitosis"
+    },
+    "it": {
+      "name": "Duosion",
+      "genus": "Scissione"
+    }
+  }
+}

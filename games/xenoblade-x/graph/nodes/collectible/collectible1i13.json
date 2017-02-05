@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i13",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Keppo Carrot",
+    "rarity": 3
+  },
+  "locale": {
+    "de": {
+      "name": "Keppokarotte"
+    },
+    "it": {
+      "name": "Carota Keppo"
+    }
+  }
+}

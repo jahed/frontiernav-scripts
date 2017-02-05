@@ -1,0 +1,18 @@
+{
+  "id": "n339",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "West Gate",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Westtor"
+    },
+    "it": {
+      "name": "Cancello ovest"
+    }
+  }
+}

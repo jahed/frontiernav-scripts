@@ -1,0 +1,11 @@
+{
+  "id": "loc312",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Plundered Ruin",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  }
+}

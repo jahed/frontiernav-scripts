@@ -1,0 +1,19 @@
+{
+  "id": "probe1",
+  "labels": [
+    "FNSiteProbe"
+  ],
+  "data": {
+    "name": "Basic Probe",
+    "type": 0,
+    "attributes": {
+      "production_multiplier": 0.5,
+      "revenue_multiplier": 0.5
+    }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda base"
+    }
+  }
+}

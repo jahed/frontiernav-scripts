@@ -1,0 +1,44 @@
+{
+  "id": "probopass",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 476,
+    "height": 14,
+    "weight": 3400,
+    "base_experience": 184,
+    "name": "Probopass",
+    "genus": "Compass"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダイノーズ",
+      "genus": "コンパス"
+    },
+    "ko": {
+      "name": "대코파스",
+      "genus": "콤파스"
+    },
+    "zh": {
+      "name": "大朝北鼻",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tarinorme",
+      "genus": "Boussole"
+    },
+    "de": {
+      "name": "Voluminas",
+      "genus": "Kompass"
+    },
+    "es": {
+      "name": "Probopass",
+      "genus": "Brújula"
+    },
+    "it": {
+      "name": "Probopass",
+      "genus": "Bussola"
+    }
+  }
+}

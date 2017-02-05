@@ -1,0 +1,32 @@
+{
+  "id": "nest-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Nest Ball",
+    "summary": "Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon.  Has a catch rate of given by `(40 - level) / 10`, where `level` is the wild Pokémon's level, to a maximum of 3.9× for level 1 Pokémon.  If the wild Pokémon's level is higher than 30, this ball has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "ネストボール"
+    },
+    "ko": {
+      "name": "네스트볼"
+    },
+    "fr": {
+      "name": "Faiblo Ball"
+    },
+    "de": {
+      "name": "Nestball"
+    },
+    "es": {
+      "name": "Nido Ball"
+    },
+    "it": {
+      "name": "Minor Ball"
+    }
+  }
+}

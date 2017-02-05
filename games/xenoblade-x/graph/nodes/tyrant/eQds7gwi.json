@@ -1,0 +1,16 @@
+{
+  "id": "eQds7gwi",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Roderick, the Fleet-Footed",
+    "level": 11,
+    "notes": "\"Roderick, the Fleet-Footed\" runs between two points during the day in the East Gate Plain in Primordia. Each point is on the opposite of the dirt road leading away from NLA with the first one being a little north west of the beach at East Gate Plain on the north side of the road and the second point is just north of the same beach but on the south side of the road.",
+    "category": "Theroid",
+    "subcategory": "Evello",
+    "time": "5:00 - 19:00",
+    "image": "eQds7gwi"
+  }
+}

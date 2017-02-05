@@ -1,0 +1,13 @@
+{
+  "id": "shapelocloc241circ",
+  "labels": [
+    "MapArea"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -28.806173508854766,
+      "lng": 133.06640625
+    },
+    "radius": 100000
+  }
+}

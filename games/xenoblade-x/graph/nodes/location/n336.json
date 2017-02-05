@@ -1,0 +1,18 @@
+{
+  "id": "n336",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Division Drive",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Straße der Divisionen"
+    },
+    "it": {
+      "name": "Via delle Divisioni"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "malamar",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 687,
+    "height": 15,
+    "weight": 470,
+    "base_experience": 169,
+    "name": "Malamar",
+    "genus": "Overturning"
+  },
+  "locale": {
+    "ja": {
+      "name": "カラマネロ",
+      "genus": "ぎゃくてん"
+    },
+    "ko": {
+      "name": "칼라마네로",
+      "genus": "역전"
+    },
+    "fr": {
+      "name": "Sepiatroce",
+      "genus": "Révolution"
+    },
+    "de": {
+      "name": "Calamanero",
+      "genus": "Inversion"
+    },
+    "es": {
+      "name": "Malamar",
+      "genus": "Revolución"
+    },
+    "it": {
+      "name": "Malamar",
+      "genus": "Giravolta"
+    }
+  }
+}

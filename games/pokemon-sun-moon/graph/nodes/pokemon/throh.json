@@ -1,0 +1,40 @@
+{
+  "id": "throh",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 538,
+    "height": 13,
+    "weight": 555,
+    "base_experience": 163,
+    "name": "Throh",
+    "genus": "Judo"
+  },
+  "locale": {
+    "ja": {
+      "name": "ナゲキ",
+      "genus": "じゅうどう"
+    },
+    "ko": {
+      "name": "던지미",
+      "genus": "유도"
+    },
+    "fr": {
+      "name": "Judokrak",
+      "genus": "Judo"
+    },
+    "de": {
+      "name": "Jiutesto",
+      "genus": "Judo"
+    },
+    "es": {
+      "name": "Throh",
+      "genus": "Judo"
+    },
+    "it": {
+      "name": "Throh",
+      "genus": "Judo"
+    }
+  }
+}

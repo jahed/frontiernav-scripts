@@ -1,0 +1,44 @@
+{
+  "id": "mudkip",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 258,
+    "height": 4,
+    "weight": 76,
+    "base_experience": 62,
+    "name": "Mudkip",
+    "genus": "Mud Fish"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミズゴロウ",
+      "genus": "ぬまうお"
+    },
+    "ko": {
+      "name": "물짱이",
+      "genus": "늪물고기"
+    },
+    "zh": {
+      "name": "水躍魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Gobou",
+      "genus": "Poissonboue"
+    },
+    "de": {
+      "name": "Hydropi",
+      "genus": "Lehmhüpfer"
+    },
+    "es": {
+      "name": "Mudkip",
+      "genus": "Pez Lodo"
+    },
+    "it": {
+      "name": "Mudkip",
+      "genus": "Fango Pesce"
+    }
+  }
+}

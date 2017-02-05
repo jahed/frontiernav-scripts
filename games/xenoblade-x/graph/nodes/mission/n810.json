@@ -1,0 +1,14 @@
+{
+  "id": "n810",
+  "labels": [
+    "Mission"
+  ],
+  "data": {
+    "name": "Myles to Go"
+  },
+  "locale": {
+    "it": {
+      "name": "Consegne per Myles"
+    }
+  }
+}

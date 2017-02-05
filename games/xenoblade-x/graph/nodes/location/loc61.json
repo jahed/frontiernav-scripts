@@ -1,0 +1,10 @@
+{
+  "id": "loc61",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Crater Oasis",
+    "locationTypeId": "Unexplored"
+  }
+}

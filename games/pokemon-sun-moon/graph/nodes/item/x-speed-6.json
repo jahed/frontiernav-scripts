@@ -1,0 +1,32 @@
+{
+  "id": "x-speed-6",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "X Speed 6",
+    "summary": "Raises Speed by six stages in battle.  Wonder Launcher only.",
+    "description": "Used on a party Pokémon in battle\n:   Raises the target's Speed by six stages.\nThis item can only be obtained or used via the Wonder Launcher."
+  },
+  "locale": {
+    "ja": {
+      "name": "スピーダー６"
+    },
+    "ko": {
+      "name": "스피드업6"
+    },
+    "fr": {
+      "name": "Vitesse 6"
+    },
+    "de": {
+      "name": "X-Tempo6"
+    },
+    "es": {
+      "name": "Velocidad X 6"
+    },
+    "it": {
+      "name": "Velocità X-6"
+    }
+  }
+}

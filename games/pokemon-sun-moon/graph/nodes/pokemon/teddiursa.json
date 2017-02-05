@@ -1,0 +1,44 @@
+{
+  "id": "teddiursa",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 216,
+    "height": 6,
+    "weight": 88,
+    "base_experience": 66,
+    "name": "Teddiursa",
+    "genus": "Little Bear"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒメグマ",
+      "genus": "こぐま"
+    },
+    "ko": {
+      "name": "깜지곰",
+      "genus": "아기곰"
+    },
+    "zh": {
+      "name": "熊寶寶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Teddiursa",
+      "genus": "Mini Ours"
+    },
+    "de": {
+      "name": "Teddiursa",
+      "genus": "Kleinbär"
+    },
+    "es": {
+      "name": "Teddiursa",
+      "genus": "Osito"
+    },
+    "it": {
+      "name": "Teddiursa",
+      "genus": "Orsetto"
+    }
+  }
+}

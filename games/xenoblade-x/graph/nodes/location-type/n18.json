@@ -1,0 +1,14 @@
+{
+  "id": "n18",
+  "labels": [
+    "LocationType"
+  ],
+  "data": {
+    "name": "Miranium Deposit"
+  },
+  "locale": {
+    "de": {
+      "name": "FrontierNav-Knotenpunkt"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hm05",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "HM05",
+    "summary": "Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)",
+    "description": "Teaches Defog to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひでんマシン０５"
+    },
+    "ko": {
+      "name": "비전머신05"
+    },
+    "fr": {
+      "name": "CS05"
+    },
+    "de": {
+      "name": "VM05"
+    },
+    "es": {
+      "name": "MO05"
+    },
+    "it": {
+      "name": "MN05"
+    }
+  }
+}

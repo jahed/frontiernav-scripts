@@ -1,0 +1,11 @@
+{
+  "id": "loc258",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Lifehold Core",
+    "spoiler": true,
+    "locationTypeId": "Island"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "n28",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Alexa",
+    "image": "alexa-banner",
+    "thumbnail": "alexa-face.png"
+  }
+}

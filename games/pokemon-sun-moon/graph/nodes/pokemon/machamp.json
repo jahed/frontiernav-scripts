@@ -1,0 +1,44 @@
+{
+  "id": "machamp",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 68,
+    "height": 16,
+    "weight": 1300,
+    "base_experience": 227,
+    "name": "Machamp",
+    "genus": "Superpower"
+  },
+  "locale": {
+    "ja": {
+      "name": "カイリキー",
+      "genus": "かいりき"
+    },
+    "ko": {
+      "name": "괴력몬",
+      "genus": "괴력"
+    },
+    "zh": {
+      "name": "怪力",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mackogneur",
+      "genus": "Colosse"
+    },
+    "de": {
+      "name": "Machomei",
+      "genus": "Kraftprotz"
+    },
+    "es": {
+      "name": "Machamp",
+      "genus": "Superpoder"
+    },
+    "it": {
+      "name": "Machamp",
+      "genus": "Megaforza"
+    }
+  }
+}

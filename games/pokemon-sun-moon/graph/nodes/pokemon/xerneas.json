@@ -1,0 +1,40 @@
+{
+  "id": "xerneas",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 716,
+    "height": 30,
+    "weight": 2150,
+    "base_experience": 306,
+    "name": "Xerneas",
+    "genus": "Life"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゼルネアス",
+      "genus": "せいめい"
+    },
+    "ko": {
+      "name": "제르네아스",
+      "genus": "생명"
+    },
+    "fr": {
+      "name": "Xerneas",
+      "genus": "Existence"
+    },
+    "de": {
+      "name": "Xerneas",
+      "genus": "Leben"
+    },
+    "es": {
+      "name": "Xerneas",
+      "genus": "Creación"
+    },
+    "it": {
+      "name": "Xerneas",
+      "genus": "Creazione"
+    }
+  }
+}

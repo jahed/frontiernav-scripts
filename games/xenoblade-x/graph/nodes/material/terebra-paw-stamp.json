@@ -1,0 +1,14 @@
+{
+  "id": "terebra-paw-stamp",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Terebra Paw Stamp"
+  },
+  "locale": {
+    "de": {
+      "name": "Terebrapfote"
+    }
+  }
+}

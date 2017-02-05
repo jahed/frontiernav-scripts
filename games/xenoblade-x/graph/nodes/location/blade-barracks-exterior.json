@@ -1,0 +1,10 @@
+{
+  "id": "blade-barracks-exterior",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "BLADE Barracks",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "eevee",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 133,
+    "height": 3,
+    "weight": 65,
+    "base_experience": 65,
+    "name": "Eevee",
+    "genus": "Evolution"
+  },
+  "locale": {
+    "ja": {
+      "name": "イーブイ",
+      "genus": "しんか"
+    },
+    "ko": {
+      "name": "이브이",
+      "genus": "진화"
+    },
+    "zh": {
+      "name": "伊布",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Évoli",
+      "genus": "Évolutif"
+    },
+    "de": {
+      "name": "Evoli",
+      "genus": "Evolution"
+    },
+    "es": {
+      "name": "Eevee",
+      "genus": "Evolución"
+    },
+    "it": {
+      "name": "Eevee",
+      "genus": "Evoluzione"
+    }
+  }
+}

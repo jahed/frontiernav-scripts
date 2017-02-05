@@ -1,0 +1,44 @@
+{
+  "id": "cacturne",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 332,
+    "height": 13,
+    "weight": 774,
+    "base_experience": 166,
+    "name": "Cacturne",
+    "genus": "Scarecrow"
+  },
+  "locale": {
+    "ja": {
+      "name": "ノクタス",
+      "genus": "カカシぐさ"
+    },
+    "ko": {
+      "name": "밤선인",
+      "genus": "허수아비"
+    },
+    "zh": {
+      "name": "夢歌奈亞",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Cacturne",
+      "genus": "Épouvantail"
+    },
+    "de": {
+      "name": "Noktuska",
+      "genus": "Vogelschock"
+    },
+    "es": {
+      "name": "Cacturne",
+      "genus": "Espantajo"
+    },
+    "it": {
+      "name": "Cacturne",
+      "genus": "Spavento"
+    }
+  }
+}

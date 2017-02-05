@@ -1,0 +1,44 @@
+{
+  "id": "exeggcute",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 102,
+    "height": 4,
+    "weight": 25,
+    "base_experience": 65,
+    "name": "Exeggcute",
+    "genus": "Egg"
+  },
+  "locale": {
+    "ja": {
+      "name": "タマタマ",
+      "genus": "たまご"
+    },
+    "ko": {
+      "name": "아라리",
+      "genus": "알"
+    },
+    "zh": {
+      "name": "蛋蛋",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Noeunoeuf",
+      "genus": "Œuf"
+    },
+    "de": {
+      "name": "Owei",
+      "genus": "Ei"
+    },
+    "es": {
+      "name": "Exeggcute",
+      "genus": "Huevo"
+    },
+    "it": {
+      "name": "Exeggcute",
+      "genus": "Uovo"
+    }
+  }
+}

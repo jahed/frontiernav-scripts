@@ -1,0 +1,32 @@
+{
+  "id": "up-grade",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Up-Grade",
+    "summary": "Traded on a Porygon: Holder evolves into Porygon2.",
+    "description": "Held by Porygon: Evolves the holder into Porygon2 when traded."
+  },
+  "locale": {
+    "ja": {
+      "name": "アップグレード"
+    },
+    "ko": {
+      "name": "업그레이드"
+    },
+    "fr": {
+      "name": "Améliorator"
+    },
+    "de": {
+      "name": "Up-Grade"
+    },
+    "es": {
+      "name": "Mejora"
+    },
+    "it": {
+      "name": "Upgrade"
+    }
+  }
+}

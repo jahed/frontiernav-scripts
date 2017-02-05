@@ -1,0 +1,16 @@
+{
+  "id": "n643",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Locations",
+    "description": "Locations on Manon Ship",
+    "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
+  }
+}

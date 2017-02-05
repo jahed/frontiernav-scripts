@@ -1,0 +1,29 @@
+{
+  "id": "wailmer-pail",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Wailmer Pail",
+    "summary": "Used to water berries.",
+    "description": "Waters Berry plants."
+  },
+  "locale": {
+    "ja": {
+      "name": "ホエルコじょうろ"
+    },
+    "fr": {
+      "name": "Seau Wailmer"
+    },
+    "de": {
+      "name": "Wailmerkanne"
+    },
+    "es": {
+      "name": "Cubo Wailmer"
+    },
+    "it": {
+      "name": "Vaso Wailmer"
+    }
+  }
+}

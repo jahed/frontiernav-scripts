@@ -1,0 +1,13 @@
+{
+  "id": "collectible3i27",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Silvery Cactaceous Resin",
+    "requirements": true,
+    "rarity": 4,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

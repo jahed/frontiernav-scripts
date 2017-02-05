@@ -1,0 +1,44 @@
+{
+  "id": "beldum",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 374,
+    "height": 6,
+    "weight": 952,
+    "base_experience": 60,
+    "name": "Beldum",
+    "genus": "Iron Ball"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダンバル",
+      "genus": "てっきゅう"
+    },
+    "ko": {
+      "name": "메탕",
+      "genus": "철공"
+    },
+    "zh": {
+      "name": "鐵啞鈴",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Terhal",
+      "genus": "Boulefer"
+    },
+    "de": {
+      "name": "Tanhel",
+      "genus": "Eisenkugel"
+    },
+    "es": {
+      "name": "Beldum",
+      "genus": "Bola Hierro"
+    },
+    "it": {
+      "name": "Beldum",
+      "genus": "Ferrosfera"
+    }
+  }
+}

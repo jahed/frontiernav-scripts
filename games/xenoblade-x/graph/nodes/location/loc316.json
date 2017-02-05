@@ -1,0 +1,15 @@
+{
+  "id": "loc316",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Primordia Base Camp 2",
+    "locationTypeId": "Camp"
+  },
+  "locale": {
+    "de": {
+      "name": "AP Schattiger Strand"
+    }
+  }
+}

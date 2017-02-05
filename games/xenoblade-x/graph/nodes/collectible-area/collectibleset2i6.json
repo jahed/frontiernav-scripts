@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i6",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Ravine Area",
+    "itemType": "Collectible"
+  }
+}

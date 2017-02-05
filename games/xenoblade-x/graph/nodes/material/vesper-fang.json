@@ -1,0 +1,14 @@
+{
+  "id": "vesper-fang",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Vesper Fang"
+  },
+  "locale": {
+    "de": {
+      "name": "Vesperhauer"
+    }
+  }
+}

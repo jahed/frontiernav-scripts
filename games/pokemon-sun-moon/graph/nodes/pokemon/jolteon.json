@@ -1,0 +1,44 @@
+{
+  "id": "jolteon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 135,
+    "height": 8,
+    "weight": 245,
+    "base_experience": 184,
+    "name": "Jolteon",
+    "genus": "Lightning"
+  },
+  "locale": {
+    "ja": {
+      "name": "サンダース",
+      "genus": "かみなり"
+    },
+    "ko": {
+      "name": "쥬피썬더",
+      "genus": "번개"
+    },
+    "zh": {
+      "name": "雷精靈",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Voltali",
+      "genus": "Orage"
+    },
+    "de": {
+      "name": "Blitza",
+      "genus": "Blitz"
+    },
+    "es": {
+      "name": "Jolteon",
+      "genus": "Relámpago"
+    },
+    "it": {
+      "name": "Jolteon",
+      "genus": "Luminoso"
+    }
+  }
+}

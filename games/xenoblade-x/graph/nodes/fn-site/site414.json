@@ -1,0 +1,13 @@
+{
+  "id": "site414",
+  "labels": [
+    "FNSite"
+  ],
+  "data": {
+    "number": 414,
+    "production": "C",
+    "revenue": "B",
+    "combat_support": "B",
+    "sightseeing_spots": 2
+  }
+}

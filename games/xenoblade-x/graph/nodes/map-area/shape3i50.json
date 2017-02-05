@@ -1,0 +1,13 @@
+{
+  "id": "shape3i50",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -78.68186979139156,
+      "lng": 75.146484375
+    },
+    "radius": 10
+  }
+}

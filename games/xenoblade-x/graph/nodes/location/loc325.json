@@ -1,0 +1,11 @@
+{
+  "id": "loc325",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Quay Hollows",
+    "locationTypeId": "Unexplored"
+  }
+}

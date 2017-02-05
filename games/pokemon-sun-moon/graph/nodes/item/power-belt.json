@@ -1,0 +1,32 @@
+{
+  "id": "power-belt",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "Power Belt",
+    "summary": "Held: Holder gains 4 Defense effort values, but has halved Speed in battle.",
+    "description": "Held: Decreases the holder's Speed by 50%.  Whenever the holder gains Defense effort from battle, increases that effort by 4; this applies before the PokéRUS doubling effect."
+  },
+  "locale": {
+    "ja": {
+      "name": "パワーベルト"
+    },
+    "ko": {
+      "name": "파워벨트"
+    },
+    "fr": {
+      "name": "Ceinture Pouvoir"
+    },
+    "de": {
+      "name": "Machtgurt"
+    },
+    "es": {
+      "name": "Cinto Recio"
+    },
+    "it": {
+      "name": "Vigorfascia"
+    }
+  }
+}

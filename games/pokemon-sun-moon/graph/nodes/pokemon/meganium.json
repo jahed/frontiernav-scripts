@@ -1,0 +1,44 @@
+{
+  "id": "meganium",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 154,
+    "height": 18,
+    "weight": 1005,
+    "base_experience": 236,
+    "name": "Meganium",
+    "genus": "Herb"
+  },
+  "locale": {
+    "ja": {
+      "name": "メガニウム",
+      "genus": "ハーブ"
+    },
+    "ko": {
+      "name": "메가니움",
+      "genus": "허브"
+    },
+    "zh": {
+      "name": "大菊花",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Méganium",
+      "genus": "Herbe"
+    },
+    "de": {
+      "name": "Meganie",
+      "genus": "Kräuter"
+    },
+    "es": {
+      "name": "Meganium",
+      "genus": "Hierba"
+    },
+    "it": {
+      "name": "Meganium",
+      "genus": "Erbe"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i10",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Starlight Apple",
+    "rarity": 2
+  },
+  "locale": {
+    "de": {
+      "name": "Sternkernapfel"
+    },
+    "it": {
+      "name": "Mela lucente"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "n429",
+  "labels": [
+    "SegmentGrid"
+  ],
+  "data": {
+    "segmentDimensions": {
+      "height": 4.48
+    },
+    "segmentInset": {
+      "x": 4,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 2366.5,
+      "y": 1285.5
+    },
+    "dimensions": {
+      "x": 12,
+      "y": 11
+    }
+  }
+}

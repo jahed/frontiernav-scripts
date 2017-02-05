@@ -1,0 +1,11 @@
+{
+  "id": "loc83",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "East Janpath Plain",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

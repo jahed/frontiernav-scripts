@@ -1,0 +1,10 @@
+{
+  "id": "loc15",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Badr Stronghold",
+    "locationTypeId": "Area"
+  }
+}

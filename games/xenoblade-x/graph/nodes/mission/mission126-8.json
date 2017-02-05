@@ -1,0 +1,15 @@
+{
+  "id": "mission126-8",
+  "labels": [
+    "Mission",
+    "AffinityMission"
+  ],
+  "data": {
+    "name": "The Repair Job"
+  },
+  "locale": {
+    "it": {
+      "name": "L'intervento di riparazione"
+    }
+  }
+}

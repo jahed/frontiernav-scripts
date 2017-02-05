@@ -1,0 +1,11 @@
+{
+  "id": "loc58",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Cliffside Beach",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

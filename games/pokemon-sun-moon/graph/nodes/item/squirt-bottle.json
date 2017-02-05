@@ -1,0 +1,32 @@
+{
+  "id": "squirt-bottle",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Squirt Bottle",
+    "summary": "Use on Sudowoodo blocking the path on Route 36. Also waters berries.",
+    "description": "Required to water berries within the []{item:berry-pots}.\n\nRequired to battle the []{pokemon:sudowoodo} on []{location:johto-route-36}.\n\nThis item cannot be directly used from the bag."
+  },
+  "locale": {
+    "ja": {
+      "name": "ゼニガメじょうろ"
+    },
+    "ko": {
+      "name": "꼬부기물뿌리개"
+    },
+    "fr": {
+      "name": "Carapuce à O"
+    },
+    "de": {
+      "name": "Schiggykanne"
+    },
+    "es": {
+      "name": "Regadera"
+    },
+    "it": {
+      "name": "Annaffiatoio"
+    }
+  }
+}

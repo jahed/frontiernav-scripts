@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i61",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Garudo Pellionia Minima",
+    "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Ortica minima Garudo"
+    }
+  }
+}

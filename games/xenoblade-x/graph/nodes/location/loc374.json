@@ -1,0 +1,11 @@
+{
+  "id": "loc374",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Stonelattice Cavern",
+    "cave": true,
+    "locationTypeId": "Unexplored"
+  }
+}

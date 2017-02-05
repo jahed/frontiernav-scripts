@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i41",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Auroran Bone",
+    "rarity": 4
+  },
+  "locale": {
+    "it": {
+      "name": "Osso d'Aurora"
+    }
+  }
+}

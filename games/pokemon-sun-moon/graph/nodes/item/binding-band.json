@@ -1,0 +1,32 @@
+{
+  "id": "binding-band",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Binding Band",
+    "summary": "Held: Doubles the per-turn damage of multi-turn trapping moves.",
+    "description": "Held\n:   Moves used by the holder that trap and damage a target for multiple turns (e.g. []{move:bind}, []{move:fire-spin}) inflict twice their usual per-turn damage."
+  },
+  "locale": {
+    "ja": {
+      "name": "しめつけバンド"
+    },
+    "ko": {
+      "name": "조임밴드"
+    },
+    "fr": {
+      "name": "Bande Étreinte"
+    },
+    "de": {
+      "name": "Klammerband"
+    },
+    "es": {
+      "name": "Banda Atadura"
+    },
+    "it": {
+      "name": "Legafascia"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "figy-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Figy Berry",
+    "summary": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.",
+    "description": "Held in battle\n:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP.  If the holder dislikes spicy flavors (i.e., has a nature that lowers Attack), it will also become confused."
+  },
+  "locale": {
+    "ja": {
+      "name": "フィラのみ"
+    },
+    "ko": {
+      "name": "무화열매"
+    },
+    "fr": {
+      "name": "Baie Figuy"
+    },
+    "de": {
+      "name": "Giefebeere"
+    },
+    "es": {
+      "name": "Baya Higog"
+    },
+    "it": {
+      "name": "Baccafico"
+    }
+  }
+}

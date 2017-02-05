@@ -1,0 +1,58 @@
+{
+  "id": "ghost-adsecula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Ghost Adsecula",
+    "subcategory": "Adsecula",
+    "category": "Insectoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 323,
+      "maximum": 416
+    },
+    "health_range": {
+      "minimum": 56452,
+      "maximum": 66062
+    },
+    "melee_power_range": {
+      "minimum": 687,
+      "maximum": 856
+    },
+    "melee_accuracy_range": {
+      "minimum": 244,
+      "maximum": 280
+    },
+    "ranged_power_range": {
+      "minimum": 687,
+      "maximum": 856
+    },
+    "ranged_accuracy_range": {
+      "minimum": 239,
+      "maximum": 275
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "evasion_range": {
+      "minimum": 161,
+      "maximum": 199
+    },
+    "notes": "Found at E.Ibra",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": -25
+  }
+}

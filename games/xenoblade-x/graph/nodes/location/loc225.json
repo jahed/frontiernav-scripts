@@ -1,0 +1,11 @@
+{
+  "id": "loc225",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Headwater Cliff",
+    "cave": false,
+    "locationTypeId": "Scenic"
+  }
+}

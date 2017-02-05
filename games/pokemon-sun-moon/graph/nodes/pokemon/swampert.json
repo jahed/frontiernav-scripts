@@ -1,0 +1,44 @@
+{
+  "id": "swampert",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 260,
+    "height": 15,
+    "weight": 819,
+    "base_experience": 241,
+    "name": "Swampert",
+    "genus": "Mud Fish"
+  },
+  "locale": {
+    "ja": {
+      "name": "ラグラージ",
+      "genus": "ぬまうお"
+    },
+    "ko": {
+      "name": "대짱이",
+      "genus": "늪물고기"
+    },
+    "zh": {
+      "name": "巨沼怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Laggron",
+      "genus": "Poissonboue"
+    },
+    "de": {
+      "name": "Sumpex",
+      "genus": "Lehmhüpfer"
+    },
+    "es": {
+      "name": "Swampert",
+      "genus": "Pez Lodo"
+    },
+    "it": {
+      "name": "Swampert",
+      "genus": "Fango Pesce"
+    }
+  }
+}

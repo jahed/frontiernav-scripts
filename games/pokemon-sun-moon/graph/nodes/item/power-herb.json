@@ -1,0 +1,32 @@
+{
+  "id": "power-herb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Power Herb",
+    "summary": "Held: Both turns of a two-turn charge move happen at once. Consumed upon use.",
+    "description": "Held: Whenever the holder uses a move that requires a turn to charge first (Bounce, Dig, Dive, Fly, Razor Wind, Skull Bash, Sky Attack, or Solarbeam), this item is consumed and the charge is skipped.  Skull Bash still provides a Defense boost."
+  },
+  "locale": {
+    "ja": {
+      "name": "パワフルハーブ"
+    },
+    "ko": {
+      "name": "파워풀허브"
+    },
+    "fr": {
+      "name": "Herbe Pouvoir"
+    },
+    "de": {
+      "name": "Energiekraut"
+    },
+    "es": {
+      "name": "Hierba Única"
+    },
+    "it": {
+      "name": "Vigorerba"
+    }
+  }
+}

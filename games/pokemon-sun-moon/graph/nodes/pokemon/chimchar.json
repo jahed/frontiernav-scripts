@@ -1,0 +1,44 @@
+{
+  "id": "chimchar",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 390,
+    "height": 5,
+    "weight": 62,
+    "base_experience": 62,
+    "name": "Chimchar",
+    "genus": "Chimp"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒコザル",
+      "genus": "こざる"
+    },
+    "ko": {
+      "name": "불꽃숭이",
+      "genus": "꼬마원숭이"
+    },
+    "zh": {
+      "name": "小火焰猴",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ouisticram",
+      "genus": "Chimpanzé"
+    },
+    "de": {
+      "name": "Panflam",
+      "genus": "Schimpanse"
+    },
+    "es": {
+      "name": "Chimchar",
+      "genus": "Chimpancé"
+    },
+    "it": {
+      "name": "Chimchar",
+      "genus": "Scimpanzé"
+    }
+  }
+}

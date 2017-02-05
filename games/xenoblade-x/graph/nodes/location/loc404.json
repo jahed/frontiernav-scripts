@@ -1,0 +1,11 @@
+{
+  "id": "loc404",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Vitriol Cesspool",
+    "locationTypeId": "Area"
+  }
+}

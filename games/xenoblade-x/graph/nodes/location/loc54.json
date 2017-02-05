@@ -1,0 +1,10 @@
+{
+  "id": "loc54",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Celestial Ascent",
+    "locationTypeId": "Area"
+  }
+}

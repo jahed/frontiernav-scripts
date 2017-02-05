@@ -1,0 +1,14 @@
+{
+  "id": "n9",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Xenotech"
+  },
+  "locale": {
+    "it": {
+      "name": "Tecnologie Xeno"
+    }
+  }
+}

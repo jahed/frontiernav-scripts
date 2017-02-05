@@ -1,0 +1,15 @@
+{
+  "id": "eaA3U7MW",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Eckart, the Indestructible",
+    "level": 50,
+    "notes": "\"Eckart, the Indestructible\" will borrow up out of the ground on the raised platform to the east of Grieving Plains in Primordia.",
+    "category": "Insectoid",
+    "subcategory": "Cinicula",
+    "image": "eaA3U7MW"
+  }
+}

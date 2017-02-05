@@ -1,0 +1,44 @@
+{
+  "id": "tentacool",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 72,
+    "height": 9,
+    "weight": 455,
+    "base_experience": 67,
+    "name": "Tentacool",
+    "genus": "Jellyfish"
+  },
+  "locale": {
+    "ja": {
+      "name": "メノクラゲ",
+      "genus": "くらげ"
+    },
+    "ko": {
+      "name": "왕눈해",
+      "genus": "해파리"
+    },
+    "zh": {
+      "name": "瑪瑙水母",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tentacool",
+      "genus": "Mollusque"
+    },
+    "de": {
+      "name": "Tentacha",
+      "genus": "Qualle"
+    },
+    "es": {
+      "name": "Tentacool",
+      "genus": "Medusa"
+    },
+    "it": {
+      "name": "Tentacool",
+      "genus": "Medusa"
+    }
+  }
+}

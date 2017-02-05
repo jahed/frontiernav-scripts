@@ -1,0 +1,16 @@
+{
+  "id": "lv0",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Locations",
+    "icon": "compass",
+    "thumbnail": "view-locations"
+  },
+  "locale": {
+    "de": {
+      "name": "Orte"
+    }
+  }
+}

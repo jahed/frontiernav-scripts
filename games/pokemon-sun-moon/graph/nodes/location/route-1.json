@@ -1,0 +1,9 @@
+{
+  "id": "route-1",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Route 1"
+  }
+}

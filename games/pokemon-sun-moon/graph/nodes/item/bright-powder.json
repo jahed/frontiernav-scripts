@@ -1,0 +1,32 @@
+{
+  "id": "bright-powder",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 10,
+    "name": "Bright Powder",
+    "summary": "Held: Increases the holder's evasion by 1/9 (11 1/9%).",
+    "description": "Held in battle\n:   Moves targeting the holder have 0.9× chance to hit."
+  },
+  "locale": {
+    "ja": {
+      "name": "ひかりのこな"
+    },
+    "ko": {
+      "name": "반짝가루"
+    },
+    "fr": {
+      "name": "Poudre Claire"
+    },
+    "de": {
+      "name": "Blendpuder"
+    },
+    "es": {
+      "name": "Polvo Brillo"
+    },
+    "it": {
+      "name": "Luminpolvere"
+    }
+  }
+}

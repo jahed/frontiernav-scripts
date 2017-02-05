@@ -1,0 +1,44 @@
+{
+  "id": "illumise",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 314,
+    "height": 6,
+    "weight": 177,
+    "base_experience": 140,
+    "name": "Illumise",
+    "genus": "Firefly"
+  },
+  "locale": {
+    "ja": {
+      "name": "イルミーゼ",
+      "genus": "ほたる"
+    },
+    "ko": {
+      "name": "네오비트",
+      "genus": "반딧불"
+    },
+    "zh": {
+      "name": "甜甜螢",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Lumivole",
+      "genus": "Luciole"
+    },
+    "de": {
+      "name": "Illumise",
+      "genus": "Libelle"
+    },
+    "es": {
+      "name": "Illumise",
+      "genus": "Luciérnaga"
+    },
+    "it": {
+      "name": "Illumise",
+      "genus": "Lucciola"
+    }
+  }
+}

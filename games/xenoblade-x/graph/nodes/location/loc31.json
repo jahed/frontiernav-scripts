@@ -1,0 +1,11 @@
+{
+  "id": "loc31",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Biahno River",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

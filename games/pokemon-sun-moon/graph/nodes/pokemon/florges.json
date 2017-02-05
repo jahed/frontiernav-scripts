@@ -1,0 +1,40 @@
+{
+  "id": "florges",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 671,
+    "height": 11,
+    "weight": 100,
+    "base_experience": 248,
+    "name": "Florges",
+    "genus": "Garden"
+  },
+  "locale": {
+    "ja": {
+      "name": "フラージェス",
+      "genus": "ガーデン"
+    },
+    "ko": {
+      "name": "플라제스",
+      "genus": "가든"
+    },
+    "fr": {
+      "name": "Florges",
+      "genus": "Jardin"
+    },
+    "de": {
+      "name": "Florges",
+      "genus": "Garten"
+    },
+    "es": {
+      "name": "Florges",
+      "genus": "Jardín"
+    },
+    "it": {
+      "name": "Florges",
+      "genus": "Giardino"
+    }
+  }
+}

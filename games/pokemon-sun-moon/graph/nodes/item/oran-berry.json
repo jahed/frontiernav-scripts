@@ -1,0 +1,32 @@
+{
+  "id": "oran-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Oran Berry",
+    "summary": "Held: Consumed at 1/2 max HP to recover 10 HP.",
+    "description": "Held in battle\n:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 10 HP.\n\nUsed on a party Pokémon\n:   Restores 10 HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "オレンのみ"
+    },
+    "ko": {
+      "name": "오랭열매"
+    },
+    "fr": {
+      "name": "Baie Oran"
+    },
+    "de": {
+      "name": "Sinelbeere"
+    },
+    "es": {
+      "name": "Baya Aranja"
+    },
+    "it": {
+      "name": "Baccarancia"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i24",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Multi-Speckled Ladybug",
+    "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Coccinella maculata"
+    }
+  }
+}

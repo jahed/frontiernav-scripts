@@ -1,0 +1,44 @@
+{
+  "id": "mewtwo",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 150,
+    "height": 20,
+    "weight": 1220,
+    "base_experience": 306,
+    "name": "Mewtwo",
+    "genus": "Genetic"
+  },
+  "locale": {
+    "ja": {
+      "name": "ミュウツー",
+      "genus": "いでんし"
+    },
+    "ko": {
+      "name": "뮤츠",
+      "genus": "유전"
+    },
+    "zh": {
+      "name": "超夢",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mewtwo",
+      "genus": "Génétique"
+    },
+    "de": {
+      "name": "Mewtu",
+      "genus": "Genmutant"
+    },
+    "es": {
+      "name": "Mewtwo",
+      "genus": "Genético"
+    },
+    "it": {
+      "name": "Mewtwo",
+      "genus": "Genetico"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "venonat",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 48,
+    "height": 10,
+    "weight": 300,
+    "base_experience": 61,
+    "name": "Venonat",
+    "genus": "Insect"
+  },
+  "locale": {
+    "ja": {
+      "name": "コンパン",
+      "genus": "こんちゅう"
+    },
+    "ko": {
+      "name": "콘팡",
+      "genus": "곤충"
+    },
+    "zh": {
+      "name": "毛球",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mimitoss",
+      "genus": "Vermine"
+    },
+    "de": {
+      "name": "Bluzuk",
+      "genus": "Insekt"
+    },
+    "es": {
+      "name": "Venonat",
+      "genus": "Insecto"
+    },
+    "it": {
+      "name": "Venonat",
+      "genus": "Insetto"
+    }
+  }
+}

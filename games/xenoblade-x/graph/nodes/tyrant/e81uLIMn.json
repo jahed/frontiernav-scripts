@@ -1,0 +1,16 @@
+{
+  "id": "e81uLIMn",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Ilithios, the Enlightened",
+    "level": 48,
+    "notes": "\"Ilithios, the Enlightened\" can be found meditating in the middle of Sunset Falls in Cauldros.",
+    "category": "Humanoid",
+    "subcategory": "Gularth",
+    "weather": "All except Brimstone Rain",
+    "image": "e81uLIMn"
+  }
+}

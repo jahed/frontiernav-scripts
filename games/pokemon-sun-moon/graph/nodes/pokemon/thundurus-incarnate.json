@@ -1,0 +1,40 @@
+{
+  "id": "thundurus-incarnate",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 642,
+    "height": 15,
+    "weight": 610,
+    "base_experience": 261,
+    "name": "Thundurus",
+    "genus": "Bolt Strike"
+  },
+  "locale": {
+    "ja": {
+      "name": "ボルトロス",
+      "genus": "らいげき"
+    },
+    "ko": {
+      "name": "볼트로스",
+      "genus": "뇌격"
+    },
+    "fr": {
+      "name": "Fulguris",
+      "genus": "Foudroyeur"
+    },
+    "de": {
+      "name": "Voltolos",
+      "genus": "Torpedo"
+    },
+    "es": {
+      "name": "Thundurus",
+      "genus": "Centella"
+    },
+    "it": {
+      "name": "Thundurus",
+      "genus": "Fulminante"
+    }
+  }
+}

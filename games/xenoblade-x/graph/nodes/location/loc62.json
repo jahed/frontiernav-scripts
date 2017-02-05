@@ -1,0 +1,11 @@
+{
+  "id": "loc62",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Cryptic Sign",
+    "locationTypeId": "Unexplored"
+  }
+}

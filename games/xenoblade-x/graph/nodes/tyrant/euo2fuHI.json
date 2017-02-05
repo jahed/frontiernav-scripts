@@ -1,0 +1,16 @@
+{
+  "id": "euo2fuHI",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Spaniel, the Obedient",
+    "level": 40,
+    "notes": "\"Spaniel, the Obedient\" is part of a small pack of Caro under the command of Duran, the Draconian and appears throughout the day as well as part way into the night. They can be found just north of T'phnom Shelf in Cauldros.",
+    "category": "Theroid",
+    "subcategory": "Caro",
+    "time": "5:00 - 0:00",
+    "image": "euo2fuHI"
+  }
+}

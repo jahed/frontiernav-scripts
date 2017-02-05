@@ -1,0 +1,11 @@
+{
+  "id": "loc70",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Den of the Dead",
+    "locationTypeId": "Area"
+  }
+}

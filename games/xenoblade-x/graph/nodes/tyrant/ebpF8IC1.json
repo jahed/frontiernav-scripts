@@ -1,0 +1,21 @@
+{
+  "id": "ebpF8IC1",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Feliciano, the All-Seeing",
+    "level": 70,
+    "notes": "\"Feliciano, the All-Seeing\" appears during the day in the open space north of Central Ibra Ravine in east Oblivia. Seems to have some sort of powerful spike damage effect that injures attackers.",
+    "category": "Theroid",
+    "subcategory": "Sphinx",
+    "time": "5:00 - 19:00",
+    "image": "ebpF8IC1"
+  },
+  "locale": {
+    "it": {
+      "name": "Feliciano il Chiaroveggente"
+    }
+  }
+}

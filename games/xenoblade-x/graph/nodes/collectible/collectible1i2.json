@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i2",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Zesian Fleawort",
+    "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Nickerwegerich"
+    },
+    "it": {
+      "name": "Plantago Zezè"
+    }
+  }
+}

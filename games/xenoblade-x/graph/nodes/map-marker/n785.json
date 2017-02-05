@@ -1,0 +1,13 @@
+{
+  "id": "n785",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -36.52729481454623,
+      "lng": 42.275390625
+    },
+    "markerStyle": "text"
+  }
+}

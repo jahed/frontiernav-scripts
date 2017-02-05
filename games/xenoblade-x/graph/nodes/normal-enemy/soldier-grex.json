@@ -1,0 +1,57 @@
+{
+  "id": "soldier-grex",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Soldier Grex",
+    "subcategory": "Grex",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 63,
+      "maximum": 109
+    },
+    "health_range": {
+      "minimum": 10326,
+      "maximum": 21974
+    },
+    "melee_power_range": {
+      "minimum": 138,
+      "maximum": 242
+    },
+    "melee_accuracy_range": {
+      "minimum": 128,
+      "maximum": 146
+    },
+    "ranged_power_range": {
+      "minimum": 115,
+      "maximum": 202
+    },
+    "ranged_accuracy_range": {
+      "minimum": 111,
+      "maximum": 127
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 36,
+      "maximum": 55
+    },
+    "notes": "Found at 302",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

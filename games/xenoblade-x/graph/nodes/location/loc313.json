@@ -1,0 +1,15 @@
+{
+  "id": "loc313",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Potter's Rock",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Roccia Anfora"
+    }
+  }
+}

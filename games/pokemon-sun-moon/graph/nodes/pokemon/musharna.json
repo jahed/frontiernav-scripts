@@ -1,0 +1,40 @@
+{
+  "id": "musharna",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 518,
+    "height": 11,
+    "weight": 605,
+    "base_experience": 170,
+    "name": "Musharna",
+    "genus": "Drowsing"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムシャーナ",
+      "genus": "ゆめうつつ"
+    },
+    "ko": {
+      "name": "몽얌나",
+      "genus": "꿈결"
+    },
+    "fr": {
+      "name": "Mushana",
+      "genus": "Rêveur"
+    },
+    "de": {
+      "name": "Somnivora",
+      "genus": "Halbschlaf"
+    },
+    "es": {
+      "name": "Musharna",
+      "genus": "Duermevela"
+    },
+    "it": {
+      "name": "Musharna",
+      "genus": "Dormiveglia"
+    }
+  }
+}

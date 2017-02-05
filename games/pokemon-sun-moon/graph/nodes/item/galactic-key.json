@@ -1,0 +1,32 @@
+{
+  "id": "galactic-key",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Galactic Key",
+    "summary": "Grants access to Galactic HQ in Veilstone City.",
+    "description": "Grants access to Galactic HQ in Veilstone City."
+  },
+  "locale": {
+    "ja": {
+      "name": "ギンガだんのカギ"
+    },
+    "ko": {
+      "name": "갤럭시단의열쇠"
+    },
+    "fr": {
+      "name": "Clé Galaxie"
+    },
+    "de": {
+      "name": "G-Schlüssel"
+    },
+    "es": {
+      "name": "Llave Galaxia"
+    },
+    "it": {
+      "name": "Galachiave"
+    }
+  }
+}

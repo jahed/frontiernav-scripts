@@ -1,0 +1,19 @@
+{
+  "id": "lv2",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Segments",
+    "icon": "th",
+    "thumbnail": "view-segments"
+  },
+  "locale": {
+    "de": {
+      "name": "Segmente"
+    },
+    "it": {
+      "name": "Settori"
+    }
+  }
+}

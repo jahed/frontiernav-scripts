@@ -1,0 +1,40 @@
+{
+  "id": "samurott",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 503,
+    "height": 15,
+    "weight": 946,
+    "base_experience": 238,
+    "name": "Samurott",
+    "genus": "Formidable"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダイケンキ",
+      "genus": "かんろく"
+    },
+    "ko": {
+      "name": "대검귀",
+      "genus": "관록"
+    },
+    "fr": {
+      "name": "Clamiral",
+      "genus": "Dignitaire"
+    },
+    "de": {
+      "name": "Admurai",
+      "genus": "Würde"
+    },
+    "es": {
+      "name": "Samurott",
+      "genus": "Majestuoso"
+    },
+    "it": {
+      "name": "Samurott",
+      "genus": "Dignità"
+    }
+  }
+}

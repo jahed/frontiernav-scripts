@@ -1,0 +1,14 @@
+{
+  "id": "n17",
+  "labels": [
+    "LocationType"
+  ],
+  "data": {
+    "name": "Area"
+  },
+  "locale": {
+    "de": {
+      "name": "Gebiet"
+    }
+  }
+}

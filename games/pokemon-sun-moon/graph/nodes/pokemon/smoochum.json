@@ -1,0 +1,44 @@
+{
+  "id": "smoochum",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 238,
+    "height": 4,
+    "weight": 60,
+    "base_experience": 61,
+    "name": "Smoochum",
+    "genus": "Kiss"
+  },
+  "locale": {
+    "ja": {
+      "name": "ムチュール",
+      "genus": "くちづけ"
+    },
+    "ko": {
+      "name": "뽀뽀라",
+      "genus": "뽀뽀"
+    },
+    "zh": {
+      "name": "迷唇娃",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Lippouti",
+      "genus": "Bisou"
+    },
+    "de": {
+      "name": "Kussilla",
+      "genus": "Kuss"
+    },
+    "es": {
+      "name": "Smoochum",
+      "genus": "Beso"
+    },
+    "it": {
+      "name": "Smoochum",
+      "genus": "Bacio"
+    }
+  }
+}

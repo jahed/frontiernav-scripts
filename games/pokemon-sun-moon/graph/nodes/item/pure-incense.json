@@ -1,0 +1,32 @@
+{
+  "id": "pure-incense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9600,
+    "name": "Pure Incense",
+    "summary": "Prevents wild encounters of level lower than your party's lead Pokémon. Breeding: Chimecho begets a Chingling Egg.",
+    "description": "Held by lead Pokémon: Prevents wild battles with Pokémon that are lower level than the holder."
+  },
+  "locale": {
+    "ja": {
+      "name": "きよめのおこう"
+    },
+    "ko": {
+      "name": "순결의향로"
+    },
+    "fr": {
+      "name": "Encens Pur"
+    },
+    "de": {
+      "name": "Scheuchrauch"
+    },
+    "es": {
+      "name": "Incienso Puro"
+    },
+    "it": {
+      "name": "Puroaroma"
+    }
+  }
+}

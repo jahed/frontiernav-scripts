@@ -1,0 +1,10 @@
+{
+  "id": "loc55",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Celestial Cleave",
+    "locationTypeId": "Area"
+  }
+}

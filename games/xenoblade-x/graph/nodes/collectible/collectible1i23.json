@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i23",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Stretching Locust",
+    "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Locusta elastica"
+    }
+  }
+}

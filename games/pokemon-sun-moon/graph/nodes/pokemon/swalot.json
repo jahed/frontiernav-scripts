@@ -1,0 +1,44 @@
+{
+  "id": "swalot",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 317,
+    "height": 17,
+    "weight": 800,
+    "base_experience": 163,
+    "name": "Swalot",
+    "genus": "Poison Bag"
+  },
+  "locale": {
+    "ja": {
+      "name": "マルノーム",
+      "genus": "どくぶくろ"
+    },
+    "ko": {
+      "name": "꿀꺽몬",
+      "genus": "독봉지"
+    },
+    "zh": {
+      "name": "吞食獸",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Avaltout",
+      "genus": "Sac Poison"
+    },
+    "de": {
+      "name": "Schlukwech",
+      "genus": "Giftbeutel"
+    },
+    "es": {
+      "name": "Swalot",
+      "genus": "Bolsa Veneno"
+    },
+    "it": {
+      "name": "Swalot",
+      "genus": "Velenosacco"
+    }
+  }
+}

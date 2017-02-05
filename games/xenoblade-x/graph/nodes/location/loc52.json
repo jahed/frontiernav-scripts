@@ -1,0 +1,10 @@
+{
+  "id": "loc52",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Cauldros Threshold",
+    "locationTypeId": "Landmark"
+  }
+}

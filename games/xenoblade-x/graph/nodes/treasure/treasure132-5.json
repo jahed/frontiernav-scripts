@@ -1,0 +1,13 @@
+{
+  "id": "treasure132-5",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Strange Instect Nest",
+    "requirements": {
+      "field_skill": "Biological",
+      "field_skill_level": 1
+    }
+  }
+}

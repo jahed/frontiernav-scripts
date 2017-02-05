@@ -1,0 +1,32 @@
+{
+  "id": "moon-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 300,
+    "name": "Moon Ball",
+    "summary": "4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.",
+    "description": "Used by trainer in battle\n:   Attempts to catch a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.\n\n    If the wild Pokémon is a []{pokemon:clefairy}, []{pokemon:nidoran-m}, []{pokemon:nidoran-f}, []{pokemon:jigglypuff}, []{pokemon:skitty}, or any evolution thereof, the wild Pokémon has 4× its catch rate."
+  },
+  "locale": {
+    "ja": {
+      "name": "ムーンボール"
+    },
+    "ko": {
+      "name": "문볼"
+    },
+    "fr": {
+      "name": "Lune Ball"
+    },
+    "de": {
+      "name": "Mondball"
+    },
+    "es": {
+      "name": "Luna Ball"
+    },
+    "it": {
+      "name": "Luna Ball"
+    }
+  }
+}

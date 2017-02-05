@@ -1,0 +1,40 @@
+{
+  "id": "whirlipede",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 544,
+    "height": 12,
+    "weight": 585,
+    "base_experience": 126,
+    "name": "Whirlipede",
+    "genus": "Curlipede"
+  },
+  "locale": {
+    "ja": {
+      "name": "ホイーガ",
+      "genus": "まゆムカデ"
+    },
+    "ko": {
+      "name": "휠구",
+      "genus": "눈썹지네"
+    },
+    "fr": {
+      "name": "Scobolide",
+      "genus": "Coconplopode"
+    },
+    "de": {
+      "name": "Rollum",
+      "genus": "Kokonfüßer"
+    },
+    "es": {
+      "name": "Whirlipede",
+      "genus": "Pupaciempiés"
+    },
+    "it": {
+      "name": "Whirlipede",
+      "genus": "Rotopede"
+    }
+  }
+}

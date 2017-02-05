@@ -1,0 +1,44 @@
+{
+  "id": "tangela",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 114,
+    "height": 10,
+    "weight": 350,
+    "base_experience": 87,
+    "name": "Tangela",
+    "genus": "Vine"
+  },
+  "locale": {
+    "ja": {
+      "name": "モンジャラ",
+      "genus": "ツルじょう"
+    },
+    "ko": {
+      "name": "덩쿠리",
+      "genus": "넝쿨"
+    },
+    "zh": {
+      "name": "蔓藤怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Saquedeneu",
+      "genus": "Vigne"
+    },
+    "de": {
+      "name": "Tangela",
+      "genus": "Ranke"
+    },
+    "es": {
+      "name": "Tangela",
+      "genus": "Enredadera"
+    },
+    "it": {
+      "name": "Tangela",
+      "genus": "Liana"
+    }
+  }
+}

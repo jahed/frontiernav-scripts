@@ -1,0 +1,15 @@
+{
+  "id": "loc10",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Arendt Bridge",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Ponte Arendt"
+    }
+  }
+}

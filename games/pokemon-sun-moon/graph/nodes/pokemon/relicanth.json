@@ -1,0 +1,44 @@
+{
+  "id": "relicanth",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 369,
+    "height": 10,
+    "weight": 234,
+    "base_experience": 170,
+    "name": "Relicanth",
+    "genus": "Longevity"
+  },
+  "locale": {
+    "ja": {
+      "name": "ジーランス",
+      "genus": "ちょうじゅ"
+    },
+    "ko": {
+      "name": "시라칸",
+      "genus": "장수"
+    },
+    "zh": {
+      "name": "古空棘魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Relicanth",
+      "genus": "Longévité"
+    },
+    "de": {
+      "name": "Relicanth",
+      "genus": "Bestand"
+    },
+    "es": {
+      "name": "Relicanth",
+      "genus": "Longevo"
+    },
+    "it": {
+      "name": "Relicanth",
+      "genus": "Longevità"
+    }
+  }
+}

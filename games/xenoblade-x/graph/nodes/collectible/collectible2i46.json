@@ -1,0 +1,13 @@
+{
+  "id": "collectible2i46",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Harnenga Cotton",
+    "requirements": true,
+    "rarity": 3,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

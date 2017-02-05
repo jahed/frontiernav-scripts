@@ -1,0 +1,32 @@
+{
+  "id": "dragon-fang",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Dragon Fang",
+    "summary": "Held: Dragon-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Dragon moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "りゅうのキバ"
+    },
+    "ko": {
+      "name": "용의이빨"
+    },
+    "fr": {
+      "name": "Croc Dragon"
+    },
+    "de": {
+      "name": "Drachenzahn"
+    },
+    "es": {
+      "name": "Colmillo Dragón"
+    },
+    "it": {
+      "name": "Dentedidrago"
+    }
+  }
+}

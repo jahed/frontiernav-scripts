@@ -1,0 +1,15 @@
+{
+  "id": "loc421",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Yawning Giant",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Crepa del Gigante"
+    }
+  }
+}

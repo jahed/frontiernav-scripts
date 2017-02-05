@@ -1,0 +1,44 @@
+{
+  "id": "swellow",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 277,
+    "height": 7,
+    "weight": 198,
+    "base_experience": 151,
+    "name": "Swellow",
+    "genus": "Swallow"
+  },
+  "locale": {
+    "ja": {
+      "name": "オオスバメ",
+      "genus": "ツバメ"
+    },
+    "ko": {
+      "name": "스왈로",
+      "genus": "제비"
+    },
+    "zh": {
+      "name": "大王燕",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Hélédelle",
+      "genus": "Hirondelle"
+    },
+    "de": {
+      "name": "Schwalboss",
+      "genus": "Schwalbe"
+    },
+    "es": {
+      "name": "Swellow",
+      "genus": "Buche"
+    },
+    "it": {
+      "name": "Swellow",
+      "genus": "Rondine"
+    }
+  }
+}

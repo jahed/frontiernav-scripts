@@ -1,0 +1,57 @@
+{
+  "id": "brave-rook-qmoeva",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Brave Rook Qmoeva",
+    "subcategory": "Qmoeva",
+    "category": "Mechanoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 296,
+      "maximum": 419
+    },
+    "health_range": {
+      "minimum": 49491,
+      "maximum": 69282
+    },
+    "melee_power_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "melee_accuracy_range": {
+      "minimum": 178,
+      "maximum": 205
+    },
+    "ranged_power_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 90,
+      "maximum": 117
+    },
+    "notes": "Found at 508W",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 30,
+    "beam_resistance": -25,
+    "ether_resistance": 10,
+    "thermal_resistance": 10,
+    "electric_resistance": -25,
+    "gravity_resistance": -50
+  }
+}

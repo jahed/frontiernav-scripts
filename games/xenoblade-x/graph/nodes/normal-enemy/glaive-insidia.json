@@ -1,0 +1,57 @@
+{
+  "id": "glaive-insidia",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Glaive Insidia",
+    "subcategory": "Insidia",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 241,
+      "maximum": 333
+    },
+    "health_range": {
+      "minimum": 61928,
+      "maximum": 74934
+    },
+    "melee_power_range": {
+      "minimum": 570,
+      "maximum": 739
+    },
+    "melee_accuracy_range": {
+      "minimum": 213,
+      "maximum": 246
+    },
+    "ranged_power_range": {
+      "minimum": 529,
+      "maximum": 686
+    },
+    "ranged_accuracy_range": {
+      "minimum": 203,
+      "maximum": 235
+    },
+    "potential_range": {
+      "minimum": 543,
+      "maximum": 704
+    },
+    "evasion_range": {
+      "minimum": 109,
+      "maximum": 138
+    },
+    "notes": "Found at 312N,315SW,317(lo),321",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

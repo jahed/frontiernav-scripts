@@ -1,0 +1,44 @@
+{
+  "id": "phanpy",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 231,
+    "height": 5,
+    "weight": 335,
+    "base_experience": 66,
+    "name": "Phanpy",
+    "genus": "Long Nose"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴマゾウ",
+      "genus": "ながはな"
+    },
+    "ko": {
+      "name": "코코리",
+      "genus": "긴코"
+    },
+    "zh": {
+      "name": "小小象",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Phanpy",
+      "genus": "Long-Nez"
+    },
+    "de": {
+      "name": "Phanpy",
+      "genus": "Langrüssel"
+    },
+    "es": {
+      "name": "Phanpy",
+      "genus": "Narizotas"
+    },
+    "it": {
+      "name": "Phanpy",
+      "genus": "Nasone"
+    }
+  }
+}

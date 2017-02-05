@@ -1,0 +1,13 @@
+{
+  "id": "treasure310-4-6",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Skell Wreckage",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 4
+    }
+  }
+}

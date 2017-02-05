@@ -1,0 +1,12 @@
+{
+  "id": "s5i103-13",
+  "labels": [
+    "Segment"
+  ],
+  "data": {
+    "q": 10,
+    "r": 3,
+    "s": -13,
+    "special": true
+  }
+}

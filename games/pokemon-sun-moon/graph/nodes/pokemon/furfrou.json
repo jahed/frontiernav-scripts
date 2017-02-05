@@ -1,0 +1,40 @@
+{
+  "id": "furfrou",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 676,
+    "height": 12,
+    "weight": 280,
+    "base_experience": 165,
+    "name": "Furfrou",
+    "genus": "Poodle"
+  },
+  "locale": {
+    "ja": {
+      "name": "トリミアン",
+      "genus": "プードル"
+    },
+    "ko": {
+      "name": "트리미앙",
+      "genus": "푸들"
+    },
+    "fr": {
+      "name": "Couafarel",
+      "genus": "Caniche"
+    },
+    "de": {
+      "name": "Coiffwaff",
+      "genus": "Pudel"
+    },
+    "es": {
+      "name": "Furfrou",
+      "genus": "Caniche"
+    },
+    "it": {
+      "name": "Furfrou",
+      "genus": "Barboncino"
+    }
+  }
+}

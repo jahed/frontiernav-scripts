@@ -1,0 +1,9 @@
+{
+  "id": "insectoid",
+  "labels": [
+    "EnemyCategory"
+  ],
+  "data": {
+    "name": "Insectoid"
+  }
+}

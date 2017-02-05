@@ -1,0 +1,40 @@
+{
+  "id": "fletchinder",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 662,
+    "height": 7,
+    "weight": 160,
+    "base_experience": 134,
+    "name": "Fletchinder",
+    "genus": "Ember"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒノヤコマ",
+      "genus": "ひのこ"
+    },
+    "ko": {
+      "name": "불화살빈",
+      "genus": "불티"
+    },
+    "fr": {
+      "name": "Braisillon",
+      "genus": "Braise"
+    },
+    "de": {
+      "name": "Dartignis",
+      "genus": "Funkenregen"
+    },
+    "es": {
+      "name": "Fletchinder",
+      "genus": "Lumbre"
+    },
+    "it": {
+      "name": "Fletchinder",
+      "genus": "Sfavillante"
+    }
+  }
+}

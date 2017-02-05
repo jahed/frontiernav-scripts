@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i42",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Heatproof Inox Pipe",
+    "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Tubo inossidabile isolante"
+    }
+  }
+}

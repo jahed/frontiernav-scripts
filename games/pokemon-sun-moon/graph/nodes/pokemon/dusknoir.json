@@ -1,0 +1,44 @@
+{
+  "id": "dusknoir",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 477,
+    "height": 22,
+    "weight": 1066,
+    "base_experience": 236,
+    "name": "Dusknoir",
+    "genus": "Gripper"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヨノワール",
+      "genus": "てづかみ"
+    },
+    "ko": {
+      "name": "야느와르몽",
+      "genus": "움켜쥠"
+    },
+    "zh": {
+      "name": "夜黑魔人",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Noctunoir",
+      "genus": "Mainpince"
+    },
+    "de": {
+      "name": "Zwirrfinst",
+      "genus": "Greifer"
+    },
+    "es": {
+      "name": "Dusknoir",
+      "genus": "Grilletes"
+    },
+    "it": {
+      "name": "Dusknoir",
+      "genus": "Pinza"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i15",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Hummingstone",
+    "rarity": 4
+  },
+  "locale": {
+    "de": {
+      "name": "Summsummstein"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "armor-fossil",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Armor Fossil",
+    "summary": "Can be revived into a Shieldon.",
+    "description": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:shieldon}."
+  },
+  "locale": {
+    "ja": {
+      "name": "たてのカセキ"
+    },
+    "ko": {
+      "name": "방패의화석"
+    },
+    "fr": {
+      "name": "Fossile Armure"
+    },
+    "de": {
+      "name": "Panzerfossil"
+    },
+    "es": {
+      "name": "Fósil Coraza"
+    },
+    "it": {
+      "name": "Fossilscudo"
+    }
+  }
+}

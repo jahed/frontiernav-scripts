@@ -1,0 +1,12 @@
+{
+  "id": "s2i106-16",
+  "labels": [
+    "Segment"
+  ],
+  "data": {
+    "q": 10,
+    "r": 6,
+    "s": -16,
+    "special": true
+  }
+}

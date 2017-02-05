@@ -1,0 +1,14 @@
+{
+  "id": "n48",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Elma",
+    "gender": "Female",
+    "age": 29,
+    "species": "Human",
+    "image": "elma-banner",
+    "thumbnail": "elma-face.png"
+  }
+}

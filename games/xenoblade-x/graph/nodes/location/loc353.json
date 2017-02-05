@@ -1,0 +1,11 @@
+{
+  "id": "loc353",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Secluded Lava Lake",
+    "locationTypeId": "Area"
+  }
+}

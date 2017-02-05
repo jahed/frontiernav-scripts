@@ -1,0 +1,20 @@
+{
+  "id": "probe21",
+  "labels": [
+    "FNSiteProbe"
+  ],
+  "data": {
+    "name": "Storage Probe",
+    "type": 4,
+    "attributes": {
+      "production_multiplier": 0.1,
+      "revenue_multiplier": 0.1,
+      "storage_bonus": 3000
+    }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda di stoccaggio"
+    }
+  }
+}

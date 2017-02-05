@@ -1,0 +1,58 @@
+{
+  "id": "macho-armored-suid",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Macho Armored Suid",
+    "subcategory": "Suid",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 194,
+      "maximum": 250
+    },
+    "health_range": {
+      "minimum": 70565,
+      "maximum": 82578
+    },
+    "melee_power_range": {
+      "minimum": 796,
+      "maximum": 992
+    },
+    "melee_accuracy_range": {
+      "minimum": 237,
+      "maximum": 273
+    },
+    "ranged_power_range": {
+      "minimum": 651,
+      "maximum": 811
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 261
+    },
+    "potential_range": {
+      "minimum": 723,
+      "maximum": 902
+    },
+    "evasion_range": {
+      "minimum": 150,
+      "maximum": 185
+    },
+    "notes": "Found at 307",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "n331",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Mimeosome Maintenance Center",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Wartungszentrum"
+    },
+    "it": {
+      "name": "Centro manutenzione"
+    }
+  }
+}

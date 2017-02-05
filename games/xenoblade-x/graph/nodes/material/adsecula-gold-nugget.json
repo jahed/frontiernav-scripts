@@ -1,0 +1,14 @@
+{
+  "id": "adsecula-gold-nugget",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Adsecula Gold Nugget"
+  },
+  "locale": {
+    "de": {
+      "name": "Adsecula-Goldkorn"
+    }
+  }
+}

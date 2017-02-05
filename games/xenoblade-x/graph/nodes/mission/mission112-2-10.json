@@ -1,0 +1,15 @@
+{
+  "id": "mission112-2-10",
+  "labels": [
+    "Mission",
+    "AffinityMission"
+  ],
+  "data": {
+    "name": "We Were Soldiers"
+  },
+  "locale": {
+    "it": {
+      "name": "Una volta eravamo soldati"
+    }
+  }
+}

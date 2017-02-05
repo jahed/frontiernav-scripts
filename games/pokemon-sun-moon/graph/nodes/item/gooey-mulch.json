@@ -1,0 +1,32 @@
+{
+  "id": "gooey-mulch",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Gooey Mulch",
+    "summary": "Berries regrow from dead plants an increased number of times.",
+    "description": "Used on a path of soil\n:   Plant will regrow after dying 25% more times."
+  },
+  "locale": {
+    "ja": {
+      "name": "ねばねばこやし"
+    },
+    "ko": {
+      "name": "끈적끈적비료"
+    },
+    "fr": {
+      "name": "Fertiglu"
+    },
+    "de": {
+      "name": "Neumulch"
+    },
+    "es": {
+      "name": "Abono Brote"
+    },
+    "it": {
+      "name": "Fertilcolla"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "oval-charm",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Oval Charm",
+    "summary": "Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps.",
+    "description": ""
+  },
+  "locale": {
+    "ja": {
+      "name": "まるいおまもり"
+    },
+    "ko": {
+      "name": "둥근부적"
+    },
+    "fr": {
+      "name": "Charme Ovale"
+    },
+    "de": {
+      "name": "Ovalpin"
+    },
+    "es": {
+      "name": "Amuleto Oval"
+    },
+    "it": {
+      "name": "Ovamuleto"
+    }
+  }
+}

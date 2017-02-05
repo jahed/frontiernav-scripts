@@ -1,0 +1,32 @@
+{
+  "id": "stardust",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "Stardust",
+    "summary": "Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "ほしのすな"
+    },
+    "ko": {
+      "name": "별의모래"
+    },
+    "fr": {
+      "name": "Poussière Étoile"
+    },
+    "de": {
+      "name": "Sternenstaub"
+    },
+    "es": {
+      "name": "Polvoestelar"
+    },
+    "it": {
+      "name": "Polvostella"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "metang",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 375,
+    "height": 12,
+    "weight": 2025,
+    "base_experience": 147,
+    "name": "Metang",
+    "genus": "Iron Claw"
+  },
+  "locale": {
+    "ja": {
+      "name": "メタング",
+      "genus": "てつツメ"
+    },
+    "ko": {
+      "name": "메탕구",
+      "genus": "철발톱"
+    },
+    "zh": {
+      "name": "金屬怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Métang",
+      "genus": "Pincefer"
+    },
+    "de": {
+      "name": "Metang",
+      "genus": "Eisenklaue"
+    },
+    "es": {
+      "name": "Metang",
+      "genus": "Garrahierro"
+    },
+    "it": {
+      "name": "Metang",
+      "genus": "Ferrunghia"
+    }
+  }
+}

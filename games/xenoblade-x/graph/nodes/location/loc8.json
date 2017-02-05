@@ -1,0 +1,10 @@
+{
+  "id": "loc8",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Anvil Sandplain",
+    "locationTypeId": "Area"
+  }
+}

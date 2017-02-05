@@ -1,0 +1,18 @@
+{
+  "id": "loc30",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Biahno Lake",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "de": {
+      "name": "Biahnosee"
+    },
+    "it": {
+      "name": "Lago di Biahno"
+    }
+  }
+}

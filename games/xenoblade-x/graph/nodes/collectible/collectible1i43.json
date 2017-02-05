@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i43",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Rock-Orange",
+    "rarity": 1
+  },
+  "locale": {
+    "it": {
+      "name": "Rocciarancia"
+    }
+  }
+}

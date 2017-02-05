@@ -1,0 +1,13 @@
+{
+  "id": "treasure513-4",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "White Whale Debris",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 1
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "loc45",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Cauldros Base Camp 3",
+    "locationTypeId": "Camp"
+  }
+}

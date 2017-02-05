@@ -1,0 +1,14 @@
+{
+  "id": "mission363-9",
+  "labels": [
+    "Mission"
+  ],
+  "data": {
+    "name": "Mayday"
+  },
+  "locale": {
+    "it": {
+      "name": "Richiesta d'aiuto"
+    }
+  }
+}

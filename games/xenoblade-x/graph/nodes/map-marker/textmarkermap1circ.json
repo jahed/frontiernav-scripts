@@ -1,0 +1,13 @@
+{
+  "id": "textmarkermap1circ",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -81.06826656005543,
+      "lng": -33.26796875
+    },
+    "markerStyle": "text"
+  }
+}

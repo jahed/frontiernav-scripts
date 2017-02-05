@@ -1,0 +1,13 @@
+{
+  "id": "treasure299-18",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Patrol Chopper Wreckage",
+    "requirements": {
+      "field_skill": "Mechanical",
+      "field_skill_level": 2
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "loc367",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "South Coast",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Costa Sud"
+    }
+  }
+}

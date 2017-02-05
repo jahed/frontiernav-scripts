@@ -1,0 +1,44 @@
+{
+  "id": "mothim",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 414,
+    "height": 9,
+    "weight": 233,
+    "base_experience": 148,
+    "name": "Mothim",
+    "genus": "Moth"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガーメイル",
+      "genus": "ミノガ"
+    },
+    "ko": {
+      "name": "나메일",
+      "genus": "나방"
+    },
+    "zh": {
+      "name": "紳士蛾",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Papilord",
+      "genus": "Phalène"
+    },
+    "de": {
+      "name": "Moterpel",
+      "genus": "Motte"
+    },
+    "es": {
+      "name": "Mothim",
+      "genus": "Polilla"
+    },
+    "it": {
+      "name": "Mothim",
+      "genus": "Falena"
+    }
+  }
+}

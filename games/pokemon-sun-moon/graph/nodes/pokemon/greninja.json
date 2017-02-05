@@ -1,0 +1,40 @@
+{
+  "id": "greninja",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 658,
+    "height": 15,
+    "weight": 400,
+    "base_experience": 239,
+    "name": "Greninja",
+    "genus": "Ninja"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゲッコウガ",
+      "genus": "しのび"
+    },
+    "ko": {
+      "name": "개굴닌자",
+      "genus": "시노비"
+    },
+    "fr": {
+      "name": "Amphinobi",
+      "genus": "Ninja"
+    },
+    "de": {
+      "name": "Quajutsu",
+      "genus": "Ninja"
+    },
+    "es": {
+      "name": "Greninja",
+      "genus": "Ninja"
+    },
+    "it": {
+      "name": "Greninja",
+      "genus": "Ninja"
+    }
+  }
+}

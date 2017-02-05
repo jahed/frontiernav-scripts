@@ -1,0 +1,44 @@
+{
+  "id": "moltres",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 146,
+    "height": 20,
+    "weight": 600,
+    "base_experience": 261,
+    "name": "Moltres",
+    "genus": "Flame"
+  },
+  "locale": {
+    "ja": {
+      "name": "ファイヤー",
+      "genus": "かえん"
+    },
+    "ko": {
+      "name": "파이어",
+      "genus": "화염"
+    },
+    "zh": {
+      "name": "火焰鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Sulfura",
+      "genus": "Flamme"
+    },
+    "de": {
+      "name": "Lavados",
+      "genus": "Flamme"
+    },
+    "es": {
+      "name": "Moltres",
+      "genus": "Llama"
+    },
+    "it": {
+      "name": "Moltres",
+      "genus": "Fiamma"
+    }
+  }
+}

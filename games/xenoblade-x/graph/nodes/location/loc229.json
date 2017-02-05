@@ -1,0 +1,15 @@
+{
+  "id": "loc229",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Humdrum Peaks",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Vette Monotone"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "n24",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Mia",
+    "image": "mia-banner",
+    "thumbnail": "mia-face.png"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ditto",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 132,
+    "height": 3,
+    "weight": 40,
+    "base_experience": 101,
+    "name": "Ditto",
+    "genus": "Transform"
+  },
+  "locale": {
+    "ja": {
+      "name": "メタモン",
+      "genus": "へんしん"
+    },
+    "ko": {
+      "name": "메타몽",
+      "genus": "변신"
+    },
+    "zh": {
+      "name": "百變怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Métamorph",
+      "genus": "Morphing"
+    },
+    "de": {
+      "name": "Ditto",
+      "genus": "Transform"
+    },
+    "es": {
+      "name": "Ditto",
+      "genus": "Transform."
+    },
+    "it": {
+      "name": "Ditto",
+      "genus": "Mutante"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "n15",
+  "labels": [
+    "LocationType"
+  ],
+  "data": {
+    "name": "Unexplored Territory"
+  },
+  "locale": {
+    "de": {
+      "name": "Geheimnisvoller Ort"
+    }
+  }
+}

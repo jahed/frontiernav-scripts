@@ -1,0 +1,44 @@
+{
+  "id": "blissey",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 242,
+    "height": 15,
+    "weight": 468,
+    "base_experience": 608,
+    "name": "Blissey",
+    "genus": "Happiness"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハピナス",
+      "genus": "しあわせ"
+    },
+    "ko": {
+      "name": "해피너스",
+      "genus": "행복"
+    },
+    "zh": {
+      "name": "幸福蛋",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Leuphorie",
+      "genus": "Bonheur"
+    },
+    "de": {
+      "name": "Heiteira",
+      "genus": "Freude"
+    },
+    "es": {
+      "name": "Blissey",
+      "genus": "Felicidad"
+    },
+    "it": {
+      "name": "Blissey",
+      "genus": "Felicità"
+    }
+  }
+}

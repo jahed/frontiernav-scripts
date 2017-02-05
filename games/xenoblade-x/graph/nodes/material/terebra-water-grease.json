@@ -1,0 +1,14 @@
+{
+  "id": "terebra-water-grease",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Terebra Water Grease"
+  },
+  "locale": {
+    "de": {
+      "name": "Wässriges Terebraöl"
+    }
+  }
+}

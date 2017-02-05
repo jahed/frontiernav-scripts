@@ -1,0 +1,40 @@
+{
+  "id": "simisage",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 512,
+    "height": 11,
+    "weight": 305,
+    "base_experience": 174,
+    "name": "Simisage",
+    "genus": "Thorn Monkey"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤナッキー",
+      "genus": "とげざる"
+    },
+    "ko": {
+      "name": "야나키",
+      "genus": "가시원숭이"
+    },
+    "fr": {
+      "name": "Feuiloutan",
+      "genus": "Singépine"
+    },
+    "de": {
+      "name": "Vegichita",
+      "genus": "Stachelaffe"
+    },
+    "es": {
+      "name": "Simisage",
+      "genus": "Mono Pincho"
+    },
+    "it": {
+      "name": "Simisage",
+      "genus": "Spinpanzé"
+    }
+  }
+}

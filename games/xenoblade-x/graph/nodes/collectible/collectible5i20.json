@@ -1,0 +1,13 @@
+{
+  "id": "collectible5i20",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Dithblade Fragment",
+    "requirements": true,
+    "rarity": 3,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

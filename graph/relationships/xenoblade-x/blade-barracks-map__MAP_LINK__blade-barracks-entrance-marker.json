@@ -1,7 +1,0 @@
-{
-  "id": "blade-barracks-map__MAP_LINK__blade-barracks-entrance-marker",
-  "type": "MAP_LINK",
-  "start": "black-barracks-map",
-  "end": "blade-barracks-entrance-marker",
-  "data": {}
-}

@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i3",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Lake Area",
+    "itemType": "Collectible"
+  }
+}

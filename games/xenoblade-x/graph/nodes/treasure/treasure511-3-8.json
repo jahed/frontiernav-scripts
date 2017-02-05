@@ -1,0 +1,13 @@
+{
+  "id": "treasure511-3-8",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Alien Reliquary",
+    "requirements": {
+      "field_skill": "Archaeological",
+      "field_skill_level": 2
+    }
+  }
+}

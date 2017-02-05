@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i2",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum North Forest Area",
+    "itemType": "Collectible"
+  }
+}

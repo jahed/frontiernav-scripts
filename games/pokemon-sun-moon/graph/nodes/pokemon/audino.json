@@ -1,0 +1,40 @@
+{
+  "id": "audino",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 531,
+    "height": 11,
+    "weight": 310,
+    "base_experience": 390,
+    "name": "Audino",
+    "genus": "Hearing"
+  },
+  "locale": {
+    "ja": {
+      "name": "タブンネ",
+      "genus": "ヒヤリング"
+    },
+    "ko": {
+      "name": "다부니",
+      "genus": "히어링"
+    },
+    "fr": {
+      "name": "Nanméouïe",
+      "genus": "Audition"
+    },
+    "de": {
+      "name": "Ohrdoch",
+      "genus": "Gehör"
+    },
+    "es": {
+      "name": "Audino",
+      "genus": "Escucha"
+    },
+    "it": {
+      "name": "Audino",
+      "genus": "Ascolto"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hariyama",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 297,
+    "height": 23,
+    "weight": 2538,
+    "base_experience": 166,
+    "name": "Hariyama",
+    "genus": "Arm Thrust"
+  },
+  "locale": {
+    "ja": {
+      "name": "ハリテヤマ",
+      "genus": "つっぱり"
+    },
+    "ko": {
+      "name": "하리뭉",
+      "genus": "손바닥치기"
+    },
+    "zh": {
+      "name": "超力王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Hariyama",
+      "genus": "Cogneur"
+    },
+    "de": {
+      "name": "Hariyama",
+      "genus": "Armwurf"
+    },
+    "es": {
+      "name": "Hariyama",
+      "genus": "Empuje"
+    },
+    "it": {
+      "name": "Hariyama",
+      "genus": "Sberletese"
+    }
+  }
+}

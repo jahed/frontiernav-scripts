@@ -1,0 +1,32 @@
+{
+  "id": "gracidea",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Gracidea",
+    "summary": "Changes an unfrozen Shaymin to Sky Forme in the day.",
+    "description": "Used by trainer on a []{pokemon:shaymin}\n:   Changes the target Shaymin from Land Forme to Sky Forme.\n\n    This item cannot be used on a frozen Shaymin or at night.  Sky Forme Shaymin will revert to Land Forme overnight, when frozen, and upon entering a link battle.  This item must be used again to change it back."
+  },
+  "locale": {
+    "ja": {
+      "name": "グラシデアのはな"
+    },
+    "ko": {
+      "name": "그라시데아꽃"
+    },
+    "fr": {
+      "name": "Gracidée"
+    },
+    "de": {
+      "name": "Gracidea"
+    },
+    "es": {
+      "name": "Gracídea"
+    },
+    "it": {
+      "name": "Gracidea"
+    }
+  }
+}

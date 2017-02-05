@@ -1,0 +1,32 @@
+{
+  "id": "soda-pop",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 300,
+    "name": "Soda Pop",
+    "summary": "Restores 60 HP.",
+    "description": "Used on a party Pokémon\n:   Restores 60 HP."
+  },
+  "locale": {
+    "ja": {
+      "name": "サイコソーダ"
+    },
+    "ko": {
+      "name": "미네랄사이다"
+    },
+    "fr": {
+      "name": "Soda Cool"
+    },
+    "de": {
+      "name": "Sprudel"
+    },
+    "es": {
+      "name": "Refresco"
+    },
+    "it": {
+      "name": "Gassosa"
+    }
+  }
+}

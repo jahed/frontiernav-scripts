@@ -1,0 +1,19 @@
+{
+  "id": "n292",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Segments",
+    "description": "Segments in BLADE Barracks",
+    "thumbnail": "view-segments"
+  },
+  "locale": {
+    "de": {
+      "name": "Segmente"
+    },
+    "it": {
+      "name": "Settori"
+    }
+  }
+}

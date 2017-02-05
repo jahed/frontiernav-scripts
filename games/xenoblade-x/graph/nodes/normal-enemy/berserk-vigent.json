@@ -1,0 +1,57 @@
+{
+  "id": "berserk-vigent",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Berserk Vigent",
+    "subcategory": "Vigent",
+    "category": "Theroid",
+    "level_range": {
+      "minimum": 41,
+      "maximum": 50
+    },
+    "experience_range": {
+      "minimum": 937,
+      "maximum": 1294
+    },
+    "health_range": {
+      "minimum": 420037,
+      "maximum": 508248
+    },
+    "melee_power_range": {
+      "minimum": 1185,
+      "maximum": 1536
+    },
+    "melee_accuracy_range": {
+      "minimum": 218,
+      "maximum": 252
+    },
+    "ranged_power_range": {
+      "minimum": 963,
+      "maximum": 1248
+    },
+    "ranged_accuracy_range": {
+      "minimum": 192,
+      "maximum": 223
+    },
+    "potential_range": {
+      "minimum": 988,
+      "maximum": 1280
+    },
+    "evasion_range": {
+      "minimum": 118,
+      "maximum": 150
+    },
+    "notes": "Found at [5:00~19:00]: 313SW,315SW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

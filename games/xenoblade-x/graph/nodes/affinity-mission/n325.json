@@ -1,0 +1,15 @@
+{
+  "id": "n325",
+  "labels": [
+    "AffinityMission",
+    "Mission"
+  ],
+  "data": {
+    "name": "Fathers and Sons"
+  },
+  "locale": {
+    "it": {
+      "name": "Padri e figli"
+    }
+  }
+}

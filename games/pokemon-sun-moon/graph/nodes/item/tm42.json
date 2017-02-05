@@ -1,0 +1,32 @@
+{
+  "id": "tm42",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM42",
+    "summary": "Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater)",
+    "description": "Teaches Facade to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン４２"
+    },
+    "ko": {
+      "name": "기술머신42"
+    },
+    "fr": {
+      "name": "CT42"
+    },
+    "de": {
+      "name": "TM42"
+    },
+    "es": {
+      "name": "MT42"
+    },
+    "it": {
+      "name": "MT42"
+    }
+  }
+}

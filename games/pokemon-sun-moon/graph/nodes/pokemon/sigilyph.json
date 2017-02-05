@@ -1,0 +1,40 @@
+{
+  "id": "sigilyph",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 561,
+    "height": 14,
+    "weight": 140,
+    "base_experience": 172,
+    "name": "Sigilyph",
+    "genus": "Avianoid"
+  },
+  "locale": {
+    "ja": {
+      "name": "シンボラー",
+      "genus": "とりもどき"
+    },
+    "ko": {
+      "name": "심보러",
+      "genus": "흡사새"
+    },
+    "fr": {
+      "name": "Cryptéro",
+      "genus": "Similoiseau"
+    },
+    "de": {
+      "name": "Symvolara",
+      "genus": "Vogelgleich"
+    },
+    "es": {
+      "name": "Sigilyph",
+      "genus": "Pseudopájaro"
+    },
+    "it": {
+      "name": "Sigilyph",
+      "genus": "Pseuduccello"
+    }
+  }
+}

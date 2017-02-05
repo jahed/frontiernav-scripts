@@ -1,0 +1,44 @@
+{
+  "id": "nidoran-f",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 29,
+    "height": 4,
+    "weight": 70,
+    "base_experience": 55,
+    "name": "Nidoran♀",
+    "genus": "Poison Pin"
+  },
+  "locale": {
+    "ja": {
+      "name": "ニドラン♀",
+      "genus": "どくばり"
+    },
+    "ko": {
+      "name": "니드런♀",
+      "genus": "독침"
+    },
+    "zh": {
+      "name": "尼多蘭",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Nidoran♀",
+      "genus": "Vénépic"
+    },
+    "de": {
+      "name": "Nidoran♀",
+      "genus": "Giftdorn"
+    },
+    "es": {
+      "name": "Nidoran♀",
+      "genus": "Pin Veneno"
+    },
+    "it": {
+      "name": "Nidoran♀",
+      "genus": "Velenago"
+    }
+  }
+}

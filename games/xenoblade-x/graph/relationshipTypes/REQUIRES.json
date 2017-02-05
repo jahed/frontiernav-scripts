@@ -1,0 +1,12 @@
+{
+  "id": "REQUIRES",
+  "data": {
+    "name": "Requires",
+    "description": "Something required by something else."
+  },
+  "startLabels": null,
+  "endLabels": null,
+  "properties": {
+    "affinity": {}
+  }
+}

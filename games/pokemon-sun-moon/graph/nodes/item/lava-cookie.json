@@ -1,0 +1,32 @@
+{
+  "id": "lava-cookie",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Lava Cookie",
+    "summary": "Cures any status ailment and confusion.",
+    "description": "Used on a party Pokémon\n:   Cures any status ailment and confusion."
+  },
+  "locale": {
+    "ja": {
+      "name": "フエンせんべい"
+    },
+    "ko": {
+      "name": "용암전병"
+    },
+    "fr": {
+      "name": "Lava Cookie"
+    },
+    "de": {
+      "name": "Lavakeks"
+    },
+    "es": {
+      "name": "Galleta Lava"
+    },
+    "it": {
+      "name": "Lavottino"
+    }
+  }
+}

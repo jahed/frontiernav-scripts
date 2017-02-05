@@ -1,0 +1,44 @@
+{
+  "id": "poliwrath",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 62,
+    "height": 13,
+    "weight": 540,
+    "base_experience": 230,
+    "name": "Poliwrath",
+    "genus": "Tadpole"
+  },
+  "locale": {
+    "ja": {
+      "name": "ニョロボン",
+      "genus": "おたま"
+    },
+    "ko": {
+      "name": "강챙이",
+      "genus": "올챙이"
+    },
+    "zh": {
+      "name": "快泳蛙",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tartard",
+      "genus": "Têtard"
+    },
+    "de": {
+      "name": "Quappo",
+      "genus": "Kaulquappe"
+    },
+    "es": {
+      "name": "Poliwrath",
+      "genus": "Renacuajo"
+    },
+    "it": {
+      "name": "Poliwrath",
+      "genus": "Girino"
+    }
+  }
+}

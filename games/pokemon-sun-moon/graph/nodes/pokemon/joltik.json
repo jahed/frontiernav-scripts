@@ -1,0 +1,40 @@
+{
+  "id": "joltik",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 595,
+    "height": 1,
+    "weight": 6,
+    "base_experience": 64,
+    "name": "Joltik",
+    "genus": "Attaching"
+  },
+  "locale": {
+    "ja": {
+      "name": "バチュル",
+      "genus": "くっつき"
+    },
+    "ko": {
+      "name": "파쪼옥",
+      "genus": "들러붙기"
+    },
+    "fr": {
+      "name": "Statitik",
+      "genus": "Crampon"
+    },
+    "de": {
+      "name": "Wattzapf",
+      "genus": "Kleben"
+    },
+    "es": {
+      "name": "Joltik",
+      "genus": "Lapa"
+    },
+    "it": {
+      "name": "Joltik",
+      "genus": "Appiccicante"
+    }
+  }
+}

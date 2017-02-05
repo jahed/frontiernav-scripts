@@ -1,0 +1,13 @@
+{
+  "id": "collectible5i25",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Autoposturizer",
+    "requirements": true,
+    "rarity": 2,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

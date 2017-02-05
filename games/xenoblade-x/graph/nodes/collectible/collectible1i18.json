@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i18",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Crawling Bat",
+    "rarity": 2
+  },
+  "locale": {
+    "it": {
+      "name": "Pipistrello strisciante"
+    }
+  }
+}

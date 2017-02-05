@@ -1,0 +1,32 @@
+{
+  "id": "data-card-20",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Data Card 20",
+    "summary": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.",
+    "description": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless."
+  },
+  "locale": {
+    "ja": {
+      "name": "データカード２０"
+    },
+    "ko": {
+      "name": "데이터카드20"
+    },
+    "fr": {
+      "name": "Carte Mémo20"
+    },
+    "de": {
+      "name": "Datenkarte20"
+    },
+    "es": {
+      "name": "Tarjeta Datos 20"
+    },
+    "it": {
+      "name": "Scheda Dati 20"
+    }
+  }
+}

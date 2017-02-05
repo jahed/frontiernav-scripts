@@ -1,0 +1,32 @@
+{
+  "id": "seal-bag",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Seal Bag",
+    "summary": "Holds ten Seals for Poké Balls.",
+    "description": "Unused."
+  },
+  "locale": {
+    "ja": {
+      "name": "シールぶくろ"
+    },
+    "ko": {
+      "name": "실주머니"
+    },
+    "fr": {
+      "name": "Sac Sceaux"
+    },
+    "de": {
+      "name": "Stickertüte"
+    },
+    "es": {
+      "name": "Bolsa Sellos"
+    },
+    "it": {
+      "name": "Bollosacca"
+    }
+  }
+}

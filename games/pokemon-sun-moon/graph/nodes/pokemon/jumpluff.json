@@ -1,0 +1,44 @@
+{
+  "id": "jumpluff",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 189,
+    "height": 8,
+    "weight": 30,
+    "base_experience": 207,
+    "name": "Jumpluff",
+    "genus": "Cottonweed"
+  },
+  "locale": {
+    "ja": {
+      "name": "ワタッコ",
+      "genus": "わたくさ"
+    },
+    "ko": {
+      "name": "솜솜코",
+      "genus": "솜풀"
+    },
+    "zh": {
+      "name": "毽子綿",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Cotovol",
+      "genus": "Pissenlit"
+    },
+    "de": {
+      "name": "Papungha",
+      "genus": "Löwenzahn"
+    },
+    "es": {
+      "name": "Jumpluff",
+      "genus": "Algadón"
+    },
+    "it": {
+      "name": "Jumpluff",
+      "genus": "Gramigna"
+    }
+  }
+}

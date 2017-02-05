@@ -1,0 +1,12 @@
+{
+  "id": "s3i64-10",
+  "labels": [
+    "Segment"
+  ],
+  "data": {
+    "q": 6,
+    "r": 4,
+    "s": -10,
+    "special": true
+  }
+}

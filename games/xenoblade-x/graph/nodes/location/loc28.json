@@ -1,0 +1,11 @@
+{
+  "id": "loc28",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Biahno Grassland",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

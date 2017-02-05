@@ -1,0 +1,30 @@
+{
+  "id": "adventure-rules",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Adventure Rules"
+  },
+  "locale": {
+    "ja": {
+      "name": "たんけんこころえ"
+    },
+    "ko": {
+      "name": "탐험수칙"
+    },
+    "fr": {
+      "name": "ABC Aventure"
+    },
+    "de": {
+      "name": "Abenteuerfibel"
+    },
+    "es": {
+      "name": "Guía de Máximas"
+    },
+    "it": {
+      "name": "Guida Avventura"
+    }
+  }
+}

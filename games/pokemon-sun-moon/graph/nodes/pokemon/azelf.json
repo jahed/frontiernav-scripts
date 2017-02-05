@@ -1,0 +1,44 @@
+{
+  "id": "azelf",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 482,
+    "height": 3,
+    "weight": 3,
+    "base_experience": 261,
+    "name": "Azelf",
+    "genus": "Willpower"
+  },
+  "locale": {
+    "ja": {
+      "name": "アグノム",
+      "genus": "いし"
+    },
+    "ko": {
+      "name": "아그놈",
+      "genus": "의지"
+    },
+    "zh": {
+      "name": "亞克諾姆",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Créfadet",
+      "genus": "Volonté"
+    },
+    "de": {
+      "name": "Tobutz",
+      "genus": "Willenskraft"
+    },
+    "es": {
+      "name": "Azelf",
+      "genus": "Voluntad"
+    },
+    "it": {
+      "name": "Azelf",
+      "genus": "Volontà"
+    }
+  }
+}

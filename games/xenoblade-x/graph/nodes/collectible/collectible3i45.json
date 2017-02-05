@@ -1,0 +1,13 @@
+{
+  "id": "collectible3i45",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Zedis Twig",
+    "requirements": true,
+    "rarity": 2,
+    "time": "Early Morning",
+    "weather": "Rain"
+  }
+}

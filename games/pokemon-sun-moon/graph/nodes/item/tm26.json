@@ -1,0 +1,32 @@
+{
+  "id": "tm26",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM26",
+    "summary": "Teaches Earthquake to a compatible Pokémon.",
+    "description": "Teaches Earthquake to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン２６"
+    },
+    "ko": {
+      "name": "기술머신26"
+    },
+    "fr": {
+      "name": "CT26"
+    },
+    "de": {
+      "name": "TM26"
+    },
+    "es": {
+      "name": "MT26"
+    },
+    "it": {
+      "name": "MT26"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "poochyena",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 261,
+    "height": 5,
+    "weight": 136,
+    "base_experience": 44,
+    "name": "Poochyena",
+    "genus": "Bite"
+  },
+  "locale": {
+    "ja": {
+      "name": "ポチエナ",
+      "genus": "かみつき"
+    },
+    "ko": {
+      "name": "포챠나",
+      "genus": "물어뜯기"
+    },
+    "zh": {
+      "name": "土狼犬",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Medhyèna",
+      "genus": "Morsure"
+    },
+    "de": {
+      "name": "Fiffyen",
+      "genus": "Biss"
+    },
+    "es": {
+      "name": "Poochyena",
+      "genus": "Mordisco"
+    },
+    "it": {
+      "name": "Poochyena",
+      "genus": "Morso"
+    }
+  }
+}

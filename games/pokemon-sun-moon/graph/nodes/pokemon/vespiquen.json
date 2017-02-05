@@ -1,0 +1,44 @@
+{
+  "id": "vespiquen",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 416,
+    "height": 12,
+    "weight": 385,
+    "base_experience": 166,
+    "name": "Vespiquen",
+    "genus": "Beehive"
+  },
+  "locale": {
+    "ja": {
+      "name": "ビークイン",
+      "genus": "はちのす"
+    },
+    "ko": {
+      "name": "비퀸",
+      "genus": "벌집"
+    },
+    "zh": {
+      "name": "蜂后",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Apireine",
+      "genus": "Ruche"
+    },
+    "de": {
+      "name": "Honweisel",
+      "genus": "Bienenstock"
+    },
+    "es": {
+      "name": "Vespiquen",
+      "genus": "Colmena"
+    },
+    "it": {
+      "name": "Vespiquen",
+      "genus": "Alveare"
+    }
+  }
+}

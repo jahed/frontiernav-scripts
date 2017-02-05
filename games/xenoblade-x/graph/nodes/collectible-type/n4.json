@@ -1,0 +1,14 @@
+{
+  "id": "n4",
+  "labels": [
+    "CollectibleCategory"
+  ],
+  "data": {
+    "name": "Flora"
+  },
+  "locale": {
+    "de": {
+      "name": "Blumen"
+    }
+  }
+}

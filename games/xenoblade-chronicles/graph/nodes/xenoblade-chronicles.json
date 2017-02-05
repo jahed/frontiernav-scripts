@@ -1,0 +1,21 @@
+{
+  "id": "xenoblade-chronicles",
+  "labels": [
+    "Game"
+  ],
+  "data": {
+    "name": "Xenoblade Chronicles",
+    "boxart": "xenoblade-chronicles/boxart.jpg",
+    "image": "xenoblade-chronicles/banner.jpg",
+    "platform": "Wii / 3DS",
+    "initialRelease": "2010",
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "theme": {
+      "mainColor": "#5488b7"
+    },
+    "mapBackground": {
+      "color": "#01040d"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "volcannon-cinicula",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Volcannon Cinicula",
+    "subcategory": "Cinicula",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 51,
+      "maximum": 60
+    },
+    "experience_range": {
+      "minimum": 1818,
+      "maximum": 2340
+    },
+    "health_range": {
+      "minimum": 680481,
+      "maximum": 796321
+    },
+    "melee_power_range": {
+      "minimum": 2368,
+      "maximum": 2952
+    },
+    "melee_accuracy_range": {
+      "minimum": 231,
+      "maximum": 266
+    },
+    "ranged_power_range": {
+      "minimum": 2368,
+      "maximum": 2952
+    },
+    "ranged_accuracy_range": {
+      "minimum": 227,
+      "maximum": 261
+    },
+    "potential_range": {
+      "minimum": 1974,
+      "maximum": 2460
+    },
+    "evasion_range": {
+      "minimum": 100,
+      "maximum": 123
+    },
+    "notes": "Found at 506,Titan's Table(lo)",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": -25,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

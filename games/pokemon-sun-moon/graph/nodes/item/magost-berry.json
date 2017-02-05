@@ -1,0 +1,32 @@
+{
+  "id": "magost-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Magost Berry",
+    "summary": "Used for creating PokéBlocks and Poffins.",
+    "description": "No effect; only useful for planting and cooking."
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴスのみ"
+    },
+    "ko": {
+      "name": "고스티열매"
+    },
+    "fr": {
+      "name": "Baie Mangou"
+    },
+    "de": {
+      "name": "Magostbeere"
+    },
+    "es": {
+      "name": "Baya Aostan"
+    },
+    "it": {
+      "name": "Baccagostan"
+    }
+  }
+}

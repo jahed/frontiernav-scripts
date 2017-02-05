@@ -1,0 +1,40 @@
+{
+  "id": "archeops",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 567,
+    "height": 14,
+    "weight": 320,
+    "base_experience": 177,
+    "name": "Archeops",
+    "genus": "First Bird"
+  },
+  "locale": {
+    "ja": {
+      "name": "アーケオス",
+      "genus": "さいこどり"
+    },
+    "ko": {
+      "name": "아케오스",
+      "genus": "최초새"
+    },
+    "fr": {
+      "name": "Aéroptéryx",
+      "genus": "Oisancien"
+    },
+    "de": {
+      "name": "Aeropteryx",
+      "genus": "Urzeitvogel"
+    },
+    "es": {
+      "name": "Archeops",
+      "genus": "Protopájaro"
+    },
+    "it": {
+      "name": "Archeops",
+      "genus": "Paleouccello"
+    }
+  }
+}

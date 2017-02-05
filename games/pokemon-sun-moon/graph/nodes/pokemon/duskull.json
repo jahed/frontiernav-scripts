@@ -1,0 +1,44 @@
+{
+  "id": "duskull",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 355,
+    "height": 8,
+    "weight": 150,
+    "base_experience": 59,
+    "name": "Duskull",
+    "genus": "Requiem"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヨマワル",
+      "genus": "おむかえ"
+    },
+    "ko": {
+      "name": "해골몽",
+      "genus": "마중"
+    },
+    "zh": {
+      "name": "夜骷髏",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Skelénox",
+      "genus": "Requiem"
+    },
+    "de": {
+      "name": "Zwirrlicht",
+      "genus": "Requiem"
+    },
+    "es": {
+      "name": "Duskull",
+      "genus": "Réquiem"
+    },
+    "it": {
+      "name": "Duskull",
+      "genus": "Requiem"
+    }
+  }
+}

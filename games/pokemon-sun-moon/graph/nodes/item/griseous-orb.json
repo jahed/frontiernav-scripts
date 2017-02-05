@@ -1,0 +1,32 @@
+{
+  "id": "griseous-orb",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 10000,
+    "name": "Griseous Orb",
+    "summary": "Boosts the damage from Giratina's Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme.",
+    "description": "Held by []{pokemon:giratina}\n:   Holder's []{type:dragon} and []{type:ghost} moves have 1.2× their base power.\n\n    Holder is in Origin Forme.\n\nThis item cannot be held by any Pokémon but Giratina.  When you enter the Union Room or connect to Wi-Fi, this item returns to your bag."
+  },
+  "locale": {
+    "ja": {
+      "name": "はっきんだま"
+    },
+    "ko": {
+      "name": "백금옥"
+    },
+    "fr": {
+      "name": "Orbe Platiné"
+    },
+    "de": {
+      "name": "Platinum-Orb"
+    },
+    "es": {
+      "name": "Griseosfera"
+    },
+    "it": {
+      "name": "Grigiosfera"
+    }
+  }
+}

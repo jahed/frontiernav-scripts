@@ -1,0 +1,32 @@
+{
+  "id": "rule-book",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Rule Book",
+    "summary": "List of battle types and their rules.",
+    "description": "Unused."
+  },
+  "locale": {
+    "ja": {
+      "name": "ルールブック"
+    },
+    "ko": {
+      "name": "룰북"
+    },
+    "fr": {
+      "name": "Livre Règles"
+    },
+    "de": {
+      "name": "Regelbuch"
+    },
+    "es": {
+      "name": "Reglamento"
+    },
+    "it": {
+      "name": "Libro Regole"
+    }
+  }
+}

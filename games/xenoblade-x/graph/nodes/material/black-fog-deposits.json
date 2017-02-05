@@ -1,0 +1,14 @@
+{
+  "id": "black-fog-deposits",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Black Fog Deposits"
+  },
+  "locale": {
+    "de": {
+      "name": "Dunkle Nebelspäne"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "n650",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "East Melville Street",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Via Melville est"
+    }
+  }
+}

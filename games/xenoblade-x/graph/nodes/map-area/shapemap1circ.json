@@ -1,0 +1,13 @@
+{
+  "id": "shapemap1circ",
+  "labels": [
+    "MapArea"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -80.9,
+      "lng": -33.26796875
+    },
+    "radius": 200000
+  }
+}

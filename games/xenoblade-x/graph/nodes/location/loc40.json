@@ -1,0 +1,10 @@
+{
+  "id": "loc40",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Capital Wreckage",
+    "locationTypeId": "Landmark"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "beautifly",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 267,
+    "height": 10,
+    "weight": 284,
+    "base_experience": 178,
+    "name": "Beautifly",
+    "genus": "Butterfly"
+  },
+  "locale": {
+    "ja": {
+      "name": "アゲハント",
+      "genus": "ちょうちょ"
+    },
+    "ko": {
+      "name": "뷰티플라이",
+      "genus": "나비"
+    },
+    "zh": {
+      "name": "狩獵鳳蝶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Charmillon",
+      "genus": "Papillon"
+    },
+    "de": {
+      "name": "Papinella",
+      "genus": "Falter"
+    },
+    "es": {
+      "name": "Beautifly",
+      "genus": "Mariposa"
+    },
+    "it": {
+      "name": "Beautifly",
+      "genus": "Farfalla"
+    }
+  }
+}

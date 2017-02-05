@@ -1,0 +1,15 @@
+{
+  "id": "e0ukVGsS",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Enhanced Search Zig",
+    "level": 48,
+    "notes": "\"Enhanced Search Zig\" guards one of the infantry towers at Wildcat Fortress south east of Scholes Battlegrounds in Cauldros. It is one of the last enemies to load into the area so it takes a moment to appear.",
+    "category": "Mechanoid",
+    "subcategory": "Zig",
+    "image": "e0ukVGsS"
+  }
+}

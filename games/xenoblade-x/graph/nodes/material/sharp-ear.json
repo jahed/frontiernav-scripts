@@ -1,0 +1,14 @@
+{
+  "id": "sharp-ear",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Sharp Ear"
+  },
+  "locale": {
+    "de": {
+      "name": "Spitzes Ohr"
+    }
+  }
+}

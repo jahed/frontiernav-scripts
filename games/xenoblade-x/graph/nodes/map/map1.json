@@ -1,0 +1,25 @@
+{
+  "id": "map1",
+  "labels": [
+    "Map"
+  ],
+  "data": {
+    "name": "NLA",
+    "defaultZoom": 2,
+    "maxNativeZoom": 4,
+    "tileLayers": {
+      "normal": {
+        "folder": "nla",
+        "extension": "jpg",
+        "background": {
+          "image": "map-nla-bg.jpg",
+          "color": "#000000"
+        }
+      }
+    },
+    "center": {
+      "lat": 0,
+      "lng": 0
+    }
+  }
+}

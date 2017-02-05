@@ -1,0 +1,18 @@
+{
+  "id": "collectible1i9",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Strawlenny",
+    "rarity": 1
+  },
+  "locale": {
+    "de": {
+      "name": "Xerdbeere"
+    },
+    "it": {
+      "name": "Bardanfragola"
+    }
+  }
+}

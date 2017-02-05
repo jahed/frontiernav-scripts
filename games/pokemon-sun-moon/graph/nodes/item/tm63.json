@@ -1,0 +1,32 @@
+{
+  "id": "tm63",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2000,
+    "name": "TM63",
+    "summary": "Teaches Embargo to a compatible Pokémon.",
+    "description": "Teaches Embargo to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン６３"
+    },
+    "ko": {
+      "name": "기술머신63"
+    },
+    "fr": {
+      "name": "CT63"
+    },
+    "de": {
+      "name": "TM63"
+    },
+    "es": {
+      "name": "MT63"
+    },
+    "it": {
+      "name": "MT63"
+    }
+  }
+}

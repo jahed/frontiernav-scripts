@@ -1,0 +1,32 @@
+{
+  "id": "relic-crown",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Relic Crown",
+    "summary": "Sell to Villa Owner for 300000 Pokédollars.",
+    "description": "Cult vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "こだいのおうかん"
+    },
+    "ko": {
+      "name": "고대의왕관"
+    },
+    "fr": {
+      "name": "Vieux Tortil"
+    },
+    "de": {
+      "name": "Alte Krone"
+    },
+    "es": {
+      "name": "Corona Antigua"
+    },
+    "it": {
+      "name": "Coronantica"
+    }
+  }
+}

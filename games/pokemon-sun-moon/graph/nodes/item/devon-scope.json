@@ -1,0 +1,29 @@
+{
+  "id": "devon-scope",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Devon Scope",
+    "summary": "Allows spotting of invisible Kecleon.",
+    "description": "Reveals invisble []{pokemon:kecleon} on the overworld."
+  },
+  "locale": {
+    "ja": {
+      "name": "デボンスコープ"
+    },
+    "fr": {
+      "name": "Devon Scope"
+    },
+    "de": {
+      "name": "Devon-Scope"
+    },
+    "es": {
+      "name": "Detec. Devon"
+    },
+    "it": {
+      "name": "Devonscopio"
+    }
+  }
+}

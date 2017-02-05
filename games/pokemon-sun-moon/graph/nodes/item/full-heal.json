@@ -1,0 +1,32 @@
+{
+  "id": "full-heal",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 600,
+    "name": "Full Heal",
+    "summary": "Cures any status ailment and confusion.",
+    "description": "Used on a party Pokémon\n:   Cures any status ailment and confusion."
+  },
+  "locale": {
+    "ja": {
+      "name": "なんでもなおし"
+    },
+    "ko": {
+      "name": "만병통치제"
+    },
+    "fr": {
+      "name": "Total Soin"
+    },
+    "de": {
+      "name": "Hyperheiler"
+    },
+    "es": {
+      "name": "Cura Total"
+    },
+    "it": {
+      "name": "Cura Totale"
+    }
+  }
+}

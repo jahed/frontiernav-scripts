@@ -1,0 +1,13 @@
+{
+  "id": "treasure313-1-12",
+  "labels": [
+    "Treasure"
+  ],
+  "data": {
+    "object": "Alien Container",
+    "requirements": {
+      "field_skill": "Archaeological",
+      "field_skill_level": 4
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "staryu",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 120,
+    "height": 8,
+    "weight": 345,
+    "base_experience": 68,
+    "name": "Staryu",
+    "genus": "Star Shape"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヒトデマン",
+      "genus": "ほしがた"
+    },
+    "ko": {
+      "name": "별가사리",
+      "genus": "별"
+    },
+    "zh": {
+      "name": "海星星",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Stari",
+      "genus": "Étoile"
+    },
+    "de": {
+      "name": "Sterndu",
+      "genus": "Sternform"
+    },
+    "es": {
+      "name": "Staryu",
+      "genus": "Estrellada"
+    },
+    "it": {
+      "name": "Staryu",
+      "genus": "Stella"
+    }
+  }
+}

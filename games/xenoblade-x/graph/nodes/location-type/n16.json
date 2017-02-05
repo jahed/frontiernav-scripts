@@ -1,0 +1,14 @@
+{
+  "id": "n16",
+  "labels": [
+    "LocationType"
+  ],
+  "data": {
+    "name": "Base Camp"
+  },
+  "locale": {
+    "de": {
+      "name": "Außenposten"
+    }
+  }
+}

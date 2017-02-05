@@ -1,0 +1,32 @@
+{
+  "id": "rock-incense",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 9600,
+    "name": "Rock Incense",
+    "summary": "Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.",
+    "description": "Held: Increases the power of the holder's Rock moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "がんせきおこう"
+    },
+    "ko": {
+      "name": "암석향로"
+    },
+    "fr": {
+      "name": "Encens Roc"
+    },
+    "de": {
+      "name": "Steinrauch"
+    },
+    "es": {
+      "name": "Incienso Roca"
+    },
+    "it": {
+      "name": "Roccioaroma"
+    }
+  }
+}

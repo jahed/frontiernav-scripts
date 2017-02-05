@@ -1,0 +1,32 @@
+{
+  "id": "guard-spec",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 700,
+    "name": "Guard Spec.",
+    "summary": "Prevents stat changes in battle for five turns in battle.  Raises happiness.",
+    "description": "Used on a party Pokémon in battle\n:   Protects the target's stats from being lowered for the next five turns.  Increases happiness by 1/1/0."
+  },
+  "locale": {
+    "ja": {
+      "name": "エフェクトガード"
+    },
+    "ko": {
+      "name": "이펙트가드"
+    },
+    "fr": {
+      "name": "Défense Spéciale"
+    },
+    "de": {
+      "name": "Megablock"
+    },
+    "es": {
+      "name": "Protec. Especial"
+    },
+    "it": {
+      "name": "Superguardia"
+    }
+  }
+}

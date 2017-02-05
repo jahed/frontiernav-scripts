@@ -1,0 +1,40 @@
+{
+  "id": "golett",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 622,
+    "height": 10,
+    "weight": 920,
+    "base_experience": 61,
+    "name": "Golett",
+    "genus": "Automaton"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴビット",
+      "genus": "ゴーレム"
+    },
+    "ko": {
+      "name": "골비람",
+      "genus": "골렘"
+    },
+    "fr": {
+      "name": "Gringolem",
+      "genus": "Golem Ancien"
+    },
+    "de": {
+      "name": "Golbit",
+      "genus": "Urgolem"
+    },
+    "es": {
+      "name": "Golett",
+      "genus": "Autómata"
+    },
+    "it": {
+      "name": "Golett",
+      "genus": "Statuanimata"
+    }
+  }
+}

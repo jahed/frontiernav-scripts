@@ -1,0 +1,44 @@
+{
+  "id": "donphan",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 232,
+    "height": 11,
+    "weight": 1200,
+    "base_experience": 175,
+    "name": "Donphan",
+    "genus": "Armor"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドンファン",
+      "genus": "よろい"
+    },
+    "ko": {
+      "name": "코리갑",
+      "genus": "갑옷"
+    },
+    "zh": {
+      "name": "頓甲",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Donphan",
+      "genus": "Armure"
+    },
+    "de": {
+      "name": "Donphan",
+      "genus": "Panzer"
+    },
+    "es": {
+      "name": "Donphan",
+      "genus": "Coraza"
+    },
+    "it": {
+      "name": "Donphan",
+      "genus": "Armatura"
+    }
+  }
+}

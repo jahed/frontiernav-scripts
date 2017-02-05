@@ -1,0 +1,10 @@
+{
+  "id": "loc2",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Abyss Reservoir",
+    "locationTypeId": "Unexplored"
+  }
+}

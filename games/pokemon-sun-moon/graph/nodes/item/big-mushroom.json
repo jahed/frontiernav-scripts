@@ -1,0 +1,32 @@
+{
+  "id": "big-mushroom",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 5000,
+    "name": "Big Mushroom",
+    "summary": "Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars.",
+    "description": "Vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "おおきなキノコ"
+    },
+    "ko": {
+      "name": "큰버섯"
+    },
+    "fr": {
+      "name": "Gros Champi"
+    },
+    "de": {
+      "name": "Riesenpilz"
+    },
+    "es": {
+      "name": "Seta Grande"
+    },
+    "it": {
+      "name": "Grande Fungo"
+    }
+  }
+}

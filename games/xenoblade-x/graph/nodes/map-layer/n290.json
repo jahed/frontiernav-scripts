@@ -1,0 +1,10 @@
+{
+  "id": "n290",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters in BLADE Barracks"
+  }
+}

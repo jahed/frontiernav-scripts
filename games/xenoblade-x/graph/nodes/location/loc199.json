@@ -1,0 +1,15 @@
+{
+  "id": "loc199",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Forgotten Mining Frigate 10",
+    "locationTypeId": "MiningFrigate",
+    "links": {
+      "wiki": {
+        "url": "http://xenoblade.wikia.com/wiki/Forgotten_Mining_Frigates"
+      }
+    }
+  }
+}

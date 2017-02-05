@@ -1,0 +1,11 @@
+{
+  "id": "loc224",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Headwater Cavern",
+    "cave": true,
+    "locationTypeId": "Area"
+  }
+}

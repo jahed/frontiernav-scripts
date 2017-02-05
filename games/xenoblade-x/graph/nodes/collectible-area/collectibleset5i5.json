@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset5i5",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Cauldros Magma Area",
+    "itemType": "Collectible"
+  }
+}

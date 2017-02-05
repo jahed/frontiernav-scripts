@@ -1,0 +1,32 @@
+{
+  "id": "pearl-string",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Pearl String",
+    "summary": "Sell to Ore Collector for 25000 Pokédollars.",
+    "description": "Cult vendor trash."
+  },
+  "locale": {
+    "ja": {
+      "name": "おだんごしんじゅ"
+    },
+    "ko": {
+      "name": "경단진주"
+    },
+    "fr": {
+      "name": "Perle Triple"
+    },
+    "de": {
+      "name": "Triperle"
+    },
+    "es": {
+      "name": "Sarta Perlas"
+    },
+    "it": {
+      "name": "Trittiperla"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cleffa",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 173,
+    "height": 3,
+    "weight": 30,
+    "base_experience": 44,
+    "name": "Cleffa",
+    "genus": "Star Shape"
+  },
+  "locale": {
+    "ja": {
+      "name": "ピィ",
+      "genus": "ほしがた"
+    },
+    "ko": {
+      "name": "삐",
+      "genus": "별"
+    },
+    "zh": {
+      "name": "皮寶寶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mélo",
+      "genus": "Étoile"
+    },
+    "de": {
+      "name": "Pii",
+      "genus": "Sternform"
+    },
+    "es": {
+      "name": "Cleffa",
+      "genus": "Estrellada"
+    },
+    "it": {
+      "name": "Cleffa",
+      "genus": "Stella"
+    }
+  }
+}

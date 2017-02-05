@@ -1,0 +1,13 @@
+{
+  "id": "manon-ship-marker",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -47.63578359086485,
+      "lng": -64.6875
+    },
+    "markerStyle": "text"
+  }
+}

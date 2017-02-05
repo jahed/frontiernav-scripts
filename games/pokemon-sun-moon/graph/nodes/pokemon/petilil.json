@@ -1,0 +1,40 @@
+{
+  "id": "petilil",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 548,
+    "height": 5,
+    "weight": 66,
+    "base_experience": 56,
+    "name": "Petilil",
+    "genus": "Bulb"
+  },
+  "locale": {
+    "ja": {
+      "name": "チュリネ",
+      "genus": "ねっこ"
+    },
+    "ko": {
+      "name": "치릴리",
+      "genus": "뿌리"
+    },
+    "fr": {
+      "name": "Chlorobule",
+      "genus": "Racine"
+    },
+    "de": {
+      "name": "Lilminip",
+      "genus": "Wurzel"
+    },
+    "es": {
+      "name": "Petilil",
+      "genus": "Bulbo"
+    },
+    "it": {
+      "name": "Petilil",
+      "genus": "Radice"
+    }
+  }
+}

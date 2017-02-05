@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i5",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Rocky Mountain Area",
+    "itemType": "Collectible"
+  }
+}

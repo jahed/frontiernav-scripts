@@ -1,0 +1,44 @@
+{
+  "id": "quagsire",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 195,
+    "height": 14,
+    "weight": 750,
+    "base_experience": 151,
+    "name": "Quagsire",
+    "genus": "Water Fish"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヌオー",
+      "genus": "みずうお"
+    },
+    "ko": {
+      "name": "누오",
+      "genus": "수어"
+    },
+    "zh": {
+      "name": "沼王",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Maraiste",
+      "genus": "Poisson"
+    },
+    "de": {
+      "name": "Morlord",
+      "genus": "Fisch"
+    },
+    "es": {
+      "name": "Quagsire",
+      "genus": "Pez Agua"
+    },
+    "it": {
+      "name": "Quagsire",
+      "genus": "Acquapesce"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "loc51",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Cauldros Gate",
+    "locationTypeId": "Area"
+  }
+}

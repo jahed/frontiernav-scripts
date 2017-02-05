@@ -1,0 +1,29 @@
+{
+  "id": "rm-1-key",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Rm. 1 Key",
+    "summary": "Unlocks room 1 on the Abandoned Ship.",
+    "description": "Unlocks room 1 on the []{location:abandoned-ship}."
+  },
+  "locale": {
+    "ja": {
+      "name": "１ごうしつのカギ"
+    },
+    "fr": {
+      "name": "Clé Salle 1"
+    },
+    "de": {
+      "name": "K1-Schlüssel"
+    },
+    "es": {
+      "name": "Ll. Cabina 1"
+    },
+    "it": {
+      "name": "Chiave Cab.1"
+    }
+  }
+}

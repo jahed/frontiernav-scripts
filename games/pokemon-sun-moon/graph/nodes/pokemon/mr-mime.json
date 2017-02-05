@@ -1,0 +1,44 @@
+{
+  "id": "mr-mime",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 122,
+    "height": 13,
+    "weight": 545,
+    "base_experience": 161,
+    "name": "Mr. Mime",
+    "genus": "Barrier"
+  },
+  "locale": {
+    "ja": {
+      "name": "バリヤード",
+      "genus": "バリアー"
+    },
+    "ko": {
+      "name": "마임맨",
+      "genus": "배리어"
+    },
+    "zh": {
+      "name": "吸盤魔偶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "M. Mime",
+      "genus": "Bloqueur"
+    },
+    "de": {
+      "name": "Pantimos",
+      "genus": "Sperre"
+    },
+    "es": {
+      "name": "Mr. Mime",
+      "genus": "Barrera"
+    },
+    "it": {
+      "name": "Mr. Mime",
+      "genus": "Barriera"
+    }
+  }
+}

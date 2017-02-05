@@ -1,0 +1,44 @@
+{
+  "id": "gastly",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 92,
+    "height": 13,
+    "weight": 1,
+    "base_experience": 62,
+    "name": "Gastly",
+    "genus": "Gas"
+  },
+  "locale": {
+    "ja": {
+      "name": "ゴース",
+      "genus": "ガスじょう"
+    },
+    "ko": {
+      "name": "고오스",
+      "genus": "가스"
+    },
+    "zh": {
+      "name": "鬼斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Fantominus",
+      "genus": "Gaz"
+    },
+    "de": {
+      "name": "Nebulak",
+      "genus": "Gas"
+    },
+    "es": {
+      "name": "Gastly",
+      "genus": "Gas"
+    },
+    "it": {
+      "name": "Gastly",
+      "genus": "Gas"
+    }
+  }
+}

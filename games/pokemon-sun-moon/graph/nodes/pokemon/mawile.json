@@ -1,0 +1,44 @@
+{
+  "id": "mawile",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 303,
+    "height": 6,
+    "weight": 115,
+    "base_experience": 133,
+    "name": "Mawile",
+    "genus": "Deceiver"
+  },
+  "locale": {
+    "ja": {
+      "name": "クチート",
+      "genus": "あざむき"
+    },
+    "ko": {
+      "name": "입치트",
+      "genus": "배반"
+    },
+    "zh": {
+      "name": "大嘴娃",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Mysdibule",
+      "genus": "Trompeur"
+    },
+    "de": {
+      "name": "Flunkifer",
+      "genus": "Schwindler"
+    },
+    "es": {
+      "name": "Mawile",
+      "genus": "Tramposo"
+    },
+    "it": {
+      "name": "Mawile",
+      "genus": "Inganno"
+    }
+  }
+}

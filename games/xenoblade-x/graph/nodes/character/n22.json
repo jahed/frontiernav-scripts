@@ -1,0 +1,11 @@
+{
+  "id": "n22",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Doug Barrett",
+    "image": "doug-banner",
+    "thumbnail": "doug-face.png"
+  }
+}

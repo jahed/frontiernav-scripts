@@ -1,0 +1,19 @@
+{
+  "id": "lv3",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Probes",
+    "icon": "line-chart",
+    "thumbnail": "view-probes"
+  },
+  "locale": {
+    "de": {
+      "name": "Sonden"
+    },
+    "it": {
+      "name": "Sonde"
+    }
+  }
+}

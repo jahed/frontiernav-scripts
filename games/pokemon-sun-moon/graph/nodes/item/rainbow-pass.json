@@ -1,0 +1,29 @@
+{
+  "id": "rainbow-pass",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Rainbow Pass",
+    "summary": "Grants access to all of the Sevii Islands.",
+    "description": "Provides access to the Sevii Islands."
+  },
+  "locale": {
+    "ja": {
+      "name": "レインボーパス"
+    },
+    "fr": {
+      "name": "Passe Prisme"
+    },
+    "de": {
+      "name": "Bunt-Pass"
+    },
+    "es": {
+      "name": "Iris-Ticket"
+    },
+    "it": {
+      "name": "Sette Pass"
+    }
+  }
+}

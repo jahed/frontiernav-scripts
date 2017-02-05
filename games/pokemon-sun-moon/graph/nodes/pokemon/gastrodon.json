@@ -1,0 +1,44 @@
+{
+  "id": "gastrodon",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 423,
+    "height": 9,
+    "weight": 299,
+    "base_experience": 166,
+    "name": "Gastrodon",
+    "genus": "Sea Slug"
+  },
+  "locale": {
+    "ja": {
+      "name": "トリトドン",
+      "genus": "ウミウシ"
+    },
+    "ko": {
+      "name": "트리토돈",
+      "genus": "갯민숭달팽이"
+    },
+    "zh": {
+      "name": "海牛獸",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tritosor",
+      "genus": "Aqualimace"
+    },
+    "de": {
+      "name": "Gastrodon",
+      "genus": "Seeschnecke"
+    },
+    "es": {
+      "name": "Gastrodon",
+      "genus": "Babosa Mar."
+    },
+    "it": {
+      "name": "Gastrodon",
+      "genus": "Lumacomare"
+    }
+  }
+}

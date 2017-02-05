@@ -1,0 +1,32 @@
+{
+  "id": "contest-pass",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Contest Pass",
+    "summary": "Allows participation in Pokémon Contests.",
+    "description": "Allows the trainer to enter Contests."
+  },
+  "locale": {
+    "ja": {
+      "name": "コンテストパス"
+    },
+    "ko": {
+      "name": "콘테스트패스"
+    },
+    "fr": {
+      "name": "Passe Concours"
+    },
+    "de": {
+      "name": "Wettb.-Karte"
+    },
+    "es": {
+      "name": "Pase Concurso"
+    },
+    "it": {
+      "name": "Tessera Gare"
+    }
+  }
+}

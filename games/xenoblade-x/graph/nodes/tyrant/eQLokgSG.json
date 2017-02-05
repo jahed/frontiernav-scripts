@@ -1,0 +1,15 @@
+{
+  "id": "eQLokgSG",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Logistical Support Quo",
+    "level": 46,
+    "notes": "\"Logistical Support Quo\" sits on a spherical light near the lone tower in the back of bedrock hold, the Ganglion base located in the far north west corner of Primordia.",
+    "category": "Mechanoid",
+    "subcategory": "Quo",
+    "image": "eQLokgSG"
+  }
+}

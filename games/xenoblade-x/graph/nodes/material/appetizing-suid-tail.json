@@ -1,0 +1,14 @@
+{
+  "id": "appetizing-suid-tail",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Appetizing Suid Tail"
+  },
+  "locale": {
+    "de": {
+      "name": "Appetitlicher Suidschwanz"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "luxray",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 405,
+    "height": 14,
+    "weight": 420,
+    "base_experience": 235,
+    "name": "Luxray",
+    "genus": "Gleam Eyes"
+  },
+  "locale": {
+    "ja": {
+      "name": "レントラー",
+      "genus": "がんこう"
+    },
+    "ko": {
+      "name": "렌트라",
+      "genus": "안광"
+    },
+    "zh": {
+      "name": "倫琴貓",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Luxray",
+      "genus": "Brillœil"
+    },
+    "de": {
+      "name": "Luxtra",
+      "genus": "Glühauge"
+    },
+    "es": {
+      "name": "Luxray",
+      "genus": "Chispa Ojos"
+    },
+    "it": {
+      "name": "Luxray",
+      "genus": "Occhiluce"
+    }
+  }
+}

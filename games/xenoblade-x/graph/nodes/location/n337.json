@@ -1,0 +1,18 @@
+{
+  "id": "n337",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "East Gate",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Osttor"
+    },
+    "it": {
+      "name": "Cancello est"
+    }
+  }
+}

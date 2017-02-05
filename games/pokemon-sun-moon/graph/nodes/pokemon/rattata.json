@@ -1,0 +1,44 @@
+{
+  "id": "rattata",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 19,
+    "height": 3,
+    "weight": 35,
+    "base_experience": 51,
+    "name": "Rattata",
+    "genus": "Mouse"
+  },
+  "locale": {
+    "ja": {
+      "name": "コラッタ",
+      "genus": "ねずみ"
+    },
+    "ko": {
+      "name": "꼬렛",
+      "genus": "쥐"
+    },
+    "zh": {
+      "name": "小拉達",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rattata",
+      "genus": "Souris"
+    },
+    "de": {
+      "name": "Rattfratz",
+      "genus": "Maus"
+    },
+    "es": {
+      "name": "Rattata",
+      "genus": "Ratón"
+    },
+    "it": {
+      "name": "Rattata",
+      "genus": "Topo"
+    }
+  }
+}

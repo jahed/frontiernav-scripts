@@ -1,0 +1,58 @@
+{
+  "id": "sea-xiphias",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Sea Xiphias",
+    "subcategory": "Xiphias",
+    "category": "Piscinoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 95,
+      "maximum": 156
+    },
+    "health_range": {
+      "minimum": 19388,
+      "maximum": 33026
+    },
+    "melee_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "melee_accuracy_range": {
+      "minimum": 145,
+      "maximum": 175
+    },
+    "ranged_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "ranged_accuracy_range": {
+      "minimum": 129,
+      "maximum": 157
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 60,
+      "maximum": 93
+    },
+    "notes": "Found at NmostInlet,113",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

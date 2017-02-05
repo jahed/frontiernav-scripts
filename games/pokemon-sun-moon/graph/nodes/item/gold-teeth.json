@@ -1,0 +1,29 @@
+{
+  "id": "gold-teeth",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Gold Teeth",
+    "summary": "The Safari Zone Warden's dentures. Trade for HM04 (Strength).",
+    "description": "The Safari Zone warden's teeth, to be returned to him for []{item:hm04}."
+  },
+  "locale": {
+    "ja": {
+      "name": "きんのいれば"
+    },
+    "fr": {
+      "name": "Dent d'Or"
+    },
+    "de": {
+      "name": "Goldzähne"
+    },
+    "es": {
+      "name": "Dientes Oro"
+    },
+    "it": {
+      "name": "Denti d'Oro"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tm70",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "TM70",
+    "summary": "Teaches Flash to a compatible Pokémon.",
+    "description": "Teaches Flash to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン７０"
+    },
+    "ko": {
+      "name": "기술머신70"
+    },
+    "fr": {
+      "name": "CT70"
+    },
+    "de": {
+      "name": "TM70"
+    },
+    "es": {
+      "name": "MT70"
+    },
+    "it": {
+      "name": "MT70"
+    }
+  }
+}

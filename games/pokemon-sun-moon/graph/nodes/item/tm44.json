@@ -1,0 +1,32 @@
+{
+  "id": "tm44",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 3000,
+    "name": "TM44",
+    "summary": "Teaches Rest to a compatible Pokémon.",
+    "description": "Teaches Rest to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン４４"
+    },
+    "ko": {
+      "name": "기술머신44"
+    },
+    "fr": {
+      "name": "CT44"
+    },
+    "de": {
+      "name": "TM44"
+    },
+    "es": {
+      "name": "MT44"
+    },
+    "it": {
+      "name": "MT44"
+    }
+  }
+}

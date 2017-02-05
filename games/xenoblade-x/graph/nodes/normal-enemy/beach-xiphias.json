@@ -1,0 +1,58 @@
+{
+  "id": "beach-xiphias",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Beach Xiphias",
+    "subcategory": "Xiphias",
+    "category": "Piscinoid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 11,
+      "maximum": 20
+    },
+    "experience_range": {
+      "minimum": 51,
+      "maximum": 88
+    },
+    "health_range": {
+      "minimum": 8605,
+      "maximum": 18312
+    },
+    "melee_power_range": {
+      "minimum": 115,
+      "maximum": 202
+    },
+    "melee_accuracy_range": {
+      "minimum": 125,
+      "maximum": 143
+    },
+    "ranged_power_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "ranged_accuracy_range": {
+      "minimum": 111,
+      "maximum": 127
+    },
+    "potential_range": {
+      "minimum": 128,
+      "maximum": 225
+    },
+    "evasion_range": {
+      "minimum": 38,
+      "maximum": 58
+    },
+    "notes": "Found at 203,isle S of 209",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": 0,
+    "electric_resistance": -50,
+    "gravity_resistance": -25
+  }
+}

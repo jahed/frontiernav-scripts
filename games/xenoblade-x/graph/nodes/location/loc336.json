@@ -1,0 +1,15 @@
+{
+  "id": "loc336",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Rustpool Banks",
+    "locationTypeId": "Area"
+  },
+  "locale": {
+    "it": {
+      "name": "Pozze di Ruggine"
+    }
+  }
+}

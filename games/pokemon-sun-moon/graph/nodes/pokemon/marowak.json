@@ -1,0 +1,44 @@
+{
+  "id": "marowak",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 105,
+    "height": 10,
+    "weight": 450,
+    "base_experience": 149,
+    "name": "Marowak",
+    "genus": "Bone Keeper"
+  },
+  "locale": {
+    "ja": {
+      "name": "ガラガラ",
+      "genus": "ほねずき"
+    },
+    "ko": {
+      "name": "텅구리",
+      "genus": "뼈다귀"
+    },
+    "zh": {
+      "name": "嘎啦嘎啦",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Ossatueur",
+      "genus": "Gard'Os"
+    },
+    "de": {
+      "name": "Knogga",
+      "genus": "Knochenfan"
+    },
+    "es": {
+      "name": "Marowak",
+      "genus": "Apilahueso"
+    },
+    "it": {
+      "name": "Marowak",
+      "genus": "Guardaossi"
+    }
+  }
+}

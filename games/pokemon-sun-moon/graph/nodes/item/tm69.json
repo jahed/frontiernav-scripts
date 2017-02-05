@@ -1,0 +1,32 @@
+{
+  "id": "tm69",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1500,
+    "name": "TM69",
+    "summary": "Teaches Rock Polish to a compatible Pokémon.",
+    "description": "Teaches Rock Polish to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン６９"
+    },
+    "ko": {
+      "name": "기술머신69"
+    },
+    "fr": {
+      "name": "CT69"
+    },
+    "de": {
+      "name": "TM69"
+    },
+    "es": {
+      "name": "MT69"
+    },
+    "it": {
+      "name": "MT69"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "muddy-pelt",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Muddy Pelt"
+  },
+  "locale": {
+    "de": {
+      "name": "Dreckiger Pelz"
+    }
+  }
+}

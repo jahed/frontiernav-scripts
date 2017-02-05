@@ -1,0 +1,44 @@
+{
+  "id": "octillery",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 224,
+    "height": 9,
+    "weight": 285,
+    "base_experience": 168,
+    "name": "Octillery",
+    "genus": "Jet"
+  },
+  "locale": {
+    "ja": {
+      "name": "オクタン",
+      "genus": "ふんしゃ"
+    },
+    "ko": {
+      "name": "대포무노",
+      "genus": "분사"
+    },
+    "zh": {
+      "name": "章魚桶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Octillery",
+      "genus": "Jet"
+    },
+    "de": {
+      "name": "Octillery",
+      "genus": "Hochdruck"
+    },
+    "es": {
+      "name": "Octillery",
+      "genus": "Reactor"
+    },
+    "it": {
+      "name": "Octillery",
+      "genus": "Jet"
+    }
+  }
+}

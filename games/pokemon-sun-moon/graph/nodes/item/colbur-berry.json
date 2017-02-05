@@ -1,0 +1,32 @@
+{
+  "id": "colbur-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Colbur Berry",
+    "summary": "Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.",
+    "description": "Held in battle\n:   When the holder would take super-effective []{type:dark}-type damage, it consumes this item to halve the amount of damage taken."
+  },
+  "locale": {
+    "ja": {
+      "name": "ナモのみ"
+    },
+    "ko": {
+      "name": "마코열매"
+    },
+    "fr": {
+      "name": "Baie Lampou"
+    },
+    "de": {
+      "name": "Burleobeere"
+    },
+    "es": {
+      "name": "Baya Dillo"
+    },
+    "it": {
+      "name": "Baccaxan"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "gorebyss",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 368,
+    "height": 18,
+    "weight": 226,
+    "base_experience": 170,
+    "name": "Gorebyss",
+    "genus": "South Sea"
+  },
+  "locale": {
+    "ja": {
+      "name": "サクラビス",
+      "genus": "なんかい"
+    },
+    "ko": {
+      "name": "분홍장이",
+      "genus": "남해"
+    },
+    "zh": {
+      "name": "櫻花魚",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rosabyss",
+      "genus": "Mer du Sud"
+    },
+    "de": {
+      "name": "Saganabyss",
+      "genus": "Südsee"
+    },
+    "es": {
+      "name": "Gorebyss",
+      "genus": "Mar Del Sur"
+    },
+    "it": {
+      "name": "Gorebyss",
+      "genus": "Sudmarino"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "collectible2i2",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Rock Armadillo",
+    "rarity": 1
+  }
+}

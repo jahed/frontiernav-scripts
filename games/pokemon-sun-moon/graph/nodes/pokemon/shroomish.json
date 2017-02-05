@@ -1,0 +1,44 @@
+{
+  "id": "shroomish",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 285,
+    "height": 4,
+    "weight": 45,
+    "base_experience": 59,
+    "name": "Shroomish",
+    "genus": "Mushroom"
+  },
+  "locale": {
+    "ja": {
+      "name": "キノココ",
+      "genus": "きのこ"
+    },
+    "ko": {
+      "name": "버섯꼬",
+      "genus": "버섯"
+    },
+    "zh": {
+      "name": "蘑蘑菇",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Balignon",
+      "genus": "Champignon"
+    },
+    "de": {
+      "name": "Knilz",
+      "genus": "Pilz"
+    },
+    "es": {
+      "name": "Shroomish",
+      "genus": "Hongo"
+    },
+    "it": {
+      "name": "Shroomish",
+      "genus": "Fungo"
+    }
+  }
+}

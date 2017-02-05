@@ -1,0 +1,44 @@
+{
+  "id": "magnemite",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 81,
+    "height": 3,
+    "weight": 60,
+    "base_experience": 65,
+    "name": "Magnemite",
+    "genus": "Magnet"
+  },
+  "locale": {
+    "ja": {
+      "name": "コイル",
+      "genus": "じしゃく"
+    },
+    "ko": {
+      "name": "코일",
+      "genus": "자석"
+    },
+    "zh": {
+      "name": "小磁怪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Magnéti",
+      "genus": "Magnétique"
+    },
+    "de": {
+      "name": "Magnetilo",
+      "genus": "Magnet"
+    },
+    "es": {
+      "name": "Magnemite",
+      "genus": "Imán"
+    },
+    "it": {
+      "name": "Magnemite",
+      "genus": "Calamita"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ariados",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 168,
+    "height": 11,
+    "weight": 335,
+    "base_experience": 137,
+    "name": "Ariados",
+    "genus": "Long Leg"
+  },
+  "locale": {
+    "ja": {
+      "name": "アリアドス",
+      "genus": "あしなが"
+    },
+    "ko": {
+      "name": "아리아도스",
+      "genus": "롱다리"
+    },
+    "zh": {
+      "name": "阿利多斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Migalos",
+      "genus": "Long-Patte"
+    },
+    "de": {
+      "name": "Ariados",
+      "genus": "Langbein"
+    },
+    "es": {
+      "name": "Ariados",
+      "genus": "Pata Larga"
+    },
+    "it": {
+      "name": "Ariados",
+      "genus": "Lungazampa"
+    }
+  }
+}

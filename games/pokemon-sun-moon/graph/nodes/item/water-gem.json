@@ -1,0 +1,32 @@
+{
+  "id": "water-gem",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 200,
+    "name": "Water Gem",
+    "summary": "Held: When the holder uses a damaging []{type:water}-type move, the move has 1.5× power and this item is consumed.",
+    "description": "Held\n:   When the holder uses a damaging []{type:water}-type move, the move has 1.5× power and this item is consumed."
+  },
+  "locale": {
+    "ja": {
+      "name": "みずのジュエル"
+    },
+    "ko": {
+      "name": "물주얼"
+    },
+    "fr": {
+      "name": "Joyau Eau"
+    },
+    "de": {
+      "name": "Wasserjuwel"
+    },
+    "es": {
+      "name": "Gema Agua"
+    },
+    "it": {
+      "name": "Bijouacqua"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eK1rJoRq",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Ahama, the Covetous",
+    "level": 60,
+    "notes": "\"Ahama, the Covetous\" appears in the same spot during the night.",
+    "category": "Humanoid",
+    "subcategory": "Marnuck",
+    "time": "5:00 - 19:00",
+    "image": "eK1rJoRq"
+  }
+}

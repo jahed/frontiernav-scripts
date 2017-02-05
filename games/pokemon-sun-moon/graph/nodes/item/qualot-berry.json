@@ -1,0 +1,32 @@
+{
+  "id": "qualot-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Qualot Berry",
+    "summary": "Drops Defense Effort Values by 10 and raises happiness.",
+    "description": "Used on a party Pokémon\n:   Increases happiness by 10/5/2.  Lowers Defense effort by 10."
+  },
+  "locale": {
+    "ja": {
+      "name": "タポルのみ"
+    },
+    "ko": {
+      "name": "파비열매"
+    },
+    "fr": {
+      "name": "Baie Qualot"
+    },
+    "de": {
+      "name": "Qualotbeere"
+    },
+    "es": {
+      "name": "Baya Ispero"
+    },
+    "it": {
+      "name": "Baccaloquat"
+    }
+  }
+}

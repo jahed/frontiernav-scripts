@@ -1,0 +1,32 @@
+{
+  "id": "dusk-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1000,
+    "name": "Dusk Ball",
+    "summary": "Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.",
+    "description": "Used in battle\n:   Attempts to catch a wild Pokémon.  If it's currently nighttime or the wild Pokémon was encountered while walking in a cave, this ball has a catch rate of 3.5×.  Otherwise, it has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost."
+  },
+  "locale": {
+    "ja": {
+      "name": "ダークボール"
+    },
+    "ko": {
+      "name": "다크볼"
+    },
+    "fr": {
+      "name": "Sombre Ball"
+    },
+    "de": {
+      "name": "Finsterball"
+    },
+    "es": {
+      "name": "Ocaso Ball"
+    },
+    "it": {
+      "name": "Scuro Ball"
+    }
+  }
+}

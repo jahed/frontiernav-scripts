@@ -1,0 +1,40 @@
+{
+  "id": "klang",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 600,
+    "height": 6,
+    "weight": 510,
+    "base_experience": 154,
+    "name": "Klang",
+    "genus": "Gear"
+  },
+  "locale": {
+    "ja": {
+      "name": "ギギアル",
+      "genus": "はぐるま"
+    },
+    "ko": {
+      "name": "기기어르",
+      "genus": "톱니바퀴"
+    },
+    "fr": {
+      "name": "Clic",
+      "genus": "Engrenage"
+    },
+    "de": {
+      "name": "Kliklak",
+      "genus": "Getriebe"
+    },
+    "es": {
+      "name": "Klang",
+      "genus": "Engranaje"
+    },
+    "it": {
+      "name": "Klang",
+      "genus": "Ingranaggio"
+    }
+  }
+}

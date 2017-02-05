@@ -1,0 +1,32 @@
+{
+  "id": "apricorn-box",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Apricorn Box",
+    "summary": "Holds Apricorns.",
+    "description": "Stores Apricorns."
+  },
+  "locale": {
+    "ja": {
+      "name": "ぼんぐりケース"
+    },
+    "ko": {
+      "name": "규토리케이스"
+    },
+    "fr": {
+      "name": "Boîte Noigrume"
+    },
+    "de": {
+      "name": "Aprikokobox"
+    },
+    "es": {
+      "name": "Caja Bonguri"
+    },
+    "it": {
+      "name": "Ghicobox"
+    }
+  }
+}

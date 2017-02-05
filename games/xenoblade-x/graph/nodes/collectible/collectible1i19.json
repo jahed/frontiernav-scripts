@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i19",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Zizi Rabbit",
+    "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Coniglio Zizi"
+    }
+  }
+}

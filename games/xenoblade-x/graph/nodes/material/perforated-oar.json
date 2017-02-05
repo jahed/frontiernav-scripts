@@ -1,0 +1,14 @@
+{
+  "id": "perforated-oar",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Perforated Oar"
+  },
+  "locale": {
+    "de": {
+      "name": "Lochschwimmhaut"
+    }
+  }
+}

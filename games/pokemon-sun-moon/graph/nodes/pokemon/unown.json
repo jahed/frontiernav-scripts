@@ -1,0 +1,44 @@
+{
+  "id": "unown",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 201,
+    "height": 5,
+    "weight": 50,
+    "base_experience": 118,
+    "name": "Unown",
+    "genus": "Symbol"
+  },
+  "locale": {
+    "ja": {
+      "name": "アンノーン",
+      "genus": "シンボル"
+    },
+    "ko": {
+      "name": "안농",
+      "genus": "심볼"
+    },
+    "zh": {
+      "name": "未知圖騰",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Zarbi",
+      "genus": "Symbolique"
+    },
+    "de": {
+      "name": "Icognito",
+      "genus": "Symbol"
+    },
+    "es": {
+      "name": "Unown",
+      "genus": "Símbolo"
+    },
+    "it": {
+      "name": "Unown",
+      "genus": "Simbolo"
+    }
+  }
+}

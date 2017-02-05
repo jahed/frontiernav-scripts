@@ -1,0 +1,44 @@
+{
+  "id": "pinsir",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 127,
+    "height": 15,
+    "weight": 550,
+    "base_experience": 175,
+    "name": "Pinsir",
+    "genus": "Stag Beetle"
+  },
+  "locale": {
+    "ja": {
+      "name": "カイロス",
+      "genus": "くわがた"
+    },
+    "ko": {
+      "name": "쁘사이저",
+      "genus": "뿔집게"
+    },
+    "zh": {
+      "name": "大甲",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Scarabrute",
+      "genus": "Scarabée"
+    },
+    "de": {
+      "name": "Pinsir",
+      "genus": "Kneifkäfer"
+    },
+    "es": {
+      "name": "Pinsir",
+      "genus": "Escarabajo"
+    },
+    "it": {
+      "name": "Pinsir",
+      "genus": "Cervolante"
+    }
+  }
+}

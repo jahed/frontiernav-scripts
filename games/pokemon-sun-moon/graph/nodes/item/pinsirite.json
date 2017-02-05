@@ -1,0 +1,30 @@
+{
+  "id": "pinsirite",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 0,
+    "name": "Pinsirite"
+  },
+  "locale": {
+    "ja": {
+      "name": "カイロスナイト"
+    },
+    "ko": {
+      "name": "쁘사이저나이트"
+    },
+    "fr": {
+      "name": "Scarabruite"
+    },
+    "de": {
+      "name": "Pinsirnit"
+    },
+    "es": {
+      "name": "Pinsirita"
+    },
+    "it": {
+      "name": "Pinsirite"
+    }
+  }
+}

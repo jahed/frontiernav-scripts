@@ -1,0 +1,44 @@
+{
+  "id": "regigigas",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 486,
+    "height": 37,
+    "weight": 4200,
+    "base_experience": 302,
+    "name": "Regigigas",
+    "genus": "Colossal"
+  },
+  "locale": {
+    "ja": {
+      "name": "レジギガス",
+      "genus": "きょだい"
+    },
+    "ko": {
+      "name": "레지기가스",
+      "genus": "거대"
+    },
+    "zh": {
+      "name": "雷吉奇卡斯",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Regigigas",
+      "genus": "Prodigieux"
+    },
+    "de": {
+      "name": "Regigigas",
+      "genus": "Kolossal"
+    },
+    "es": {
+      "name": "Regigigas",
+      "genus": "Colosal"
+    },
+    "it": {
+      "name": "Regigigas",
+      "genus": "Colossale"
+    }
+  }
+}

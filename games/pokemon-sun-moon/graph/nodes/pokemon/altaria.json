@@ -1,0 +1,44 @@
+{
+  "id": "altaria",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 334,
+    "height": 11,
+    "weight": 206,
+    "base_experience": 172,
+    "name": "Altaria",
+    "genus": "Humming"
+  },
+  "locale": {
+    "ja": {
+      "name": "チルタリス",
+      "genus": "ハミング"
+    },
+    "ko": {
+      "name": "파비코리",
+      "genus": "허밍"
+    },
+    "zh": {
+      "name": "七夕青鳥",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Altaria",
+      "genus": "Virevolteur"
+    },
+    "de": {
+      "name": "Altaria",
+      "genus": "Summsel"
+    },
+    "es": {
+      "name": "Altaria",
+      "genus": "Cantor"
+    },
+    "it": {
+      "name": "Altaria",
+      "genus": "Canterino"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "collectible1i60",
+  "labels": [
+    "Collectible"
+  ],
+  "data": {
+    "name": "Mirage Scope",
+    "rarity": 3
+  },
+  "locale": {
+    "it": {
+      "name": "Miraggioscopio"
+    }
+  }
+}

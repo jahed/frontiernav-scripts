@@ -1,0 +1,32 @@
+{
+  "id": "tanga-berry",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 20,
+    "name": "Tanga Berry",
+    "summary": "Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.",
+    "description": "Held in battle\n:   When the holder would take super-effective []{type:bug}-type damage, it consumes this item to halve the amount of damage taken."
+  },
+  "locale": {
+    "ja": {
+      "name": "タンガのみ"
+    },
+    "ko": {
+      "name": "리체열매"
+    },
+    "fr": {
+      "name": "Baie Panga"
+    },
+    "de": {
+      "name": "Tanigabeere"
+    },
+    "es": {
+      "name": "Baya Yecana"
+    },
+    "it": {
+      "name": "Baccaitan"
+    }
+  }
+}

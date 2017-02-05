@@ -1,0 +1,12 @@
+{
+  "id": "segmentDimensions",
+  "type": "object",
+  "required": [
+    "height"
+  ],
+  "properties": {
+    "height": {
+      "type": "number"
+    }
+  }
+}

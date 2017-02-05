@@ -1,0 +1,11 @@
+{
+  "id": "lv5",
+  "labels": [
+    "MapLayer"
+  ],
+  "data": {
+    "name": "Recruits",
+    "description": "Recruitable Characters in NLA",
+    "icon": "compass"
+  }
+}

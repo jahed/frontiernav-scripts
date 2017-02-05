@@ -1,0 +1,44 @@
+{
+  "id": "tentacruel",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 73,
+    "height": 16,
+    "weight": 550,
+    "base_experience": 180,
+    "name": "Tentacruel",
+    "genus": "Jellyfish"
+  },
+  "locale": {
+    "ja": {
+      "name": "ドククラゲ",
+      "genus": "くらげ"
+    },
+    "ko": {
+      "name": "독파리",
+      "genus": "해파리"
+    },
+    "zh": {
+      "name": "毒刺水母",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tentacruel",
+      "genus": "Mollusque"
+    },
+    "de": {
+      "name": "Tentoxa",
+      "genus": "Qualle"
+    },
+    "es": {
+      "name": "Tentacruel",
+      "genus": "Medusa"
+    },
+    "it": {
+      "name": "Tentacruel",
+      "genus": "Medusa"
+    }
+  }
+}

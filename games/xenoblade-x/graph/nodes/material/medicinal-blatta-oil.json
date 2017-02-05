@@ -1,0 +1,14 @@
+{
+  "id": "medicinal-blatta-oil",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Medicinal Blatta Oil"
+  },
+  "locale": {
+    "de": {
+      "name": "Heilkräftiges Blattaöl"
+    }
+  }
+}

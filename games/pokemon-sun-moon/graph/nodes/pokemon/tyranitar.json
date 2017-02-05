@@ -1,0 +1,44 @@
+{
+  "id": "tyranitar",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 248,
+    "height": 20,
+    "weight": 2020,
+    "base_experience": 270,
+    "name": "Tyranitar",
+    "genus": "Armor"
+  },
+  "locale": {
+    "ja": {
+      "name": "バンギラス",
+      "genus": "よろい"
+    },
+    "ko": {
+      "name": "마기라스",
+      "genus": "갑옷"
+    },
+    "zh": {
+      "name": "班吉拉",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Tyranocif",
+      "genus": "Armure"
+    },
+    "de": {
+      "name": "Despotar",
+      "genus": "Panzer"
+    },
+    "es": {
+      "name": "Tyranitar",
+      "genus": "Coraza"
+    },
+    "it": {
+      "name": "Tyranitar",
+      "genus": "Armatura"
+    }
+  }
+}

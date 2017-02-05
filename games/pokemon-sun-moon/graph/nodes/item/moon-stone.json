@@ -1,0 +1,32 @@
+{
+  "id": "moon-stone",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 2100,
+    "name": "Moon Stone",
+    "summary": "Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty.",
+    "description": "Used on a party Pokémon\n:   Evolves a []{pokemon:clefairy} into []{pokemon:clefable}, a []{pokemon:jigglypuff} into []{pokemon:wigglytuff}, a []{pokemon:munna} into []{pokemon:musharna}, a []{pokemon:nidorina} into []{pokemon:nidoqueen}, a []{pokemon:nidorino} into []{pokemon:nidoking}, or a []{pokemon:skitty} into []{pokemon:delcatty}."
+  },
+  "locale": {
+    "ja": {
+      "name": "つきのいし"
+    },
+    "ko": {
+      "name": "달의돌"
+    },
+    "fr": {
+      "name": "Pierre Lune"
+    },
+    "de": {
+      "name": "Mondstein"
+    },
+    "es": {
+      "name": "Piedra Lunar"
+    },
+    "it": {
+      "name": "Pietralunare"
+    }
+  }
+}

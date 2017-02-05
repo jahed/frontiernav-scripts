@@ -1,0 +1,19 @@
+{
+  "id": "probe14",
+  "labels": [
+    "FNSiteProbe"
+  ],
+  "data": {
+    "name": "Research Probe G3",
+    "type": 2,
+    "attributes": {
+      "production_multiplier": 0.3,
+      "revenue_multiplier": 3
+    }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda di ricerca G3"
+    }
+  }
+}

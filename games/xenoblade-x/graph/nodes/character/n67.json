@@ -1,0 +1,11 @@
+{
+  "id": "n67",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Yelv",
+    "image": "yelv-banner",
+    "thumbnail": "yelv-face.png"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kyurem",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 646,
+    "height": 30,
+    "weight": 3250,
+    "base_experience": 297,
+    "name": "Kyurem",
+    "genus": "Boundary"
+  },
+  "locale": {
+    "ja": {
+      "name": "キュレム",
+      "genus": "きょうかい"
+    },
+    "ko": {
+      "name": "큐레무",
+      "genus": "경계"
+    },
+    "fr": {
+      "name": "Kyurem",
+      "genus": "Frontière"
+    },
+    "de": {
+      "name": "Kyurem",
+      "genus": "Schwelle"
+    },
+    "es": {
+      "name": "Kyurem",
+      "genus": "Frontera"
+    },
+    "it": {
+      "name": "Kyurem",
+      "genus": "Confine"
+    }
+  }
+}

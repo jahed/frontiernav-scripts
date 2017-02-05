@@ -1,0 +1,40 @@
+{
+  "id": "hoopa",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 720,
+    "height": 5,
+    "weight": 90,
+    "base_experience": 270,
+    "name": "Hoopa",
+    "genus": "Mischief"
+  },
+  "locale": {
+    "ja": {
+      "name": "フーパ",
+      "genus": "いたずら"
+    },
+    "ko": {
+      "name": "후파",
+      "genus": "장난"
+    },
+    "fr": {
+      "name": "Hoopa",
+      "genus": "Chenapan"
+    },
+    "de": {
+      "name": "Hoopa",
+      "genus": "Schabernack"
+    },
+    "es": {
+      "name": "Hoopa",
+      "genus": "Travesura"
+    },
+    "it": {
+      "name": "Hoopa",
+      "genus": "Birba"
+    }
+  }
+}

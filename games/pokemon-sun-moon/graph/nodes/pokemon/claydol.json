@@ -1,0 +1,44 @@
+{
+  "id": "claydol",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 344,
+    "height": 15,
+    "weight": 1080,
+    "base_experience": 175,
+    "name": "Claydol",
+    "genus": "Clay Doll"
+  },
+  "locale": {
+    "ja": {
+      "name": "ネンドール",
+      "genus": "どぐう"
+    },
+    "ko": {
+      "name": "점토도리",
+      "genus": "토우"
+    },
+    "zh": {
+      "name": "念力土偶",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Kaorine",
+      "genus": "Poupargile"
+    },
+    "de": {
+      "name": "Lepumentas",
+      "genus": "Lehmpuppe"
+    },
+    "es": {
+      "name": "Claydol",
+      "genus": "Muñeca Barro"
+    },
+    "it": {
+      "name": "Claydol",
+      "genus": "Argilla"
+    }
+  }
+}

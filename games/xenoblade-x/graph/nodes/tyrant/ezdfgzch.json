@@ -1,0 +1,21 @@
+{
+  "id": "ezdfgzch",
+  "labels": [
+    "Tyrant",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Bohdan, the Mistral",
+    "level": 37,
+    "notes": "\"Bohdan, the Mistral\" will fly around the top of Unicorn Rock in north west Primordia during the day. Unicorn Rock is a very tall and slender mountain so flight is required to reach the Auravis roost near the top.",
+    "category": "Theroid",
+    "subcategory": "Auravis",
+    "time": "5:00 - 19:00",
+    "image": "ezdfgzch"
+  },
+  "locale": {
+    "it": {
+      "name": "Bohdan il Maestrale"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i9",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Cave Areas",
+    "itemType": "Collectible"
+  }
+}

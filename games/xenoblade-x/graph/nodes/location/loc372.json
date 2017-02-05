@@ -1,0 +1,19 @@
+{
+  "id": "loc372",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Starfall Basin",
+    "cave": false,
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "Kometenkessel"
+    },
+    "it": {
+      "name": "Bacino della Cometa"
+    }
+  }
+}

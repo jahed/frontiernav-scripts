@@ -1,0 +1,10 @@
+{
+  "id": "loc4",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Alexander Ridge",
+    "locationTypeId": "Area"
+  }
+}

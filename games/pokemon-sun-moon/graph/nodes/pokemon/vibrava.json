@@ -1,0 +1,44 @@
+{
+  "id": "vibrava",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 329,
+    "height": 11,
+    "weight": 153,
+    "base_experience": 119,
+    "name": "Vibrava",
+    "genus": "Vibration"
+  },
+  "locale": {
+    "ja": {
+      "name": "ビブラーバ",
+      "genus": "しんどう"
+    },
+    "ko": {
+      "name": "비브라바",
+      "genus": "진동"
+    },
+    "zh": {
+      "name": "超音波幼蟲",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Vibraninf",
+      "genus": "Vibration"
+    },
+    "de": {
+      "name": "Vibrava",
+      "genus": "Vibration"
+    },
+    "es": {
+      "name": "Vibrava",
+      "genus": "Vibrante"
+    },
+    "it": {
+      "name": "Vibrava",
+      "genus": "Vibrazione"
+    }
+  }
+}

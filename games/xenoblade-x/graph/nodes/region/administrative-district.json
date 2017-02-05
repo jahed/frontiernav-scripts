@@ -1,0 +1,9 @@
+{
+  "id": "administrative-district",
+  "labels": [
+    "Region"
+  ],
+  "data": {
+    "name": "Administrative District"
+  }
+}

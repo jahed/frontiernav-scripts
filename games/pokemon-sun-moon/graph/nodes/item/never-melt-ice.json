@@ -1,0 +1,32 @@
+{
+  "id": "never-melt-ice",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Never-Melt Ice",
+    "summary": "Held: Ice-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Ice moves by 20%."
+  },
+  "locale": {
+    "ja": {
+      "name": "とけないこおり"
+    },
+    "ko": {
+      "name": "녹지않는얼음"
+    },
+    "fr": {
+      "name": "Glace Éternelle"
+    },
+    "de": {
+      "name": "Ewiges Eis"
+    },
+    "es": {
+      "name": "Antiderretir"
+    },
+    "it": {
+      "name": "Gelomai"
+    }
+  }
+}

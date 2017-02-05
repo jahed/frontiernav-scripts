@@ -1,0 +1,40 @@
+{
+  "id": "garbodor",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 569,
+    "height": 19,
+    "weight": 1073,
+    "base_experience": 166,
+    "name": "Garbodor",
+    "genus": "Trash Heap"
+  },
+  "locale": {
+    "ja": {
+      "name": "ダストダス",
+      "genus": "ゴミすてば"
+    },
+    "ko": {
+      "name": "더스트나",
+      "genus": "쓰레기장"
+    },
+    "fr": {
+      "name": "Miasmax",
+      "genus": "Dépotoir"
+    },
+    "de": {
+      "name": "Deponitox",
+      "genus": "Müllhalde"
+    },
+    "es": {
+      "name": "Garbodor",
+      "genus": "Vertedero"
+    },
+    "it": {
+      "name": "Garbodor",
+      "genus": "Discarica"
+    }
+  }
+}

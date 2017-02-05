@@ -1,0 +1,10 @@
+{
+  "id": "beagle",
+  "labels": [
+    "Pet"
+  ],
+  "data": {
+    "name": "Beagle",
+    "description": "A pet to keep in the BLADE Barracks."
+  }
+}

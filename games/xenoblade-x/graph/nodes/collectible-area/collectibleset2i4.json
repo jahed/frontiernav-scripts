@@ -1,0 +1,10 @@
+{
+  "id": "collectibleset2i4",
+  "labels": [
+    "CollectibleArea"
+  ],
+  "data": {
+    "name": "Noctilum Falls Area",
+    "itemType": "Collectible"
+  }
+}

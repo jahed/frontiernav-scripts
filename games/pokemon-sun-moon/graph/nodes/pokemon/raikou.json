@@ -1,0 +1,44 @@
+{
+  "id": "raikou",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 243,
+    "height": 19,
+    "weight": 1780,
+    "base_experience": 261,
+    "name": "Raikou",
+    "genus": "Thunder"
+  },
+  "locale": {
+    "ja": {
+      "name": "ライコウ",
+      "genus": "いかずち"
+    },
+    "ko": {
+      "name": "라이코",
+      "genus": "우뢰"
+    },
+    "zh": {
+      "name": "雷公",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Raikou",
+      "genus": "Foudre"
+    },
+    "de": {
+      "name": "Raikou",
+      "genus": "Donner"
+    },
+    "es": {
+      "name": "Raikou",
+      "genus": "Trueno"
+    },
+    "it": {
+      "name": "Raikou",
+      "genus": "Tuono"
+    }
+  }
+}

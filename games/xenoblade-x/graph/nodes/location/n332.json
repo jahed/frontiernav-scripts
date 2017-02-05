@@ -1,0 +1,18 @@
+{
+  "id": "n332",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "BLADE Tower",
+    "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "de": {
+      "name": "BLADE-Turm"
+    },
+    "it": {
+      "name": "Torre BLADE"
+    }
+  }
+}

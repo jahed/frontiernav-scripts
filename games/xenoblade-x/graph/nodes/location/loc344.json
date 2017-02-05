@@ -1,0 +1,11 @@
+{
+  "id": "loc344",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "name": "Sayram Northeast Plain",
+    "cave": false,
+    "locationTypeId": "Area"
+  }
+}

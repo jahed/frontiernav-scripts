@@ -1,0 +1,40 @@
+{
+  "id": "diancie",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 719,
+    "height": 7,
+    "weight": 88,
+    "base_experience": 270,
+    "name": "Diancie",
+    "genus": "Jewel"
+  },
+  "locale": {
+    "ja": {
+      "name": "ディアンシー",
+      "genus": "ほうせき"
+    },
+    "ko": {
+      "name": "디안시",
+      "genus": "보석"
+    },
+    "fr": {
+      "name": "Diancie",
+      "genus": "Joyau"
+    },
+    "de": {
+      "name": "Diancie",
+      "genus": "Edelstein"
+    },
+    "es": {
+      "name": "Diancie",
+      "genus": "Joya"
+    },
+    "it": {
+      "name": "Diancie",
+      "genus": "Gemma"
+    }
+  }
+}

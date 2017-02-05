@@ -1,0 +1,44 @@
+{
+  "id": "shaymin-land",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 492,
+    "height": 2,
+    "weight": 21,
+    "base_experience": 270,
+    "name": "Shaymin",
+    "genus": "Gratitude"
+  },
+  "locale": {
+    "ja": {
+      "name": "シェイミ",
+      "genus": "かんしゃ"
+    },
+    "ko": {
+      "name": "쉐이미",
+      "genus": "감사"
+    },
+    "zh": {
+      "name": "潔咪",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Shaymin",
+      "genus": "Gratitude"
+    },
+    "de": {
+      "name": "Shaymin",
+      "genus": "Dankbarkeit"
+    },
+    "es": {
+      "name": "Shaymin",
+      "genus": "Gratitud"
+    },
+    "it": {
+      "name": "Shaymin",
+      "genus": "Gratitudine"
+    }
+  }
+}

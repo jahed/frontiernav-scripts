@@ -1,0 +1,32 @@
+{
+  "id": "burn-heal",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 250,
+    "name": "Burn Heal",
+    "summary": "Cures a burn.",
+    "description": "Used on a party Pokémon\n:   Cures a burn."
+  },
+  "locale": {
+    "ja": {
+      "name": "やけどなおし"
+    },
+    "ko": {
+      "name": "화상치료제"
+    },
+    "fr": {
+      "name": "Anti-Brûle"
+    },
+    "de": {
+      "name": "Feuerheiler"
+    },
+    "es": {
+      "name": "Antiquemar"
+    },
+    "it": {
+      "name": "Antiscottatura"
+    }
+  }
+}

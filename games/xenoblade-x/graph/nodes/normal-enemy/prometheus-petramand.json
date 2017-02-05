@@ -1,0 +1,57 @@
+{
+  "id": "prometheus-petramand",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Prometheus Petramand",
+    "subcategory": "Petramand",
+    "category": "Insectoid",
+    "level_range": {
+      "minimum": 31,
+      "maximum": 40
+    },
+    "experience_range": {
+      "minimum": 255,
+      "maximum": 362
+    },
+    "health_range": {
+      "minimum": 37644,
+      "maximum": 52696
+    },
+    "melee_power_range": {
+      "minimum": 551,
+      "maximum": 752
+    },
+    "melee_accuracy_range": {
+      "minimum": 186,
+      "maximum": 215
+    },
+    "ranged_power_range": {
+      "minimum": 498,
+      "maximum": 681
+    },
+    "ranged_accuracy_range": {
+      "minimum": 173,
+      "maximum": 200
+    },
+    "potential_range": {
+      "minimum": 525,
+      "maximum": 717
+    },
+    "evasion_range": {
+      "minimum": 83,
+      "maximum": 109
+    },
+    "notes": "Found at 318SW",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 35,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -25,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

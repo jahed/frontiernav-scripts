@@ -1,0 +1,32 @@
+{
+  "id": "metal-coat",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 100,
+    "name": "Metal Coat",
+    "summary": "Held: Steel-Type moves from holder do 20% more damage.",
+    "description": "Held: Increases the power of the holder's Steel moves by 20%.\nHeld by Onix or Scyther: Evolves the holder into Steelix or Scizor when traded, respectively."
+  },
+  "locale": {
+    "ja": {
+      "name": "メタルコート"
+    },
+    "ko": {
+      "name": "금속코트"
+    },
+    "fr": {
+      "name": "Peau Métal"
+    },
+    "de": {
+      "name": "Metallmantel"
+    },
+    "es": {
+      "name": "Revest. Metálico"
+    },
+    "it": {
+      "name": "Metalcoperta"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SPECIES",
+  "startLabels": [
+    "Pet"
+  ],
+  "endLabels": [
+    "Species"
+  ]
+}

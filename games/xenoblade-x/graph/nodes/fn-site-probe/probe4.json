@@ -1,0 +1,19 @@
+{
+  "id": "probe4",
+  "labels": [
+    "FNSiteProbe"
+  ],
+  "data": {
+    "name": "Mining Probe G3",
+    "type": 1,
+    "attributes": {
+      "production_multiplier": 1.4,
+      "revenue_multiplier": 0.3
+    }
+  },
+  "locale": {
+    "it": {
+      "name": "Sonda da estrazione G3"
+    }
+  }
+}

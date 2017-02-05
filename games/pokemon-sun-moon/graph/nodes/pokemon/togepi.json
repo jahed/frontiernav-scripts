@@ -1,0 +1,44 @@
+{
+  "id": "togepi",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 175,
+    "height": 3,
+    "weight": 15,
+    "base_experience": 49,
+    "name": "Togepi",
+    "genus": "Spike Ball"
+  },
+  "locale": {
+    "ja": {
+      "name": "トゲピー",
+      "genus": "はりたま"
+    },
+    "ko": {
+      "name": "토게피",
+      "genus": "바늘알"
+    },
+    "zh": {
+      "name": "波克比",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Togepi",
+      "genus": "Balle Pic"
+    },
+    "de": {
+      "name": "Togepi",
+      "genus": "Zackenball"
+    },
+    "es": {
+      "name": "Togepi",
+      "genus": "Bolaclavos"
+    },
+    "it": {
+      "name": "Togepi",
+      "genus": "Pallapunte"
+    }
+  }
+}

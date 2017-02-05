@@ -1,0 +1,32 @@
+{
+  "id": "fast-ball",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 300,
+    "name": "Fast Ball",
+    "summary": "4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.",
+    "description": "Used by a trainer in battle\n:   Attempts to catch a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.\n\n:   If the wild Pokémon's base speed is 100 or more, its catch rate is 4× normal."
+  },
+  "locale": {
+    "ja": {
+      "name": "スピードボール"
+    },
+    "ko": {
+      "name": "스피드볼"
+    },
+    "fr": {
+      "name": "Speed Ball"
+    },
+    "de": {
+      "name": "Turboball"
+    },
+    "es": {
+      "name": "Rapid Ball"
+    },
+    "it": {
+      "name": "Rapid Ball"
+    }
+  }
+}

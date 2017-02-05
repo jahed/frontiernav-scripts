@@ -1,0 +1,14 @@
+{
+  "id": "murky-potamus-water",
+  "labels": [
+    "Material"
+  ],
+  "data": {
+    "name": "Murky Potamus Water"
+  },
+  "locale": {
+    "de": {
+      "name": "Trübes Potamuswasser"
+    }
+  }
+}

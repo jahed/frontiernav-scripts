@@ -1,0 +1,58 @@
+{
+  "id": "rogue-ovis",
+  "labels": [
+    "NormalEnemy",
+    "Enemy"
+  ],
+  "data": {
+    "name": "Rogue Ovis",
+    "subcategory": "Ovis",
+    "category": "Theroid",
+    "drops_ground_weapon": true,
+    "level_range": {
+      "minimum": 21,
+      "maximum": 30
+    },
+    "experience_range": {
+      "minimum": 50,
+      "maximum": 83
+    },
+    "health_range": {
+      "minimum": 17303,
+      "maximum": 29475
+    },
+    "melee_power_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "melee_accuracy_range": {
+      "minimum": 141,
+      "maximum": 170
+    },
+    "ranged_power_range": {
+      "minimum": 225,
+      "maximum": 332
+    },
+    "ranged_accuracy_range": {
+      "minimum": 136,
+      "maximum": 165
+    },
+    "potential_range": {
+      "minimum": 250,
+      "maximum": 369
+    },
+    "evasion_range": {
+      "minimum": 55,
+      "maximum": 85
+    },
+    "notes": "Found at [5:00~19:00]: 115S,120N",
+    "time": "TBD",
+    "weather": "TBD",
+    "physical_resistance": 0,
+    "beam_resistance": 0,
+    "ether_resistance": -25,
+    "thermal_resistance": -50,
+    "electric_resistance": 0,
+    "gravity_resistance": 0
+  }
+}

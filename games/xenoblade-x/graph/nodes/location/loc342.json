@@ -1,0 +1,11 @@
+{
+  "id": "loc342",
+  "labels": [
+    "Location"
+  ],
+  "data": {
+    "cave": true,
+    "name": "Sato Headwater",
+    "locationTypeId": "Area"
+  }
+}

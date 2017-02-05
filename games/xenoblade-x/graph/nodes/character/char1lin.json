@@ -1,0 +1,15 @@
+{
+  "id": "char1lin",
+  "labels": [
+    "Character"
+  ],
+  "data": {
+    "name": "Lin Lee Koo",
+    "gender": "Female",
+    "age": 13,
+    "species": "Human",
+    "class": "Shield Trooper",
+    "image": "lin-banner",
+    "thumbnail": "lin-face.png"
+  }
+}

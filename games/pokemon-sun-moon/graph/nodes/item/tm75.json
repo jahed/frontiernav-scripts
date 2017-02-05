@@ -1,0 +1,32 @@
+{
+  "id": "tm75",
+  "labels": [
+    "Item"
+  ],
+  "data": {
+    "cost": 1500,
+    "name": "TM75",
+    "summary": "Teaches Swords Dance to a compatible Pokémon.",
+    "description": "Teaches Swords Dance to a compatible Pokémon."
+  },
+  "locale": {
+    "ja": {
+      "name": "わざマシン７５"
+    },
+    "ko": {
+      "name": "기술머신75"
+    },
+    "fr": {
+      "name": "CT75"
+    },
+    "de": {
+      "name": "TM75"
+    },
+    "es": {
+      "name": "MT75"
+    },
+    "it": {
+      "name": "MT75"
+    }
+  }
+}

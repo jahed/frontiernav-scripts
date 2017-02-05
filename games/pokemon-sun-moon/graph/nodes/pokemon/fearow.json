@@ -1,0 +1,44 @@
+{
+  "id": "fearow",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 22,
+    "height": 12,
+    "weight": 380,
+    "base_experience": 155,
+    "name": "Fearow",
+    "genus": "Beak"
+  },
+  "locale": {
+    "ja": {
+      "name": "オニドリル",
+      "genus": "くちばし"
+    },
+    "ko": {
+      "name": "깨비드릴조",
+      "genus": "부리"
+    },
+    "zh": {
+      "name": "大嘴雀",
+      "genus": ""
+    },
+    "fr": {
+      "name": "Rapasdepic",
+      "genus": "Bec-Oiseau"
+    },
+    "de": {
+      "name": "Ibitak",
+      "genus": "Pickvogel"
+    },
+    "es": {
+      "name": "Fearow",
+      "genus": "Pico"
+    },
+    "it": {
+      "name": "Fearow",
+      "genus": "Becco"
+    }
+  }
+}

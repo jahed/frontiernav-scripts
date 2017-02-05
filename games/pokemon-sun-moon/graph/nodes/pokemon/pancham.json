@@ -1,0 +1,40 @@
+{
+  "id": "pancham",
+  "labels": [
+    "Pokemon"
+  ],
+  "data": {
+    "species_id": 674,
+    "height": 6,
+    "weight": 80,
+    "base_experience": 70,
+    "name": "Pancham",
+    "genus": "Playful"
+  },
+  "locale": {
+    "ja": {
+      "name": "ヤンチャム",
+      "genus": "やんちゃ"
+    },
+    "ko": {
+      "name": "판짱",
+      "genus": "개구쟁이"
+    },
+    "fr": {
+      "name": "Pandespiègle",
+      "genus": "Garnement"
+    },
+    "de": {
+      "name": "Pam-Pam",
+      "genus": "Verspielt"
+    },
+    "es": {
+      "name": "Pancham",
+      "genus": "Juguetón"
+    },
+    "it": {
+      "name": "Pancham",
+      "genus": "Briccone"
+    }
+  }
+}
