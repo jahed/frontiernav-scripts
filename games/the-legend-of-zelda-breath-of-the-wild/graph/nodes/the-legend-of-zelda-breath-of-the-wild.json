@@ -8,7 +8,18 @@
     "boxart": "the-legend-of-zelda-breath-of-the-wild/boxart.jpg",
     "image": "the-legend-of-zelda-breath-of-the-wild/banner.jpg",
     "platform": "Switch / Wii U",
-    "initialRelease": "2017",
+    "initialReleaseDate": {
+      "year": 2017,
+      "month": 3,
+      "day": 3
+    },
+    "releaseDate": {
+      "WW": {
+        "year": 2017,
+        "month": 3,
+        "day": 3
+      }
+    },
     "developer": "Nintendo EPD",
     "publisher": "Nintendo",
     "theme": {

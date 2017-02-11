@@ -8,7 +8,33 @@
     "boxart": "x-boxart.jpg",
     "image": "home-banner.jpg",
     "platform": "Wii U",
-    "initialRelease": "2015",
+    "initialReleaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 29
+    },
+    "releaseDate": {
+      "JP": {
+        "year": 2015,
+        "month": 5,
+        "day": 29
+      },
+      "EU": {
+        "year": 2015,
+        "month": 12,
+        "day": 4
+      },
+      "AU": {
+        "year": 2015,
+        "month": 12,
+        "day": 5
+      },
+      "NA": {
+        "year": 2015,
+        "month": 12,
+        "day": 4
+      }
+    },
     "developer": "Monolith Soft",
     "publisher": "Nintendo",
     "theme": {
