@@ -1,0 +1,13 @@
+{
+  "id": "production",
+  "type": "string",
+  "enum": [
+    "S",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
+}

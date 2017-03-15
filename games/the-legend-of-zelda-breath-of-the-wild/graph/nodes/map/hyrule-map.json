@@ -1,0 +1,20 @@
+{
+  "id": "hyrule-map",
+  "labels": [
+    "Map"
+  ],
+  "data": {
+    "name": "Hyrule",
+    "tileLayers": {
+      "normal": {
+        "folder": "botw",
+        "extension": "jpg",
+        "background": {
+          "color": "#000000"
+        }
+      }
+    },
+    "defaultZoom": 3,
+    "maxNativeZoom": 7
+  }
+}

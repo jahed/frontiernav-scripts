@@ -1,0 +1,9 @@
+{
+  "id": "hyrule-map__HAS__map-layer-locations",
+  "type": "HAS",
+  "start": "hyrule-map",
+  "end": "map-layer-locations",
+  "data": {
+    "order": 0
+  }
+}
