@@ -1,0 +1,5 @@
+{
+  "id": "order",
+  "type": "integer",
+  "minimum": 0
+}

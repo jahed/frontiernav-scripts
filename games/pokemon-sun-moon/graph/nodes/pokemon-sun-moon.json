@@ -8,7 +8,33 @@
     "boxart": "pokemon-sun-moon-boxart.jpg",
     "image": "pokemon-alola-banner.jpg",
     "platform": "Nintendo 3DS",
-    "initialRelease": "2016",
+    "initialReleaseDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 18
+    },
+    "releaseDate": {
+      "JP": {
+        "year": 2016,
+        "month": 11,
+        "day": 18
+      },
+      "EU": {
+        "year": 2016,
+        "month": 11,
+        "day": 23
+      },
+      "AU": {
+        "year": 2016,
+        "month": 11,
+        "day": 18
+      },
+      "NA": {
+        "year": 2016,
+        "month": 11,
+        "day": 18
+      }
+    },
     "developer": "Game Freak",
     "publisher": "The Pokémon Company",
     "theme": {

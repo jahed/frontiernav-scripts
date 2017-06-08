@@ -8,7 +8,14 @@
     "boxart": "xenoblade-chronicles-2/boxart.jpg",
     "image": "xenoblade-chronicles-2/banner.jpg",
     "platform": "Switch",
-    "initialRelease": "2017",
+    "initialReleaseDate": {
+      "year": 2017
+    },
+    "releaseDate": {
+      "WW": {
+        "year": 2017
+      }
+    },
     "developer": "Monolith Soft",
     "publisher": "Nintendo",
     "theme": {

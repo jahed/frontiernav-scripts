@@ -1,0 +1,13 @@
+{
+  "id": "n13",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": -13.111580118251648,
+      "lng": -23.785400390625004
+    },
+    "markerStyle": "icon"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dimensions",
+  "type": "object",
+  "required": [
+    "x",
+    "y"
+  ],
+  "properties": {
+    "x": {
+      "type": "integer"
+    },
+    "y": {
+      "type": "integer"
+    }
+  }
+}
