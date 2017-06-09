@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Piscinoid"
+  },
+  "locale": {
+    "it": {
+      "name": "Ittiomorfo"
+    }
   }
 }
