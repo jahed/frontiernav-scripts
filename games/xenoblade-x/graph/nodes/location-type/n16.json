@@ -9,6 +9,9 @@
   "locale": {
     "de": {
       "name": "Außenposten"
+    },
+    "it": {
+      "name": "Campo base"
     }
   }
 }
