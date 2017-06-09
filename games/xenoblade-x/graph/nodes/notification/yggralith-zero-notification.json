@@ -28,5 +28,11 @@
         "title": "Yggralith Zero got away... this time."
       }
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Yggralith Zero, Nemesi Universale",
+      "description": "Notifica lo stato di combattimento dell'Yggralith Zero."
+    }
   }
 }
