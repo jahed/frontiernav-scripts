@@ -9,6 +9,9 @@
   "locale": {
     "de": {
       "name": "Gebiet"
+    },
+    "it": {
+      "name": "Area"
     }
   }
 }
