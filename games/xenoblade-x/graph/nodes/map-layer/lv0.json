@@ -11,6 +11,9 @@
   "locale": {
     "de": {
       "name": "Orte"
+    },
+    "it": {
+      "name": "Luoghi"
     }
   }
 }
