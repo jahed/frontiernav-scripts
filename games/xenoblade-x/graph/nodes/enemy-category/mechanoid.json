@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Mechanoid"
+  },
+  "locale": {
+    "it": {
+      "name": "Mechanoide"
+    }
   }
 }
