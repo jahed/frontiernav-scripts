@@ -7,6 +7,8 @@
     "name": "FN Sites"
   },
   "locale": {
-    "name": "Siti FN"
+    "it": {
+      "name": "Siti FN"
+    }
   }
 }
