@@ -6,5 +6,10 @@
   "data": {
     "name": "BLADE Barracks",
     "locationTypeId": "Landmark"
+  },
+  "locale": {
+    "it": {
+      "name": "Caserma BLADE"
+    }
   }
 }
