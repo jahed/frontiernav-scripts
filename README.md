@@ -13,7 +13,7 @@ Note: The data is currently in a migration phase so it's likely to be restructur
 
 ## Contributions
 
-[Join the project's Discord server so we can discuss!](https://discordapp.com/invite/supaB)
+[Join the project's Discord server so we can discuss!](https://discordapp.com/invite/crmfAsJ)
 
 All contributions are welcome. If you are trying to solve a particular issue or add more data, it'll help if you announce it by creating an [Issue](https://github.com/frontiernav/frontiernav-data/issues) first so that people aren't duplicating work or doing what that has already been discussed.
 
