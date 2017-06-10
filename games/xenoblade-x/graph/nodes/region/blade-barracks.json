@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "BLADE Barracks"
+  },
+  "locale": {
+    "it": {
+      "name": "Caserma BLADE"
+    }
   }
 }

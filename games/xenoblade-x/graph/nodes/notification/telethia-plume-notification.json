@@ -28,5 +28,11 @@
         "title": "Telethia Plume got away... this time."
       }
     }
+  },
+  "locale": {
+    "it": {
+      "name": "Telesia Piumato, Nemesi Universale",
+      "description": "Notifica lo stato di combattimento del Telesia Piumato."
+    }
   }
 }

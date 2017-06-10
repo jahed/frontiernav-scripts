@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Theroid"
+  },
+  "locale": {
+    "it": {
+      "name": "Zoomorfo"
+    }
   }
 }

@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Commercial District"
+  },
+  "locale": {
+    "it": {
+      "name": "Zona commerciale"
+    }
   }
 }
