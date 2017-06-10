@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Humanoid"
+  },
+  "locale": {
+    "it": {
+      "name": "Umanoide"
+    }
   }
 }

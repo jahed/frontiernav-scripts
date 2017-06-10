@@ -9,6 +9,9 @@
   "locale": {
     "de": {
       "name": "Aussichtspunkt"
+    },
+    "it": {
+      "name": "Punto panoramico"
     }
   }
 }

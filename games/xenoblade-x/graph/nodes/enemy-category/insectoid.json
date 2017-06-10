@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Insectoid"
+  },
+  "locale": {
+    "it": {
+      "name": "Insettoide"
+    }
   }
 }
