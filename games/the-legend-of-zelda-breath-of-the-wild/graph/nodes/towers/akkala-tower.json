@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Akkala Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre di Akkala"
+    }
   }
 }
