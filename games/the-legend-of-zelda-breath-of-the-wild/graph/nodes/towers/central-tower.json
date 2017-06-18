@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Central Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre della piana"
+    }
   }
 }
