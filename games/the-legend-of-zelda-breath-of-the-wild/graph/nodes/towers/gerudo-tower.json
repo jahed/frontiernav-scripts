@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Gerudo Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre Gerudo"
+    }
   }
 }
