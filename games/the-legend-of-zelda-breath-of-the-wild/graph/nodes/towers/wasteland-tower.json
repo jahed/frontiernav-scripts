@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Wasteland Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre delle terre selvagge"
+    }
   }
 }

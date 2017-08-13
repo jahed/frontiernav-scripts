@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Dueling Peaks Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre dei Monti Gemelli"
+    }
   }
 }

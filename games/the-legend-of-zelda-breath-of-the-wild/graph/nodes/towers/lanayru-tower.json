@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Lanayru Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre di Ranel"
+    }
   }
 }

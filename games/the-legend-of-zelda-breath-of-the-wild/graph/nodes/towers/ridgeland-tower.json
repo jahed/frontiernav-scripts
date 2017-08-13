@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Ridgeland Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre delle colline"
+    }
   }
 }

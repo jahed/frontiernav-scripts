@@ -5,5 +5,10 @@
   ],
   "data": {
     "name": "Great Plateau Tower"
+  },
+  "locale": {
+    "it": {
+      "name": "Torre delle origini"
+    }
   }
 }
