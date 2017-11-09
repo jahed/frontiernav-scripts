@@ -1,0 +1,20 @@
+{
+  "id": "sand-kingdom-map",
+  "labels": [
+    "Map"
+  ],
+  "data": {
+    "name": "Sand Kingdom Map",
+    "tileLayers": {
+      "normal": {
+        "folder": "sand-kingdom",
+        "extension": "png",
+        "background": {
+          "color": "#08145A"
+        }
+      }
+    },
+    "defaultZoom": 0,
+    "maxNativeZoom": 4
+  }
+}

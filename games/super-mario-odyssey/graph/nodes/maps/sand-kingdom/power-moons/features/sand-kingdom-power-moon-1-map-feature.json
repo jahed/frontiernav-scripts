@@ -1,0 +1,13 @@
+{
+  "id": "sand-kingdom-power-moon-1-map-feature",
+  "labels": [
+    "MapMarker"
+  ],
+  "data": {
+    "latLng": {
+      "lat": 50.792047064406866,
+      "lng": -34.67285156250001
+    },
+    "markerStyle": "image"
+  }
+}
