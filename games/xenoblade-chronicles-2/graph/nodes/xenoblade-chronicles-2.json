@@ -5,8 +5,9 @@
   ],
   "data": {
     "name": "Xenoblade Chronicles 2",
-    "boxart": "xenoblade-chronicles-2/boxart.jpg",
-    "image": "xenoblade-chronicles-2/banner.jpg",
+    "logo": "logo.png",
+    "cover": "cover.jpg",
+    "banner": "banner.jpg",
     "platform": "Switch",
     "initialReleaseDate": {
       "year": 2017

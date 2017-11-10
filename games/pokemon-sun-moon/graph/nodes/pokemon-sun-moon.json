@@ -5,8 +5,9 @@
   ],
   "data": {
     "name": "Pokémon Sun & Moon",
-    "boxart": "pokemon-sun-moon-boxart.jpg",
-    "image": "pokemon-alola-banner.jpg",
+    "logo": "logo.png",
+    "cover": "cover.jpg",
+    "banner": "banner.jpg",
     "platform": "Nintendo 3DS",
     "initialReleaseDate": {
       "year": 2016,

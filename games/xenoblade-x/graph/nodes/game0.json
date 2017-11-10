@@ -5,8 +5,9 @@
   ],
   "data": {
     "name": "Xenoblade Chronicles X",
-    "boxart": "x-boxart.jpg",
-    "image": "home-banner.jpg",
+    "logo": "logo.png",
+    "cover": "cover.jpg",
+    "banner": "banner.jpg",
     "platform": "Wii U",
     "initialReleaseDate": {
       "year": 2015,
