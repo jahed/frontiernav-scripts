@@ -8,12 +8,7 @@
     "tileLayers": {
       "normal": {
         "folder": "sand-kingdom",
-        "extension": "png",
-        "background": {
-          "image": "games/super-mario-odyssey/maps/background.png",
-          "color": "#FAFBF5",
-          "repeat": true
-        }
+        "extension": "png"
       }
     },
     "defaultZoom": 3,
