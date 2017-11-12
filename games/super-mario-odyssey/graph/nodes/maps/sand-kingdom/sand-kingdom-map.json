@@ -10,11 +10,13 @@
         "folder": "sand-kingdom",
         "extension": "png",
         "background": {
-          "color": "#08145A"
+          "image": "games/super-mario-odyssey/maps/background.png",
+          "color": "#FAFBF5",
+          "repeat": true
         }
       }
     },
-    "defaultZoom": 0,
+    "defaultZoom": 3,
     "maxNativeZoom": 4
   }
 }
