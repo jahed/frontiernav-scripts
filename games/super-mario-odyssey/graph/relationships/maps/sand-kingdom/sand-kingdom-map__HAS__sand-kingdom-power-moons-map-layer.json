@@ -1,7 +1,0 @@
-{
-  "id": "sand-kingdom-map__HAS__sand-kingdom-power-moons-map-layer",
-  "type": "HAS",
-  "start": "sand-kingdom-map",
-  "end": "sand-kingdom-power-moons-map-layer",
-  "data": {}
-}

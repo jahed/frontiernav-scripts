@@ -1,0 +1,9 @@
+{
+  "id": "MAP_LAYER",
+  "startLabels": [
+    "Map"
+  ],
+  "endLabels": [
+    "MapLayer"
+  ]
+}

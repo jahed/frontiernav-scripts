@@ -1,9 +1,9 @@
 {
-  "id": "MARKED_WITH",
+  "id": "MAP_FEATURE",
   "startLabels": [
     "MapLayer"
   ],
   "endLabels": [
-    "MapMarker"
+    "MapFeature"
   ]
 }

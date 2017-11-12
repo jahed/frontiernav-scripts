@@ -1,7 +1,7 @@
 {
-  "id": "MAP_LINK",
+  "id": "MAP_TARGET",
   "startLabels": [
-    "MapMarker"
+    "MapFeature"
   ],
   "endLabels": null
 }

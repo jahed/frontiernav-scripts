@@ -18,7 +18,14 @@
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "theme": {
-      "mainColor": "#092844"
+      "mainColor": "#092844",
+      "hue": 0,
+      "drawer": {
+        "backgroundColor": "#f6f7f2",
+        "textColor": "#222222",
+        "headingColor": "#000000",
+        "linkColor": "#b89e01"
+      }
     },
     "mapBackground": {
       "color": "#092844"

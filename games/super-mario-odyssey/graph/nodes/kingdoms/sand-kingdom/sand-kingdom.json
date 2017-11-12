@@ -1,0 +1,10 @@
+{
+  "id": "sand-kingdom",
+  "labels": [
+    "Kingdom"
+  ],
+  "data": {
+    "name": "Sand Kingdom",
+    "menuOrder": 4
+  }
+}

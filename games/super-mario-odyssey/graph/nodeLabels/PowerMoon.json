@@ -2,6 +2,12 @@
   "id": "PowerMoon",
   "name": "Power Moon",
   "pageDescription": "Find out where to find this Power Moon.",
+  "data": {
+    "mapFeature": {
+      "shape": "image",
+      "image": "games/super-mario-odyssey/maps/markers/power-moon.png"
+    }
+  },
   "properties": {
   }
 }

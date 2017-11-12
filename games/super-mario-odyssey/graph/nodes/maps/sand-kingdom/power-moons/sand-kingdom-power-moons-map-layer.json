@@ -3,8 +3,11 @@
   "labels": [
     "MapLayer"
   ],
+  "tags": [
+    "power-moons"
+  ],
   "data": {
-    "name": "Sand Kingdom Power Moons Map Layer",
-    "thumbnail": ""
+    "name": "Power Moons",
+    "description": "Power Moon Locations in Sand Kingdom."
   }
 }
