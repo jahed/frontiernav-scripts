@@ -8,6 +8,7 @@
     "logo": "logo.png",
     "cover": "cover.jpg",
     "banner": "banner.jpg",
+    "hue": 180,
     "platform": "Wii U",
     "initialReleaseDate": {
       "year": 2015,

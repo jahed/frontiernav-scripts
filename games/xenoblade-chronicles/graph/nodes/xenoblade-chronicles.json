@@ -8,6 +8,7 @@
     "logo": "logo.png",
     "cover": "cover.jpg",
     "banner": "banner.jpg",
+    "hue": 136,
     "platform": "Wii / 3DS",
     "initialReleaseDate": {
       "year": 2010,

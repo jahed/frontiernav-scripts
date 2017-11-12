@@ -8,6 +8,7 @@
     "logo": "logo.png",
     "cover": "cover.jpg",
     "banner": "banner.jpg",
+    "hue": 0,
     "platform": "Nintendo Switch",
     "initialReleaseDate": {
       "year": 2017,

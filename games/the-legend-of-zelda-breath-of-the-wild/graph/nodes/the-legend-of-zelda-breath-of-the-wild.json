@@ -8,6 +8,7 @@
     "logo": "logo.png",
     "cover": "cover.jpg",
     "banner": "banner.jpg",
+    "hue": 200,
     "platform": "Switch / Wii U",
     "initialReleaseDate": {
       "year": 2017,
