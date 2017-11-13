@@ -11,11 +11,15 @@
     "hue": 0,
     "platform": "Switch",
     "initialReleaseDate": {
-      "year": 2017
+      "year": 2017,
+      "month": 12,
+      "day": 1
     },
     "releaseDate": {
       "WW": {
-        "year": 2017
+        "year": 2017,
+        "month": 12,
+        "day": 1
       }
     },
     "developer": "Monolith Soft",
