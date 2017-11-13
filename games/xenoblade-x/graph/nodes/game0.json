@@ -46,39 +46,6 @@
       "image": "map-pattern-1.png",
       "color": "#040F1E",
       "repeat": true
-    },
-    "drawerLinks": [
-      {
-        "subheading": "Discover",
-        "links": [
-          {
-            "to": "/explore/game0/search?filter=Location",
-            "icon": "map-marker",
-            "title": "Locations"
-          },
-          {
-            "to": "/explore/game0/search?filter=Collectible",
-            "icon": "book",
-            "title": "Collectibles"
-          },
-          {
-            "to": "/explore/game0/search?filter=FNSite",
-            "icon": "diamond",
-            "title": "FN Sites"
-          },
-          {
-            "to": "/explore/game0/search?filter=Enemy",
-            "pack": "rpg",
-            "icon": "lion",
-            "title": "Enemies"
-          },
-          {
-            "to": "/explore/game0/search?filter=Mission",
-            "icon": "file-text-o",
-            "title": "Missions"
-          }
-        ]
-      }
-    ]
+    }
   }
 }
