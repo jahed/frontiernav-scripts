@@ -111,28 +111,28 @@ cryptiles@3.x.x:
   dependencies:
     boom "5.x.x"
 
-csv-generate@^1.0.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/csv-generate/-/csv-generate-1.1.2.tgz#ec6b00edaed6e59ad9c20582f4c364e28b146240"
+csv-generate@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/csv-generate/-/csv-generate-2.0.0.tgz#ab4fdc30db5ce678b07d53884c69fa545618b25c"
 
-csv-parse@^1.1.0:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-1.3.3.tgz#d1cfd8743c2f849a0abb2fd544db56695d19a490"
+csv-parse@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-2.0.0.tgz#4ea22c973233987f07688c601a2d460234ff56d1"
 
-csv-stringify@^1.0.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/csv-stringify/-/csv-stringify-1.1.2.tgz#77a41526581bce3380f12b00d7c5bbac70c82b58"
+csv-stringify@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/csv-stringify/-/csv-stringify-2.0.0.tgz#927bb55fd1408205ce444d2880184627b24b64f1"
   dependencies:
     lodash.get "~4.4.2"
 
-csv@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/csv/-/csv-1.1.0.tgz#0da30872c5cca486a4b5a0edbb52b2dbf6eb30ef"
+csv@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/csv/-/csv-2.0.0.tgz#0d51d8fa3ece278b5409f795717fcfcd5ace9b3e"
   dependencies:
-    csv-generate "^1.0.0"
-    csv-parse "^1.1.0"
-    csv-stringify "^1.0.0"
-    stream-transform "^0.1.0"
+    csv-generate "^2.0.0"
+    csv-parse "^2.0.0"
+    csv-stringify "^2.0.0"
+    stream-transform "^1.0.0"
 
 dashdash@^1.12.0:
   version "1.14.1"
@@ -445,9 +445,9 @@ sshpk@^1.7.0:
     jsbn "~0.1.0"
     tweetnacl "~0.14.0"
 
-stream-transform@^0.1.0:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/stream-transform/-/stream-transform-0.1.2.tgz#7d8e6b4e03ac4781778f8c79517501bfb0762a9f"
+stream-transform@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/stream-transform/-/stream-transform-1.0.0.tgz#d4ef386913d6ec102052bc75fc0516947a961f10"
 
 stringstream@~0.0.5:
   version "0.0.5"
