@@ -15,7 +15,7 @@
       "minimap": {
         "name": "Minimap",
         "folder": "mira-minimap",
-        "extension": "jpg",
+        "extension": "png",
         "maxNativeZoom": 6,
         "background": {
           "color": "#000000"
