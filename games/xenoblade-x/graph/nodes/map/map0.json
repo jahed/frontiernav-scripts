@@ -7,14 +7,18 @@
     "name": "Mira",
     "tileLayers": {
       "normal": {
+        "name": "Satellite",
         "folder": "normal",
-        "extension": "png"
+        "extension": "png",
+        "maxNativeZoom": 5
       },
-      "low": {
-        "folder": "low_quality",
+      "minimap": {
+        "name": "Minimap",
+        "folder": "mira-minimap",
         "extension": "jpg",
+        "maxNativeZoom": 6,
         "background": {
-          "color": "#040F1E"
+          "color": "#000000"
         }
       }
     },
