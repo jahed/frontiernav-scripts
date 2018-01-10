@@ -1,14 +1,13 @@
 {
   "id": "n338",
   "labels": [
-    "MapMarker"
+    "MapArea"
   ],
   "data": {
     "latLng": {
-      "lat": -47.5172006978394,
-      "lng": -64.3359375
+      "lat": -47.5172,
+      "lng": -64.3359
     },
-    "markerStyle": "circle",
-    "radius": 70
+    "radius": 2000000
   }
 }
