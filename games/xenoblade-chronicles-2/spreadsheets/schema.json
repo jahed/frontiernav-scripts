@@ -72,7 +72,7 @@
   },
   "Blade Roles": {
     "name": "Blade Roles",
-    "label": "BladeRole",
+    "label": "Blade Role",
     "columns": {
       "Name": {
         "type": "string"
@@ -81,7 +81,7 @@
   },
   "Pouch Item Categories": {
     "name": "Pouch Item Categories",
-    "label": "PouchItemCategory",
+    "label": "Pouch Item Category",
     "columns": {
       "Name": {
         "type": "string"
@@ -90,7 +90,7 @@
   },
   "Pouch Items": {
     "name": "Pouch Items",
-    "label": "PouchItem",
+    "label": "Pouch Item",
     "columns": {
       "Name": {
         "type": "string"
@@ -150,7 +150,7 @@
   },
   "Field Skills": {
     "name": "Field Skills",
-    "label": "FieldSkill",
+    "label": "Field Skill",
     "columns": {
       "Name": {
         "type": "string"

@@ -1,6 +1,6 @@
 const _ = require('lodash')
 const assert = require('assert')
-const { nameToId, stampRelationshipId } = require('../utils/IDFactory')
+const { nameToId, stampRelationshipId } = require('../utils/GraphFactory')
 
 module.exports = {
     "string": {

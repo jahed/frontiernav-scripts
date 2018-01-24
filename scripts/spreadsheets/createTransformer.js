@@ -1,6 +1,6 @@
 const _ = require('lodash')
 const assert = require('assert')
-const { nameToId, createNodeLabel } = require('../utils/IDFactory')
+const { nameToId, createNodeLabel, nameToLabelId } = require('../utils/GraphFactory')
 const types = require('./types')
 const defaultFieldSchema = require('./defaultFieldSchema.json')
 
@@ -8,7 +8,7 @@ function createTransformer({ schema, filters }) {
     function getLabels() {
         return _(schema)
             .map(sheet => sheet.label)
-            .map(label => createNodeLabel({ id: label }))
+            .map(label => createNodeLabel({ name: label }))
             .keyBy('id')
             .value()
     }
@@ -25,8 +25,8 @@ function createTransformer({ schema, filters }) {
 
                         return {
                             id: column.relationship,
-                            startLabels: [sheet.label],
-                            endLabels: [refSheet.label]
+                            startLabels: [nameToLabelId(sheet.label)],
+                            endLabels: [nameToLabelId(refSheet.label)]
                         }
                     })
                     .value()
@@ -79,7 +79,7 @@ function createTransformer({ schema, filters }) {
         return {
             id: nameToId(row['Name'].value),
             labels: {
-                [sheetSchema.label]: true
+                [nameToLabelId(sheetSchema.label)]: true
             },
             data: _(row)
                 .mapValues(v => v.value)
