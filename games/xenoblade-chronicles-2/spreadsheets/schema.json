@@ -1,0 +1,169 @@
+{
+  "Blades": {
+    "name": "Blades",
+    "label": "Blade",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Role": {
+        "type": "reference",
+        "sheet": "Blade Roles",
+        "relationship": "ROLE"
+      },
+      "Element": {
+        "type": "reference",
+        "sheet": "Elements",
+        "relationship": "ELEMENT"
+      },
+      "Weapon": {
+        "type": "reference",
+        "sheet": "Weapons",
+        "relationship": "WEAPON"
+      },
+      "Gender": {
+        "type": "string"
+      },
+      "Liked Type 1": {
+        "type": "reference",
+        "sheet": "Pouch Item Categories",
+        "relationship": "LIKES"
+      },
+      "Liked Type 2": {
+        "type": "reference",
+        "sheet": "Pouch Item Categories",
+        "relationship": "LIKES"
+      },
+      "Liked Item 1": {
+        "type": "reference",
+        "sheet": "Pouch Items",
+        "relationship": "LIKES"
+      },
+      "Liked Item 2": {
+        "type": "reference",
+        "sheet": "Pouch Items",
+        "relationship": "LIKES"
+      },
+      "Skill A": {
+        "type": "reference",
+        "sheet": "Field Skills",
+        "relationship": "FIELD_SKILL"
+      },
+      "Skill B": {
+        "type": "reference",
+        "sheet": "Field Skills",
+        "relationship": "FIELD_SKILL"
+      },
+      "Skill C": {
+        "type": "reference",
+        "sheet": "Field Skills",
+        "relationship": "FIELD_SKILL"
+      },
+      "Acquired": {
+        "type": "string"
+      },
+      "Spoiler": {
+        "type": "boolean"
+      },
+      "Notes": {
+        "type": "string"
+      }
+    }
+  },
+  "Blade Roles": {
+    "name": "Blade Roles",
+    "label": "BladeRole",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Pouch Item Categories": {
+    "name": "Pouch Item Categories",
+    "label": "PouchItemCategory",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Pouch Items": {
+    "name": "Pouch Items",
+    "label": "PouchItem",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Category": {
+        "type": "reference",
+        "sheet": "Pouch Item Categories",
+        "relationship": "CATEGORY"
+      },
+      "Rarity": {
+        "type": "number"
+      },
+      "Area": {
+        "type": "reference",
+        "sheet": "Areas",
+        "relationship": "AREA"
+      }
+    }
+  },
+  "Areas": {
+    "name": "Areas",
+    "label": "Area",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Region": {
+        "type": "reference",
+        "sheet": "Regions",
+        "relationship": "REGION"
+      },
+      "Spoiler": {
+        "type": "boolean"
+      }
+    }
+  },
+  "Regions": {
+    "name": "Regions",
+    "label": "Region",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Spoiler": {
+        "type": "boolean"
+      }
+    }
+  },
+  "Elements": {
+    "name": "Elements",
+    "label": "Element",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Field Skills": {
+    "name": "Field Skills",
+    "label": "FieldSkill",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Weapons": {
+    "name": "Weapons",
+    "label": "Weapon",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  }
+}

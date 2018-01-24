@@ -5,3 +5,6 @@ Thumbs.db
 tmp
 
 node_modules
+
+*.csv
+*.xlsx
