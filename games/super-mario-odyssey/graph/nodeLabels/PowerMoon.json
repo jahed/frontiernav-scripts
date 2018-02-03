@@ -5,7 +5,7 @@
   "data": {
     "mapFeature": {
       "shape": "image",
-      "image": "games/super-mario-odyssey/maps/markers/power-moon.png"
+      "image": "maps/markers/power-moon.png"
     }
   },
   "properties": {

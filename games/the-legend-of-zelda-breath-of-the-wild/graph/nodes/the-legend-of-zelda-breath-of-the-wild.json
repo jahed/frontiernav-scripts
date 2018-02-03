@@ -29,7 +29,7 @@
     },
     "mapBackground": {
       "color": "#01040d",
-      "image": "the-legend-of-zelda-breath-of-the-wild/map-tile.png",
+      "image": "map-tile.png",
       "repeat": true
     }
   }
