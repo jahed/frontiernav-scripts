@@ -3,6 +3,7 @@
 [![Travis Build Status](https://img.shields.io/travis/frontiernav/frontiernav-data/master.svg)](https://travis-ci.org/frontiernav/frontiernav-data/branches/master)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/frontiernav/frontiernav-data.svg)](https://david-dm.org/frontiernav/frontiernav-data?type=dev)
 [![Discord Chat](https://img.shields.io/badge/discord-chat-7289da.svg)](https://discord.gg/crmfAsJ)
+[![Patreon](https://img.shields.io/badge/patreon-donate-f96854.svg)](https://www.patreon.com/jahed)
 
 The data here is made to work with FrontierNav, however you're free to re-use the data for your own projects. Consider contributing to help fill in the gaps.
 
