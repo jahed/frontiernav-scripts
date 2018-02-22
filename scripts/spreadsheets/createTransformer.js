@@ -19,14 +19,17 @@ function createTransformer({ schema, filters }) {
                 return _(sheet.columns)
                     .filter(column => column.type === 'reference')
                     .map(column => {
-                        const refSheet = schema[column.sheet]
-
-                        assert(refSheet, `Referenced Sheet ${column.sheet} does not exist.`)
+                        const endLabels = (column.sheet ? [column.sheet] : column.sheets)
+                            .map(refSheetName => {
+                                const refSheet = schema[refSheetName]
+                                assert(refSheet, `Referenced Sheet ${refSheetName} does not exist.`)
+                                return nameToLabelId(refSheet.label)
+                            })
 
                         return {
                             id: column.relationship,
                             startLabels: [nameToLabelId(sheet.label)],
-                            endLabels: [nameToLabelId(refSheet.label)]
+                            endLabels: endLabels
                         }
                     })
                     .value()
