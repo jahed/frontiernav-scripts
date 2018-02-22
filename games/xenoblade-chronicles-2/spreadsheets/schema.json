@@ -148,12 +148,79 @@
       }
     }
   },
+  "Key Affinity Reward": {
+    "name": "Key Affinity Reward",
+    "label": "Key Affinity Reward",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Blade Arts": {
+    "name": "Blade Arts",
+    "label": "Blade Art",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Battle Skills": {
+    "name": "Battle Skills",
+    "label": "Battle Skill",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
   "Field Skills": {
     "name": "Field Skills",
     "label": "Field Skill",
     "columns": {
       "Name": {
         "type": "string"
+      }
+    }
+  },
+  "Blade Affinity Rewards": {
+    "name": "Blade Affinity Rewards",
+    "label": "Blade Affinity Reward",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Blade": {
+        "type": "reference",
+        "sheet": "Blades",
+        "relationship": "BLADE"
+      },
+      "Skill": {
+        "type": "reference",
+        "sheets": ["Blade Arts", "Battle Skills", "Field Skills", "Key Affinity Reward"],
+        "relationship": "SKILL"
+      },
+      "Skill Level": {
+        "type": "number"
+      },
+      "Affinity Level": {
+        "type": "number"
+      },
+      "Effect": {
+        "type": "string"
+      },
+      "Flavour Text": {
+        "type": "string"
+      },
+      "Requirement": {
+        "type": "string"
+      },
+      "Requirement Count": {
+        "type": "number"
+      },
+      "Chart Order": {
+        "type": "number"
       }
     }
   },
