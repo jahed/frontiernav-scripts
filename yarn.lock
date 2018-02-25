@@ -79,9 +79,9 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
 
-cfb@~1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/cfb/-/cfb-1.0.2.tgz#f51d9bbe5b5d1e75700581d68222f2ef46ec2142"
+cfb@~1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/cfb/-/cfb-1.0.4.tgz#d7253209aa20c026fb83225725b677506d1ee4cb"
   dependencies:
     commander "^2.12.1"
     printj "~1.1.1"
@@ -90,13 +90,12 @@ co@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/co/-/co-4.6.0.tgz#6ea6bdf3d853ae54ccb8e47bfa0bf3f9031fb184"
 
-codepage@~1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/codepage/-/codepage-1.12.0.tgz#9c95f5729f8d775ecc7d9819098a7fb239beeeaf"
+codepage@~1.12.1:
+  version "1.12.2"
+  resolved "https://registry.yarnpkg.com/codepage/-/codepage-1.12.2.tgz#fd4424448c8bf1db5d7e01f9ecf9e8346582a195"
   dependencies:
-    commander "~2.11.0"
+    commander "~2.14.1"
     exit-on-epipe "~1.0.1"
-    voc "~1.0.0"
 
 colors@1.1.2:
   version "1.1.2"
@@ -108,13 +107,17 @@ combined-stream@^1.0.5, combined-stream@~1.0.5:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@2.11.0, commander@~2.11.0:
+commander@2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.11.0.tgz#157152fd1e7a6c8d98a5b715cf376df928004563"
 
-commander@^2.12.1, commander@~2.13.0:
+commander@^2.12.1:
   version "2.13.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.13.0.tgz#6964bca67685df7c1f1430c584f07d7597885b9c"
+
+commander@~2.14.1:
+  version "2.14.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.14.1.tgz#2235123e37af8ca3c65df45b026dbd357b01b9aa"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -226,11 +229,9 @@ form-data@~2.3.1:
     combined-stream "^1.0.5"
     mime-types "^2.1.12"
 
-frac@~1.1.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.1.tgz#5f7f5c2ae029167d90153eea4b7dd2958d43d1f5"
-  dependencies:
-    voc "~1.0.0"
+frac@~1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
 
 fs.realpath@^1.0.0:
   version "1.0.0"
@@ -461,11 +462,11 @@ sntp@2.x.x:
   dependencies:
     hoek "4.x.x"
 
-ssf@~0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/ssf/-/ssf-0.10.1.tgz#f23d82b63792ef56089089c1cd0c848e911cdba6"
+ssf@~0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/ssf/-/ssf-0.10.2.tgz#65b2b4fcdfd967bc8e8383a41349009893115976"
   dependencies:
-    frac "~1.1.0"
+    frac "~1.1.2"
 
 sshpk@^1.7.0:
   version "1.13.1"
@@ -523,22 +524,18 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-voc@~1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/voc/-/voc-1.0.0.tgz#5465c0ce11d0881f7d8e36d8ca587043f33a25ae"
-
 wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
-xlsx@0.11.18:
-  version "0.11.18"
-  resolved "https://registry.yarnpkg.com/xlsx/-/xlsx-0.11.18.tgz#36320107ccee1bc96b702c1aac2a004edb22c3d8"
+xlsx@0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/xlsx/-/xlsx-0.12.2.tgz#04e3814499ec74fe3b1439b733adab84e6a0ecc9"
   dependencies:
     adler-32 "~1.2.0"
-    cfb "~1.0.2"
-    codepage "~1.12.0"
-    commander "~2.13.0"
+    cfb "~1.0.4"
+    codepage "~1.12.1"
+    commander "~2.14.1"
     crc-32 "~1.2.0"
     exit-on-epipe "~1.0.1"
-    ssf "~0.10.1"
+    ssf "~0.10.2"
