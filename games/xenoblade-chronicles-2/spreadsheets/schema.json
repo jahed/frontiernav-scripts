@@ -145,6 +145,11 @@
     "columns": {
       "Name": {
         "type": "string"
+      },
+      "Idea": {
+        "type": "reference",
+        "sheets": ["Ideas"],
+        "relationship": "IDEA"
       }
     }
   },
@@ -207,6 +212,11 @@
       "Affinity Level": {
         "type": "number"
       },
+      "Idea": {
+        "type": "reference",
+        "sheets": ["Ideas"],
+        "relationship": "IDEA"
+      },
       "Effect": {
         "type": "string"
       },
@@ -221,6 +231,15 @@
       },
       "Chart Order": {
         "type": "number"
+      }
+    }
+  },
+  "Ideas": {
+    "name": "Ideas",
+    "label": "Idea",
+    "columns": {
+      "Name": {
+        "type": "string"
       }
     }
   },

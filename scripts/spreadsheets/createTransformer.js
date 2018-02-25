@@ -67,6 +67,7 @@ function createTransformer({ schema, filters }) {
         const sheetSchema = getSheetSchema(sheetName)
 
         return _(row)
+            .omitBy(fieldValue => fieldValue === '-')
             .mapValues((fieldValue, fieldName) => {
                 const fieldSchema = _.get(sheetSchema, ['columns', fieldName], defaultFieldSchema)
                 const type = types[fieldSchema.type]
