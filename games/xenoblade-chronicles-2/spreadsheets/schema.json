@@ -168,6 +168,11 @@
     "columns": {
       "Name": {
         "type": "string"
+      },
+      "Blade": {
+        "type": "reference",
+        "sheet": "Blades",
+        "relationship": "BLADE"
       }
     }
   },
@@ -177,6 +182,11 @@
     "columns": {
       "Name": {
         "type": "string"
+      },
+      "Blade": {
+        "type": "reference",
+        "sheet": "Blades",
+        "relationship": "BLADE"
       }
     }
   },
