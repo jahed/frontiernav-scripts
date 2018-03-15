@@ -35,7 +35,7 @@
       }
     },
     "mapBackground": {
-      "image": "games/super-mario-odyssey/maps/background.png",
+      "image": "maps/background.png",
       "color": "#FAFBF5",
       "repeat": true
     }
