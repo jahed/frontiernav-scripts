@@ -1,3 +1,5 @@
 module.exports = {
-  readFile: require('./readFile')
+  readFile: require('./readFile'),
+  readObjects: require('./readObjects'),
+  readGraph: require('./readGraph')
 }

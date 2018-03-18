@@ -2,5 +2,8 @@
   "name": "@frontiernav/filesystem",
   "version": "1.0.0",
   "private": true,
-  "main": "src/index.js"
+  "main": "src/index.js",
+  "dependencies": {
+    "file": "0.2.2"
+  }
 }
