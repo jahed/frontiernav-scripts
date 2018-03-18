@@ -1,9 +1,10 @@
-module.exports = {
-  Blades (row) {
-    if (row.Name === 'Dagas (Cavalier Attitude)') {
-      return false
-    }
+const IGNORED_BLADES = {
+  'Dagas (Cavalier Attitude)': true
+}
 
-    return true
-  }
+const notIgnoredBlade = name => !IGNORED_BLADES[name]
+
+module.exports = {
+  'Blades': row => notIgnoredBlade(row.Name),
+  'Blade Affinity Rewards': row => notIgnoredBlade(row.Blade)
 }
