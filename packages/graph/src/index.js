@@ -3,5 +3,6 @@ module.exports = {
   nameToId: require('./nameToId'),
   nameToLabelId: require('./nameToLabelId'),
   nameToNode: require('./nameToNode'),
-  stampRelationshipId: require('./stampRelationshipId')
+  stampRelationshipId: require('./stampRelationshipId'),
+  validateGraph: require('./validateGraph')
 }
