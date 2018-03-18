@@ -2,6 +2,7 @@
   "name": "@frontiernav/spreadsheets",
   "version": "1.0.0",
   "private": true,
+  "main": "src/index.js",
   "dependencies": {
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/graph": "1.0.0",
