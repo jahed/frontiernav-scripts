@@ -16,12 +16,6 @@ function graphTest (gameId) {
     const graph = readGraph(`./games/${gameId}/graph`)
     const { nodeLabels, nodes, relationships, relationshipTypes, properties } = graph
 
-    it(`should have game.json pointing to an existing Game node at root of ./graph/nodes/ directory`, () => {
-      const gameJson = require(`../../games/${gameId}/game.json`)
-      const gameNode = require(`../../games/${gameId}/graph/nodes/${gameJson.id}.json`)
-      assert.deepStrictEqual(gameNode.labels, ['Game'], 'Game node should be labelled as such.')
-    })
-
     describe(`Graph`, () => {
       it(`read (${countGraph(graph)})`, () => {})
 
