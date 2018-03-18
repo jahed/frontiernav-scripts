@@ -1,0 +1,11 @@
+{
+  "name": "@frontiernav/spreadsheets",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@frontiernav/filesystem": "1.0.0",
+    "@frontiernav/graph": "1.0.0",
+    "lodash": "4.17.4",
+    "xlsx": "0.12.2"
+  }
+}
