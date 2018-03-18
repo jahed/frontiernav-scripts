@@ -1,0 +1,13 @@
+{
+  "name": "@frontiernav/table-to-xsv",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "bin": {
+    "table-to-xsv": "bin/tableToXSV.cli.js"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "minimist": "1.2.0"
+  }
+}

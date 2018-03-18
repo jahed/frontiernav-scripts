@@ -6,6 +6,10 @@
     "preinstall": "node ./scripts/enforceYarn.js",
     "test": "mocha ./tests/suites"
   },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jahed/frontiernav-data.git"
@@ -25,8 +29,6 @@
     "lodash": "4.17.4",
     "mocha": "4.0.1",
     "request": "2.83.0",
-    "cheerio": "1.0.0-rc.2",
-    "minimist": "1.2.0",
     "xlsx": "0.12.2"
   }
 }

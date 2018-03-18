@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs')
 const path = require('path')
-const tableToXSV = require('./tableToXSV')
+const tableToXSV = require('../src/tableToXSV')
 const argv = require('minimist')(process.argv.slice(2))
 
 const {
