@@ -1,1 +1,4 @@
-module.exports = require('./tableToXSV')
+module.exports = {
+  tableToXSV: require('./tableToXSV'),
+  tablesToWorkbook: require('./tablesToWorkbook')
+}

@@ -2,11 +2,11 @@ const fs = require('fs')
 const file = require('file')
 const path = require('path')
 
-const parsers = {
+const defaultParsers = {
   '.json': JSON.parse
 }
 
-function readObjects (objectsPath, mapResult = i => i) {
+function readObjects (objectsPath, mapResult = i => i, parsers = defaultParsers) {
   let result = []
 
   if (fs.existsSync(objectsPath)) {

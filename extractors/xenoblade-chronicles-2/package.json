@@ -1,0 +1,10 @@
+{
+  "name": "@frontiernav/extractors-xenoblade-chronicles-2",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@frontiernav/filesystem": "1.0.0",
+    "@frontiernav/table-to-xsv": "1.0.0",
+    "mkdirp": "0.5.1"
+  }
+}
