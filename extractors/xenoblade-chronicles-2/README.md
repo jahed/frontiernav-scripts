@@ -17,6 +17,10 @@ These are the available files have have been dumped.
     <td>Drop tables.</td>
 </tr>
 <tr>
+    <td>BTL_Lv_Rev.html</td>
+    <td>Battle modifiers based on current level different.</td>
+</tr>
+<tr>
     <td>BTL_Enhance.html</td>
     <td>Parameter values for skill levels.</td>
 </tr>
