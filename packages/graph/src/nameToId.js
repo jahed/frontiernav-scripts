@@ -1,7 +1,7 @@
-const _ = require('lodash')
+const kebabCase = require('lodash/kebabCase')
 
-function nameToId (s) {
-  return _.kebabCase(s)
+function nameToId (name) {
+  return kebabCase(name)
 }
 
 module.exports = nameToId

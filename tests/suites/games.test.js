@@ -86,7 +86,7 @@ function graphTest (gameId) {
                 })
               })
             })
-        }).timeout(10000)
+        })
 
         describe('locale', () => {
           it('codes should match locale defined in graph', () => {
@@ -214,7 +214,7 @@ function graphTest (gameId) {
                 }
               })
             })
-        }).timeout(10000)
+        })
       })
     })
   })
