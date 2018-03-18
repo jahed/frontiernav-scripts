@@ -162,9 +162,9 @@
       }
     }
   },
-  "Blade Arts": {
-    "name": "Blade Arts",
-    "label": "Blade Art",
+  "Blade Specials": {
+    "name": "Blade Specials",
+    "label": "Blade Special",
     "columns": {
       "Name": {
         "type": "string"
@@ -213,7 +213,7 @@
       },
       "Skill": {
         "type": "reference",
-        "sheets": ["Blade Arts", "Battle Skills", "Field Skills", "Key Affinity Reward"],
+        "sheets": ["Blade Specials", "Battle Skills", "Field Skills", "Key Affinity Reward"],
         "relationship": "SKILL"
       },
       "Skill Level": {
