@@ -261,5 +261,31 @@
         "type": "string"
       }
     }
+  },
+  "Maps": {
+    "name": "Maps",
+    "label": "Map",
+    "columns": {
+      "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Map Tiles": {
+    "name": "Map Tiles",
+    "label": "MapTile",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Map": {
+        "type": "reference",
+        "sheets": ["Maps"],
+        "relationship": "MAP"
+      },
+      "Max Native Zoom": {
+        "type": "number"
+      }
+    }
   }
 }
