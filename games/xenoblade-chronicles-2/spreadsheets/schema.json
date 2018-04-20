@@ -268,6 +268,17 @@
     "columns": {
       "Name": {
         "type": "string"
+      },
+      "Display Name": {
+        "type": "string"
+      },
+      "Menu Order": {
+        "type": "number"
+      },
+      "Area": {
+        "type": "reference",
+        "sheets": ["Areas"],
+        "relationship": "AREA"
       }
     }
   },
