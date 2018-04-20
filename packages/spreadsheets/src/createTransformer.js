@@ -4,6 +4,14 @@ const { nameToId, createNodeLabel, nameToLabelId } = require('@frontiernav/graph
 const types = require('./types')
 const defaultFieldSchema = require('./defaultFieldSchema.json')
 
+const objectify = a => a.reduce(
+  (acc, next) => {
+    acc[next] = true
+    return acc
+  },
+  {}
+)
+
 function createTransformer ({ schema, filters }) {
   function getLabels () {
     return _(schema)
@@ -37,16 +45,22 @@ function createTransformer ({ schema, filters }) {
       .reduce((acc, next) => {
         const current = acc[next.id] || {
           id: next.id,
-          startLabels: [],
-          endLabels: []
+          startLabels: {},
+          endLabels: {}
         }
 
         return {
           ...acc,
           [next.id]: {
             ...current,
-            startLabels: current.startLabels.concat(next.startLabels),
-            endLabels: current.endLabels.concat(next.endLabels)
+            startLabels: {
+              ...current.startLabels,
+              ...objectify(next.startLabels)
+            },
+            endLabels: {
+              ...current.endLabels,
+              ...objectify(next.endLabels)
+            }
           }
         }
       }, {})
@@ -122,23 +136,24 @@ function createTransformer ({ schema, filters }) {
 
     const duplicateCount = _.size(duplicates)
 
-    if(duplicateCount > 1) {
+    if (duplicateCount > 1) {
       console.log(JSON.stringify(duplicates, null, 2))
       throw new Error(`${duplicateCount} Node IDs were used multiple times.`)
     }
 
     return rows.reduce(
       (acc, next) => {
-        if(acc.nodes)
-        return {
-          ...acc,
-          nodes: {
-            ...acc.nodes,
-            [next.node.id]: next.node
-          },
-          relationships: {
-            ...acc.relationships,
-            ...next.relationships
+        if (acc.nodes) {
+          return {
+            ...acc,
+            nodes: {
+              ...acc.nodes,
+              [next.node.id]: next.node
+            },
+            relationships: {
+              ...acc.relationships,
+              ...next.relationships
+            }
           }
         }
       },
