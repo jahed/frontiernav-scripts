@@ -25,19 +25,19 @@
   "homepage": "https://github.com/jahed/frontiernav-data#readme",
   "dependencies": {
     "bluebird": "3.5.1",
-    "colors": "1.1.2",
+    "colors": "1.2.1",
     "csv": "2.0.0",
     "file": "0.2.2",
-    "lodash": "4.17.4"
+    "lodash": "4.17.5"
   },
   "devDependencies": {
     "ajv": "5.3.0",
-    "eslint": "4.19.0",
+    "eslint": "4.19.1",
     "eslint-config-standard": "11.0.0",
-    "eslint-plugin-import": "2.9.0",
+    "eslint-plugin-import": "2.11.0",
     "eslint-plugin-node": "6.0.1",
     "eslint-plugin-promise": "3.7.0",
     "eslint-plugin-standard": "3.0.1",
-    "jest": "22.4.2"
+    "jest": "22.4.3"
   }
 }
