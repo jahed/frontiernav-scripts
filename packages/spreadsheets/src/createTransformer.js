@@ -102,7 +102,7 @@ function createTransformer ({ schema, filters }) {
   }
 
   function transform (sheets) {
-    return _(sheets)
+    const rows = _(sheets)
       .flatMap(sheet => {
         return _(sheet.data)
           .filter(row => filter(sheet.name, row))
@@ -113,7 +113,23 @@ function createTransformer ({ schema, filters }) {
           }))
           .value()
       })
-      .reduce((acc, next) => {
+      .value()
+
+    const duplicates = _(rows)
+      .groupBy(row => row.node.id)
+      .pickBy(nodes => nodes.length > 1)
+      .value()
+
+    const duplicateCount = _.size(duplicates)
+
+    if(duplicateCount > 1) {
+      console.log(JSON.stringify(duplicates, null, 2))
+      throw new Error(`${duplicateCount} Node IDs were used multiple times.`)
+    }
+
+    return rows.reduce(
+      (acc, next) => {
+        if(acc.nodes)
         return {
           ...acc,
           nodes: {
@@ -125,12 +141,14 @@ function createTransformer ({ schema, filters }) {
             ...next.relationships
           }
         }
-      }, {
+      },
+      {
         nodeLabels: getLabels(),
         nodes: {},
         relationshipTypes: getRelationshipTypes(),
         relationships: {}
-      })
+      }
+    )
   }
 
   return {
