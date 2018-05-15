@@ -136,6 +136,9 @@
       },
       "Spoiler": {
         "type": "boolean"
+      },
+      "Menu Order": {
+        "type": "number"
       }
     }
   },
