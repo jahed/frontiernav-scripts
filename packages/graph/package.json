@@ -4,6 +4,6 @@
   "main": "src/index.js",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.5"
+    "lodash": "4.17.10"
   }
 }

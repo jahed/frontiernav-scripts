@@ -6,7 +6,7 @@
   "dependencies": {
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/graph": "1.0.0",
-    "lodash": "4.17.5",
-    "xlsx": "0.12.10"
+    "lodash": "4.17.10",
+    "xlsx": "0.12.11"
   }
 }
