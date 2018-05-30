@@ -302,9 +302,9 @@
       }
     }
   },
-  "Map Markers": {
-    "name": "Map Markers",
-    "label": "MapMarker",
+  "Map Features": {
+    "name": "Map Features",
+    "label": "MapFeature",
     "columns": {
       "Name": {
         "type": "string"

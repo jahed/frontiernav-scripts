@@ -67,13 +67,24 @@ function toMarkers ({ type, region, content }) {
         .orderBy('Priority')
         .head()
 
-      const pixel = L.point(row.X, row.Z)
-      const ratio = tile.Width / tile.Height
-      const translatedPixel = ratio > 1
-        ? pixel.subtract(L.point(0, tile.Width - tile.Height / 2))
-        : pixel.subtract(L.point(tile.Height - tile.Width / 2, 0))
+      const widthBigger = tile.Width > tile.Height
 
-      const latLng = L.CRS.EPSG3857.pointToLatLng(translatedPixel, 0)
+      const pixel = L.point(row.X, row.Z)
+        .add(
+          // Relative to the map it's on
+          L.point(-tile.LowerX, -tile.LowerZ)
+        )
+        .multiplyBy(2) // Game coords are scaled down for some reason.
+        .add(
+          // Adjust to squared tiles
+          widthBigger
+            ? L.point(0, (tile.Width - tile.Height) / 2) // Move down
+            : L.point((tile.Height - tile.Width) / 2, 0) // Move right
+        )
+
+      const zoom = L.CRS.EPSG3857.zoom(widthBigger ? tile.Width : tile.Height)
+      const latLng = L.CRS.EPSG3857.pointToLatLng(pixel, zoom)
+
       return {
         name: row.Name,
         game_id: row.Name,
@@ -152,7 +163,6 @@ Promise
   }, {}))
   .then(markers => toTSV({ objects: markers }))
   .then(result => {
-    console.log(result)
     const outputPath = path.resolve(__dirname, '../out')
     mkdirp.sync(outputPath)
 
