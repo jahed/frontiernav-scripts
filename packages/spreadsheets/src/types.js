@@ -10,6 +10,13 @@ module.exports = {
       }
     }
   },
+  'json': {
+    parse (value) {
+      return {
+        value: JSON.parse(value)
+      }
+    }
+  },
   'number': {
     parse (value) {
       return {

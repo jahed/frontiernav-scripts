@@ -301,5 +301,27 @@
         "type": "number"
       }
     }
+  },
+  "Map Markers": {
+    "name": "Map Markers",
+    "label": "MapMarker",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Map": {
+        "type": "reference",
+        "sheets": ["Maps"],
+        "relationship": "MAP"
+      },
+      "Target": {
+        "type": "reference",
+        "sheets": ["Blades"],
+        "relationship": "MAP_TARGET"
+      },
+      "Geometry": {
+        "type": "json"
+      }
+    }
   }
 }
