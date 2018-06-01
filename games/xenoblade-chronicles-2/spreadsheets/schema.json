@@ -316,7 +316,7 @@
       },
       "Target": {
         "type": "reference",
-        "sheets": ["Collectible Groups"],
+        "sheets": ["Collection Points"],
         "relationship": "MAP_TARGET"
       },
       "Geometry": {
@@ -324,9 +324,9 @@
       }
     }
   },
-  "Collectible Groups": {
-    "name": "Collectible Groups",
-    "label": "CollectibleGroup",
+  "Collection Points": {
+    "name": "Collection Points",
+    "label": "CollectionPoint",
     "columns": {
       "Name": {
         "type": "string"

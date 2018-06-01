@@ -10,7 +10,7 @@ const _ = require('lodash')
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const Collectibles = require('./entities/Collectibles')
-const CollectibleGroups = require('./entities/CollectibleGroups')
+const CollectionPoints = require('./entities/CollectionPoints')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -94,9 +94,9 @@ function toMarkers ({ type, region, content }) {
       }
     })
     .map(marker => {
-      return CollectibleGroups.getByName({ name: marker.game_id })
-        .then(group => {
-          marker.target = group.name
+      return CollectionPoints.getByName({ name: marker.game_id })
+        .then(collectionPoint => {
+          marker.target = collectionPoint.name
           return marker
         })
         .catch(e => {
@@ -130,7 +130,7 @@ function getMarkersForRegion ({ type, region }) {
     )
 }
 
-function getMarkers ({ absoluteFilePath, content }) {
+function parseMapFeatures ({ absoluteFilePath, content }) {
   return Promise.resolve(content)
     .then(content => toRegion({ absoluteFilePath, content }))
     .then(region => {
@@ -158,9 +158,9 @@ function writeOut ({ filename, content }) {
   fs.writeFileSync(filePath, content)
 }
 
-CollectibleGroups.getAll()
+CollectionPoints.getAll()
   .then(result => toTSV({ objects: result }))
-  .then(result => writeOut({ filename: 'CollectibleGroups.tsv', content: result }))
+  .then(result => writeOut({ filename: 'CollectionPoints.tsv', content: result }))
 
 Collectibles.getAll()
   .then(result => toTSV({ objects: result }))
@@ -180,7 +180,7 @@ Promise
   .all(
     result.map(({ absoluteFilePath, content: contentPromise }) => {
       return contentPromise
-        .then(content => getMarkers({ absoluteFilePath, content }))
+        .then(content => parseMapFeatures({ absoluteFilePath, content }))
         .catch(error => {
           console.error(absoluteFilePath, error)
         })
@@ -189,7 +189,7 @@ Promise
   .then(results => results.reduce((acc, next) => {
     return acc.concat(next)
   }, []))
-  .then(markers => toTSV({ objects: markers }))
+  .then(mapFeatures => toTSV({ objects: mapFeatures }))
   .then(result => {
-    writeOut({ filename: 'collection-markers.tsv', content: result })
+    writeOut({ filename: 'MapFeatures.tsv', content: result })
   })
