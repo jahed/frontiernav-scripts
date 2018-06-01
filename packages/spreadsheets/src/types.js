@@ -43,5 +43,19 @@ module.exports = {
         })
       }
     }
+  },
+  'multi_reference': {
+    parse (value, row, fieldSchema, fieldName) {
+      assert(fieldSchema.relationship, `Field "${fieldName}" does not have a relationship type.`)
+      const values = JSON.parse(value)
+      return values.map(({ id, ...data }) => ({
+        relationship: stampRelationshipId({
+          type: fieldSchema.relationship,
+          start: nameToId(row['Name']),
+          end: id,
+          data
+        })
+      }))
+    }
   }
 }

@@ -25,7 +25,7 @@ function createTransformer ({ schema, filters }) {
     return _(schema)
       .flatMap(sheet => {
         return _(sheet.columns)
-          .filter(column => column.type === 'reference')
+          .filter(column => column.type === 'reference' || column.type === 'multi_reference')
           .map(column => {
             const endLabels = (column.sheet ? [column.sheet] : column.sheets)
               .map(refSheetName => {
@@ -109,6 +109,7 @@ function createTransformer ({ schema, filters }) {
 
   function transformRowToRelationships (sheetName, row) {
     return _(row)
+      .flatMap(v => Array.isArray(v) ? v : [v])
       .filter(v => v.relationship)
       .map(v => v.relationship)
       .keyBy('id')

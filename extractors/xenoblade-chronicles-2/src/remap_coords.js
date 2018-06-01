@@ -9,6 +9,8 @@ const parseCSV = util.promisify(csv.parse)
 const _ = require('lodash')
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
+const Collectibles = require('./entities/Collectibles')
+const CollectibleGroups = require('./entities/CollectibleGroups')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -16,16 +18,6 @@ global.document = dom.window.document
 global.navigator = dom.window.navigator
 
 const L = require('leaflet')
-const inputPath = path.resolve(__dirname, '../data/mapinfo')
-
-console.log('Reading files', inputPath)
-const result = readObjects(
-  inputPath,
-  i => i,
-  {
-    '.csv': content => parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
-  }
-)
 
 function toTiles ({ content }) {
   return _(content)
@@ -44,8 +36,9 @@ function withinBox ({ point: { x, y, z }, box: { minX, maxX, minY, maxY, minZ, m
 }
 
 function toMarkers ({ type, region, content }) {
-  return _(content)
-    .mapValues(row => {
+  return Promise.all(_(content)
+    .filter(row => !!row.Name)
+    .map(row => {
       const tile = _(region.tiles)
         .filter(tile => {
           return withinBox({
@@ -86,10 +79,10 @@ function toMarkers ({ type, region, content }) {
       const latLng = L.CRS.EPSG3857.pointToLatLng(pixel, zoom)
 
       return {
-        name: row.Name,
+        name: `${row.Name} (Map Feature)`,
         game_id: row.Name,
         map: tile.mapping.map_name,
-        target: 'Pyra',
+        target: '',
         geometry: JSON.stringify({
           type: 'Point',
           'coordinates': [
@@ -100,7 +93,19 @@ function toMarkers ({ type, region, content }) {
         notes: ''
       }
     })
+    .map(marker => {
+      return CollectibleGroups.getByName({ name: marker.game_id })
+        .then(group => {
+          marker.target = group.name
+          return marker
+        })
+        .catch(e => {
+          console.log(e)
+          return marker
+        })
+    })
     .value()
+  )
 }
 
 function toRegion ({ absoluteFilePath, content }) {
@@ -121,7 +126,7 @@ function getMarkersForRegion ({ type, region }) {
         return parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
           .then(content => toMarkers({ type, region, content }))
       },
-      () => ({})
+      () => ([])
     )
 }
 
@@ -133,17 +138,43 @@ function getMarkers ({ absoluteFilePath, content }) {
     })
 }
 
-function toTSV({ objects }) {
+function toTSV ({ objects }) {
   return _(objects)
-    .values()
     .map(row => _(row)
-      .values()
+      .map(v => typeof v === 'object' ? JSON.stringify(v) : `${v}`)
       .map(v => v.replace(/"/g, '""'))
       .map(v => `"${v}"`)
       .join('\t')
     )
     .join('\n')
 }
+
+function writeOut ({ filename, content }) {
+  const outputPath = path.resolve(__dirname, '../out')
+  mkdirp.sync(outputPath)
+
+  const filePath = path.resolve(outputPath, filename)
+  console.log('Writing', filePath)
+  fs.writeFileSync(filePath, content)
+}
+
+CollectibleGroups.getAll()
+  .then(result => toTSV({ objects: result }))
+  .then(result => writeOut({ filename: 'CollectibleGroups.tsv', content: result }))
+
+Collectibles.getAll()
+  .then(result => toTSV({ objects: result }))
+  .then(result => writeOut({ filename: 'Collectibles.tsv', content: result }))
+
+const inputPath = path.resolve(__dirname, '../data/mapinfo')
+console.log('Reading files', inputPath)
+const result = readObjects(
+  inputPath,
+  i => i,
+  {
+    '.csv': content => parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
+  }
+)
 
 Promise
   .all(
@@ -156,34 +187,9 @@ Promise
     })
   )
   .then(results => results.reduce((acc, next) => {
-    return {
-      ...acc,
-      ...next
-    }
-  }, {}))
+    return acc.concat(next)
+  }, []))
   .then(markers => toTSV({ objects: markers }))
   .then(result => {
-    const outputPath = path.resolve(__dirname, '../out')
-    mkdirp.sync(outputPath)
-
-    const tsvPath = path.resolve(outputPath, 'collection-markers.tsv')
-
-    console.log('Writing', tsvPath)
-    fs.writeFileSync(tsvPath, result)
+    writeOut({ filename: 'collection-markers.tsv', content: result })
   })
-
-console.log('Done.')
-
-/*
- * 1. Read all mapinfo files
- * 2. For each file, read coords
- * 3. Find which tile(s) each coord maps to
- * 4. Flatten coords to X, Y
- * 5. Remap coords to Lat, Lng
- * 6. Create GeoJSON
- * 7. Create MapMarker
- * 8. Export to TSV
- *
- * TODO
- * - Map MapMarkers to Collectible Groups
- */

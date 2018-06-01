@@ -316,11 +316,34 @@
       },
       "Target": {
         "type": "reference",
-        "sheets": ["Blades"],
+        "sheets": ["Collectible Groups"],
         "relationship": "MAP_TARGET"
       },
       "Geometry": {
         "type": "json"
+      }
+    }
+  },
+  "Collectible Groups": {
+    "name": "Collectible Groups",
+    "label": "CollectibleGroup",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Drops": {
+        "type": "multi_reference",
+        "sheets": ["Collectibles"],
+        "relationship": "DROPS"
+      }
+    }
+  },
+  "Collectibles": {
+    "name": "Collectibles",
+    "label": "Collectible",
+    "columns": {
+      "Name": {
+        "type": "string"
       }
     }
   }
