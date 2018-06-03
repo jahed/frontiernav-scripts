@@ -63,7 +63,7 @@ const getDrops = async (rawCollectionPoint) => {
 const toCollectionPoint = _.memoize(async raw => {
   const drops = await getDrops(raw)
   return {
-    name: raw.name,
+    name: `Collection Point #${raw.id}`,
     drops
   }
 }, raw => raw.name)
