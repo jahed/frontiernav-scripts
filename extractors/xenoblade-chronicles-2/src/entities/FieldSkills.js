@@ -16,12 +16,24 @@ const getAllRawNamesById = _.memoize(async () => {
   return _(JSON.parse(content)).keyBy('id').value()
 })
 
+const categoryMap = {
+  '1': 'Collectible',
+  '2': 'Elemental',
+  '8': 'Unique',
+  '4': 'Mercenary'
+}
+
 const toFieldSkill = _.memoize(async fieldSkill => {
   const fieldSkillNames = await getAllRawNamesById()
   const fieldSkillName = fieldSkillNames[fieldSkill.Name]
 
+  if (!fieldSkillName) {
+    throw new Error(`Failed to find name of FieldSkill[${fieldSkill.id}]`)
+  }
+
   return {
-    name: fieldSkillName ? fieldSkillName.name : `unknown-${fieldSkill.Name}`,
+    name: fieldSkillName.name,
+    category: categoryMap[`${fieldSkill.Category}`],
     game_id: fieldSkill.id
   }
 }, fieldSkill => fieldSkill.id)
@@ -37,7 +49,7 @@ exports.getById = async id => {
 
 exports.getAll = async () => {
   const all = await getAllRaw()
-  return Promise.all(
-    all.map(one => toFieldSkill(one))
-  )
+  return Promise
+    .all(all.map(one => toFieldSkill(one).catch(() => null)))
+    .then(results => results.filter(r => r))
 }
