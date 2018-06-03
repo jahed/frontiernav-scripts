@@ -58,7 +58,20 @@ const getDrops = async (rawCollectionPoint) => {
           .catch(() => null)
       })
     )
-    .then(drops => drops.filter(d => d))
+    .then(drops => drops
+      .filter(d => d)
+      .reduce((acc, next) => {
+        const current = acc[next.id]
+        acc[next.id] = current
+          ? {
+            id: current.id,
+            rate: current.rate + next.rate
+          }
+          : next
+        return acc
+      }, {})
+    )
+    .then(dict => _.values(dict))
 }
 
 const toCollectionPoint = _.memoize(async raw => {
