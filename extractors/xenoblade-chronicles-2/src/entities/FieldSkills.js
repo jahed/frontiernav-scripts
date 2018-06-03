@@ -26,14 +26,20 @@ const categoryMap = {
 const toFieldSkill = _.memoize(async fieldSkill => {
   const fieldSkillNames = await getAllRawNamesById()
   const fieldSkillName = fieldSkillNames[fieldSkill.Name]
+  const fieldSkillDescription = fieldSkillNames[fieldSkill.Caption]
 
   if (!fieldSkillName) {
     throw new Error(`Failed to find name of FieldSkill[${fieldSkill.id}]`)
   }
 
+  if (!fieldSkillDescription) {
+    throw new Error(`Failed to find description of FieldSkill[${fieldSkill.id}]`)
+  }
+
   return {
     name: fieldSkillName.name,
     category: categoryMap[`${fieldSkill.Category}`],
+    description: fieldSkillDescription.name.replace(/\n/g, ' '),
     game_id: fieldSkill.id
   }
 }, fieldSkill => fieldSkill.id)

@@ -355,6 +355,11 @@
     "columns": {
       "Name": {
         "type": "string"
+      },
+      "Region": {
+        "type": "reference",
+        "sheets": ["Regions"],
+        "relationship": "REGION"
       }
     }
   }
