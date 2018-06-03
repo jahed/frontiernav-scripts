@@ -90,6 +90,7 @@ function toMarkers ({ type, region, content }) {
             latLng.lat
           ]
         }),
+        shape: 'image',
         notes: ''
       }
     })
