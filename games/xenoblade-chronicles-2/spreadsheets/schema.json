@@ -331,6 +331,17 @@
       "Name": {
         "type": "string"
       },
+      "Field Skill": {
+        "type": "reference",
+        "sheets": ["Field Skills"],
+        "relationship": "FIELD_SKILL"
+      },
+      "Minimum Drops": {
+        "type": "number"
+      },
+      "Maximum Drops": {
+        "type": "number"
+      },
       "Drops": {
         "type": "multi_reference",
         "sheets": ["Collectibles"],

@@ -11,6 +11,7 @@ const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const Collectibles = require('./entities/Collectibles')
 const CollectionPoints = require('./entities/CollectionPoints')
+const FieldSkills = require('./entities/FieldSkills')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -166,6 +167,10 @@ CollectionPoints.getAll()
 Collectibles.getAll()
   .then(result => toTSV({ objects: result }))
   .then(result => writeOut({ filename: 'Collectibles.tsv', content: result }))
+
+FieldSkills.getAll()
+  .then(result => toTSV({ objects: result }))
+  .then(result => writeOut({ filename: 'FieldSkills.tsv', content: result }))
 
 const inputPath = path.resolve(__dirname, '../data/mapinfo')
 console.log('Reading files', inputPath)

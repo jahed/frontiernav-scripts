@@ -3,6 +3,7 @@ const path = require('path')
 const _ = require('lodash')
 const { mapMappings } = require('../mappings')
 const Collectibles = require('./Collectibles')
+const FieldSkills = require('./FieldSkills')
 const { nameToId } = require('@frontiernav/graph')
 
 const getAllRaw = _.memoize(async type => {
@@ -62,8 +63,12 @@ const getDrops = async (rawCollectionPoint) => {
 
 const toCollectionPoint = _.memoize(async raw => {
   const drops = await getDrops(raw)
+  const fieldSkill = await FieldSkills.getById(raw.FSID)
   return {
     name: `Collection Point #${raw.id}`,
+    field_skill: fieldSkill.name,
+    min_drop: raw.randitmPopMin,
+    max_drop: raw.randitmPopMax,
     drops
   }
 }, raw => raw.name)
@@ -72,14 +77,16 @@ exports.getByName = async ({ name }) => {
   const rawCollectionPoints = await getAllRawByName({ type: 'FLD_CollectionPopList' })
   const rawCollectionPoint = rawCollectionPoints[`${name}`]
   if (!rawCollectionPoint) {
-    throw new Error(`CollectiblePoint[${name}] not found`)
+    throw new Error(`CollectionPoint[${name}] not found`)
   }
   return toCollectionPoint(rawCollectionPoint)
 }
 
 exports.getAll = async () => {
   const rawCollectionPoints = await getAllRaw('FLD_CollectionPopList')
-  return Promise.all(
-    rawCollectionPoints.map(raw => toCollectionPoint(raw))
-  )
+  return Promise
+    .all(
+      rawCollectionPoints.map(raw => toCollectionPoint(raw).catch(() => null))
+    )
+    .then(results => results.filter(r => r))
 }
