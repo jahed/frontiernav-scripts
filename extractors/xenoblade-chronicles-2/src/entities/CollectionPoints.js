@@ -1,29 +1,10 @@
-const { readFile } = require('@frontiernav/filesystem')
-const path = require('path')
 const _ = require('lodash')
-const { mapMappings } = require('../mappings')
+const path = require('path')
+const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
 const Collectibles = require('./Collectibles')
 const FieldSkills = require('./FieldSkills')
 const { nameToId } = require('@frontiernav/graph')
-
-const getAllRaw = _.memoize(async type => {
-  const contents = await Promise.all(
-    mapMappings.map(mapping => {
-      const filePath = path.resolve(__dirname, '../../data/database/common_gmk', `${mapping.game_id}_${type}.json`)
-      return readFile(filePath)
-        .then(content => JSON.parse(content))
-        .catch(() => {
-          return []
-        })
-    })
-  )
-
-  return contents.reduce((acc, next) => acc.concat(next), [])
-})
-
-const getAllRawByName = _.memoize(async ({ type }) => {
-  return _(await getAllRaw(type)).keyBy('name').value()
-})
+const { getAllRaw, getAllRawByName } = require('./gimmicks')
 
 const getDrops = async (rawCollectionPoint) => {
   const data = [
@@ -99,7 +80,13 @@ exports.getAll = async () => {
   const rawCollectionPoints = await getAllRaw('FLD_CollectionPopList')
   return Promise
     .all(
-      rawCollectionPoints.map(raw => toCollectionPoint(raw).catch(() => null))
+      rawCollectionPoints.map(raw => (
+        toCollectionPoint(raw)
+          .catch(e => {
+            log.warn(e)
+            return null
+          })
+      ))
     )
     .then(results => results.filter(r => r))
 }

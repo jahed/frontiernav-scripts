@@ -153,6 +153,28 @@
         "type": "reference",
         "sheets": ["Ideas"],
         "relationship": "IDEA"
+      },
+      "Opposite": {
+        "type": "reference",
+        "sheets": ["Elements"],
+        "relationship": "OPPOSITE"
+      },
+      "Sealed Effect": {
+        "type": "reference",
+        "sheets": ["Effects"],
+        "relationship": "SEALED_EFFECT"
+      }
+    }
+  },
+  "Effects": {
+    "name": "Effects",
+    "label": "Effect",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Description": {
+        "type": "string"
       }
     }
   },
@@ -316,7 +338,7 @@
       },
       "Target": {
         "type": "reference",
-        "sheets": ["Collection Points"],
+        "sheets": ["Collection Points", "Locations"],
         "relationship": "MAP_TARGET"
       },
       "Geometry": {
@@ -360,6 +382,15 @@
         "type": "reference",
         "sheets": ["Regions"],
         "relationship": "REGION"
+      }
+    }
+  },
+  "Locations": {
+    "name": "Locations",
+    "label": "Location",
+    "columns": {
+      "Name": {
+        "type": "string"
       }
     }
   }

@@ -7,11 +7,13 @@ const { mapMappings, tileMappings } = require('./mappings')
 const csv = require('csv')
 const parseCSV = util.promisify(csv.parse)
 const _ = require('lodash')
+const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const Collectibles = require('./entities/Collectibles')
 const CollectionPoints = require('./entities/CollectionPoints')
 const FieldSkills = require('./entities/FieldSkills')
+const Locations = require('./entities/Locations')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -36,78 +38,100 @@ function withinBox ({ point: { x, y, z }, box: { minX, maxX, minY, maxY, minZ, m
   return (x > minX && y > minY && z > minZ) && (x < maxX && y < maxY && z < maxZ)
 }
 
-function toMarkers ({ type, region, content }) {
-  return Promise.all(_(content)
-    .filter(row => !!row.Name)
-    .map(row => {
-      const tile = _(region.tiles)
-        .filter(tile => {
-          return withinBox({
-            point: {
-              x: row.X,
-              y: row.Y,
-              z: row.Z
-            },
-            box: {
-              minX: tile.LowerX,
-              maxX: tile.UpperX,
-              minY: tile.LowerY,
-              maxY: tile.UpperY,
-              minZ: tile.LowerZ,
-              maxZ: tile.UpperZ
-            }
-          })
-        })
-        .orderBy('Priority')
-        .head()
-
-      const widthBigger = tile.Width > tile.Height
-
-      const pixel = L.point(row.X, row.Z)
-        .add(
-          // Relative to the map it's on
-          L.point(-tile.LowerX, -tile.LowerZ)
-        )
-        .multiplyBy(2) // Game coords are scaled down for some reason.
-        .add(
-          // Adjust to squared tiles
-          widthBigger
-            ? L.point(0, (tile.Width - tile.Height) / 2) // Move down
-            : L.point((tile.Height - tile.Width) / 2, 0) // Move right
-        )
-
-      const zoom = L.CRS.EPSG3857.zoom(widthBigger ? tile.Width : tile.Height)
-      const latLng = L.CRS.EPSG3857.pointToLatLng(pixel, zoom)
-
-      return {
-        name: `${row.Name} (Map Feature)`,
-        game_id: row.Name,
-        map: tile.mapping.map_name,
-        target: '',
-        geometry: JSON.stringify({
-          type: 'Point',
-          'coordinates': [
-            latLng.lng,
-            latLng.lat
-          ]
-        }),
-        shape: 'image',
-        notes: ''
-      }
+function assignTarget ({ marker, Target }) {
+  return Target.getByName({ name: marker.game_id })
+    .then(target => {
+      marker.target = target.name
+      return marker
     })
-    .map(marker => {
-      return CollectionPoints.getByName({ name: marker.game_id })
-        .then(collectionPoint => {
-          marker.target = collectionPoint.name
-          return marker
-        })
-        .catch(e => {
-          console.log(e)
-          return marker
-        })
+}
+
+function getLatLng({ region, coords }) {
+  /*
+ * Y is altitude
+ */
+  const tile = _(region.tiles)
+    .filter(tile => {
+      return withinBox({
+        point: {
+          x: coords.PosX,
+          y: coords.PosY,
+          z: coords.PosZ
+        },
+        box: {
+          minX: tile.LowerX,
+          maxX: tile.UpperX,
+          minY: tile.LowerY,
+          maxY: tile.UpperY,
+          minZ: tile.LowerZ,
+          maxZ: tile.UpperZ
+        }
+      })
     })
-    .value()
-  )
+    .orderBy('Priority')
+    .head()
+
+  if (!tile) {
+    return Promise.reject(new Error(`MapTile not found for Coords[${coords.Name}] in Region[${region.gameId}]`))
+  }
+
+  const widthBigger = tile.Width > tile.Height
+
+  const pixel = L.point(coords.PosX, coords.PosZ)
+    .add(
+      // Relative to the map it's on
+      L.point(-tile.LowerX, -tile.LowerZ)
+    )
+    .multiplyBy(2) // Game coords are scaled down for some reason.
+    .add(
+      // Adjust to squared tiles
+      widthBigger
+        ? L.point(0, (tile.Width - tile.Height) / 2) // Move down
+        : L.point((tile.Height - tile.Width) / 2, 0) // Move right
+    )
+
+  const zoom = L.CRS.EPSG3857.zoom(widthBigger ? tile.Width : tile.Height)
+  return Promise.resolve({
+    coords,
+    tile,
+    latLng: L.CRS.EPSG3857.pointToLatLng(pixel, zoom)
+  })
+}
+
+function createMarker ({ coords, tile, latLng }) {
+  return {
+    name: `${coords.Name} (Map Feature)`,
+    game_id: coords.Name,
+    map: tile.mapping.map_name,
+    target: '',
+    geometry: JSON.stringify({
+      type: 'Point',
+      'coordinates': [
+        latLng.lng,
+        latLng.lat
+      ]
+    }),
+    shape: 'image',
+    notes: ''
+  }
+}
+
+function toMarkers ({ region, content, Target }) {
+  return Promise
+    .all((
+      content
+        .filter(row => !!row.Name)
+        .map(coords => (
+          getLatLng({ region, coords })
+            .then(({ coords, latLng, tile }) => createMarker({ coords, latLng, tile }))
+            .then(marker => assignTarget({ Target, marker }))
+            .catch(e => {
+              log.warn(e)
+              return null
+            })
+        ))
+    ))
+    .then(markers => markers.filter(marker => !!marker))
 }
 
 function toRegion ({ absoluteFilePath, content }) {
@@ -121,23 +145,30 @@ function toRegion ({ absoluteFilePath, content }) {
   }
 }
 
-function getMarkersForRegion ({ type, region }) {
-  return readFile(path.resolve(__dirname, '../data/', type + '-gimmick', region.gameId + '-' + type + '.csv'))
-    .then(
-      content => {
-        return parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
-          .then(content => toMarkers({ type, region, content }))
-      },
-      () => ([])
+const getAllRawMarkers = _.memoize(() => {
+  return readFile(path.resolve(__dirname, '../data/all.csv'))
+    .then(content => parseCSV(content, { columns: true, auto_parse: true }))
+})
+
+function getMarkersForRegion ({ region, type, Target }) {
+  return getAllRawMarkers()
+    .then(markers => markers
+      .filter(marker => marker.Map === region.gameId && marker.Filename === type)
     )
+    .then(content => toMarkers({ Target, region, content }))
 }
 
 function parseMapFeatures ({ absoluteFilePath, content }) {
   return Promise.resolve(content)
     .then(content => toRegion({ absoluteFilePath, content }))
     .then(region => {
-      return getMarkersForRegion({ region, type: 'collection' })
+      return Promise
+        .all([
+          getMarkersForRegion({ region, type: 'collection', Target: CollectionPoints }),
+          getMarkersForRegion({ region, type: 'landmark', Target: Locations })
+        ])
     })
+    .then(featuresPerType => _.flatten(featuresPerType))
 }
 
 function toTSV ({ objects }) {
@@ -156,7 +187,7 @@ function writeOut ({ filename, content }) {
   mkdirp.sync(outputPath)
 
   const filePath = path.resolve(outputPath, filename)
-  console.log('Writing', filePath)
+  log.info('Writing', filePath)
   fs.writeFileSync(filePath, content)
 }
 
@@ -172,8 +203,12 @@ FieldSkills.getAll()
   .then(result => toTSV({ objects: result }))
   .then(result => writeOut({ filename: 'FieldSkills.tsv', content: result }))
 
+Locations.getAll()
+  .then(result => toTSV({ objects: result }))
+  .then(result => writeOut({ filename: 'Locations.tsv', content: result }))
+
 const inputPath = path.resolve(__dirname, '../data/mapinfo')
-console.log('Reading files', inputPath)
+log.info('Reading files', inputPath)
 const result = readObjects(
   inputPath,
   i => i,
@@ -188,7 +223,7 @@ Promise
       return contentPromise
         .then(content => parseMapFeatures({ absoluteFilePath, content }))
         .catch(error => {
-          console.error(absoluteFilePath, error)
+          log.warn(absoluteFilePath, error)
         })
     })
   )

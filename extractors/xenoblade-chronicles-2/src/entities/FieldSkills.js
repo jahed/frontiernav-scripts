@@ -1,6 +1,7 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
+const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
 
 const getAllRaw = _.memoize(async () => {
   const content = await readFile(path.resolve(__dirname, '../../data/database/common/FLD_FieldSkillList.json'))
@@ -54,8 +55,16 @@ exports.getById = async id => {
 }
 
 exports.getAll = async () => {
-  const all = await getAllRaw()
+  const allRaw = await getAllRaw()
   return Promise
-    .all(all.map(one => toFieldSkill(one).catch(() => null)))
-    .then(results => results.filter(r => r))
+    .all(
+      allRaw.map(raw => (
+        toFieldSkill(raw)
+          .catch(e => {
+            log.warn(e)
+            return null
+          })
+      ))
+    )
+    .then(results => results.filter(r => !!r))
 }

@@ -1,6 +1,7 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
+const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
 
 const getAllRaw = _.memoize(async () => {
   const content = await readFile(path.resolve(__dirname, '../../data/database/common/ITM_CollectionList.json'))
@@ -49,8 +50,17 @@ exports.getById = async id => {
 }
 
 exports.getAll = async () => {
-  const all = await getAllRaw()
-  return Promise.all(
-    all.map(one => toCollectible(one))
-  )
+  const allRaw = await getAllRaw()
+  return Promise
+    .all(
+      allRaw.map(raw => (
+        toCollectible(raw)
+          .catch(e => {
+            log.warn(e)
+            return null
+          })
+      ))
+    )
+    .then(results => results.filter(r => !!r))
 }
+

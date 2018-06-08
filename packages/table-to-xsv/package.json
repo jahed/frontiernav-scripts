@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "cheerio": "1.0.0-rc.2",
-    "jsdom": "11.10.0",
+    "jsdom": "11.11.0",
     "minimist": "1.2.0",
-    "xlsx": "0.12.13"
+    "xlsx": "0.13.0"
   }
 }

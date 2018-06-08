@@ -7,6 +7,6 @@
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/graph": "1.0.0",
     "lodash": "4.17.10",
-    "xlsx": "0.12.13"
+    "xlsx": "0.13.0"
   }
 }
