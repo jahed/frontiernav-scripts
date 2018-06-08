@@ -41,7 +41,6 @@ const toLandmark = _.memoize(async raw => {
     name: `${name} (${devZone || category})`,
     display_name: name,
     category: category, // TODO: map to location category
-    development_zone: devZone, // TODO: map to region
     exp: raw.getEXP,
     sp: raw.getSP,
     dp: raw.get_DPT
