@@ -5,13 +5,7 @@ const { mapMappings, tileMappings } = require('./mappings')
 const csv = require('csv')
 const parseCSV = util.promisify(csv.parse)
 const _ = require('lodash')
-const pino = require('pino')
-const log = pino({
-  prettyPrint: true,
-  serializers: {
-    error: pino.stdSerializers.err
-  }
-}).child({ name: path.basename(__filename, '.js') })
+const log = require('../util/logger').get(__filename)
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const CollectionPoints = require('./CollectionPoints')

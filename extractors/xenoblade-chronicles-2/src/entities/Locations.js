@@ -1,7 +1,7 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
-const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
+const log = require('../util/logger').get(__filename)
 const { getAllRaw, getAllRawByName } = require('./gimmicks')
 
 const getAllRawNamesById = _.memoize(async () => {

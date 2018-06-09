@@ -1,6 +1,6 @@
 const _ = require('lodash')
 const path = require('path')
-const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
+const log = require('../util/logger').get(__filename)
 const Collectibles = require('./Collectibles')
 const FieldSkills = require('./FieldSkills')
 const { nameToId } = require('@frontiernav/graph')

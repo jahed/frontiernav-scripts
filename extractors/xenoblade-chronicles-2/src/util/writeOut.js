@@ -1,8 +1,7 @@
 const path = require('path')
 const mkdirp = require('mkdirp')
 const fs = require('fs')
-const pino = require('pino')
-const log = pino({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
+const log = require('./logger').get(__filename)
 
 const sessionId = `${new Date().toISOString().replace(/:/g, '-')}`
 
