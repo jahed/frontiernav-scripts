@@ -1,7 +1,5 @@
 const path = require('path')
 const util = require('util')
-const mkdirp = require('mkdirp')
-const fs = require('fs')
 const { readObjects, readFile } = require('@frontiernav/filesystem')
 const { mapMappings, tileMappings } = require('./mappings')
 const csv = require('csv')
@@ -16,10 +14,8 @@ const log = pino({
 }).child({ name: path.basename(__filename, '.js') })
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
-const Collectibles = require('./entities/Collectibles')
-const CollectionPoints = require('./entities/CollectionPoints')
-const FieldSkills = require('./entities/FieldSkills')
-const Locations = require('./entities/Locations')
+const CollectionPoints = require('./CollectionPoints')
+const Locations = require('./Locations')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -27,6 +23,10 @@ global.document = dom.window.document
 global.navigator = dom.window.navigator
 
 const L = require('leaflet')
+
+const dataPath = path.resolve(__dirname, '../../data')
+const allMarkersPath = path.resolve(dataPath, 'all.csv')
+const mapInfoPath = path.resolve(dataPath, 'mapinfo')
 
 function toTiles ({ mapInfo }) {
   return _(mapInfo)
@@ -152,7 +152,7 @@ function toRegion ({ absoluteFilePath, mapInfo }) {
 }
 
 const getAllRawMarkerTables = _.memoize(() => {
-  return readFile(path.resolve(__dirname, '../data/all.csv'))
+  return readFile(allMarkersPath)
     .then(content => parseCSV(content, { columns: true, auto_parse: true }))
     .then(markers => _.groupBy(markers, m => `${m.Filename}_${m.GmkType}_${m.Map}`))
 })
@@ -179,60 +179,24 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
     .then(featuresPerType => _.flatten(featuresPerType))
 }
 
-function toTSV ({ objects }) {
-  return _(objects)
-    .map(row => _(row)
-      .map(v => typeof v === 'object' ? JSON.stringify(v) : `${v}`)
-      .map(v => v.replace(/"/g, '""'))
-      .map(v => `"${v}"`)
-      .join('\t')
-    )
-    .join('\n')
+exports.getAll = () => {
+  const mapInfos = readObjects(
+    mapInfoPath,
+    ({ absoluteFilePath, content: contentPromise }) => {
+      return contentPromise
+        .then(mapInfo => parseMapFeatures({ absoluteFilePath, mapInfo }))
+        .catch(error => {
+          log.warn({ absoluteFilePath, error }, `failed to parse region`)
+          return null
+        })
+    },
+    {
+      '.csv': content => parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
+    }
+  )
+
+  return Promise
+    .all(mapInfos)
+    .then(results => results.filter(result => !!result))
+    .then(results => _.flatten(results))
 }
-
-function writeOut ({ filename, content }) {
-  const outputPath = path.resolve(__dirname, '../out')
-  mkdirp.sync(outputPath)
-
-  const filePath = path.resolve(outputPath, filename)
-  log.info('Writing', filePath)
-  fs.writeFileSync(filePath, content)
-}
-
-CollectionPoints.getAll()
-  .then(result => toTSV({ objects: result }))
-  .then(result => writeOut({ filename: 'CollectionPoints.tsv', content: result }))
-
-Collectibles.getAll()
-  .then(result => toTSV({ objects: result }))
-  .then(result => writeOut({ filename: 'Collectibles.tsv', content: result }))
-
-FieldSkills.getAll()
-  .then(result => toTSV({ objects: result }))
-  .then(result => writeOut({ filename: 'FieldSkills.tsv', content: result }))
-
-Locations.getAll()
-  .then(result => toTSV({ objects: result }))
-  .then(result => writeOut({ filename: 'Locations.tsv', content: result }))
-
-const mapInfos = readObjects(
-  path.resolve(__dirname, '../data/mapinfo'),
-  ({ absoluteFilePath, content: contentPromise }) => {
-    return contentPromise
-      .then(mapInfo => parseMapFeatures({ absoluteFilePath, mapInfo }))
-      .catch(error => {
-        log.warn({ absoluteFilePath, error }, `failed to parse region`)
-        return null
-      })
-  },
-  {
-    '.csv': content => parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
-  }
-)
-
-Promise
-  .all(mapInfos)
-  .then(results => results.filter(result => !!result))
-  .then(results => _.flatten(results))
-  .then(result => toTSV({ objects: result }))
-  .then(result => writeOut({ filename: 'MapFeatures.tsv', content: result }))
