@@ -7,7 +7,13 @@ const { mapMappings, tileMappings } = require('./mappings')
 const csv = require('csv')
 const parseCSV = util.promisify(csv.parse)
 const _ = require('lodash')
-const log = require('pino')({ prettyPrint: true }).child({ name: path.basename(__filename, '.js') })
+const pino = require('pino')
+const log = pino({
+  prettyPrint: true,
+  serializers: {
+    error: pino.stdSerializers.err
+  }
+}).child({ name: path.basename(__filename, '.js') })
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const Collectibles = require('./entities/Collectibles')
@@ -22,12 +28,12 @@ global.navigator = dom.window.navigator
 
 const L = require('leaflet')
 
-function toTiles ({ content }) {
-  return _(content)
-    .mapValues(row => {
-      const mapping = _.find(tileMappings, mapping => mapping.game_id === row.Name)
+function toTiles ({ mapInfo }) {
+  return _(mapInfo)
+    .mapValues(rawTile => {
+      const mapping = _.find(tileMappings, mapping => mapping.game_id === rawTile.Name)
       return {
-        ...row,
+        ...rawTile,
         mapping
       }
     })
@@ -46,10 +52,10 @@ function assignTarget ({ marker, Target }) {
     })
 }
 
-function getLatLng({ region, coords }) {
+function getLatLng ({ region, coords }) {
   /*
- * Y is altitude
- */
+   * Y is altitude
+   */
   const tile = _(region.tiles)
     .filter(tile => {
       return withinBox({
@@ -116,11 +122,11 @@ function createMarker ({ coords, tile, latLng }) {
   }
 }
 
-function toMarkers ({ region, content, Target }) {
+function toMarkers ({ region, markers, Target }) {
   return Promise
-    .all((
-      content
-        .filter(row => !!row.Name)
+    .all(
+      markers
+        .filter(coords => !!coords.Name)
         .map(coords => (
           getLatLng({ region, coords })
             .then(({ coords, latLng, tile }) => createMarker({ coords, latLng, tile }))
@@ -130,44 +136,46 @@ function toMarkers ({ region, content, Target }) {
               return null
             })
         ))
-    ))
+    )
     .then(markers => markers.filter(marker => !!marker))
 }
 
-function toRegion ({ absoluteFilePath, content }) {
+function toRegion ({ absoluteFilePath, mapInfo }) {
   const gameId = path.basename(absoluteFilePath, '.csv')
   const mapping = _.find(mapMappings, mapping => mapping.game_id === gameId)
   return {
     absoluteFilePath,
     gameId,
     mapping,
-    tiles: toTiles({ absoluteFilePath, content })
+    tiles: toTiles({ absoluteFilePath, mapInfo })
   }
 }
 
-const getAllRawMarkers = _.memoize(() => {
+const getAllRawMarkerTables = _.memoize(() => {
   return readFile(path.resolve(__dirname, '../data/all.csv'))
     .then(content => parseCSV(content, { columns: true, auto_parse: true }))
+    .then(markers => _.groupBy(markers, m => `${m.Filename}_${m.GmkType}_${m.Map}`))
 })
 
-function getMarkersForRegion ({ region, type, Target }) {
-  return getAllRawMarkers()
-    .then(markers => markers
-      .filter(marker => marker.Map === region.gameId && marker.Filename === type)
-    )
-    .then(content => toMarkers({ Target, region, content }))
+function getTableName ({ filename, type, region }) {
+  return `${filename}_${type}_${region.gameId}`
 }
 
-function parseMapFeatures ({ absoluteFilePath, content }) {
-  return Promise.resolve(content)
-    .then(content => toRegion({ absoluteFilePath, content }))
-    .then(region => {
-      return Promise
-        .all([
-          getMarkersForRegion({ region, type: 'collection', Target: CollectionPoints }),
-          getMarkersForRegion({ region, type: 'landmark', Target: Locations })
-        ])
-    })
+function getMarkersForRegion ({ region, filename, type, Target }) {
+  return getAllRawMarkerTables()
+    .then(markerTables => markerTables[getTableName({ filename, type, region })] || [])
+    .then(markers => toMarkers({ Target, region, markers }))
+}
+
+function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
+  return Promise.resolve(mapInfo)
+    .then(mapInfo => toRegion({ absoluteFilePath, mapInfo }))
+    .then(region => (
+      Promise.all([
+        getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
+        getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations })
+      ])
+    ))
     .then(featuresPerType => _.flatten(featuresPerType))
 }
 
@@ -207,30 +215,24 @@ Locations.getAll()
   .then(result => toTSV({ objects: result }))
   .then(result => writeOut({ filename: 'Locations.tsv', content: result }))
 
-const inputPath = path.resolve(__dirname, '../data/mapinfo')
-log.info('Reading files', inputPath)
-const result = readObjects(
-  inputPath,
-  i => i,
+const mapInfos = readObjects(
+  path.resolve(__dirname, '../data/mapinfo'),
+  ({ absoluteFilePath, content: contentPromise }) => {
+    return contentPromise
+      .then(mapInfo => parseMapFeatures({ absoluteFilePath, mapInfo }))
+      .catch(error => {
+        log.warn({ absoluteFilePath, error }, `failed to parse region`)
+        return null
+      })
+  },
   {
     '.csv': content => parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
   }
 )
 
 Promise
-  .all(
-    result.map(({ absoluteFilePath, content: contentPromise }) => {
-      return contentPromise
-        .then(content => parseMapFeatures({ absoluteFilePath, content }))
-        .catch(error => {
-          log.warn(absoluteFilePath, error)
-        })
-    })
-  )
-  .then(results => results.reduce((acc, next) => {
-    return acc.concat(next)
-  }, []))
-  .then(mapFeatures => toTSV({ objects: mapFeatures }))
-  .then(result => {
-    writeOut({ filename: 'MapFeatures.tsv', content: result })
-  })
+  .all(mapInfos)
+  .then(results => results.filter(result => !!result))
+  .then(results => _.flatten(results))
+  .then(result => toTSV({ objects: result }))
+  .then(result => writeOut({ filename: 'MapFeatures.tsv', content: result }))
