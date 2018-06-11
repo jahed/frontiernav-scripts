@@ -3,6 +3,7 @@ const path = require('path')
 const log = require('../util/logger').get(__filename)
 const { getAllRaw, getAllRawByName } = require('./gimmicks')
 const getName = require('../util/getName')
+const RadialButtonChallenges = require('./RadialButtonChallenges')
 
 /*
  * It's best if all of these relationships are squashed into a single type but it's too complicated. First ste,
@@ -28,12 +29,21 @@ const getName = require('../util/getName')
 const absoluteNameFile = path.resolve(__dirname, '../../data/database/common_ms', 'fld_salvagepoint.json')
 
 const toSalvagePoint = _.memoize(async raw => {
+  const challenges = await Promise.all(
+    [raw.BtnChallenge0, raw.BtnChallenge1, raw.BtnChallenge2]
+      .map(id => RadialButtonChallenges.getById({ id }))
+  )
+
   return {
     name: raw.name,
     display_name: await getName({
       id: raw.SalvagePointName,
       file: absoluteNameFile
-    })
+    }),
+    challenges: challenges.map(rbc => ({
+      button: rbc.button,
+      speed: rbc.speed
+    }))
   }
 }, raw => raw.name)
 
