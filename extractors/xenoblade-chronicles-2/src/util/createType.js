@@ -1,12 +1,16 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
+const getName = require('./getName')
 const log = require('../util/logger').get(__filename)
 
 function createType ({ type, dataFile, nameFile }) {
 
+  const absoluteDataFile = path.resolve(__dirname, '../../data/database/common', dataFile)
+  const absoluteNameFile = path.resolve(__dirname, '../../data/database/common_ms', nameFile)
+
   const getAllRaw = _.memoize(async () => {
-    const content = await readFile(path.resolve(__dirname, '../../data/database/common', dataFile))
+    const content = await readFile(absoluteDataFile)
     return JSON.parse(content)
   })
 
@@ -18,21 +22,14 @@ function createType ({ type, dataFile, nameFile }) {
     return _(await getAllRaw()).keyBy('id').value()
   })
 
-  const getAllRawNamesById = _.memoize(async () => {
-    const content = await readFile(path.resolve(__dirname, '../../data/database/common_ms', nameFile))
-    return _(JSON.parse(content)).keyBy('id').value()
-  })
-
   const toEntity = _.memoize(async raw => {
-    const names = await getAllRawNamesById()
-    const name = names[raw.Name]
-
-    if (!name || !name.name) {
-      throw new Error(`Failed to find name for ${type}[${raw.Name}]`)
-    }
+    const name = await getName({
+      id: raw.Name,
+      file: absoluteNameFile
+    })
 
     return {
-      name: name.name,
+      name: name,
       game_id: raw.id
     }
   }, raw => raw.id)

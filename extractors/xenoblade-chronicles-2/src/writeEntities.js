@@ -4,6 +4,8 @@ const writeOut = require('./util/writeOut')
 const entities = {
   Collectibles: require('./entities/Collectibles'),
   CollectionPoints: require('./entities/CollectionPoints'),
+  Treasure: require('./entities/Treasure'),
+  SalvagePoints: require('./entities/SalvagePoints'),
   FieldSkills: require('./entities/FieldSkills'),
   Locations: require('./entities/Locations'),
   MapFeatures: require('./entities/MapFeatures')

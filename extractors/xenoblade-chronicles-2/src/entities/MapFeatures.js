@@ -10,6 +10,7 @@ const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const CollectionPoints = require('./CollectionPoints')
 const Locations = require('./Locations')
+const SalvagePoints = require('./SalvagePoints')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -167,7 +168,8 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
     .then(region => (
       Promise.all([
         getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
-        getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations })
+        getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
+        getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints })
       ])
     ))
     .then(featuresPerType => _.flatten(featuresPerType))

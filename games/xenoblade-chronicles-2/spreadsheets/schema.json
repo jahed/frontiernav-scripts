@@ -338,7 +338,7 @@
       },
       "Target": {
         "type": "reference",
-        "sheets": ["Collection Points", "Locations"],
+        "sheets": ["Collection Points", "Locations", "Salvage Points"],
         "relationship": "MAP_TARGET"
       },
       "Geometry": {
@@ -390,6 +390,18 @@
     "label": "Location",
     "columns": {
       "Name": {
+        "type": "string"
+      }
+    }
+  },
+  "Salvage Points": {
+    "name": "Salvage Points",
+    "label": "SalvagePoint",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Display Name": {
         "type": "string"
       }
     }
