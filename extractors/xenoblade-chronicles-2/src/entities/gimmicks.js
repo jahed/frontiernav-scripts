@@ -3,19 +3,25 @@ const path = require('path')
 const _ = require('lodash')
 const { mapMappings } = require('./mappings')
 
-const getAllRaw = _.memoize(async type => {
-  const contents = await Promise.all(
-    mapMappings.map(mapping => {
-      const filePath = path.resolve(__dirname, '../../data/database/common_gmk', `${mapping.game_id}_${type}.json`)
-      return readFile(filePath)
-        .then(content => JSON.parse(content))
-        .catch(() => {
-          return []
-        })
-    })
-  )
+const readGimmicks = async ({ map, type }) => {
+  try {
+    const filePath = map
+      ? path.resolve(__dirname, '../../data/database/common_gmk', `${map}_${type}.json`)
+      : path.resolve(__dirname, '../../data/database/common_gmk', `${type}.json`)
+    const content = await readFile(filePath)
+    return JSON.parse(content)
+  } catch (e) {
+    return []
+  }
+}
 
-  return contents.reduce((acc, next) => acc.concat(next), [])
+const getAllRaw = _.memoize(async type => {
+  const contents = await Promise.all([
+    readGimmicks({ type }),
+    ...mapMappings.map(mapping => readGimmicks({ map: mapping.game_id, type }))
+  ])
+
+  return _.flatten(contents)
 })
 
 const getAllRawByName = _.memoize(async ({ type }) => {
