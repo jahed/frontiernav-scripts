@@ -1,7 +1,7 @@
 const _ = require('lodash')
 const path = require('path')
-const log = require('../util/logger').get(__filename)
-const { getAllRaw, getAllRawByName } = require('./gimmicks')
+const log = require('@frontiernav/logger').get(__filename)
+const { getAllRaw, getAllRawByName } = require('../util/gimmicks')
 const getName = require('../util/getName')
 const RadialButtonChallenges = require('./RadialButtonChallenges')
 
@@ -63,7 +63,7 @@ exports.getAll = async () => {
       allRaw.map(raw => (
         toSalvagePoint(raw)
           .catch(e => {
-            log.warn(e)
+            log.warn(e.message)
             return null
           })
       ))

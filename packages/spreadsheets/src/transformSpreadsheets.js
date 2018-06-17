@@ -3,21 +3,20 @@ const _ = require('lodash')
 const XLSX = require('xlsx')
 const { readFile } = require('@frontiernav/filesystem')
 const createTransformer = require('./createTransformer')
-
-const log = (...args) => console.log(`[${path.basename(__filename)}]`, ...args)
+const log = require('@frontiernav/logger').get(__filename)
 
 function readSpreadsheet (filePath) {
-  log(`Reading ${filePath}`)
+  log.info(`reading ${filePath}`)
   return readFile(filePath)
 }
 
 function transformSpreadsheets (rootPath, contentOrPath) {
   const spreadsheetsPath = path.resolve(rootPath, 'spreadsheets')
 
-  log('Transforming sheets.', spreadsheetsPath)
-
   const config = require(spreadsheetsPath)
   const transformer = createTransformer(config)
+
+  const transformLog = log.child({ name: config.id })
 
   const getContent = () => {
     return typeof contentOrPath === 'string'
@@ -26,8 +25,12 @@ function transformSpreadsheets (rootPath, contentOrPath) {
   }
 
   return getContent()
-    .then(content => XLSX.read(content))
+    .then(content => {
+      transformLog.info('reading')
+      return XLSX.read(content)
+    })
     .then(workbook => {
+      transformLog.info('parsing')
       return _(workbook.SheetNames)
         .filter(name => config.schema[name])
         .map(name => ({
@@ -35,8 +38,10 @@ function transformSpreadsheets (rootPath, contentOrPath) {
           data: XLSX.utils.sheet_to_json(workbook.Sheets[name])
         }))
         .keyBy('name')
+        .value()
     })
     .then(sheets => {
+      transformLog.info('transforming')
       return transformer.transform(sheets)
     })
 }

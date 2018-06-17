@@ -1,8 +1,8 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
-const log = require('../util/logger').get(__filename)
-const { getAllRaw, getAllRawByName } = require('./gimmicks')
+const log = require('@frontiernav/logger').get(__filename)
+const { getAllRaw, getAllRawByName } = require('../util/gimmicks')
 
 const getAllRawNamesById = _.memoize(async () => {
   const content = await readFile(path.resolve(__dirname, '../../data/database/common_ms/fld_landmark.json'))
@@ -63,7 +63,7 @@ exports.getAll = async () => {
       allRaw.map(raw => (
         toLandmark(raw)
           .catch(e => {
-            log.warn(e)
+            log.warn(e.message)
             return null
           })
       ))

@@ -1,16 +1,17 @@
 const path = require('path')
 const util = require('util')
 const { readObjects, readFile } = require('@frontiernav/filesystem')
-const { mapMappings, tileMappings } = require('./mappings')
+const { mapMappings, tileMappings } = require('../util/mappings')
 const csv = require('csv')
 const parseCSV = util.promisify(csv.parse)
 const _ = require('lodash')
-const log = require('../util/logger').get(__filename)
+const log = require('@frontiernav/logger').get(__filename)
 const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const CollectionPoints = require('./CollectionPoints')
 const Locations = require('./Locations')
 const SalvagePoints = require('./SalvagePoints')
+const EnemySpawnPoints = require('./EnemySpawnPoints')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -101,7 +102,7 @@ function getLatLng ({ region, coords }) {
 
 function createMarker ({ coords, tile, latLng }) {
   return {
-    name: `${coords.Name} (Map Feature)`,
+    name: `${coords.Name} #${coords.Id} (Map Feature)`,
     game_id: coords.Name,
     map: tile.mapping.map_name,
     target: '',
@@ -127,7 +128,7 @@ function toMarkers ({ region, markers, Target }) {
             .then(({ coords, latLng, tile }) => createMarker({ coords, latLng, tile }))
             .then(marker => assignTarget({ Target, marker }))
             .catch(e => {
-              log.warn(e)
+              log.warn(e.message)
               return null
             })
         ))
@@ -169,7 +170,8 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
       Promise.all([
         getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
         getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
-        getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints })
+        getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
+        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints })
       ])
     ))
     .then(featuresPerType => _.flatten(featuresPerType))

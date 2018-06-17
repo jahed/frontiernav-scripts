@@ -338,7 +338,7 @@
       },
       "Target": {
         "type": "reference",
-        "sheets": ["Collection Points", "Locations", "Salvage Points"],
+        "sheets": ["Collection Points", "Locations", "Salvage Points", "Enemy Spawn Points"],
         "relationship": "MAP_TARGET"
       },
       "Geometry": {
@@ -406,6 +406,52 @@
       },
       "Challenges": {
         "type": "json"
+      }
+    }
+  },
+  "Enemy Spawn Points": {
+    "name": "Enemy Spawn Points",
+    "label": "EnemySpawnPoint",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Quest": {
+        "type": "boolean"
+      },
+      "Spawns": {
+        "type": "multi_reference",
+        "sheets": ["Enemy Spawns"],
+        "relationship": "SPAWNS"
+      }
+    }
+  },
+  "Enemy Spawns": {
+    "name": "Enemy Spawns",
+    "label": "EnemySpawn",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Enemy": {
+        "type": "reference",
+        "sheets": ["Enemies"],
+        "relationship": "ENEMY"
+      },
+      "Level": {
+        "type": "number"
+      }
+    }
+  },
+  "Enemies": {
+    "name": "Enemies",
+    "label": "Enemy",
+    "columns": {
+      "Name": {
+        "type": "string"
+      },
+      "Category": {
+        "type": "string"
       }
     }
   }

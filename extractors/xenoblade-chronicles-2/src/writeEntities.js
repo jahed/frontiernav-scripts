@@ -8,6 +8,9 @@ const entities = {
   SalvagePoints: require('./entities/SalvagePoints'),
   FieldSkills: require('./entities/FieldSkills'),
   Locations: require('./entities/Locations'),
+  Enemies: require('./entities/Enemies'),
+  EnemySpawns: require('./entities/EnemySpawns'),
+  EnemySpawnPoints: require('./entities/EnemySpawnPoints'),
   MapFeatures: require('./entities/MapFeatures')
 }
 

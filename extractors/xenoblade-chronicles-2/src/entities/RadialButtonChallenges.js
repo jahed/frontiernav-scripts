@@ -1,6 +1,6 @@
 const _ = require('lodash')
 const path = require('path')
-const log = require('../util/logger').get(__filename)
+const log = require('@frontiernav/logger').get(__filename)
 const { readFile } = require('@frontiernav/filesystem')
 
 const getAllRaw = _.memoize(async () => {
@@ -44,7 +44,7 @@ exports.getAll = async () => {
       allRaw.map(raw => (
         toEntity(raw)
           .catch(e => {
-            log.warn(e)
+            log.warn(e.message)
             return null
           })
       ))

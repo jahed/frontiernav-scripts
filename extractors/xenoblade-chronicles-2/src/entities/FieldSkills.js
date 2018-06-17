@@ -1,7 +1,7 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
-const log = require('../util/logger').get(__filename)
+const log = require('@frontiernav/logger').get(__filename)
 
 const getAllRaw = _.memoize(async () => {
   const content = await readFile(path.resolve(__dirname, '../../data/database/common/FLD_FieldSkillList.json'))
@@ -61,7 +61,7 @@ exports.getAll = async () => {
       allRaw.map(raw => (
         toFieldSkill(raw)
           .catch(e => {
-            log.warn(e)
+            log.warn(e.message)
             return null
           })
       ))

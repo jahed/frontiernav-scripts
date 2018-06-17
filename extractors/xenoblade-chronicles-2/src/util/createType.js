@@ -2,7 +2,7 @@ const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
 const getName = require('./getName')
-const log = require('../util/logger').get(__filename)
+const log = require('@frontiernav/logger').get(__filename)
 
 function createType ({ type, dataFile, nameFile }) {
 
@@ -60,7 +60,7 @@ function createType ({ type, dataFile, nameFile }) {
           allRaw.map(raw => (
             toEntity(raw)
               .catch(e => {
-                log.warn(e)
+                log.warn(e.message)
                 return null
               })
           ))

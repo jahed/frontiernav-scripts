@@ -1,6 +1,7 @@
 const _ = require('lodash')
 const assert = require('assert')
 const { nameToId, createNodeLabel, nameToLabelId } = require('@frontiernav/graph')
+const log = require('@frontiernav/logger').get(__filename)
 const types = require('./types')
 const defaultFieldSchema = require('./defaultFieldSchema.json')
 
@@ -12,8 +13,8 @@ const objectify = a => a.reduce(
   {}
 )
 
-function createTransformer ({ schema, filters }) {
-  function getLabels () {
+function createTransformer ({ id: configId, schema, filters }) {
+  function getNodeLabels () {
     return _(schema)
       .map(sheet => sheet.label)
       .map(label => createNodeLabel({ name: label }))
@@ -116,19 +117,26 @@ function createTransformer ({ schema, filters }) {
       .value()
   }
 
-  function transform (sheets) {
-    const rows = _(sheets)
-      .flatMap(sheet => {
-        return _(sheet.data)
-          .filter(row => filter(sheet.name, row))
-          .map(row => parse(sheet.name, row))
-          .map(row => ({
-            node: transformRowToNode(sheet.name, row),
-            relationships: transformRowToRelationships(sheet.name, row)
-          }))
-          .value()
-      })
+  function transformSheet (sheet) {
+    return _(sheet.data)
+      .filter(row => filter(sheet.name, row))
+      .map(row => parse(sheet.name, row))
+      .map(row => ({
+        node: transformRowToNode(sheet.name, row),
+        relationships: transformRowToRelationships(sheet.name, row)
+      }))
       .value()
+  }
+
+  function transform (sheets) {
+    const transformLog = log.child({ name: configId })
+
+    const rows = _.flatMap(sheets, sheet => {
+      transformLog.info(`parsing sheet ${sheet.name}`)
+      return transformSheet(sheet)
+    })
+
+    transformLog.info(`finding duplicates`)
 
     const duplicates = _(rows)
       .groupBy(row => row.node.id)
@@ -142,26 +150,24 @@ function createTransformer ({ schema, filters }) {
       throw new Error(`${duplicateCount} Node IDs were used multiple times.`)
     }
 
+    transformLog.info(`calculating node labels and relationship types`)
+
+    const nodeLabels = getNodeLabels()
+    const relationshipTypes = getRelationshipTypes()
+
+    transformLog.info(`generating graph`)
+
     return rows.reduce(
       (acc, next) => {
-        if (acc.nodes) {
-          return {
-            ...acc,
-            nodes: {
-              ...acc.nodes,
-              [next.node.id]: next.node
-            },
-            relationships: {
-              ...acc.relationships,
-              ...next.relationships
-            }
-          }
-        }
+        acc.nodes[next.node.id] = next.node
+        Object.assign(acc.relationships, next.relationships)
+        return acc
       },
       {
-        nodeLabels: getLabels(),
+        id: configId,
+        nodeLabels,
         nodes: {},
-        relationshipTypes: getRelationshipTypes(),
+        relationshipTypes,
         relationships: {}
       }
     )

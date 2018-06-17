@@ -1,7 +1,7 @@
 const path = require('path')
 const mkdirp = require('mkdirp')
 const fs = require('fs')
-const log = require('./logger').get(__filename)
+const log = require('@frontiernav/logger').get(__filename)
 
 const sessionId = `${new Date().toISOString().replace(/:/g, '-')}`
 

@@ -1,10 +1,9 @@
 const _ = require('lodash')
-const path = require('path')
-const log = require('../util/logger').get(__filename)
+const log = require('@frontiernav/logger').get(__filename)
 const Collectibles = require('./Collectibles')
 const FieldSkills = require('./FieldSkills')
 const { nameToId } = require('@frontiernav/graph')
-const { getAllRaw, getAllRawByName } = require('./gimmicks')
+const { getAllRaw, getAllRawByName } = require('../util/gimmicks')
 
 const getDrops = async (rawCollectionPoint) => {
   const data = [
@@ -83,7 +82,7 @@ exports.getAll = async () => {
       rawCollectionPoints.map(raw => (
         toCollectionPoint(raw)
           .catch(e => {
-            log.warn(e)
+            log.warn(e.message)
             return null
           })
       ))
