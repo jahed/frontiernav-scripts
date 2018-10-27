@@ -6,7 +6,7 @@
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/logger": "1.0.0",
     "@frontiernav/table-to-xsv": "1.0.0",
-    "jsdom": "12.0.0",
+    "jsdom": "12.2.0",
     "leaflet": "1.3.4",
     "mkdirp": "0.5.1"
   }
