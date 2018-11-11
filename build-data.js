@@ -142,10 +142,20 @@ function bundleGameUsingGraph (gameRoot, gameId) {
   return Promise.resolve(result)
 }
 
+function emptyGraph (game) {
+  return {
+    id: game.id,
+    nodes: {},
+    relationships: {},
+    nodeLabels: {},
+    relationshipTypes: {}
+  }
+}
+
 function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
   const gameLog = log.child({ name: game.id })
 
-  function getSpreadsheet () {
+  function getSpreadsheet (game) {
     if (offline) {
       const spreadsheetPath = path.resolve(__dirname, '../spreadsheets', `${game.id}.xlsx`)
       gameLog.info('Using local spreadsheet.', spreadsheetPath)
@@ -168,42 +178,52 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
       })
   }
 
-  gameLog.info('Building spreadsheet graph.', gameRoot)
+  function generateGraph(game) {
+    if (!game.googleSpreadsheetId) {
+      gameLog.info('No spreadsheet found, using empty graph')
+      return Promise.resolve(emptyGraph(game))
+    }
 
-  return getSpreadsheet()
-    .then(content => transformSpreadsheets(gameRoot, content))
-    .then(graph => validateGraph(graph)
-      .then(failures => {
-        if (failures.length > 0) {
-          gameLog.error({ failures }, 'Graph validation failures.')
-          return Promise.reject(new Error('Graph validation failed.'))
-        }
+    gameLog.info('Building spreadsheet graph.', gameRoot)
+    return getSpreadsheet(game)
+      .then(content => transformSpreadsheets(gameRoot, content))
+      .then(graph => validateGraph(graph)
+        .then(failures => {
+          if (failures.length > 0) {
+            gameLog.error({ failures }, 'Graph validation failures.')
+            return Promise.reject(new Error('Graph validation failed.'))
+          }
+          return graph
+        })
+      )
+      // .then(graph => {
+      //   gameLog.info('bundling locales')
+      //   return bundleLocales(graph)
+      // })
+      .then(graph => {
+        gameLog.info('adding back references to incoming relationships')
+        return addRelationshipReferences(graph)
+      })
+      .then(graph => {
+        gameLog.info('finding orphan nodes')
+        logOrphans(graph, gameLog)
         return graph
       })
-    )
-    // .then(graph => {
-    //   gameLog.info('bundling locales')
-    //   return bundleLocales(graph)
-    // })
-    .then(graph => {
-      gameLog.info('adding back references to incoming relationships')
-      return addRelationshipReferences(graph)
+  }
+
+  function buildGameBundle (game, graph) {
+    gameLog.info('building bundle')
+    return withVersion({
+      ...pick(game, ['id', 'data']),
+      labels: {
+        Game: true
+      },
+      graph
     })
-    .then(graph => {
-      gameLog.info('finding orphan nodes')
-      logOrphans(graph, gameLog)
-      return graph
-    })
-    .then(graph => {
-      gameLog.info('building bundle')
-      return withVersion({
-        ...pick(game, ['id', 'data']),
-        labels: {
-          Game: true
-        },
-        graph
-      })
-    })
+  }
+
+  return generateGraph(game)
+    .then(graph => buildGameBundle(game, graph))
 }
 
 function bundleGames ({ config, gamesPath, only, offline }) {
