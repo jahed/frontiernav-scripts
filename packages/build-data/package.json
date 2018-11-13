@@ -1,0 +1,20 @@
+{
+  "name": "@frontiernav/build-data",
+  "version": "1.0.0",
+  "description": "Build Data for FrontierNav",
+  "private": true,
+  "license": "MIT",
+  "bin": {
+    "build-data": "bin/build-data.js"
+  },
+  "dependencies": {
+    "@frontiernav/filesystem": "1.0.0",
+    "@frontiernav/graph": "1.0.0",
+    "@frontiernav/spreadsheets": "1.0.0",
+    "@frontiernav/logger": "1.0.0",
+    "isomorphic-fetch": "2.2.1",
+    "lodash": "4.17.11",
+    "minimist": "1.2.0",
+    "mkdirp": "0.5.1"
+  }
+}

@@ -1,14 +1,15 @@
-const { mapValues, keyBy, pickBy, forEach, omit, pick, some } = require('lodash')
+#!/usr/bin/env node
 const path = require('path')
 const fs = require('fs')
-const mkdirp = require('mkdirp')
 const crypto = require('crypto')
-const fetch = require('isomorphic-fetch')
-const minimist = require('minimist')
 const { readGraph, readObjects } = require('@frontiernav/filesystem')
 const { validateGraph } = require('@frontiernav/graph')
 const { transformSpreadsheets } = require('@frontiernav/spreadsheets')
-const logger = require('./scripts/logger')
+const logger = require('@frontiernav/logger')
+const fetch = require('isomorphic-fetch')
+const { mapValues, keyBy, pickBy, forEach, omit, pick, some } = require('lodash')
+const minimist = require('minimist')
+const mkdirp = require('mkdirp')
 
 function objectify (json) {
   if (Array.isArray(json.labels)) {
@@ -249,9 +250,9 @@ function bundleGames ({ config, gamesPath, only, offline }) {
 const args = minimist(process.argv.slice(2))
 const config = require(path.resolve(process.cwd(), args.config || 'frontiernav-data.config.json'))
 const outputPath = path.resolve(process.cwd(), args.outputPath || 'build/data')
-const dataRoot = path.resolve(__dirname)
+const dataRoot = path.resolve(__dirname, '../../..')
 
-const log = logger.module(__filename)
+const log = logger.get(__filename)
 
 Promise
   .all(bundleGames({
