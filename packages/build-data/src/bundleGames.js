@@ -8,16 +8,34 @@ const log = logger.get(__filename)
 
 function bundleGames ({ config, gamesPath, only, offline }) {
   log.info('Bundling games...', { gamesPath })
-  return fs.readdirSync(gamesPath)
+
+  const graphPromises = fs.readdirSync(gamesPath)
     .filter(gameId => (only ? only === gameId : true))
     .map(gameId => {
       const gameRoot = path.resolve(gamesPath, gameId)
-      const gameNode = config.games[gameId]
-
-      return gameNode
-        ? bundleGameUsingSpreadsheet(gameRoot, gameNode, offline)
-        : bundleGameUsingGraph(gameRoot, gameId)
+      return bundleGameUsingGraph(gameRoot, gameId)
     })
+
+  const spreadsheetPromises = config.games
+    .map(moduleName => {
+      const modulePath = require.resolve(
+        path.join(moduleName, 'game'),
+        { paths: [process.cwd()] }
+      )
+      return {
+        root: path.dirname(modulePath),
+        game: require(modulePath).game
+      }
+    })
+    .filter(({ game }) => (only ? only === game.id : true))
+    .map(({ root, game }) => {
+      return bundleGameUsingSpreadsheet(root, game, offline)
+    })
+
+  return Promise.all([
+    ...graphPromises,
+    ...spreadsheetPromises
+  ])
 }
 
 exports.bundleGames = bundleGames

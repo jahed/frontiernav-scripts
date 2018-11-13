@@ -14,7 +14,3 @@ Promise.resolve()
   .then(() => {
     log.info('Done.')
   })
-  .catch(error => {
-    log.error(error, 'Failed to build data.')
-    process.exit(1)
-  })

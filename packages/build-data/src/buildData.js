@@ -10,12 +10,12 @@ const { bundleGames } = require('./bundleGames')
 const log = logger.get(__filename)
 
 const buildData = args => {
-  const config = require(path.resolve(process.cwd(), args.config || 'frontiernav-data.config.json'))
+  const config = require(path.resolve(process.cwd(), args.config || 'frontiernav-data.config.js'))
   const outputPath = path.resolve(process.cwd(), args.outputPath || 'build/data')
   const dataRoot = path.resolve(__dirname, '../../..')
 
-  return Promise
-    .all(bundleGames({
+  return Promise.resolve()
+    .then(() => bundleGames({
       config: config,
       gamesPath: path.resolve(dataRoot, 'games'),
       only: args.only,
@@ -42,7 +42,7 @@ const buildData = args => {
         locales: usedLocales,
         games: games.reduce((acc, game) => {
           acc[game.id] = {
-            ...omit(game, ['graph', 'visualisations', '_version']),
+            ...omit(game, ['graph', '_version']),
             url: `/data/games/${game.id}-${game._version}.json`
           }
           return acc
