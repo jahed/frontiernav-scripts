@@ -28,9 +28,7 @@ function bundleGames ({ config, gamesPath, only, offline }) {
       }
     })
     .filter(({ game }) => (only ? only === game.id : true))
-    .map(({ root, game }) => {
-      return bundleGameUsingSpreadsheet(root, game, offline)
-    })
+    .map(({ root, game }) => bundleGameUsingSpreadsheet(root, game, offline))
 
   return Promise.all([
     ...graphPromises,
