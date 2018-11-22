@@ -2,6 +2,9 @@
   "name": "@frontiernav/extractors-xenoblade-chronicles-2",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "extract": "node ./src/extract.js"
+  },
   "dependencies": {
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/logger": "1.0.0",

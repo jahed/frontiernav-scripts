@@ -1,3 +1,4 @@
+const path = require('path')
 const toTSV = require('./util/toTSV')
 const writeOut = require('./util/writeOut')
 
@@ -19,5 +20,9 @@ Object
   .map(name => {
     entities[name].getAll()
       .then(result => toTSV({ objects: result }))
-      .then(result => writeOut({ filename: `${name}.tsv`, content: result }))
+      .then(result => writeOut({
+        filename: `${name}.tsv`,
+        content: result,
+        destination: path.resolve(__dirname, '../out')
+      }))
   })
