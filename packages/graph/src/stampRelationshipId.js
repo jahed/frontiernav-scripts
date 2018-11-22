@@ -1,7 +1,12 @@
-function stampRelationshipId (r) {
+function stampRelationshipId (r, index) {
+  const parts = [r.start, r.type, r.end]
+  if (typeof index === 'number') {
+    parts.push(index)
+  }
+
   return {
     ...r,
-    id: [r.start, r.type, r.end].join('__')
+    id: parts.join('__')
   }
 }
 
