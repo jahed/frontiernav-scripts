@@ -24,7 +24,7 @@ function bundleGames ({ config, gamesPath, only, offline }) {
       )
       return {
         root: path.dirname(modulePath),
-        game: require(modulePath).game
+        game: require(modulePath)
       }
     })
     .filter(({ game }) => (only ? only === game.id : true))
