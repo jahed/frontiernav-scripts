@@ -54,14 +54,16 @@ const getSpawns = async raw => {
     .then(drops => drops
       .filter(d => d)
       .reduce((acc, next) => {
-        const current = acc[next.id]
-        acc[next.id] = current
-          ? {
-            id: current.id,
-            rate: current.rate + next.rate,
-            count: current.count + next.count
+        const existing = acc[next.id]
+        const nextRate = { rate: next.rate, count: next.count }
+        if (existing) {
+          existing.rates.push(nextRate)
+        } else {
+          acc[next.id] = {
+            id: next.id,
+            rates: [nextRate]
           }
-          : next
+        }
         return acc
       }, {})
     )

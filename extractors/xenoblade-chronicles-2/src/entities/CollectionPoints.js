@@ -41,13 +41,16 @@ const getDrops = async (rawCollectionPoint) => {
     .then(drops => drops
       .filter(d => d)
       .reduce((acc, next) => {
-        const current = acc[next.id]
-        acc[next.id] = current
-          ? {
-            id: current.id,
-            rate: current.rate + next.rate
+        const existing = acc[next.id]
+        const nextRate = { rate: next.rate }
+        if (existing) {
+          existing.rates.push(nextRate)
+        } else {
+          acc[next.id] = {
+            id: next.id,
+            rates: [nextRate]
           }
-          : next
+        }
         return acc
       }, {})
     )
