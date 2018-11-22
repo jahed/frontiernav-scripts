@@ -48,13 +48,16 @@ module.exports = {
     parse (value, row, fieldSchema, fieldName) {
       assert(fieldSchema.relationship, `Field "${fieldName}" does not have a relationship type.`)
       const values = JSON.parse(value)
-      return values.map(({ id, ...data }) => ({
-        relationship: stampRelationshipId({
-          type: fieldSchema.relationship,
-          start: nameToId(row['Name']),
-          end: id,
-          data
-        })
+      return values.map(({ id, ...data }, index) => ({
+        relationship: stampRelationshipId(
+          {
+            type: fieldSchema.relationship,
+            start: nameToId(row['Name']),
+            end: id,
+            data
+          },
+          index
+        )
       }))
     }
   }
