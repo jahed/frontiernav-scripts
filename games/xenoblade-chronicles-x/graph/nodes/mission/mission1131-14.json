@@ -1,7 +1,8 @@
 {
   "id": "mission1131-14",
   "labels": [
-    "Mission"
+    "Mission",
+    "AffinityMission"
   ],
   "data": {
     "name": "Nine Lives"
