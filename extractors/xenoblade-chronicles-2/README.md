@@ -13,9 +13,9 @@ You'll also need to find the input data yourself and place it in a `./data` dire
 
 ```
 data
-├── all.csv # 3D map markers
-├── database # All tables
-└── mapinfo # mappings for 3D maps to 2D maps
+├── all.csv  # single CSV file with all 3D map markers
+├── database # directory with all JSON tables in their original directory structure.
+└── mapinfo  # directory with JSON tables that map 3D areas of each in-game map to 2D menu maps
 ```
 
 ## Usage
