@@ -9,7 +9,8 @@ module.exports = createType({
     const rarity = await getRarity(raw.Rarity)
     return {
       name: `${name} (${rarity})`,
-      display_name: name
+      display_name: name,
+      rarity
     }
   }
 })
