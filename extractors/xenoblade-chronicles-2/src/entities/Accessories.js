@@ -7,8 +7,9 @@ module.exports = createType({
   nameFile: 'itm_pcequip.json',
   getProperties: async ({ raw, name }) => {
     const rarity = await getRarity(raw.Rarity)
+    const safeName = `${name.replace('+', ' Plus')} (${rarity})`
     return {
-      name: `${name} (${rarity})`,
+      name: safeName,
       display_name: name,
       rarity
     }

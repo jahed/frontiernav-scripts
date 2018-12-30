@@ -27,7 +27,10 @@ const getDropTables = async raw => {
           .catch(() => null)
       ))
     )
-    .then(drops => drops.filter(d => d))
+    .then(drops => drops
+      .filter(d => d)
+      .map(id => ({ id }))
+    )
 }
 
 const toEntity = _.memoize(async raw => {
