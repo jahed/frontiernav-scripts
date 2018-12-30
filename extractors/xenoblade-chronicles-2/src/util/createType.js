@@ -8,6 +8,7 @@ function createType ({
   type,
   dataFile,
   nameFile,
+  getNameId = ({ raw }) => raw.Name,
   getProperties = () => ({})
 }) {
   const absoluteDataFile = path.resolve(__dirname, '../../data/database/common', dataFile)
@@ -28,7 +29,7 @@ function createType ({
 
   const toEntity = _.memoize(async raw => {
     const name = await getName({
-      id: raw.Name,
+      id: getNameId({ raw }),
       file: absoluteNameFile
     })
 

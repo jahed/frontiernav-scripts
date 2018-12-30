@@ -20,6 +20,7 @@ const entities = {
   KeyItems: require('./entities/KeyItems.js'),
   Locations: require('./entities/Locations.js'),
   MapFeatures: require('./entities/MapFeatures.js'),
+  PouchItemCategories: require('./entities/PouchItemCategories.js'),
   PouchItems: require('./entities/PouchItems.js'),
   SalvagePoints: require('./entities/SalvagePoints.js'),
   Treasure: require('./entities/Treasure.js'),
