@@ -5,9 +5,30 @@ const getName = require('../util/getName')
 const getAllRaw = require('../util/getAllRaw')
 const getRaw = require('../util/getRaw')
 const Enemies = require('./Enemies')
+const EnemyDropTables = require('./EnemyDropTables')
+const { nameToId } = require('@frontiernav/graph')
 
 const rawFile = path.resolve(__dirname, '../../data/database/common/CHR_EnArrange.json')
 const nameFile = path.resolve(__dirname, '../../data/database/common_ms/fld_enemyname.json')
+
+const getDropTables = async raw => {
+  const tableIds = [
+    raw.DropTableID,
+    raw.DropTableID2,
+    raw.DropTableID3
+  ]
+
+  return Promise
+    .all(
+      tableIds.map(tableId => (
+        EnemyDropTables
+          .getById(tableId)
+          .then(dropTable => nameToId(dropTable.name))
+          .catch(() => null)
+      ))
+    )
+    .then(drops => drops.filter(d => d))
+}
 
 const toEntity = _.memoize(async raw => {
   const enemy = await Enemies.toEntity(raw)
@@ -17,10 +38,13 @@ const toEntity = _.memoize(async raw => {
     file: nameFile
   })
 
+  const dropTables = await getDropTables(raw)
+
   return {
     name: `${name} #${raw.id}`,
     enemy: enemy.name,
-    level: raw.Lv
+    level: raw.Lv,
+    dropTables
   }
 }, raw => raw.id)
 

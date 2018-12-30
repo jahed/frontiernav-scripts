@@ -3,7 +3,7 @@ const path = require('path')
 const log = require('@frontiernav/logger').get(__filename)
 const { getAllRaw, getAllRawByName } = require('../util/gimmicks')
 const getName = require('../util/getName')
-const RadialButtonChallenges = require('./RadialButtonChallenges')
+const RadialButtonChallenges = require('./internal/RadialButtonChallenges')
 
 /*
  * It's best if all of these relationships are squashed into a single type but it's too complicated. First ste,

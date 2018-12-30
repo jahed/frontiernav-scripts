@@ -4,7 +4,7 @@ const log = require('@frontiernav/logger').get(__filename)
 const { readFile } = require('@frontiernav/filesystem')
 
 const getAllRaw = _.memoize(async () => {
-  const content = await readFile(path.resolve(__dirname, '../../data/database/common/MNU_BtnChallenge2.json'))
+  const content = await readFile(path.resolve(__dirname, '../../../data/database/common/MNU_BtnChallenge2.json'))
   return JSON.parse(content)
 })
 
