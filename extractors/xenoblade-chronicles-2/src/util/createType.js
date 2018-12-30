@@ -4,8 +4,12 @@ const _ = require('lodash')
 const getName = require('./getName')
 const log = require('@frontiernav/logger').get(__filename)
 
-function createType ({ type, dataFile, nameFile }) {
-
+function createType ({
+  type,
+  dataFile,
+  nameFile,
+  getProperties = () => ({})
+}) {
   const absoluteDataFile = path.resolve(__dirname, '../../data/database/common', dataFile)
   const absoluteNameFile = path.resolve(__dirname, '../../data/database/common_ms', nameFile)
 
@@ -28,9 +32,15 @@ function createType ({ type, dataFile, nameFile }) {
       file: absoluteNameFile
     })
 
+    const {
+      name: nameProp,
+      ...additionalProps
+    } = await getProperties({ raw, name })
+
     return {
-      name: name,
-      game_id: raw.id
+      name: nameProp || name,
+      game_id: raw.id,
+      ...additionalProps
     }
   }, raw => raw.id)
 
