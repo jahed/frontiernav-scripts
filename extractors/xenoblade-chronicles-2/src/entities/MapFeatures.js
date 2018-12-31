@@ -171,7 +171,8 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
         getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
         getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
         getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
-        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints })
+        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
+        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints })
       ])
     ))
     .then(featuresPerType => _.flatten(featuresPerType))
