@@ -73,10 +73,7 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
   function buildGameBundle (game, graph) {
     gameLog.info('building bundle')
     return withVersion({
-      ...pick(game, ['id', 'data']),
-      labels: {
-        Game: true
-      },
+      ...pick(game, ['id', 'labels', 'data']),
       graph
     })
   }
