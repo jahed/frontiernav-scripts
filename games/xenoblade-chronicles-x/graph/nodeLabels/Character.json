@@ -1,7 +1,6 @@
 {
   "id": "Character",
   "name": "Character",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

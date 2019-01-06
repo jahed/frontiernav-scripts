@@ -2,7 +2,6 @@
   "id": "FNSite",
   "path": "FNSite",
   "name": "FN Site",
-  "searchable": true,
   "properties": {
     "number": {
       "required": true

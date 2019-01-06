@@ -2,7 +2,6 @@
   "id": "Species",
   "name": "Species",
   "description": "Species of an animal.",
-  "searchable": true,
   "properties": {
   }
 }

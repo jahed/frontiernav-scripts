@@ -1,7 +1,6 @@
 {
   "id": "Map",
   "name": "Map",
-  "searchable": true,
   "properties": {
   }
 }

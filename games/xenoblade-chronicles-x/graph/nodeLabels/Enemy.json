@@ -1,7 +1,6 @@
 {
   "id": "Enemy",
   "name": "Enemy",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

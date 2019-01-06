@@ -1,7 +1,6 @@
 {
   "id": "Encounter",
   "name": "Encounter",
-  "searchable": true,
   "properties": {
   }
 }

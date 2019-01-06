@@ -2,7 +2,6 @@
   "id": "ZygardePiece",
   "name": "Zygarde Piece",
   "description": "A piece of the Zygarde.",
-  "searchable": true,
   "properties": {
   }
 }

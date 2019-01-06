@@ -1,7 +1,6 @@
 {
   "id": "Location",
   "name": "Location",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

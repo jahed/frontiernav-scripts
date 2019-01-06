@@ -1,6 +1,5 @@
 {
   "id": "NormalEnemy",
   "name": "Normal Enemy",
-  "searchable": true,
   "properties": {}
 }

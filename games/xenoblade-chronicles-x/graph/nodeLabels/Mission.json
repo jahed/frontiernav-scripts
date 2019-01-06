@@ -1,7 +1,6 @@
 {
   "id": "Mission",
   "name": "Mission",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

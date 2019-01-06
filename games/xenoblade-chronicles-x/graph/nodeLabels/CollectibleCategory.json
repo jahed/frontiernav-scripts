@@ -1,7 +1,6 @@
 {
   "id": "CollectibleCategory",
   "name": "Collectible Category",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

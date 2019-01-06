@@ -1,7 +1,6 @@
 {
   "id": "Treasure",
   "name": "Treasure",
-  "searchable": true,
   "properties": {
     "object": {
       "required": true

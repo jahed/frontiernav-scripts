@@ -1,7 +1,6 @@
 {
   "id": "Tyrant",
   "name": "Tyrant",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

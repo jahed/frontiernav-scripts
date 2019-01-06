@@ -1,7 +1,6 @@
 {
   "id": "AffinityMission",
   "name": "Affinity Mission",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

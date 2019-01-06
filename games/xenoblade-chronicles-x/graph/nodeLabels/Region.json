@@ -1,7 +1,6 @@
 {
   "id": "Region",
   "name": "Region",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

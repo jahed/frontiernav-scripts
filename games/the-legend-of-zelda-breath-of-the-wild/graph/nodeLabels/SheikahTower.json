@@ -2,7 +2,6 @@
   "id": "SheikahTower",
   "name": "Sheikah Tower",
   "description": "A tower for surveying the region.",
-  "searchable": true,
   "properties": {
   }
 }

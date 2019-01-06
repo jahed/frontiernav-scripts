@@ -1,7 +1,6 @@
 {
   "id": "EnemySubcategory",
   "name": "Enemy Subcategory",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

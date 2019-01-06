@@ -1,7 +1,6 @@
 {
   "id": "Item",
   "name": "Item",
-  "searchable": true,
   "properties": {
   }
 }

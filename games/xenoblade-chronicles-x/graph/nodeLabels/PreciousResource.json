@@ -1,7 +1,6 @@
 {
   "id": "PreciousResource",
   "name": "Precious Resource",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

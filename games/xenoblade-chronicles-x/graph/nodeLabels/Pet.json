@@ -2,7 +2,6 @@
   "id": "Pet",
   "name": "Pet",
   "description": "A pet to keep in the BLADE Barracks.",
-  "searchable": true,
   "properties": {
   }
 }

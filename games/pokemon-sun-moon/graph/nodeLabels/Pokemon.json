@@ -1,7 +1,6 @@
 {
   "id": "Pokemon",
   "name": "Pokémon",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

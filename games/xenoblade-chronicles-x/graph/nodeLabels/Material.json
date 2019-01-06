@@ -1,7 +1,6 @@
 {
   "id": "Material",
   "name": "Material",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

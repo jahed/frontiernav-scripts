@@ -1,7 +1,6 @@
 {
   "id": "FNSiteProbe",
   "name": "Probe",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

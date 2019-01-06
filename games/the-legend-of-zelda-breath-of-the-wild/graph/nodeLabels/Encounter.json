@@ -2,7 +2,6 @@
   "id": "Encounter",
   "name": "Encounter",
   "description": "An encounter of a certain kind.",
-  "searchable": true,
   "properties": {
   }
 }

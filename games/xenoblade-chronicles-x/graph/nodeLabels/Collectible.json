@@ -1,7 +1,6 @@
 {
   "id": "Collectible",
   "name": "Collectible",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true

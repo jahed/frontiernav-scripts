@@ -1,7 +1,6 @@
 {
   "id": "LocationType",
   "name": "Location Type",
-  "searchable": true,
   "properties": {
     "name": {
       "required": true
