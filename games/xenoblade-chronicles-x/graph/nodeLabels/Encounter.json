@@ -2,7 +2,6 @@
   "id": "Encounter",
   "name": "Encounter",
   "searchable": true,
-  "pageDescription": "Find out more about the encounter '{name}' in Xenoblade Chronicles X.",
   "properties": {
   }
 }

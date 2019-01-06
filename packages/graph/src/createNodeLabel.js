@@ -7,7 +7,6 @@ function createNodeLabel ({ id, name }) {
   return {
     id: id || nameToLabelId(name),
     name: name || id,
-    pageDescription: 'Find out more about {name} and where you can find them.',
     properties: {}
   }
 }

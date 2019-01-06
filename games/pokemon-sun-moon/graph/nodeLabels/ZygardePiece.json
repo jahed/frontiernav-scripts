@@ -3,7 +3,6 @@
   "name": "Zygarde Piece",
   "description": "A piece of the Zygarde.",
   "searchable": true,
-  "pageDescription": "Find out more about {name} and where you can find them.",
   "properties": {
   }
 }

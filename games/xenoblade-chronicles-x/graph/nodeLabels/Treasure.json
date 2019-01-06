@@ -2,7 +2,6 @@
   "id": "Treasure",
   "name": "Treasure",
   "searchable": true,
-  "pageDescription": "Find out where you can find various treasure in Xenoblade Chronicles X",
   "properties": {
     "object": {
       "required": true

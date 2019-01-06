@@ -3,7 +3,6 @@
   "name": "Sheikah Tower",
   "description": "A tower for surveying the region.",
   "searchable": true,
-  "pageDescription": "Find out more about {name} and where you can find it.",
   "properties": {
   }
 }

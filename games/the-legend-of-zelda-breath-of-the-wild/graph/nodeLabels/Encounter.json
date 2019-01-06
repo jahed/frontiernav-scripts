@@ -3,7 +3,6 @@
   "name": "Encounter",
   "description": "An encounter of a certain kind.",
   "searchable": true,
-  "pageDescription": "Find out more about {name} and where you can find them.",
   "properties": {
   }
 }

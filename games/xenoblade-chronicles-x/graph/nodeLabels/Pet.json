@@ -3,7 +3,6 @@
   "name": "Pet",
   "description": "A pet to keep in the BLADE Barracks.",
   "searchable": true,
-  "pageDescription": "Find out more about '{name}' in Xenoblade Chronicles X.",
   "properties": {
   }
 }

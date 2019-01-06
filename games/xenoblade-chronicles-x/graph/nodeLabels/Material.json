@@ -2,7 +2,6 @@
   "id": "Material",
   "name": "Material",
   "searchable": true,
-  "pageDescription": "Find out more about {name} and where you ca find them",
   "properties": {
     "name": {
       "required": true

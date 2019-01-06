@@ -1,7 +1,6 @@
 {
   "id": "Segment",
   "name": "Segment",
-  "pageDescription": "View the complete segment map of Xenoblade Chronicles X and much more.",
   "properties": {
     "q": {
       "required": true

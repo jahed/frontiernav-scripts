@@ -2,6 +2,5 @@
   "id": "NormalEnemy",
   "name": "Normal Enemy",
   "searchable": true,
-  "pageDescription": "Find out where you can find {name} in Xenoblade Chronicles X.",
   "properties": {}
 }

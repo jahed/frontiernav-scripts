@@ -3,7 +3,6 @@
   "name": "Species",
   "description": "Species of an animal.",
   "searchable": true,
-  "pageDescription": "Find out more about '{name}' in Xenoblade Chronicles X.",
   "properties": {
   }
 }
