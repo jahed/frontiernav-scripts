@@ -43,7 +43,7 @@
       "mainColor": "#267373"
     },
     "mapBackground": {
-      "image": "map-pattern-1.png",
+      "image": "maps/map-pattern-1.png",
       "color": "#040F1E",
       "repeat": true
     }
