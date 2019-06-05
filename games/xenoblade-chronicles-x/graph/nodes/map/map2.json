@@ -12,7 +12,7 @@
         "folder": "manon-ship",
         "extension": "png",
         "background": {
-          "image": "map-nla-bg.jpg",
+          "image": "maps/map-nla-bg.jpg",
           "color": "#000000",
           "repeat": false
         }

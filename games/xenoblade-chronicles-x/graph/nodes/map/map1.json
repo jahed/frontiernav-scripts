@@ -12,7 +12,7 @@
         "folder": "nla",
         "extension": "jpg",
         "background": {
-          "image": "map-nla-bg.jpg",
+          "image": "maps/map-nla-bg.jpg",
           "color": "#000000"
         }
       }
