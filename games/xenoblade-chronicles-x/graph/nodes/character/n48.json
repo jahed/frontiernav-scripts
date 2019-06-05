@@ -8,7 +8,7 @@
     "gender": "Female",
     "age": 29,
     "species": "Human",
-    "image": "elma-banner",
-    "thumbnail": "elma-face.png"
+    "image": "characters/elma-banner.jpg",
+    "thumbnail": "characters/elma-face.png"
   }
 }

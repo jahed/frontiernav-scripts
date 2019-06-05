@@ -9,7 +9,7 @@
     "age": 13,
     "species": "Human",
     "class": "Shield Trooper",
-    "image": "lin-banner",
-    "thumbnail": "lin-face.png"
+    "image": "characters/lin-banner.jpg",
+    "thumbnail": "characters/lin-face.png"
   }
 }

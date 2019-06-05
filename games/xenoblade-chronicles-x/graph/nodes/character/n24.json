@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Mia",
-    "image": "mia-banner",
-    "thumbnail": "mia-face.png"
+    "image": "characters/mia-banner.jpg",
+    "thumbnail": "characters/mia-face.png"
   }
 }

@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Celica",
-    "image": "celica-banner",
-    "thumbnail": "celica-face.png"
+    "image": "characters/celica-banner.jpg",
+    "thumbnail": "characters/celica-face.png"
   }
 }

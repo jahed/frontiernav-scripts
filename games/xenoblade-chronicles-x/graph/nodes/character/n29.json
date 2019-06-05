@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Bozé Lowes",
-    "image": "boze-banner",
-    "thumbnail": "boze-face.png"
+    "image": "characters/boze-banner.jpg",
+    "thumbnail": "characters/boze-face.png"
   }
 }

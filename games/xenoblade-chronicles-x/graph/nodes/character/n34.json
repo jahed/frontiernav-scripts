@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "L'cirufe \"L\"",
-    "image": "l-banner",
-    "thumbnail": "l-face.png"
+    "image": "characters/l-banner.jpg",
+    "thumbnail": "characters/l-face.png"
   }
 }

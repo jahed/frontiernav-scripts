@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Alexa",
-    "image": "alexa-banner",
-    "thumbnail": "alexa-face.png"
+    "image": "characters/alexa-banner.jpg",
+    "thumbnail": "characters/alexa-face.png"
   }
 }

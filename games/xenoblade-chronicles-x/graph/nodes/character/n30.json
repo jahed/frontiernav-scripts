@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Avatar",
-    "image": "avatar-banner",
-    "thumbnail": "avatar-face.png"
+    "image": "characters/avatar-banner.jpg",
+    "thumbnail": "characters/avatar-face.png"
   }
 }

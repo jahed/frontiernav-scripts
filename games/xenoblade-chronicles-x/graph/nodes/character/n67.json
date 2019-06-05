@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Yelv",
-    "image": "yelv-banner",
-    "thumbnail": "yelv-face.png"
+    "image": "characters/yelv-banner.jpg",
+    "thumbnail": "characters/yelv-face.png"
   }
 }
