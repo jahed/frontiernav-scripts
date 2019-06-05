@@ -6,7 +6,7 @@
   "data": {
     "name": "Enemies",
     "icon": "shield",
-    "thumbnail": "view-enemies"
+    "thumbnail": "maps/view-enemies.jpg"
   },
   "locale": {
     "de": {
