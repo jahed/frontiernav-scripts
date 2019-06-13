@@ -165,6 +165,7 @@ function createTransformer ({ id: configId, schema, filters }) {
       },
       {
         id: configId,
+        schema,
         nodeLabels,
         nodes: {},
         relationshipTypes,
