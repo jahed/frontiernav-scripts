@@ -5,7 +5,6 @@ const logger = require('@frontiernav/logger')
 const { objectify } = require('./objectify')
 const { arrayToIdMap } = require('./arrayToIdMap')
 const { addRelationshipReferences } = require('./addRelationshipReferences')
-const { bundleLocales } = require('./bundleLocales')
 const { withVersion } = require('./withVersion')
 const { logOrphans } = require('./logOrphans')
 
@@ -36,7 +35,6 @@ function bundleGameUsingGraph (gameRoot, gameId) {
   )
   const graph = arrayToIdMap(rawGraph)
   graph.id = gameId
-  bundleLocales(graph)
   addRelationshipReferences(graph)
   logOrphans(graph, gameLog)
 

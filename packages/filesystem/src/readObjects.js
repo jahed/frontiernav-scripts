@@ -21,6 +21,9 @@ function readObjects (objectsPath, mapResult = i => i, parsers = defaultParsers)
             const parser = parsers[path.extname(filePath)]
             const content = parser(fileContent)
 
+            // Hack to filter out unused locale data from JSON nodes
+            delete content.locale
+
             return mapResult({
               absoluteFilePath,
               content

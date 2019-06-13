@@ -55,10 +55,6 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
           return graph
         })
       )
-      // .then(graph => {
-      //   gameLog.info('bundling locales')
-      //   return bundleLocales(graph)
-      // })
       .then(graph => {
         gameLog.info('adding back references to incoming relationships')
         return addRelationshipReferences(graph)
