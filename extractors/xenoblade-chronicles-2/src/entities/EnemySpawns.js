@@ -13,9 +13,9 @@ const nameFile = path.resolve(__dirname, '../../data/database/common_ms/fld_enem
 
 const getDropTables = async raw => {
   const tableIds = [
-    raw.DropTableID,
-    raw.DropTableID2,
-    raw.DropTableID3
+    raw.DropTableID, // Drops
+    // raw.DropTableID2, // Quest Drops, maps to EnDropQuest instead with conditions.
+    raw.DropTableID3 // Core Crystals
   ]
 
   return Promise
