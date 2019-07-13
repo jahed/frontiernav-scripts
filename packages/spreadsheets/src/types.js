@@ -3,28 +3,28 @@ const assert = require('assert')
 const { nameToId, stampRelationshipId } = require('@frontiernav/graph')
 
 module.exports = {
-  'string': {
+  string: {
     parse (value) {
       return {
         value: value
       }
     }
   },
-  'json': {
+  json: {
     parse (value) {
       return {
         value: JSON.parse(value)
       }
     }
   },
-  'number': {
+  number: {
     parse (value) {
       return {
         value: +value
       }
     }
   },
-  'boolean': {
+  boolean: {
     parse (value) {
       const normalisedValue = _.lowerCase(value)
       return {
@@ -32,7 +32,7 @@ module.exports = {
       }
     }
   },
-  'reference': {
+  reference: {
     parse (value, row, fieldSchema, fieldName) {
       assert(fieldSchema.relationship, `Field "${fieldName}" does not have a relationship type.`)
       return {
@@ -44,7 +44,7 @@ module.exports = {
       }
     }
   },
-  'multi_reference': {
+  multi_reference: {
     parse (value, row, fieldSchema, fieldName) {
       assert(fieldSchema.relationship, `Field "${fieldName}" does not have a relationship type.`)
       const values = JSON.parse(value)
