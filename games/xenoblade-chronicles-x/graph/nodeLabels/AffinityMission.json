@@ -4,6 +4,8 @@
   "properties": {
     "name": {
       "required": true
-    }
+    },
+    "description": {},
+    "time": {}
   }
 }
