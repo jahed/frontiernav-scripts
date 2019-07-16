@@ -7,8 +7,27 @@ const { arrayToIdMap } = require('./arrayToIdMap')
 const { addRelationshipReferences } = require('./addRelationshipReferences')
 const { withVersion } = require('./withVersion')
 const { logOrphans } = require('./logOrphans')
+const _ = require('lodash')
 
 const log = logger.get(__filename)
+
+const addRelationshipEndLabels = graph => {
+  _(graph.nodeLabels).forEach(nodeLabel => {
+    nodeLabel.relationshipTypes = {}
+  })
+
+  _(graph.relationshipTypes)
+    .forEach(rt => {
+      _(rt.startLabels)
+        .forEach(startLabelId => {
+          graph.nodeLabels[startLabelId].relationshipTypes[rt.id] = { endLabels: {} }
+          _(rt.endLabels)
+            .forEach(endLabelId => {
+              graph.nodeLabels[startLabelId].relationshipTypes[rt.id].endLabels[endLabelId] = true
+            })
+        })
+    })
+}
 
 function bundleGameUsingGraph (gameRoot, gameId) {
   const gameLog = log.child({ name: gameId })
@@ -36,6 +55,7 @@ function bundleGameUsingGraph (gameRoot, gameId) {
   const graph = arrayToIdMap(rawGraph)
   graph.id = gameId
   addRelationshipReferences(graph)
+  addRelationshipEndLabels(graph)
   logOrphans(graph, gameLog)
 
   const result = withVersion(Object.assign({}, game, gameNode, { graph }))
