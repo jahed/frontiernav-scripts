@@ -4,6 +4,7 @@
     "MapMarker"
   ],
   "data": {
+    "name": "p82",
     "latLng": {
       "lat": -76.49631101453926,
       "lng": 126.5625

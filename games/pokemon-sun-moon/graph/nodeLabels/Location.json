@@ -2,5 +2,6 @@
   "id": "Location",
   "name": "Location",
   "properties": {
+    "name": {}
   }
 }

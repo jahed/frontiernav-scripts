@@ -3,5 +3,6 @@
   "name": "Move",
   "description": "A move used by a Pokemon.",
   "properties": {
+    "name": {}
   }
 }

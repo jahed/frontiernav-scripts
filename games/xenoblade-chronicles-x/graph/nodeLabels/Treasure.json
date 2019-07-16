@@ -2,6 +2,7 @@
   "id": "Treasure",
   "name": "Treasure",
   "properties": {
+    "name": { "required": true },
     "object": {
       "required": true
     },

@@ -8,9 +8,6 @@
     "name": "Mortar Sniper Zig",
     "subcategory": "Zig",
     "category": "Mechanoid",
-    "melee_power": 0,
-    "melee_accuracy": 0,
-    "potential": 0,
     "level_range": {
       "minimum": 21,
       "maximum": 30

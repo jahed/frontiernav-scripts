@@ -1,0 +1,12 @@
+{
+  "id": "ranged_accuracy_range",
+  "type": "object",
+  "properties": {
+    "minimum": {
+      "type": "number"
+    },
+    "maximum": {
+      "type": "number"
+    }
+  }
+}

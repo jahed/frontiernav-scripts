@@ -1,4 +1,8 @@
 {
   "id": "CollectibleArea",
-  "name": "Collectible Area"
+  "name": "Collectible Area",
+  "properties": {
+    "name": {},
+    "itemType": {}
+  }
 }

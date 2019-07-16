@@ -46,6 +46,19 @@ function graphTest (gameId) {
         assert.deepStrictEqual(dupes, [])
       })
 
+      describe('nodeLabels', () => {
+        it('label properties exist', () => {
+          const propertiesById = _(properties).keyBy('content.id').value()
+          const nodeLabelsById = _(nodeLabels).keyBy('content.id').value()
+
+          _(nodeLabelsById).forEach(nodeLabel => {
+            _(nodeLabel.content.properties).forEach((p, name) => {
+              assert.ok(!!propertiesById[name], `NodeLabel(${nodeLabel.content.id}) has non existant property "${name}"`)
+            })
+          })
+        })
+      })
+
       describe('nodes', () => {
         it('labels assigned to nodes should be defined', () => {
           nodes
@@ -65,6 +78,10 @@ function graphTest (gameId) {
           nodes
             .map(node => node.content)
             .forEach(node => {
+              const processed = _(node.data)
+                .mapValues(() => false)
+                .value()
+
               node.labels.forEach(labelId => {
                 const nodeLabel = nodeLabelsById[labelId].content
                 _.forEach(nodeLabel.properties, (config, property) => {
@@ -74,11 +91,16 @@ function graphTest (gameId) {
                     assert.ok(
                       ajv.validate(schema, value),
                       `Node(${node.id}).${property}(${JSON.stringify(value)}) does not satisfy NodeLabel(${labelId}).${property}(${JSON.stringify(config)}).` +
-                                            `\n${ajv.errorsText()}, Property(${JSON.stringify(schema, null, 2)})`
+                      `\n${ajv.errorsText()}, Property(${JSON.stringify(schema, null, 2)})`
                     )
                   }
+                  processed[property] = true
                 })
               })
+
+              const unprocessed = _(processed).pickBy(v => v === false).keys().value()
+
+              assert.ok(unprocessed.length === 0, `Node(${node.id}) has unprocessed properties: ${unprocessed}`)
             })
         })
 

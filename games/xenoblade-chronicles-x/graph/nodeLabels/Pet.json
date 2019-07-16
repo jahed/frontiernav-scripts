@@ -3,5 +3,7 @@
   "name": "Pet",
   "description": "A pet to keep in the BLADE Barracks.",
   "properties": {
+    "name": {},
+    "description": {}
   }
 }

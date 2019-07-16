@@ -3,5 +3,7 @@
   "name": "Species",
   "description": "Species of an animal.",
   "properties": {
+    "name": {},
+    "description": {}
   }
 }

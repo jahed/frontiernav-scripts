@@ -4,6 +4,7 @@
   "properties": {
     "name": {},
     "description": {},
-    "thumbnail": {}
+    "thumbnail": {},
+    "icon": {}
   }
 }

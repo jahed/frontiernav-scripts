@@ -3,5 +3,6 @@
   "name": "Sheikah Tower",
   "description": "A tower for surveying the region.",
   "properties": {
+    "name": {}
   }
 }

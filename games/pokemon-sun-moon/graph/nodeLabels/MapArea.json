@@ -2,6 +2,7 @@
   "id": "MapArea",
   "name": "Map Area",
   "properties": {
+    "name": { "required": true },
     "latLngs": {},
     "latLng": {},
     "radius": {}

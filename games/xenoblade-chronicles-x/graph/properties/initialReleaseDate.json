@@ -1,0 +1,15 @@
+{
+  "id": "initialReleaseDate",
+  "type": "object",
+  "properties": {
+    "year": {
+      "type": "number"
+    },
+    "month": {
+      "type": "number"
+    },
+    "day": {
+      "type": "number"
+    }
+  }
+}

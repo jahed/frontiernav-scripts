@@ -37,7 +37,7 @@ const getUsedRelationshipTypes = (schema, sheet) => (
     .pickBy(column => column.type === 'multi_reference' || column.type === 'reference')
     .mapKeys(column => column.relationship)
     .mapValues(column => ({
-      endLabels: getEndLabels(schema, column)
+      endLabels: objectify(getEndLabels(schema, column))
     }))
     .value()
 )

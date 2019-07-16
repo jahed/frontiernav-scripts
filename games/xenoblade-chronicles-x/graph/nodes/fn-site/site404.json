@@ -4,6 +4,7 @@
     "FNSite"
   ],
   "data": {
+    "name": "site404",
     "number": 404,
     "production": "B",
     "revenue": "S",

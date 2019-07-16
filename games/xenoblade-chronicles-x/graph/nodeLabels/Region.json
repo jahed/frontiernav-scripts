@@ -5,6 +5,7 @@
     "name": {
       "required": true
     },
-    "image": {}
+    "image": {},
+    "center": {}
   }
 }

@@ -8,7 +8,6 @@
     "name": "Sentinel Satellis",
     "subcategory": "Vita",
     "category": "Mechanoid",
-    "experience": 0,
     "level_range": {
       "minimum": 51,
       "maximum": 90

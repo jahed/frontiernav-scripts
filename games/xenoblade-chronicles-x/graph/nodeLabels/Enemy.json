@@ -14,6 +14,23 @@
       "required": true
     },
     "image": {},
-    "time": {}
+    "time": {},
+    "level_range": {},
+    "experience_range": {},
+    "health_range": {},
+    "melee_power_range": {},
+    "melee_accuracy_range": {},
+    "ranged_power_range": {},
+    "ranged_accuracy_range": {},
+    "potential_range": {},
+    "evasion_range": {},
+    "weather": {},
+    "physical_resistance": {},
+    "beam_resistance": {},
+    "ether_resistance": {},
+    "thermal_resistance": {},
+    "electric_resistance": {},
+    "gravity_resistance": {},
+    "drops_ground_weapon": {}
   }
 }

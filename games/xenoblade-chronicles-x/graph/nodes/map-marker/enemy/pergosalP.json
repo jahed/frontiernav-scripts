@@ -4,6 +4,7 @@
     "MapMarker"
   ],
   "data": {
+    "name": "pergosalP",
     "latLng": {
       "lat": 25.958044673317843,
       "lng": 23.90625

@@ -2,5 +2,19 @@
   "id": "Game",
   "name": "Game",
   "properties": {
+    "name": {
+      "required": true
+    },
+    "logo": {},
+    "cover": {},
+    "banner": {},
+    "hue": {},
+    "platform": {},
+    "initialReleaseDate": {},
+    "releaseDate": {},
+    "developer": {},
+    "publisher": {},
+    "theme": {},
+    "mapBackground": {}
   }
 }

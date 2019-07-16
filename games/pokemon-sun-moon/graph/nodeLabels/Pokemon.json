@@ -4,6 +4,11 @@
   "properties": {
     "name": {
       "required": true
-    }
+    },
+    "species_id": {},
+    "height": {},
+    "weight": {},
+    "base_experience": {},
+    "genus": {}
   }
 }

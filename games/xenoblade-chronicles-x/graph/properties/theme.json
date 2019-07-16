@@ -1,0 +1,9 @@
+{
+  "id": "theme",
+  "type": "object",
+  "properties": {
+    "mainColor": {
+      "type": "string"
+    }
+  }
+}

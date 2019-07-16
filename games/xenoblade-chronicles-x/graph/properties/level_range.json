@@ -1,0 +1,12 @@
+{
+  "id": "level_range",
+  "type": "object",
+  "properties": {
+    "minimum": {
+      "type": "number"
+    },
+    "maximum": {
+      "type": "number"
+    }
+  }
+}

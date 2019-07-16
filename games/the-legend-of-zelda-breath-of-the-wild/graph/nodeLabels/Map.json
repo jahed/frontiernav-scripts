@@ -2,5 +2,18 @@
   "id": "Map",
   "name": "Map",
   "properties": {
+    "name": {
+      "required": true
+    },
+    "tileLayers": {
+      "required": true
+    },
+    "center": {},
+    "defaultZoom": {
+      "required": true
+    },
+    "maxNativeZoom": {
+      "required": true
+    }
   }
 }

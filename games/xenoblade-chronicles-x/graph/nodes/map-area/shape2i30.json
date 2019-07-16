@@ -4,6 +4,7 @@
     "MapArea"
   ],
   "data": {
+    "name": "shape2i30",
     "latLngs": [
       {
         "lat": -64.69910544204765,

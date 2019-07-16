@@ -1,9 +1,0 @@
-{
-  "id": "MAP_FEATURE",
-  "startLabels": [
-    "MapLayer"
-  ],
-  "endLabels": [
-    "MapFeature"
-  ]
-}

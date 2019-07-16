@@ -3,6 +3,7 @@
   "path": "FNSite",
   "name": "FN Site",
   "properties": {
+    "name": { "required": true },
     "number": {
       "required": true
     },

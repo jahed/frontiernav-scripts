@@ -4,6 +4,7 @@
     "MapMarker"
   ],
   "data": {
+    "name": "pevScgLV2",
     "latLng": {
       "lat": 27.059125784374068,
       "lng": 24.2578125

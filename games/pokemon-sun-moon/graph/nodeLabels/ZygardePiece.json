@@ -3,5 +3,6 @@
   "name": "Zygarde Piece",
   "description": "A piece of the Zygarde.",
   "properties": {
+    "name": {}
   }
 }

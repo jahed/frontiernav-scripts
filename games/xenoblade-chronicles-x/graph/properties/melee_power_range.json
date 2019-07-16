@@ -1,0 +1,12 @@
+{
+  "id": "melee_power_range",
+  "type": "object",
+  "properties": {
+    "minimum": {
+      "type": "number"
+    },
+    "maximum": {
+      "type": "number"
+    }
+  }
+}

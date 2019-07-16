@@ -4,6 +4,7 @@
     "MapArea"
   ],
   "data": {
+    "name": "shapemap1circ",
     "latLng": {
       "lat": -80.9,
       "lng": -33.26796875

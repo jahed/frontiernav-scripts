@@ -8,9 +8,6 @@
     "name": "Revolver Gunner Zig",
     "subcategory": "Zig",
     "category": "Mechanoid",
-    "melee_power": 0,
-    "melee_accuracy": 0,
-    "potential": 0,
     "level_range": {
       "minimum": 41,
       "maximum": 50

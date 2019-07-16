@@ -7,6 +7,9 @@
     },
     "rarity": {
       "required": true
-    }
+    },
+    "requirements": {},
+    "time": {},
+    "weather": {}
   }
 }

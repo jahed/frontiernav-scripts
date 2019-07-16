@@ -2,6 +2,7 @@
   "id": "Segment",
   "name": "Segment",
   "properties": {
+    "name": { "required": true },
     "q": {
       "required": true
     },
@@ -10,6 +11,8 @@
     },
     "s": {
       "required": true
-    }
+    },
+    "special": {},
+    "notes": {}
   }
 }

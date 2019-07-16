@@ -4,6 +4,7 @@
     "MapMarker"
   ],
   "data": {
+    "name": "shape5i90",
     "latLng": {
       "lat": 77.0591158825237,
       "lng": 101.0302734375

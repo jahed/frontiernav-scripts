@@ -3,6 +3,7 @@
   "path": "SegmentGrid",
   "name": "Segment Grid",
   "properties": {
+    "name": { "required": true },
     "segmentDimensions": {
       "required": true
     },

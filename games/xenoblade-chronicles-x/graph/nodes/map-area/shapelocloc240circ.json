@@ -4,6 +4,7 @@
     "MapArea"
   ],
   "data": {
+    "name": "shapelocloc240circ",
     "latLng": {
       "lat": 73.41588526207096,
       "lng": 15.6005859375

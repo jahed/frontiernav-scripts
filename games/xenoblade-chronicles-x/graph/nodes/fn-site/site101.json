@@ -4,6 +4,7 @@
     "FNSite"
   ],
   "data": {
+    "name": "site101",
     "number": 101,
     "revenue": "S",
     "combat_support": "S",

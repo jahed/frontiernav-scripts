@@ -4,6 +4,7 @@
     "FNSite"
   ],
   "data": {
+    "name": "site111",
     "number": 111,
     "production": "C",
     "revenue": "F",

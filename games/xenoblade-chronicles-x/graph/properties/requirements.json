@@ -1,14 +1,21 @@
 {
   "id": "requirements",
-  "type": "object",
-  "properties": {
-    "field_skill": {
-      "type": "string"
+  "oneOf": [
+    {
+      "type": "object",
+      "properties": {
+        "field_skill": {
+          "type": "string"
+        },
+        "field_skill_level": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 5
+        }
+      }
     },
-    "field_skill_level": {
-      "type": "number",
-      "minimum": 1,
-      "maximum": 5
+    {
+      "type": "boolean"
     }
-  }
+  ]
 }
