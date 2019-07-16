@@ -1,6 +1,6 @@
 const _ = require('lodash')
 const assert = require('assert')
-const { nameToId, createNodeLabel, nameToLabelId } = require('@frontiernav/graph')
+const { nameToId, nameToLabelId } = require('@frontiernav/graph')
 const log = require('@frontiernav/logger').get(__filename)
 const types = require('./types')
 const defaultFieldSchema = require('./defaultFieldSchema.json')
@@ -13,11 +13,38 @@ const objectify = a => a.reduce(
   {}
 )
 
+const getColumnField = columnName => _.snakeCase(columnName)
+
+const getUsedProperties = (schema) => (
+  _(schema.columns)
+    .omitBy(column => column.type === 'multi_reference' || column.type === 'reference')
+    .mapKeys((v, columnName) => getColumnField(columnName))
+    .mapValues(() => ({}))
+    .value()
+)
+
+const getPropertySchema = (schema) => (
+  _(schema.columns)
+    .flatMap((columnSchema, columnName) => {
+      if (columnSchema.type === 'multi_reference' || columnSchema.type === 'reference') {
+        return getPropertySchema(columnSchema)
+      }
+      return [({
+        id: getColumnField(columnName),
+        type: columnSchema.type === 'json' ? 'object' : columnSchema.type
+      })]
+    })
+    .value()
+)
+
 function createTransformer ({ id: configId, schema, filters }) {
   function getNodeLabels () {
     return _(schema)
-      .map(sheet => sheet.label)
-      .map(label => createNodeLabel({ name: label }))
+      .map(sheet => ({
+        id: nameToLabelId(sheet.label),
+        name: sheet.label,
+        properties: getUsedProperties(sheet)
+      }))
       .keyBy('id')
       .value()
   }
@@ -38,7 +65,8 @@ function createTransformer ({ id: configId, schema, filters }) {
             return {
               id: column.relationship,
               startLabels: [nameToLabelId(sheet.label)],
-              endLabels: endLabels
+              endLabels: endLabels,
+              properties: getUsedProperties(column)
             }
           })
           .value()
@@ -47,7 +75,8 @@ function createTransformer ({ id: configId, schema, filters }) {
         const current = acc[next.id] || {
           id: next.id,
           startLabels: {},
-          endLabels: {}
+          endLabels: {},
+          properties: {}
         }
 
         return {
@@ -61,10 +90,21 @@ function createTransformer ({ id: configId, schema, filters }) {
             endLabels: {
               ...current.endLabels,
               ...objectify(next.endLabels)
+            },
+            properties: {
+              ...current.properties,
+              ...next.properties
             }
           }
         }
       }, {})
+  }
+
+  function getProperties () {
+    return _(schema)
+      .flatMap(sheet => getPropertySchema(sheet))
+      .keyBy('id')
+      .value()
   }
 
   function getSheetSchema (sheetName) {
@@ -154,6 +194,7 @@ function createTransformer ({ id: configId, schema, filters }) {
 
     const nodeLabels = getNodeLabels()
     const relationshipTypes = getRelationshipTypes()
+    const properties = getProperties()
 
     transformLog.info(`generating graph`)
 
@@ -165,11 +206,11 @@ function createTransformer ({ id: configId, schema, filters }) {
       },
       {
         id: configId,
-        schema,
         nodeLabels,
         nodes: {},
         relationshipTypes,
-        relationships: {}
+        relationships: {},
+        properties
       }
     )
   }
