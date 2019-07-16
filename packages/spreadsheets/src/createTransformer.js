@@ -13,18 +13,37 @@ const objectify = a => a.reduce(
   {}
 )
 
+const getEndLabels = (schema, column) => (
+  (column.sheet ? [column.sheet] : column.sheets)
+    .map(refSheetName => {
+      const refSheet = schema[refSheetName]
+      assert(refSheet, `Referenced Sheet ${refSheetName} does not exist.`)
+      return nameToLabelId(refSheet.label)
+    })
+)
+
 const getColumnField = columnName => _.snakeCase(columnName)
 
-const getUsedProperties = (schema) => (
-  _(schema.columns)
+const getUsedProperties = (sheet) => (
+  _(sheet.columns)
     .omitBy(column => column.type === 'multi_reference' || column.type === 'reference')
     .mapKeys((v, columnName) => getColumnField(columnName))
     .mapValues(() => ({}))
     .value()
 )
 
-const getPropertySchema = (schema) => (
-  _(schema.columns)
+const getUsedRelationshipTypes = (schema, sheet) => (
+  _(sheet.columns)
+    .pickBy(column => column.type === 'multi_reference' || column.type === 'reference')
+    .mapKeys(column => column.relationship)
+    .mapValues(column => ({
+      endLabels: getEndLabels(schema, column)
+    }))
+    .value()
+)
+
+const getPropertySchema = (sheet) => (
+  _(sheet.columns)
     .flatMap((columnSchema, columnName) => {
       if (columnSchema.type === 'multi_reference' || columnSchema.type === 'reference') {
         return getPropertySchema(columnSchema)
@@ -43,7 +62,8 @@ function createTransformer ({ id: configId, schema, filters }) {
       .map(sheet => ({
         id: nameToLabelId(sheet.label),
         name: sheet.label,
-        properties: getUsedProperties(sheet)
+        properties: getUsedProperties(sheet),
+        relationshipTypes: getUsedRelationshipTypes(schema, sheet)
       }))
       .keyBy('id')
       .value()
@@ -55,17 +75,10 @@ function createTransformer ({ id: configId, schema, filters }) {
         return _(sheet.columns)
           .filter(column => column.type === 'reference' || column.type === 'multi_reference')
           .map(column => {
-            const endLabels = (column.sheet ? [column.sheet] : column.sheets)
-              .map(refSheetName => {
-                const refSheet = schema[refSheetName]
-                assert(refSheet, `Referenced Sheet ${refSheetName} does not exist.`)
-                return nameToLabelId(refSheet.label)
-              })
-
             return {
               id: column.relationship,
               startLabels: [nameToLabelId(sheet.label)],
-              endLabels: endLabels,
+              endLabels: getEndLabels(schema, column),
               properties: getUsedProperties(column)
             }
           })
