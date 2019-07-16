@@ -2,9 +2,7 @@
   "id": "this-fair-city",
   "labels": [
     "AffinityMission",
-    "Mission",
-    "HeartToHeart",
-    "Encounter"
+    "Mission"
   ],
   "data": {
     "name": "This Fair City",
