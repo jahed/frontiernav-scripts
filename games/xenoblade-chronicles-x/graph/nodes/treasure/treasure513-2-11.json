@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure513-2-11",
     "object": "Alien Wreckage",
     "requirements": {
       "field_skill": "Archaeological",

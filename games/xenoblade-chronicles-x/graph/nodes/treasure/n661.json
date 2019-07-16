@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "n661",
     "object": "Trailer",
     "requirements": {
       "field_skill": "Mechanical",

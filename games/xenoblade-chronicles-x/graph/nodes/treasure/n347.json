@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "n347",
     "object": "Container",
     "requirements": {
       "field_skill": "Mechanical",

@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure296-15",
     "object": "Skell Wreckage",
     "requirements": {
       "field_skill": "Mechanical",

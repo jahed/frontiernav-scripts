@@ -4,6 +4,7 @@
     "MapMarker"
   ],
   "data": {
+    "name": "marker-zygarde-core-2",
     "latLng": {
       "lat": 54.68653423452972,
       "lng": -59.50195312500001

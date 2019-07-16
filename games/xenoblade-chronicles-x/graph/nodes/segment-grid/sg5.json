@@ -4,6 +4,7 @@
     "SegmentGrid"
   ],
   "data": {
+    "name": "sg5",
     "segmentDimensions": {
       "height": 4.062
     },

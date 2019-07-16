@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure132-5",
     "object": "Strange Instect Nest",
     "requirements": {
       "field_skill": "Biological",

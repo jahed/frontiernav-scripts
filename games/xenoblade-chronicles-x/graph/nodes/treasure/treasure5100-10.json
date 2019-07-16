@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure5100-10",
     "object": "Alien Container",
     "requirements": {
       "field_skill": "Archaeological",

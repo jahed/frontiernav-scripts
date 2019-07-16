@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure411-2-9",
     "object": "Strange Petrified Tree",
     "requirements": {
       "field_skill": "Biological",

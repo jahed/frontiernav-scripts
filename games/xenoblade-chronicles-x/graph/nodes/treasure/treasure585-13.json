@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure585-13",
     "object": "Lifepod",
     "requirements": {
       "field_skill": "Mechanical",

@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure1112-13",
     "object": "Vehicle Wreckage",
     "requirements": {
       "field_skill": "Mechanical",

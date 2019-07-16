@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure305-5",
     "object": "White Whale Debris",
     "requirements": {
       "field_skill": "Mechanical",

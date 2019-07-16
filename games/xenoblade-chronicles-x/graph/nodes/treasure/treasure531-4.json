@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure531-4",
     "object": "Indigen Nest",
     "requirements": {
       "field_skill": "Biological",

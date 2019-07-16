@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure311-1-10",
     "object": "Indigen Dung",
     "requirements": {
       "field_skill": "Biological",

@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure260-6",
     "object": "Patrol Chopper Wreckage",
     "requirements": {
       "field_skill": "Mechanical",

@@ -15,19 +15,23 @@ function readObjects (objectsPath, mapResult = i => i, parsers = defaultParsers)
         filePaths
           .filter(filePath => !!parsers[path.extname(filePath)])
           .map(filePath => {
-            const absoluteFilePath = path.resolve(dirPath, filePath)
-            const fileContent = fs.readFileSync(absoluteFilePath, { encoding: 'utf8' })
+            try {
+              const absoluteFilePath = path.resolve(dirPath, filePath)
+              const fileContent = fs.readFileSync(absoluteFilePath, { encoding: 'utf8' })
 
-            const parser = parsers[path.extname(filePath)]
-            const content = parser(fileContent)
+              const parser = parsers[path.extname(filePath)]
+              const content = parser(fileContent)
 
-            // Hack to filter out unused locale data from JSON nodes
-            delete content.locale
+              // Hack to filter out unused locale data from JSON nodes
+              delete content.locale
 
-            return mapResult({
-              absoluteFilePath,
-              content
-            })
+              return mapResult({
+                absoluteFilePath,
+                content
+              })
+            } catch (e) {
+              throw new Error(`Failed to process ${filePath}. ${e.message}`)
+            }
           })
       )
     })

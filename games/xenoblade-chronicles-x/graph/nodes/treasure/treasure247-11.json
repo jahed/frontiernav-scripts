@@ -4,6 +4,7 @@
     "Treasure"
   ],
   "data": {
+    "name": "treasure247-11",
     "object": "Strange Tree",
     "requirements": {
       "field_skill": "Biological",
