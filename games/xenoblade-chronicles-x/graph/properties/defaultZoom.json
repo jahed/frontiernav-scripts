@@ -1,4 +1,4 @@
 {
   "id": "defaultZoom",
-  "type": "integer"
+  "type": "number"
 }

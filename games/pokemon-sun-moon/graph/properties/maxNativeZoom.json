@@ -1,4 +1,4 @@
 {
   "id": "maxNativeZoom",
-  "type": "integer"
+  "type": "number"
 }

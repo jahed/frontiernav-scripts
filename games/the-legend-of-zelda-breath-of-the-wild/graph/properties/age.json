@@ -1,4 +1,4 @@
 {
   "id": "age",
-  "type": "integer"
+  "type": "number"
 }

@@ -1,6 +1,6 @@
 {
   "id": "affinity",
-  "type": "integer",
+  "type": "number",
   "minimum": 1,
   "maximum": 5
 }

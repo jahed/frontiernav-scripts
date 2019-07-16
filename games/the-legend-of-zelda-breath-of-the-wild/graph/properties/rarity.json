@@ -1,5 +1,5 @@
 {
   "id": "rarity",
   "title": "Rarity",
-  "type": "integer"
+  "type": "number"
 }
