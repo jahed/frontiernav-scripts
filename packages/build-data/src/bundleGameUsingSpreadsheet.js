@@ -3,9 +3,7 @@ const { validateGraph } = require('@frontiernav/graph')
 const { transformSpreadsheets } = require('@frontiernav/spreadsheets')
 const logger = require('@frontiernav/logger')
 const fetch = require('isomorphic-fetch')
-const { pick } = require('lodash')
 const { addRelationshipReferences } = require('./addRelationshipReferences')
-const { withVersion } = require('./withVersion')
 const { emptyGraph } = require('./emptyGraph')
 const { logOrphans } = require('./logOrphans')
 
@@ -21,7 +19,7 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
       return Promise.resolve(spreadsheetPath)
     }
 
-    const gid = game.googleSpreadsheetId
+    const gid = game.data.googleSpreadsheetId
 
     gameLog.info('Downloading spreadsheet.', `https://docs.google.com/spreadsheets/d/${gid}/`)
 
@@ -38,7 +36,7 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
   }
 
   function generateGraph (game) {
-    if (!game.googleSpreadsheetId) {
+    if (!game.data.googleSpreadsheetId) {
       gameLog.info('No spreadsheet found, using empty graph')
       return Promise.resolve(emptyGraph(game))
     }
@@ -66,16 +64,7 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
       })
   }
 
-  function buildGameBundle (game, graph) {
-    gameLog.info('building bundle')
-    return withVersion({
-      ...pick(game, ['id', 'labels', 'data']),
-      graph
-    })
-  }
-
   return generateGraph(game)
-    .then(graph => buildGameBundle(game, graph))
 }
 
 exports.bundleGameUsingSpreadsheet = bundleGameUsingSpreadsheet
