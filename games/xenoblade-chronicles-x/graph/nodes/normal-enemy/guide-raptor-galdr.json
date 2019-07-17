@@ -1,11 +1,11 @@
 {
   "id": "guide-raptor-galdr",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Guide Raptor Galdr",
+    "type": "normal",
     "subcategory": "Galdr",
     "category": "Mechanoid",
     "level_range": {

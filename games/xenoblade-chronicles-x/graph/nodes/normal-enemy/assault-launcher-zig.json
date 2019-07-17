@@ -1,11 +1,11 @@
 {
   "id": "assault-launcher-zig",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Assault Launcher Zig",
+    "type": "normal",
     "subcategory": "Zig",
     "category": "Mechanoid",
     "level_range": {

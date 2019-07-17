@@ -1,11 +1,11 @@
 {
   "id": "alba-lepyx",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Alba Lepyx",
+    "type": "normal",
     "subcategory": "Lepyx",
     "category": "Theroid",
     "level_range": {

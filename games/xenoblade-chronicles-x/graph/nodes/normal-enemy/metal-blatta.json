@@ -1,11 +1,11 @@
 {
   "id": "metal-blatta",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Metal Blatta",
+    "type": "normal",
     "subcategory": "Blatta",
     "category": "Insectoid",
     "drops_ground_weapon": true,

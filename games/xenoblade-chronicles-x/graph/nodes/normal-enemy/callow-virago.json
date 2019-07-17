@@ -1,11 +1,11 @@
 {
   "id": "callow-virago",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Callow Virago",
+    "type": "normal",
     "subcategory": "Virago",
     "category": "Theroid",
     "level_range": {

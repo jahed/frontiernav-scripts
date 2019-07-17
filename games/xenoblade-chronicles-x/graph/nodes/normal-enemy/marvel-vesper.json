@@ -1,11 +1,11 @@
 {
   "id": "marvel-vesper",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Marvel Vesper",
+    "type": "normal",
     "subcategory": "Vesper",
     "category": "Theroid",
     "drops_ground_weapon": true,

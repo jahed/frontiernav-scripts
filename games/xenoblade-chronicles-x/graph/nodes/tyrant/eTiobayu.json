@@ -1,11 +1,11 @@
 {
   "id": "eTiobayu",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Ji-ett, the Thunderclap",
+    "type": "tyrant",
     "level": 72,
     "notes": "\"Ji-ett, the Thunderclap\" will appear at night high in the sky at the south east corner of Primordia. It is in the segment south of FN Site 120 above the tip of the tall, thin mountain.",
     "category": "Mechanoid",

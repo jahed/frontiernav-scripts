@@ -1,11 +1,11 @@
 {
   "id": "spring-unafulge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Spring Unafulge",
+    "type": "normal",
     "subcategory": "Unafulge",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

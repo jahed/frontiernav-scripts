@@ -1,11 +1,11 @@
 {
   "id": "negator-tectinsula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Negator Tectinsula",
+    "type": "normal",
     "subcategory": "Tectinsula",
     "category": "Insectoid",
     "level_range": {

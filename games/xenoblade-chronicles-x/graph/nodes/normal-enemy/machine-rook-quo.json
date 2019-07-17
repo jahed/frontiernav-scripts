@@ -1,11 +1,11 @@
 {
   "id": "machine-rook-quo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Machine Rook Quo",
+    "type": "normal",
     "subcategory": "Quo",
     "category": "Mechanoid",
     "level_range": {

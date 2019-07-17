@@ -1,11 +1,11 @@
 {
   "id": "seeker-blatta",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Seeker Blatta",
+    "type": "normal",
     "subcategory": "Blatta",
     "category": "Insectoid",
     "drops_ground_weapon": true,

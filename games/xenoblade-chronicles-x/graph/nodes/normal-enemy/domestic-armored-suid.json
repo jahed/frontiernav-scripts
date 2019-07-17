@@ -1,11 +1,11 @@
 {
   "id": "domestic-armored-suid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Domestic Armored Suid",
+    "type": "normal",
     "subcategory": "Suid",
     "category": "Theroid",
     "drops_ground_weapon": true,

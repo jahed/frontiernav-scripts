@@ -1,11 +1,11 @@
 {
   "id": "welkin-levitath",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Welkin Levitath",
+    "type": "normal",
     "subcategory": "Levitath",
     "category": "Insectoid",
     "level_range": {

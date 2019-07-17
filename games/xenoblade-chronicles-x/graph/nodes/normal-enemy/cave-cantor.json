@@ -1,11 +1,11 @@
 {
   "id": "cave-cantor",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cave Cantor",
+    "type": "normal",
     "subcategory": "Cantor",
     "category": "Theroid",
     "drops_ground_weapon": true,

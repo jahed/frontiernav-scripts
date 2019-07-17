@@ -1,11 +1,11 @@
 {
   "id": "antares-levitath",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Antares Levitath",
+    "type": "normal",
     "subcategory": "Levitath",
     "category": "Insectoid",
     "level_range": {

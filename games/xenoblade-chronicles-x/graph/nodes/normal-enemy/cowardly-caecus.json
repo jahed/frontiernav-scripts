@@ -1,11 +1,11 @@
 {
   "id": "cowardly-caecus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cowardly Caecus",
+    "type": "normal",
     "subcategory": "Caecus",
     "category": "Theroid",
     "level_range": {

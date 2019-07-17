@@ -1,11 +1,11 @@
 {
   "id": "marnuck-slugger",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Marnuck Slugger",
+    "type": "normal",
     "subcategory": "Marnuck",
     "category": "Humanoid",
     "drops_ground_weapon": true,

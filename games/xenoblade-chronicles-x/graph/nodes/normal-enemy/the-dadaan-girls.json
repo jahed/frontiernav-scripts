@@ -1,11 +1,11 @@
 {
   "id": "the-dadaan-girls",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "The Dadaan Girls",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

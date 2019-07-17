@@ -1,11 +1,11 @@
 {
   "id": "soldier-grex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Soldier Grex",
+    "type": "normal",
     "subcategory": "Grex",
     "category": "Theroid",
     "level_range": {

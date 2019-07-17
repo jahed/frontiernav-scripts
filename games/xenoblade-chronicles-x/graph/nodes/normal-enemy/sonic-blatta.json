@@ -1,11 +1,11 @@
 {
   "id": "sonic-blatta",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sonic Blatta",
+    "type": "normal",
     "subcategory": "Blatta",
     "category": "Insectoid",
     "drops_ground_weapon": true,

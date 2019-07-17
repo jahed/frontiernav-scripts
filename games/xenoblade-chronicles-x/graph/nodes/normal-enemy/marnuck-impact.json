@@ -1,11 +1,11 @@
 {
   "id": "marnuck-impact",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Marnuck Impact",
+    "type": "normal",
     "subcategory": "Marnuck",
     "category": "Humanoid",
     "drops_ground_weapon": true,

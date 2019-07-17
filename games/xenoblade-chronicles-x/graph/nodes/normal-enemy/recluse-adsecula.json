@@ -1,11 +1,11 @@
 {
   "id": "recluse-adsecula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Recluse Adsecula",
+    "type": "normal",
     "subcategory": "Adsecula",
     "category": "Insectoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "stealth-tectinsula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Stealth Tectinsula",
+    "type": "normal",
     "subcategory": "Tectinsula",
     "category": "Insectoid",
     "level_range": {

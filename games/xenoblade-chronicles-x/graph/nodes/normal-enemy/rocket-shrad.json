@@ -1,11 +1,11 @@
 {
   "id": "rocket-shrad",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rocket Shrad",
+    "type": "normal",
     "subcategory": "Shrad",
     "category": "Mechanoid",
     "level_range": {

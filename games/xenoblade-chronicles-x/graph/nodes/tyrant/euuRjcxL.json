@@ -1,11 +1,11 @@
 {
   "id": "euuRjcxL",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Enhanced Attack Seidr",
+    "type": "tyrant",
     "level": 68,
     "notes": "\"Enhanced Attack Seidr\" is being upgraded at kitsune base, the ganglion base south of T'phnom Shelf in Cauldros (at FN Site 512).",
     "category": "Mechanoid",

@@ -1,11 +1,11 @@
 {
   "id": "selenium-fal-swo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Selenium Fal-swo",
+    "type": "normal",
     "subcategory": "Fal-swo",
     "category": "Mechanoid",
     "level_range": {

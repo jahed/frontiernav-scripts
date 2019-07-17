@@ -1,11 +1,11 @@
 {
   "id": "lightning-progen",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lightning Progen",
+    "type": "normal",
     "subcategory": "Progen",
     "category": "Theroid",
     "drops_ground_weapon": true,

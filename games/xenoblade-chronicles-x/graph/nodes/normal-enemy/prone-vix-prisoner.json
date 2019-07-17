@@ -1,11 +1,11 @@
 {
   "id": "prone-vix-prisoner",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Prone Vix Prisoner",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

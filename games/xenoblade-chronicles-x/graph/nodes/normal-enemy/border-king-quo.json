@@ -1,11 +1,11 @@
 {
   "id": "border-king-quo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Border King Quo",
+    "type": "normal",
     "subcategory": "Quo",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "eDJsXphU",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Daril, the Eradicator",
+    "type": "tyrant",
     "level": 29,
     "notes": "\"Daril, the Eradicator\" appears with two other Marnuck during the night at the toxic pool to the north of Arendt Bridge in the northern tip of Primordia.",
     "category": "Humanoid",

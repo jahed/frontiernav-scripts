@@ -1,11 +1,11 @@
 {
   "id": "eVrTPo8Q",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Telethia, the Endbringer",
+    "type": "tyrant",
     "level": 99,
     "category": "Ultrafauna",
     "subcategory": "Telethia",

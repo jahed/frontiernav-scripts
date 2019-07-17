@@ -1,11 +1,11 @@
 {
   "id": "milsaadi-assassin",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Milsaadi Assassin",
+    "type": "normal",
     "subcategory": "Milsaadi",
     "category": "Humanoid",
     "drops_ground_weapon": true,

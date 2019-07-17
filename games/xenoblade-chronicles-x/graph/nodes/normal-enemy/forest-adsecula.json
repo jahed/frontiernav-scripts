@@ -1,11 +1,11 @@
 {
   "id": "forest-adsecula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Forest Adsecula",
+    "type": "normal",
     "subcategory": "Adsecula",
     "category": "Insectoid",
     "drops_ground_weapon": true,

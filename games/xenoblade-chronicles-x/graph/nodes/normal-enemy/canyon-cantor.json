@@ -1,11 +1,11 @@
 {
   "id": "canyon-cantor",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Canyon Cantor",
+    "type": "normal",
     "subcategory": "Cantor",
     "category": "Theroid",
     "drops_ground_weapon": true,

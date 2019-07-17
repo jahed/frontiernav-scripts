@@ -1,11 +1,11 @@
 {
   "id": "motor-cannon---zig",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Motor Cannon ? Zig",
+    "type": "normal",
     "subcategory": "Zig",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "ewZgkW2B",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Melanya, the Sound Sleeper",
+    "type": "tyrant",
     "level": 20,
     "notes": "\"Melanya, the Sound Sleeper\" can be found sleeping at Oblivia Ingress, the entrance to Oblivia when walking from Primordia.",
     "category": "Theroid",

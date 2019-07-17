@@ -1,11 +1,11 @@
 {
   "id": "eKj7RdqK",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Vilem, the Gold-Scaled",
+    "type": "tyrant",
     "level": 45,
     "notes": "\"Vilem, the Gold-Scaled\" pops out of the water at the south east corner of Lake Basil in Oblvia.",
     "category": "Piscinoid",

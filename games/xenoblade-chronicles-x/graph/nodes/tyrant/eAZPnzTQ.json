@@ -1,11 +1,11 @@
 {
   "id": "eAZPnzTQ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Gerhardt, the Lone and Proud",
+    "type": "tyrant",
     "level": 12,
     "notes": "\"Gerhardt, the Lone and Proud\" resides in Whale's Nostril, a tunnel in the south of Noctilum. It may take some seconds but Gerhardt will drop down out of thin air under a short bridge in the cave while passing by underneath (it attempts to block in BLADE operatives after they check the nearby vehicle wreckage).",
     "category": "Theroid",

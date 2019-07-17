@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Duplicator Probe",
-    "type": 6,
+    "type": "duplicator",
     "attributes": {
       "production_multiplier": 0,
       "revenue_multiplier": 0

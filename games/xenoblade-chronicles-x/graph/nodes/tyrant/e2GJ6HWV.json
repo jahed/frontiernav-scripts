@@ -1,11 +1,11 @@
 {
   "id": "e2GJ6HWV",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Manuelita, the Affectionate",
+    "type": "tyrant",
     "level": 47,
     "notes": "\"Manuelita, the Affectionate\" can be found relaxing in the middle island in middle Hushflood in north west Noctilum.",
     "category": "Theroid",

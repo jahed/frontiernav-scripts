@@ -1,11 +1,11 @@
 {
   "id": "ernqzHA8",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Vainamo, the Bellower",
+    "type": "tyrant",
     "level": 39,
     "notes": "\"Vainamo, the Bellower\" can be found in one of the craters at the Capital Wreckage area Cauldros.",
     "category": "Theroid",

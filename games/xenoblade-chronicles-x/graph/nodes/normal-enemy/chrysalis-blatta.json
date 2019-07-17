@@ -1,11 +1,11 @@
 {
   "id": "chrysalis-blatta",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Chrysalis Blatta",
+    "type": "normal",
     "subcategory": "Blatta",
     "category": "Insectoid",
     "drops_ground_weapon": true,

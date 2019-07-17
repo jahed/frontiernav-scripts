@@ -1,11 +1,11 @@
 {
   "id": "flume-blatta",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Flume Blatta",
+    "type": "normal",
     "subcategory": "Blatta",
     "category": "Insectoid",
     "drops_ground_weapon": true,

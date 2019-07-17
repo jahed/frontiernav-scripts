@@ -1,11 +1,11 @@
 {
   "id": "whirling-terebra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Whirling Terebra",
+    "type": "normal",
     "subcategory": "Terebra",
     "category": "Theroid",
     "drops_ground_weapon": true,

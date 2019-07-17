@@ -1,11 +1,11 @@
 {
   "id": "callous-scintimure",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Callous Scintimure",
+    "type": "normal",
     "subcategory": "Scintimure",
     "category": "Piscinoid",
     "level_range": {

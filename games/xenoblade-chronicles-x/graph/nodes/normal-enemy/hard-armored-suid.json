@@ -1,11 +1,11 @@
 {
   "id": "hard-armored-suid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Hard Armored Suid",
+    "type": "normal",
     "subcategory": "Suid",
     "category": "Theroid",
     "drops_ground_weapon": true,

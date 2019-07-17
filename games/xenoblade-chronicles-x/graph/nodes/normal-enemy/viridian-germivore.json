@@ -1,11 +1,11 @@
 {
   "id": "viridian-germivore",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Viridian Germivore",
+    "type": "normal",
     "subcategory": "Germivore",
     "category": "Insectoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "prone-eagle",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Prone Eagle",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

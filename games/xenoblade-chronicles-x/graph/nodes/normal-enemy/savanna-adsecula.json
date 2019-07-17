@@ -1,11 +1,11 @@
 {
   "id": "savanna-adsecula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Savanna Adsecula",
+    "type": "normal",
     "subcategory": "Adsecula",
     "category": "Insectoid",
     "drops_ground_weapon": true,

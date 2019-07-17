@@ -1,11 +1,11 @@
 {
   "id": "jade-falsaxum",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Jade Falsaxum",
+    "type": "normal",
     "subcategory": "Falsaxum",
     "category": "Insectoid",
     "level_range": {

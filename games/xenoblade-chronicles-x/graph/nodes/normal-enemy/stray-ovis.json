@@ -1,11 +1,11 @@
 {
   "id": "stray-ovis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Stray Ovis",
+    "type": "normal",
     "subcategory": "Ovis",
     "category": "Theroid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "ew1SHvVt",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Ruth, the Shunner of Light",
+    "type": "tyrant",
     "level": 42,
     "notes": "\"Ruth, the Shunner of Light\" can be found down near the lava in the Secluded Lava Lake cavern in west Sylvalum. Use ranged attacks to lure it up. If that's too difficult just \"Hop on in and fight him on foot!\" as someone in /vg/ once advised.",
     "category": "Piscinoid",

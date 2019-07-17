@@ -1,11 +1,11 @@
 {
   "id": "marnuck-cutthroat",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Marnuck Cutthroat",
+    "type": "normal",
     "subcategory": "Marnuck",
     "category": "Humanoid",
     "drops_ground_weapon": true,

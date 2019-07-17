@@ -1,11 +1,11 @@
 {
   "id": "sentinel-satellis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sentinel Satellis",
+    "type": "normal",
     "subcategory": "Vita",
     "category": "Mechanoid",
     "level_range": {

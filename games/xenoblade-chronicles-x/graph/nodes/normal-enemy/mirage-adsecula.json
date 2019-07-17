@@ -1,11 +1,11 @@
 {
   "id": "mirage-adsecula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mirage Adsecula",
+    "type": "normal",
     "subcategory": "Adsecula",
     "category": "Insectoid",
     "drops_ground_weapon": true,

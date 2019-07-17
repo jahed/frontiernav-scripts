@@ -1,11 +1,11 @@
 {
   "id": "gehenna-lophid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Gehenna Lophid",
+    "type": "normal",
     "subcategory": "Lophid",
     "category": "Piscinoid",
     "level_range": {

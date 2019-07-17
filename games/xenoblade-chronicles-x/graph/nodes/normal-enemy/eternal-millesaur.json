@@ -1,11 +1,11 @@
 {
   "id": "eternal-millesaur",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Eternal Millesaur",
+    "type": "normal",
     "subcategory": "Millesaur",
     "category": "Theroid",
     "level_range": {

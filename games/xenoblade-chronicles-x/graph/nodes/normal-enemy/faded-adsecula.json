@@ -1,11 +1,11 @@
 {
   "id": "faded-adsecula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Faded Adsecula",
+    "type": "normal",
     "subcategory": "Adsecula",
     "category": "Insectoid",
     "drops_ground_weapon": true,

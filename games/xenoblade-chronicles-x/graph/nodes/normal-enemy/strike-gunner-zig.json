@@ -1,11 +1,11 @@
 {
   "id": "strike-gunner-zig",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Strike Gunner Zig",
+    "type": "normal",
     "subcategory": "Zig",
     "category": "Mechanoid",
     "level_range": {

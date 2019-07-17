@@ -1,11 +1,11 @@
 {
   "id": "prone-rampager",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Prone Rampager",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "prone-vix-beta",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Prone Vix Beta",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "native-ovis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Native Ovis",
+    "type": "normal",
     "subcategory": "Ovis",
     "category": "Theroid",
     "drops_ground_weapon": true,

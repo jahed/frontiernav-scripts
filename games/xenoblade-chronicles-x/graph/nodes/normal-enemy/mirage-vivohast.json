@@ -1,11 +1,11 @@
 {
   "id": "mirage-vivohast",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mirage Vivohast",
+    "type": "normal",
     "subcategory": "Vivohast",
     "category": "Insectoid",
     "drops_ground_weapon": true,

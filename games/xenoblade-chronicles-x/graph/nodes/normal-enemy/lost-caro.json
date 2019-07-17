@@ -1,11 +1,11 @@
 {
   "id": "lost-caro",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lost Caro",
+    "type": "normal",
     "subcategory": "Caro",
     "category": "Theroid",
     "level_range": {

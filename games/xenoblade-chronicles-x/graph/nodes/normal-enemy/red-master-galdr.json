@@ -1,11 +1,11 @@
 {
   "id": "red-master-galdr",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Red Master Galdr",
+    "type": "normal",
     "subcategory": "Galdr",
     "category": "Mechanoid",
     "level_range": {

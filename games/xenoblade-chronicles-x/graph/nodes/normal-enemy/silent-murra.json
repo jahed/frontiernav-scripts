@@ -1,11 +1,11 @@
 {
   "id": "silent-murra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Silent Murra",
+    "type": "normal",
     "subcategory": "Murra",
     "category": "Theroid",
     "drops_ground_weapon": true,

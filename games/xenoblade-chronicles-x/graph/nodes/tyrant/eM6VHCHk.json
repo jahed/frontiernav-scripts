@@ -1,11 +1,11 @@
 {
   "id": "eM6VHCHk",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Shinhwa, the Sagacious",
+    "type": "tyrant",
     "level": 24,
     "notes": "\"Shinhwa, the Sagacious\" rests on a small island in the middle of the lake just north of Decapotamon in central Noctilum.",
     "category": "Theroid",

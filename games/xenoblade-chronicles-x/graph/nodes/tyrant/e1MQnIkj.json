@@ -1,11 +1,11 @@
 {
   "id": "e1MQnIkj",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Belenguer, the Gunhammer",
+    "type": "tyrant",
     "level": 30,
     "notes": "\"Belenguer, the Gunhammer\" can be found near some of the bonelike rocks above King's Falls in Oblivia.",
     "category": "Insectoid",

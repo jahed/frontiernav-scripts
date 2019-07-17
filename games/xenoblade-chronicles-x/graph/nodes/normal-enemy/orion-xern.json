@@ -1,11 +1,11 @@
 {
   "id": "orion-xern",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Orion Xern",
+    "type": "normal",
     "subcategory": "Xern",
     "category": "Mechanoid",
     "level_range": {

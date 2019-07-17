@@ -1,11 +1,11 @@
 {
   "id": "e9P0kEp4",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Poppy, the Pyromaniac",
+    "type": "tyrant",
     "level": 36,
     "category": "Piscinoid",
     "subcategory": "Visigel",

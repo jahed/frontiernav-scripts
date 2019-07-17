@@ -1,11 +1,11 @@
 {
   "id": "nocturnal-vesper",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Nocturnal Vesper",
+    "type": "normal",
     "subcategory": "Vesper",
     "category": "Theroid",
     "drops_ground_weapon": true,

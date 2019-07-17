@@ -1,11 +1,11 @@
 {
   "id": "spear-insidia",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Spear Insidia",
+    "type": "normal",
     "subcategory": "Insidia",
     "category": "Theroid",
     "level_range": {

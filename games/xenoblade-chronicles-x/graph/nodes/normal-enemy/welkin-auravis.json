@@ -1,11 +1,11 @@
 {
   "id": "welkin-auravis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Welkin Auravis",
+    "type": "normal",
     "subcategory": "Auravis",
     "category": "Theroid",
     "drops_ground_weapon": true,

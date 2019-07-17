@@ -1,11 +1,11 @@
 {
   "id": "green-lance-galdr",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Green Lance Galdr",
+    "type": "normal",
     "subcategory": "Galdr",
     "category": "Mechanoid",
     "level_range": {

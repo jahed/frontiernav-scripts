@@ -1,11 +1,11 @@
 {
   "id": "aquatic-sacrifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Aquatic Sacrifole",
+    "type": "normal",
     "subcategory": "Sacrifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

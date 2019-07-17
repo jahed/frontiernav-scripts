@@ -1,11 +1,11 @@
 {
   "id": "plasma-duoguill",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Plasma Duoguill",
+    "type": "normal",
     "subcategory": "Duoguill",
     "category": "Piscinoid",
     "level_range": {

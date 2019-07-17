@@ -1,11 +1,11 @@
 {
   "id": "eGFQVqvW",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Lockhart, the Killer of Hope",
+    "type": "tyrant",
     "level": 52,
     "notes": "\"Lockhart, the Killer of Hope\" rarely appears near at the base of the tree that holds up the gigantic sphere in the south west of Sylvalum.",
     "category": "Insectoid",

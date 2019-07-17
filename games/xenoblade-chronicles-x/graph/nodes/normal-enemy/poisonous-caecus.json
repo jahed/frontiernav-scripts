@@ -1,11 +1,11 @@
 {
   "id": "poisonous-caecus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Poisonous Caecus",
+    "type": "normal",
     "subcategory": "Caecus",
     "category": "Theroid",
     "level_range": {

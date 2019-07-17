@@ -1,11 +1,11 @@
 {
   "id": "eHCcJvQw",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Rajidi, the Cumuliform",
+    "type": "tyrant",
     "level": 52,
     "notes": "\"Rajidi, the Cumuliform\" rarely appears just to the south of the connecting bridge to Oblivia in the far eastern edge of Primordia.",
     "category": "Piscinoid",

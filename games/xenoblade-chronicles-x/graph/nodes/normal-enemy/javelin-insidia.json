@@ -1,11 +1,11 @@
 {
   "id": "javelin-insidia",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Javelin Insidia",
+    "type": "normal",
     "subcategory": "Insidia",
     "category": "Theroid",
     "level_range": {

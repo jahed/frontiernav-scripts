@@ -1,11 +1,11 @@
 {
   "id": "guardian-pugilith",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Guardian Pugilith",
+    "type": "normal",
     "subcategory": "Pugilith",
     "category": "Mechanoid",
     "level_range": {

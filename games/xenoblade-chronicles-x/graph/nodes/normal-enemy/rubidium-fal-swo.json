@@ -1,11 +1,11 @@
 {
   "id": "rubidium-fal-swo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rubidium Fal-swo",
+    "type": "normal",
     "subcategory": "Fal-swo",
     "category": "Mechanoid",
     "level_range": {

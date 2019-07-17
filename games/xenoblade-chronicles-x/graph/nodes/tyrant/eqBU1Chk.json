@@ -1,11 +1,11 @@
 {
   "id": "eqBU1Chk",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Silvestre, the Morning Light",
+    "type": "tyrant",
     "level": 48,
     "notes": "\"Silvestre, the Morning Light\" is at Oblivia's South Coast near the giant ring protruding from the ocean.",
     "category": "Insectoid",

@@ -1,11 +1,11 @@
 {
   "id": "carmine-vesper",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Carmine Vesper",
+    "type": "normal",
     "subcategory": "Vesper",
     "category": "Theroid",
     "drops_ground_weapon": true,

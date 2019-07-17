@@ -1,11 +1,11 @@
 {
   "id": "copper-cinicula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Copper Cinicula",
+    "type": "normal",
     "subcategory": "Cinicula",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "ecb3fovB",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Heidi, the Lively",
+    "type": "tyrant",
     "level": 60,
     "notes": "\"Heidi, the Lively\" can be found at the grassy area north west of Middle Hushflood in Noctilum and is the second half of the pair of Ovis that Pyotr, the Shepherd guards. Heidi can cast Sleep on your entire party.",
     "category": "Theroid",

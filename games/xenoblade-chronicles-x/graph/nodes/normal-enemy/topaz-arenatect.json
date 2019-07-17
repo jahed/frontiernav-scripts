@@ -1,11 +1,11 @@
 {
   "id": "topaz-arenatect",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Topaz Arenatect",
+    "type": "normal",
     "subcategory": "Arenatect",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "electric-scintimure",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Electric Scintimure",
+    "type": "normal",
     "subcategory": "Scintimure",
     "category": "Piscinoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "eXKBLNSn",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Zohan, the thunderbolt",
+    "type": "tyrant",
     "level": 64,
     "notes": "\"Zohan, the thunderbolt\" appears during spores, the blinding weather unique to Sylvalum. It appears above Delusians North Summit at the top of the gigantic blossomed spike plant (quite high in the air). Simply land on the plant, step out of the Skell and use the Return to Skell menu option to refresh the game world in order to quickly cycle through weather states until Spores appear and then fly straight up to meet Zohan (can also land directly on the top spike with some care).",
     "category": "Piscinoid",

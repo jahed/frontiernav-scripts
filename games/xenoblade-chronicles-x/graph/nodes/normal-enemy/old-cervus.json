@@ -1,11 +1,11 @@
 {
   "id": "old-cervus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Old Cervus",
+    "type": "normal",
     "subcategory": "Cervus",
     "category": "Theroid",
     "level_range": {

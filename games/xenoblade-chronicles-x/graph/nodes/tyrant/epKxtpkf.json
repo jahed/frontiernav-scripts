@@ -1,11 +1,11 @@
 {
   "id": "epKxtpkf",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Chantai's Galdr",
+    "type": "tyrant",
     "level": 47,
     "notes": "\"Chantai's Galdr\" patrols the western side of O'rrh Sim Castle Ruins around the ramped areas in Cauldros during the day.",
     "category": "Mechanoid",

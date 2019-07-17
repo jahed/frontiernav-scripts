@@ -1,11 +1,11 @@
 {
   "id": "eYEx3S7x",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Balduino, the Wicked-Eyed",
+    "type": "tyrant",
     "level": 89,
     "notes": "\"Balduino, the Wicked-Eyed\" lives up on the small cliff in the north east part of Divine Roost in Noctilum among many other Aeviters who wait patiently to ambush prey. Balduino is the Aeviter that is closest to the treasure. The crashed chopper it guards requires contains an EZ Debuff Probe (requires Mechanical 4 to salvage).",
     "category": "Insectoid",

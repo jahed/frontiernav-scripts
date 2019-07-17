@@ -1,11 +1,11 @@
 {
   "id": "evil-gerrid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Evil Gerrid",
+    "type": "normal",
     "subcategory": "Gerrid",
     "category": "Insectoid",
     "level_range": {

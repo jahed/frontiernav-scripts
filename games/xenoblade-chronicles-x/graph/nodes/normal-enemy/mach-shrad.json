@@ -1,11 +1,11 @@
 {
   "id": "mach-shrad",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mach Shrad",
+    "type": "normal",
     "subcategory": "Shrad",
     "category": "Mechanoid",
     "level_range": {

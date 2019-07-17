@@ -1,11 +1,11 @@
 {
   "id": "storm-jacul",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Storm Jacul",
+    "type": "normal",
     "subcategory": "Jacul",
     "category": "Theroid",
     "drops_ground_weapon": true,

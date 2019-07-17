@@ -1,11 +1,11 @@
 {
   "id": "marnuck-gatling",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Marnuck Gatling",
+    "type": "normal",
     "subcategory": "Marnuck",
     "category": "Humanoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "frenzy-coronid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Frenzy Coronid",
+    "type": "normal",
     "subcategory": "Coronid",
     "category": "Theroid",
     "level_range": {

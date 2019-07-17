@@ -1,11 +1,11 @@
 {
   "id": "gale-auravis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Gale Auravis",
+    "type": "normal",
     "subcategory": "Auravis",
     "category": "Theroid",
     "drops_ground_weapon": true,

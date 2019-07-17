@@ -1,11 +1,11 @@
 {
   "id": "revolver-eagle-galdr",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Revolver Eagle Galdr",
+    "type": "normal",
     "subcategory": "Galdr",
     "category": "Mechanoid",
     "level_range": {

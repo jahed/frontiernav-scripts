@@ -1,11 +1,11 @@
 {
   "id": "eTeUrtT7",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Eddy, the Electric Heat",
+    "type": "tyrant",
     "level": 43,
     "notes": "\"Eddy, the Electric Heat\" swims close to the lava underneath the rocky arch that holds up Titans Table in west Cauldros.",
     "category": "Piscinoid",

@@ -1,11 +1,11 @@
 {
   "id": "western-suid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Western Suid",
+    "type": "normal",
     "subcategory": "Suid",
     "category": "Theroid",
     "drops_ground_weapon": true,

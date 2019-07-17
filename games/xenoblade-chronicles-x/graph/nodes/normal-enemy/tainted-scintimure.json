@@ -1,11 +1,11 @@
 {
   "id": "tainted-scintimure",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Tainted Scintimure",
+    "type": "normal",
     "subcategory": "Tainted",
     "category": "Piscinoid",
     "level_range": {

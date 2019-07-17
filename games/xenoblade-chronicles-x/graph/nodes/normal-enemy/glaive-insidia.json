@@ -1,11 +1,11 @@
 {
   "id": "glaive-insidia",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Glaive Insidia",
+    "type": "normal",
     "subcategory": "Insidia",
     "category": "Theroid",
     "level_range": {

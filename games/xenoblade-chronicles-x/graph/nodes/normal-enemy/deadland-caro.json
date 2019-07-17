@@ -1,11 +1,11 @@
 {
   "id": "deadland-caro",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Deadland Caro",
+    "type": "normal",
     "subcategory": "Caro",
     "category": "Theroid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "mighty-virago",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mighty Virago",
+    "type": "normal",
     "subcategory": "Virago",
     "category": "Theroid",
     "level_range": {

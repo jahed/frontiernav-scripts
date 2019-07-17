@@ -1,11 +1,11 @@
 {
   "id": "fighter-pugilith",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Fighter Pugilith",
+    "type": "normal",
     "subcategory": "Pugilith",
     "category": "Mechanoid",
     "level_range": {

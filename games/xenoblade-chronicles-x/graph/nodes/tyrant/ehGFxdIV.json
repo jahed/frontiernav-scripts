@@ -1,11 +1,11 @@
 {
   "id": "ehGFxdIV",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Tourteau, the Delectable",
+    "type": "tyrant",
     "level": 8,
     "notes": "\"Tourteau, the Delectable\" can be found at night on the eastern half of the beach near the East Gate Plains in Primordia.",
     "category": "Insectoid",

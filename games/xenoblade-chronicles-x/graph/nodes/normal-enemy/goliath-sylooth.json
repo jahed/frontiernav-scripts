@@ -1,11 +1,11 @@
 {
   "id": "goliath-sylooth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Goliath Sylooth",
+    "type": "normal",
     "subcategory": "Sylooth",
     "category": "Humanoid",
     "level_range": {

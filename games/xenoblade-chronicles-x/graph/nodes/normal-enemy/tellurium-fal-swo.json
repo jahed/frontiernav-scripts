@@ -1,11 +1,11 @@
 {
   "id": "tellurium-fal-swo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Tellurium Fal-swo",
+    "type": "normal",
     "subcategory": "Fal-swo",
     "category": "Mechanoid",
     "level_range": {

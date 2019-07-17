@@ -1,11 +1,11 @@
 {
   "id": "volcannon-monoceros",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Volcannon Monoceros",
+    "type": "normal",
     "subcategory": "Monoceros",
     "category": "Theroid",
     "drops_ground_weapon": true,

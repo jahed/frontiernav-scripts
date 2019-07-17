@@ -1,11 +1,11 @@
 {
   "id": "laser-raptor-seidr",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Laser Raptor Seidr",
+    "type": "normal",
     "subcategory": "Seidr",
     "category": "Mechanoid",
     "level_range": {

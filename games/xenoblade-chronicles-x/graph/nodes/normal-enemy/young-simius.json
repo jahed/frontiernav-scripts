@@ -1,11 +1,11 @@
 {
   "id": "young-simius",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Young Simius",
+    "type": "normal",
     "subcategory": "Simius",
     "category": "Theroid",
     "drops_ground_weapon": true,

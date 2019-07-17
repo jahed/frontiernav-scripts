@@ -1,11 +1,11 @@
 {
   "id": "raven-turba",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Raven Turba",
+    "type": "normal",
     "subcategory": "Turba",
     "category": "Insectoid",
     "drops_ground_weapon": true,

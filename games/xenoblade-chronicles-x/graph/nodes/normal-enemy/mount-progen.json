@@ -1,11 +1,11 @@
 {
   "id": "mount-progen",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mount Progen",
+    "type": "normal",
     "subcategory": "Progen",
     "category": "Theroid",
     "drops_ground_weapon": true,

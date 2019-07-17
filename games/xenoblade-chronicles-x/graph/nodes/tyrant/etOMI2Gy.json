@@ -1,11 +1,11 @@
 {
   "id": "etOMI2Gy",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Elaine, the Lunar Eclipse",
+    "type": "tyrant",
     "level": 55,
     "notes": "\"Elaine, the Lunar Eclipse\" appears during the night to fly around in the north west corner of Lake Basel in Oblivia.",
     "category": "Piscinoid",

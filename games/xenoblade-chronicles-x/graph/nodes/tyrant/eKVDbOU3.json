@@ -1,11 +1,11 @@
 {
   "id": "eKVDbOU3",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Chantai, the Insect Maiden",
+    "type": "tyrant",
     "level": 38,
     "notes": "\"Chantai, the Insect Maiden\" can be found at night in the saucer high above Abandoned Bivouac in the north of Cauldros.",
     "category": "Humanoid",

@@ -1,11 +1,11 @@
 {
   "id": "striker-simius",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Striker Simius",
+    "type": "normal",
     "subcategory": "Simius",
     "category": "Theroid",
     "drops_ground_weapon": true,

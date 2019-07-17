@@ -1,11 +1,11 @@
 {
   "id": "hunter-dilus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Hunter Dilus",
+    "type": "normal",
     "subcategory": "Dilus",
     "category": "Theroid",
     "level_range": {

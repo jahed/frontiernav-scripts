@@ -1,11 +1,11 @@
 {
   "id": "spinel-forfex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Spinel Forfex",
+    "type": "normal",
     "subcategory": "Forfex",
     "category": "Insectoid",
     "level_range": {

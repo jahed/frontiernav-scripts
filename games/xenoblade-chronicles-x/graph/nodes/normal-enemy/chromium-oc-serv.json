@@ -1,11 +1,11 @@
 {
   "id": "chromium-oc-serv",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Chromium Oc-serv",
+    "type": "normal",
     "subcategory": "Oc-serv",
     "category": "Mechanoid",
     "level_range": {

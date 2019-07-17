@@ -1,11 +1,11 @@
 {
   "id": "sea-balaena",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sea Balaena",
+    "type": "normal",
     "subcategory": "Balaena",
     "category": "Piscinoid",
     "level_range": {

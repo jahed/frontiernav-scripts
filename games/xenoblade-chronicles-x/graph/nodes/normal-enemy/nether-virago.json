@@ -1,11 +1,11 @@
 {
   "id": "nether-virago",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Nether Virago",
+    "type": "normal",
     "subcategory": "Virago",
     "category": "Theroid",
     "level_range": {

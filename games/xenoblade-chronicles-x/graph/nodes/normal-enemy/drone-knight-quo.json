@@ -1,11 +1,11 @@
 {
   "id": "drone-knight-quo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Drone Knight Quo",
+    "type": "normal",
     "subcategory": "Quo",
     "category": "Mechanoid",
     "level_range": {

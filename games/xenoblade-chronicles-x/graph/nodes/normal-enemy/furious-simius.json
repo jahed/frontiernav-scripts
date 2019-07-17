@@ -1,11 +1,11 @@
 {
   "id": "furious-simius",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Furious Simius",
+    "type": "normal",
     "subcategory": "Simius",
     "category": "Theroid",
     "drops_ground_weapon": true,

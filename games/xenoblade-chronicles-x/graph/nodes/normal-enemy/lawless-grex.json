@@ -1,11 +1,11 @@
 {
   "id": "lawless-grex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lawless Grex",
+    "type": "normal",
     "subcategory": "Grex",
     "category": "Theroid",
     "level_range": {

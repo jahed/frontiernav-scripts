@@ -1,11 +1,11 @@
 {
   "id": "e41seEBe",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Ferdinand, the Fortuitus",
+    "type": "tyrant",
     "level": 28,
     "notes": "\"Ferdinand, the Fortuitus\"  is joyfully rolling around in the shadows of a bone filled passage near Lake Basel in Oblivia.",
     "category": "Theroid",

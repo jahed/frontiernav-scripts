@@ -1,11 +1,11 @@
 {
   "id": "steel-suid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Steel Suid",
+    "type": "normal",
     "subcategory": "Suid",
     "category": "Theroid",
     "drops_ground_weapon": true,

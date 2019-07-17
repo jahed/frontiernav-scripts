@@ -1,11 +1,11 @@
 {
   "id": "cobalt-germivore",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cobalt Germivore",
+    "type": "normal",
     "subcategory": "Germivore",
     "category": "Insectoid",
     "drops_ground_weapon": true,

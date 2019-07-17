@@ -1,11 +1,11 @@
 {
   "id": "eMNc9Yi5",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Ludvik, the Picky Eater",
+    "type": "tyrant",
     "level": 29,
     "notes": "\"Ludvik, the Picky Eater\" appears during the day in the centre of Keegans Ridge in Oblivia.",
     "category": "Theroid",

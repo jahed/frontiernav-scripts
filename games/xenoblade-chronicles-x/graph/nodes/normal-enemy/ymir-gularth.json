@@ -1,11 +1,11 @@
 {
   "id": "ymir-gularth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Ymir Gularth",
+    "type": "normal",
     "subcategory": "Gularth",
     "category": "Humanoid",
     "level_range": {

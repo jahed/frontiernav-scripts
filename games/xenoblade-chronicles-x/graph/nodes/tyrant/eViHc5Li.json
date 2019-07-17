@@ -1,11 +1,11 @@
 {
   "id": "eViHc5Li",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Dawid, the Destrier",
+    "type": "tyrant",
     "level": 44,
     "notes": "\"Dawid, the Destrier\" can be found up on the mountain that divides White Phosphor Lake and Emerian Battlegrounds in the west side of Cauldros.",
     "category": "Theroid",

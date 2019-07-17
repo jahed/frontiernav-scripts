@@ -1,11 +1,11 @@
 {
   "id": "viridian-monoceros",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Viridian Monoceros",
+    "type": "normal",
     "subcategory": "Monoceros",
     "category": "Theroid",
     "drops_ground_weapon": true,

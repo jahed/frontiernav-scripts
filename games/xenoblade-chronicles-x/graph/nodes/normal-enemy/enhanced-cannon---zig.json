@@ -1,11 +1,11 @@
 {
   "id": "enhanced-cannon---zig",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Enhanced Cannon ? Zig",
+    "type": "normal",
     "subcategory": "Zig",
     "category": "Mechanoid",
     "level_range": {

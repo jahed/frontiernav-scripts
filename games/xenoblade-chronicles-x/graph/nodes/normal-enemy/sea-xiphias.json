@@ -1,11 +1,11 @@
 {
   "id": "sea-xiphias",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sea Xiphias",
+    "type": "normal",
     "subcategory": "Xiphias",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

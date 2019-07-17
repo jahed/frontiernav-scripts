@@ -1,11 +1,11 @@
 {
   "id": "volcannon-cinicula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Volcannon Cinicula",
+    "type": "normal",
     "subcategory": "Cinicula",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "rhenium-fal-swo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rhenium Fal-swo",
+    "type": "normal",
     "subcategory": "Fal-swo",
     "category": "Mechanoid",
     "level_range": {

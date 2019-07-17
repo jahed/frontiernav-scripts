@@ -1,11 +1,11 @@
 {
   "id": "eAPZpcdl",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Bressole, the Fugitive",
+    "type": "tyrant",
     "level": 55,
     "notes": "\"Bressole, the Fugitive\" resides on a tiny island at the bottom right corner of the world map. There is a pair of dangerous Ocean Balaena's on the same small island but Bressole can be fought without aggravating either one if you're careful.",
     "category": "Theroid",

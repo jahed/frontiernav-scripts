@@ -1,11 +1,11 @@
 {
   "id": "dagger-pugilith",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Dagger Pugilith",
+    "type": "normal",
     "subcategory": "Pugilith",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "white-ovis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "White Ovis",
+    "type": "normal",
     "subcategory": "Ovis",
     "category": "Theroid",
     "drops_ground_weapon": true,

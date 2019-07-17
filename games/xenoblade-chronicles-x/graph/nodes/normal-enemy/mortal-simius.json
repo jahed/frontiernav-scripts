@@ -1,11 +1,11 @@
 {
   "id": "mortal-simius",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mortal Simius",
+    "type": "normal",
     "subcategory": "Simius",
     "category": "Theroid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "howitzer-gunner-zig",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Howitzer Gunner Zig",
+    "type": "normal",
     "subcategory": "Zig",
     "category": "Mechanoid",
     "level_range": {

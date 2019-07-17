@@ -1,11 +1,11 @@
 {
   "id": "electro-duoguill",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Electro Duoguill",
+    "type": "normal",
     "subcategory": "Duoguill",
     "category": "Piscinoid",
     "level_range": {

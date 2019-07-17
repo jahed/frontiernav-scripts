@@ -1,11 +1,11 @@
 {
   "id": "eSTn9LsE",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Seti, the Light of Stars",
+    "type": "tyrant",
     "level": 50,
     "notes": "\"Seti, the Light of Stars\" appears during the night at the hidden spring \"whale's weeper\" in the southern part of Noctilum. Whale's weeper can be entered from a small side path at waterway tangle just to the east of Old Dragontail Tree.",
     "category": "Theroid",

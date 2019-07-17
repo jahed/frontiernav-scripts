@@ -1,11 +1,11 @@
 {
   "id": "cliff-monoceros",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cliff Monoceros",
+    "type": "normal",
     "subcategory": "Monoceros",
     "category": "Theroid",
     "drops_ground_weapon": true,

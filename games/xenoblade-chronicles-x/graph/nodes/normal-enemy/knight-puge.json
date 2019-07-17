@@ -1,11 +1,11 @@
 {
   "id": "knight-puge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Knight Puge",
+    "type": "normal",
     "subcategory": "Puge",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "duel-emperor-qmoeva",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Duel Emperor Qmoeva",
+    "type": "normal",
     "subcategory": "Qmoeva",
     "category": "Mechanoid",
     "level_range": {

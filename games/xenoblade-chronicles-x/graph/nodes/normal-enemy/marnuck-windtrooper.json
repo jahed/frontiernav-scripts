@@ -1,11 +1,11 @@
 {
   "id": "marnuck-windtrooper",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Marnuck Windtrooper",
+    "type": "normal",
     "subcategory": "Marnuck",
     "category": "Humanoid",
     "drops_ground_weapon": true,

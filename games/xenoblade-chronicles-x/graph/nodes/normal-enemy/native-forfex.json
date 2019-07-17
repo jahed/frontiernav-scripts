@@ -1,11 +1,11 @@
 {
   "id": "native-forfex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Native Forfex",
+    "type": "normal",
     "subcategory": "Forfex",
     "category": "Insectoid",
     "level_range": {

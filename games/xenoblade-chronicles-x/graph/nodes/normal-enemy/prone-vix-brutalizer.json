@@ -1,11 +1,11 @@
 {
   "id": "prone-vix-brutalizer",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Prone Vix Brutalizer",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

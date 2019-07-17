@@ -1,11 +1,11 @@
 {
   "id": "rock-potamus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rock Potamus",
+    "type": "normal",
     "subcategory": "Potamus",
     "category": "Theroid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "dazzling-liceor",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Dazzling Liceor",
+    "type": "normal",
     "subcategory": "Liceor",
     "category": "Theroid",
     "drops_ground_weapon": true,

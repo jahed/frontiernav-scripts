@@ -1,11 +1,11 @@
 {
   "id": "ocean-forfex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Ocean Forfex",
+    "type": "normal",
     "subcategory": "Forfex",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "star-cinicula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Star Cinicula",
+    "type": "normal",
     "subcategory": "Cinicula",
     "category": "Insectoid",
     "level_range": {

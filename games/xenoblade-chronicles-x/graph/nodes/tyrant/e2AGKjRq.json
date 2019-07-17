@@ -1,11 +1,11 @@
 {
   "id": "e2AGKjRq",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Etutanne, the Bloodthirsty",
+    "type": "tyrant",
     "level": 33,
     "notes": "\"Etutanne, the Bloodthirsty\" can be seen in the air as it hovers above the swampy pit that is Silent Mire in east Primordia.",
     "category": "Insectoid",

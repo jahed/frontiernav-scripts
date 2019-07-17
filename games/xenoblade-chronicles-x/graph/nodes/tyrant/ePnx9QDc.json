@@ -1,11 +1,11 @@
 {
   "id": "ePnx9QDc",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Lyla, the Lustrous",
+    "type": "tyrant",
     "level": 44,
     "notes": "\"Lyla, the Lustrous\" guards the archaeological treasure in the south west corner of the largest room in the Den of the Dead cave in Sylvalum and will ambush those who go near it.",
     "category": "Humanoid",

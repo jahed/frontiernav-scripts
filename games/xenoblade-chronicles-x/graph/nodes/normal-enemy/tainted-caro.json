@@ -1,11 +1,11 @@
 {
   "id": "tainted-caro",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Tainted Caro",
+    "type": "normal",
     "subcategory": "Tainted",
     "category": "Theroid",
     "level_range": {

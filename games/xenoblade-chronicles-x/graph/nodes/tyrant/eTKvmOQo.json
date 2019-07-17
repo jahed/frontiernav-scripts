@@ -1,11 +1,11 @@
 {
   "id": "eTKvmOQo",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Polaris, the Firmamental",
+    "type": "tyrant",
     "level": 63,
     "notes": "\"Polaris, the Firmamental\" can be found during the night above the spiky building near Ruined City of O'rrh Sim in northern Cauldros.",
     "category": "Piscinoid",

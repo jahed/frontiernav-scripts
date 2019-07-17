@@ -1,11 +1,11 @@
 {
   "id": "huge-potamus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Huge Potamus",
+    "type": "normal",
     "subcategory": "Potamus",
     "category": "Theroid",
     "level_range": {

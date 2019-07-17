@@ -1,11 +1,11 @@
 {
   "id": "young-grex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Young Grex",
+    "type": "normal",
     "subcategory": "Grex",
     "category": "Theroid",
     "level_range": {

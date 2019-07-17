@@ -1,11 +1,11 @@
 {
   "id": "eG9iTU5u",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Olegario, the Iron-Helmed",
+    "type": "tyrant",
     "level": 50,
     "notes": "\"Olegario, the Iron-Helmed\" appears during the night at the hidden spring \"whale's weeper\" in the southern part of Noctilum. Whale's weeper can be entered from a small side path at waterway tangle just to the east of Old Dragontail Tree.",
     "category": "Theroid",

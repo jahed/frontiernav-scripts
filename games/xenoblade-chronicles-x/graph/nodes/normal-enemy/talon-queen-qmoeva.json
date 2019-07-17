@@ -1,11 +1,11 @@
 {
   "id": "talon-queen-qmoeva",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Talon Queen Qmoeva",
+    "type": "normal",
     "subcategory": "Qmoeva",
     "category": "Mechanoid",
     "level_range": {

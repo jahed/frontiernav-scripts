@@ -1,11 +1,11 @@
 {
   "id": "ef6SGtxH",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Blaudolch, the Chalcedony",
+    "type": "tyrant",
     "level": 20,
     "notes": "\"Blaudolch, the Chalcedony\" can be found resting at Seabird's Beak in the south of Sylvalum (in the same segment as FN Site 403).",
     "category": "Theroid",

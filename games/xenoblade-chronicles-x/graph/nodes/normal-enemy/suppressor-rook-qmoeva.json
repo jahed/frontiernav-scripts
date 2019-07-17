@@ -1,11 +1,11 @@
 {
   "id": "suppressor-rook-qmoeva",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Suppressor Rook Qmoeva",
+    "type": "normal",
     "subcategory": "Qmoeva",
     "category": "Mechanoid",
     "level_range": {

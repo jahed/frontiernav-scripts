@@ -1,11 +1,11 @@
 {
   "id": "witch-papil",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Witch Papil",
+    "type": "normal",
     "subcategory": "Papil",
     "category": "Insectoid",
     "drops_ground_weapon": true,

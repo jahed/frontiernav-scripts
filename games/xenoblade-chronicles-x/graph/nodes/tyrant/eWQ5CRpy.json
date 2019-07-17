@@ -1,11 +1,11 @@
 {
   "id": "eWQ5CRpy",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Edgardo, the Carefree",
+    "type": "tyrant",
     "level": 18,
     "notes": "\"Edgardo, the Carefree\" cleverly pretends to be simple tree branches clinging to a stone tower at Oblivias North Coast area and strikes when prey comes too close.",
     "category": "Insectoid",

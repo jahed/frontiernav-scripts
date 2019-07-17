@@ -1,11 +1,11 @@
 {
   "id": "lazuli-forfex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lazuli Forfex",
+    "type": "normal",
     "subcategory": "Forfex",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "drone-rook-quo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Drone Rook Quo",
+    "type": "normal",
     "subcategory": "Quo",
     "category": "Mechanoid",
     "level_range": {

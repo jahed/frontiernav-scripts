@@ -1,11 +1,11 @@
 {
   "id": "vermilion-insidia",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Vermilion Insidia",
+    "type": "normal",
     "subcategory": "Insidia",
     "category": "Theroid",
     "level_range": {

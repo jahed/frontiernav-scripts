@@ -1,11 +1,11 @@
 {
   "id": "tornado-jacul",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Tornado Jacul",
+    "type": "normal",
     "subcategory": "Jacul",
     "category": "Theroid",
     "drops_ground_weapon": true,

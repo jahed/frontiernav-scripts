@@ -1,11 +1,11 @@
 {
   "id": "selenium-oc-serv",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Selenium Oc-serv",
+    "type": "normal",
     "subcategory": "Oc-serv",
     "category": "Mechanoid",
     "level_range": {

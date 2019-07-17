@@ -1,11 +1,11 @@
 {
   "id": "coral-forfex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Coral Forfex",
+    "type": "normal",
     "subcategory": "Forfex",
     "category": "Insectoid",
     "level_range": {

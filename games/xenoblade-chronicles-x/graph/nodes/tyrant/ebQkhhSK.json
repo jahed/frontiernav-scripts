@@ -1,11 +1,11 @@
 {
   "id": "ebQkhhSK",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Sirene, the Lost",
+    "type": "tyrant",
     "level": 13,
     "notes": "\"Sirene, the Lost\" is a long legged Lepyx that can be found halfway between East Gate Plain and Sickle Rock Rise in east Primordia (near FN Site 114).",
     "category": "Theroid",

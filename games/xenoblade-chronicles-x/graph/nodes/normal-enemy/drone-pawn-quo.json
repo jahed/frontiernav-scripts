@@ -1,11 +1,11 @@
 {
   "id": "drone-pawn-quo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Drone Pawn Quo",
+    "type": "normal",
     "subcategory": "Quo",
     "category": "Mechanoid",
     "level_range": {

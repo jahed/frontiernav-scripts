@@ -1,11 +1,11 @@
 {
   "id": "eZVAABnX",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Agnes, the Divine-Scaled",
+    "type": "tyrant",
     "level": 67,
     "notes": "\"Agnes, the Divine-Scaled\" can be found around a heavy concentration of rocks in the lava between Titan's Table and Dragonebone Promontory in Cauldros.",
     "category": "Theroid",

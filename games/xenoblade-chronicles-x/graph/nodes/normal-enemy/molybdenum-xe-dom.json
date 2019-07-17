@@ -1,11 +1,11 @@
 {
   "id": "molybdenum-xe-dom",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Molybdenum Xe-dom",
+    "type": "normal",
     "subcategory": "Xe-dom",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "blood-duoguill",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Blood Duoguill",
+    "type": "normal",
     "subcategory": "Duoguill",
     "category": "Piscinoid",
     "level_range": {

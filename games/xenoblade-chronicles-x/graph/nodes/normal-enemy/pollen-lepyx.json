@@ -1,11 +1,11 @@
 {
   "id": "pollen-lepyx",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pollen Lepyx",
+    "type": "normal",
     "subcategory": "Lepyx",
     "category": "Theroid",
     "level_range": {

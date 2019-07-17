@@ -1,11 +1,11 @@
 {
   "id": "milsaadi-protobattler",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Milsaadi Protobattler",
+    "type": "normal",
     "subcategory": "Milsaadi",
     "category": "Humanoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "enNs2fXv",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Alfombra, the Transcendent",
+    "type": "tyrant",
     "level": 14,
     "notes": "\"Alfombra, the Transcendent\" is a cheeky rock turtle kind of thing hiding in the ground and waiting for travellers passing through Humdrum Peaks in southern Noctilum.",
     "category": "Insectoid",

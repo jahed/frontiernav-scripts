@@ -1,11 +1,11 @@
 {
   "id": "silhouette-tectinsula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Silhouette Tectinsula",
+    "type": "normal",
     "subcategory": "Tectinsula",
     "category": "Insectoid",
     "level_range": {

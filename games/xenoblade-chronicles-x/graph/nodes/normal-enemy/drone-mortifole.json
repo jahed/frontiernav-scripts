@@ -1,11 +1,11 @@
 {
   "id": "drone-mortifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Drone Mortifole",
+    "type": "normal",
     "subcategory": "Mortifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

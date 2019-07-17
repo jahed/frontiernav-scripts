@@ -1,11 +1,11 @@
 {
   "id": "milsaadi-herald",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Milsaadi Herald",
+    "type": "normal",
     "subcategory": "Milsaadi",
     "category": "Humanoid",
     "drops_ground_weapon": true,

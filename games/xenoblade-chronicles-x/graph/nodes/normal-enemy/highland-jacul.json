@@ -1,11 +1,11 @@
 {
   "id": "highland-jacul",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Highland Jacul",
+    "type": "normal",
     "subcategory": "Jacul",
     "category": "Theroid",
     "drops_ground_weapon": true,

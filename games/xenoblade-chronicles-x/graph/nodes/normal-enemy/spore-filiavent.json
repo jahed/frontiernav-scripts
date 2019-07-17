@@ -1,11 +1,11 @@
 {
   "id": "spore-filiavent",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Spore Filiavent",
+    "type": "normal",
     "subcategory": "Filiavent",
     "category": "Piscinoid",
     "level_range": {

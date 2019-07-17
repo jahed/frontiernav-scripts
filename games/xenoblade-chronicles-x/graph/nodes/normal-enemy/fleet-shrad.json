@@ -1,11 +1,11 @@
 {
   "id": "fleet-shrad",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Fleet Shrad",
+    "type": "normal",
     "subcategory": "Shrad",
     "category": "Mechanoid",
     "level_range": {

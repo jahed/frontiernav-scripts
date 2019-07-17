@@ -1,11 +1,11 @@
 {
   "id": "fiendish-virago",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Fiendish Virago",
+    "type": "normal",
     "subcategory": "Virago",
     "category": "Theroid",
     "level_range": {

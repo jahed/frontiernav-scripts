@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Basic Probe",
-    "type": 0,
+    "type": "basic",
     "attributes": {
       "production_multiplier": 0.5,
       "revenue_multiplier": 0.5

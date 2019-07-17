@@ -1,11 +1,11 @@
 {
   "id": "ancient-coronid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Ancient Coronid",
+    "type": "normal",
     "subcategory": "Coronid",
     "category": "Theroid",
     "level_range": {

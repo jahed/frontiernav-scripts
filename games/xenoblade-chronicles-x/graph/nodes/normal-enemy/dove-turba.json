@@ -1,11 +1,11 @@
 {
   "id": "dove-turba",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Dove Turba",
+    "type": "normal",
     "subcategory": "Turba",
     "category": "Insectoid",
     "drops_ground_weapon": true,

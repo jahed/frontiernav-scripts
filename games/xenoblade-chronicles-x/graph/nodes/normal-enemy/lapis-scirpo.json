@@ -1,11 +1,11 @@
 {
   "id": "lapis-scirpo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lapis Scirpo",
+    "type": "normal",
     "subcategory": "Scirpo",
     "category": "Insectoid",
     "drops_ground_weapon": true,

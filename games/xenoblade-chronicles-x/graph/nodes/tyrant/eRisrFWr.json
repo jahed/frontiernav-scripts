@@ -1,11 +1,11 @@
 {
   "id": "eRisrFWr",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Kringe, the Hunting Arrow",
+    "type": "tyrant",
     "level": 40,
     "notes": "\"Kringe, the Hunting Arrow\" appears on the bridge to the west of Titans Table.",
     "category": "Theroid",

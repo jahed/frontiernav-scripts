@@ -1,11 +1,11 @@
 {
   "id": "territorial-sylooth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Territorial Sylooth",
+    "type": "normal",
     "subcategory": "Sylooth",
     "category": "Humanoid",
     "level_range": {

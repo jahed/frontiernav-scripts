@@ -1,11 +1,11 @@
 {
   "id": "multi-knight-qmoeva",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Multi Knight Qmoeva",
+    "type": "normal",
     "subcategory": "Qmoeva",
     "category": "Mechanoid",
     "level_range": {

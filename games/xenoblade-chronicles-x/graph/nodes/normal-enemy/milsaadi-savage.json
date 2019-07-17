@@ -1,11 +1,11 @@
 {
   "id": "milsaadi-savage",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Milsaadi Savage",
+    "type": "normal",
     "subcategory": "Milsaadi",
     "category": "Humanoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "sandy-sabula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sandy Sabula",
+    "type": "normal",
     "subcategory": "Sabula",
     "category": "Insectoid",
     "drops_ground_weapon": true,

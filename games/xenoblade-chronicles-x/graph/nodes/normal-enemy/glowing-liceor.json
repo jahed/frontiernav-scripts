@@ -1,11 +1,11 @@
 {
   "id": "glowing-liceor",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Glowing Liceor",
+    "type": "normal",
     "subcategory": "Liceor",
     "category": "Theroid",
     "drops_ground_weapon": true,

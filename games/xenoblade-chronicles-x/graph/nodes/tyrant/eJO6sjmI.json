@@ -1,11 +1,11 @@
 {
   "id": "eJO6sjmI",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Shatskikh, the Flash",
+    "type": "tyrant",
     "level": 25,
     "notes": "\"Shatskikh, the Flash\" rarely appears at Northpointe Cove in Primordia. A trick to get rare Tyrants to appear is to move far enough away that the indigens disappear and then move back in closer to make the game load them again and repeat until it decides to load Shatskihk instead of a regular Sea Xiphias.",
     "category": "Piscinoid",

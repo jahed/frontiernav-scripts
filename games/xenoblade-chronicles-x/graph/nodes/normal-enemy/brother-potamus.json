@@ -1,11 +1,11 @@
 {
   "id": "brother-potamus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Brother Potamus",
+    "type": "normal",
     "subcategory": "Potamus",
     "category": "Theroid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "droll-saltat",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Droll Saltat",
+    "type": "normal",
     "subcategory": "Saltat",
     "category": "Theroid",
     "drops_ground_weapon": true,

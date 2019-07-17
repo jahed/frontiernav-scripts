@@ -1,11 +1,11 @@
 {
   "id": "canyon-sylooth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Canyon Sylooth",
+    "type": "normal",
     "subcategory": "Sylooth",
     "category": "Humanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "impish-mephite",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Impish Mephite",
+    "type": "normal",
     "subcategory": "Mephite",
     "category": "Theroid",
     "drops_ground_weapon": true,

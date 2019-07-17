@@ -1,11 +1,11 @@
 {
   "id": "e9h0xkHW",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Baabara, the Evangelical",
+    "type": "tyrant",
     "level": 12,
     "notes": "\"Baabara, the Evangelical\" can be found grazing during the day among several other sheep-like Ovis to the south east of Janpath Lake in Primorida. Specifically the Ovis are directly east of the basecamp south of Janpath Lake. The shelter at the nearby basecamp can be used to change the time of day if needed.",
     "category": "Theroid",

@@ -1,11 +1,11 @@
 {
   "id": "land-caecus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Land Caecus",
+    "type": "normal",
     "subcategory": "Caecus",
     "category": "Theroid",
     "level_range": {

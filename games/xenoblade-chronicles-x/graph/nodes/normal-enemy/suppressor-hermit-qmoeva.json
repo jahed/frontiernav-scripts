@@ -1,11 +1,11 @@
 {
   "id": "suppressor-hermit-qmoeva",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Suppressor Hermit Qmoeva",
+    "type": "normal",
     "subcategory": "Qmoeva",
     "category": "Mechanoid",
     "level_range": {

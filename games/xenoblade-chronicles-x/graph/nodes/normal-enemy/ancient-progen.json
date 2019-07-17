@@ -1,11 +1,11 @@
 {
   "id": "ancient-progen",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Ancient Progen",
+    "type": "normal",
     "subcategory": "Progen",
     "category": "Theroid",
     "drops_ground_weapon": true,

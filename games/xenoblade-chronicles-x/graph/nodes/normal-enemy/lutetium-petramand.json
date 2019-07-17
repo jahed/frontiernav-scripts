@@ -1,11 +1,11 @@
 {
   "id": "lutetium-petramand",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lutetium Petramand",
+    "type": "normal",
     "subcategory": "Petramand",
     "category": "Insectoid",
     "level_range": {

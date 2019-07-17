@@ -1,11 +1,11 @@
 {
   "id": "valiant-ceto",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Valiant Ceto",
+    "type": "normal",
     "subcategory": "Ceto",
     "category": "Piscinoid",
     "level_range": {

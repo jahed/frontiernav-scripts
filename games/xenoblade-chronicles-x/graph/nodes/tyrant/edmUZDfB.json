@@ -1,11 +1,11 @@
 {
   "id": "edmUZDfB",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Armored Cruiser Seidr",
+    "type": "tyrant",
     "level": 61,
     "notes": "\"Armored Cruiser Seidr\" will appear during the day near a large Guide Eagle Galdr that is parked on the top of the outer ring of the ganglion weapons hanger. Specifically the parked Guide Eagle Galdr that is on the southeast quadrant, not the Galdr along the south.",
     "category": "Mechanoid",

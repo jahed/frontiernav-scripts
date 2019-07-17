@@ -1,11 +1,11 @@
 {
   "id": "bacchanal-scirpo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bacchanal Scirpo",
+    "type": "normal",
     "subcategory": "Scirpo",
     "category": "Insectoid",
     "drops_ground_weapon": true,

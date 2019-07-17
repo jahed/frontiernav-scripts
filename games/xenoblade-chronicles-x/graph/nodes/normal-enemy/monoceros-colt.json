@@ -1,11 +1,11 @@
 {
   "id": "monoceros-colt",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Monoceros Colt",
+    "type": "normal",
     "subcategory": "Monoceros",
     "category": "Theroid",
     "drops_ground_weapon": true,

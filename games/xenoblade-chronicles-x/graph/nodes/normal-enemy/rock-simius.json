@@ -1,11 +1,11 @@
 {
   "id": "rock-simius",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rock Simius",
+    "type": "normal",
     "subcategory": "Simius",
     "category": "Theroid",
     "drops_ground_weapon": true,

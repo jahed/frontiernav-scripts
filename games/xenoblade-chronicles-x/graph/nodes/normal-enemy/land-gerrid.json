@@ -1,11 +1,11 @@
 {
   "id": "land-gerrid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Land Gerrid",
+    "type": "normal",
     "subcategory": "Gerrid",
     "category": "Insectoid",
     "level_range": {

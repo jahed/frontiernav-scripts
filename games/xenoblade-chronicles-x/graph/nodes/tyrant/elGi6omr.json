@@ -1,11 +1,11 @@
 {
   "id": "elGi6omr",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Daril's Qmoeva",
+    "type": "tyrant",
     "level": 54,
     "notes": "\"Daril's Qmoeva\" can found during the day investigating starfall basin, the area where you first woke up on Mira, in the southwest corner of Primordia.",
     "category": "Mechanoid",

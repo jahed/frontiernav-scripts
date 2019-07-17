@@ -1,11 +1,11 @@
 {
   "id": "volcannon-tersqual",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Volcannon Tersqual",
+    "type": "normal",
     "subcategory": "Tersqual",
     "category": "Theroid",
     "level_range": {

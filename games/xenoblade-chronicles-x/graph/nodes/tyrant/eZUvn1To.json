@@ -1,11 +1,11 @@
 {
   "id": "eZUvn1To",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Radovan, the Sky Baron",
+    "type": "tyrant",
     "level": 37,
     "notes": "\"Radovan, the Sky Baron\" can be found during the day landing and resting upon the tallest piece of rib like mountain that extends over the north west corner of Lake Ciel (just before the arches)",
     "category": "Theroid",

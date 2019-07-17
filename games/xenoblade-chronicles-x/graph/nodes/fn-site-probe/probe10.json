@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Mining Probe G9",
-    "type": 1,
+    "type": "mining",
     "attributes": {
       "production_multiplier": 2.7,
       "revenue_multiplier": 0.3

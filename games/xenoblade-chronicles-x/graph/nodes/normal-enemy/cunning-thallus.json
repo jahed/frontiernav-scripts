@@ -1,11 +1,11 @@
 {
   "id": "cunning-thallus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cunning Thallus",
+    "type": "normal",
     "subcategory": "Thallus",
     "category": "Insectoid",
     "drops_ground_weapon": true,

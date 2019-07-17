@@ -1,11 +1,11 @@
 {
   "id": "phosphorous-filiavent",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Phosphorous Filiavent",
+    "type": "normal",
     "subcategory": "Filiavent",
     "category": "Piscinoid",
     "level_range": {

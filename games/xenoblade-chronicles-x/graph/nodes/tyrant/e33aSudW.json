@@ -1,11 +1,11 @@
 {
   "id": "e33aSudW",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Legato, the Sky Watcher",
+    "type": "tyrant",
     "level": 45,
     "notes": "\"Legato, the Sky Watcher\" is one of several tyrants that reside within behemoth's shadows, an expansive cavern accessible above Sylvalum Searoad to the east of Sylvalum (at FN Site 420).",
     "category": "Piscinoid",

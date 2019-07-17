@@ -1,11 +1,11 @@
 {
   "id": "definian-copy",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Definian Copy",
+    "type": "normal",
     "subcategory": "Definian",
     "category": "Humanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "blast-lophid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Blast Lophid",
+    "type": "normal",
     "subcategory": "Lophid",
     "category": "Piscinoid",
     "level_range": {

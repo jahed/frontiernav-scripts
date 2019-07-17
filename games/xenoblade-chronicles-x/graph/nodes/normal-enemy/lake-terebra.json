@@ -1,11 +1,11 @@
 {
   "id": "lake-terebra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lake Terebra",
+    "type": "normal",
     "subcategory": "Terebra",
     "category": "Theroid",
     "drops_ground_weapon": true,

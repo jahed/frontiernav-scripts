@@ -1,11 +1,11 @@
 {
   "id": "carrion-vivohast",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Carrion Vivohast",
+    "type": "normal",
     "subcategory": "Vivohast",
     "category": "Insectoid",
     "drops_ground_weapon": true,

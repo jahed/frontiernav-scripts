@@ -1,11 +1,11 @@
 {
   "id": "eHkyIY1F",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Elena, the Infernal",
+    "type": "tyrant",
     "level": 79,
     "notes": "\"Elena, the Infernal\" appears during dense fog at Weeping Whitewood in Noctilum.",
     "category": "Insectoid",

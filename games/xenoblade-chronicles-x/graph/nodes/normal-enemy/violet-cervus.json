@@ -1,11 +1,11 @@
 {
   "id": "violet-cervus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Violet Cervus",
+    "type": "normal",
     "subcategory": "Cervus",
     "category": "Theroid",
     "level_range": {

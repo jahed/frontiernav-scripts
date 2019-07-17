@@ -1,11 +1,11 @@
 {
   "id": "soil-tectinsula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Soil Tectinsula",
+    "type": "normal",
     "subcategory": "Tectinsula",
     "category": "Insectoid",
     "level_range": {

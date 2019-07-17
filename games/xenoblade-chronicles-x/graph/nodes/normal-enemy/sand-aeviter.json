@@ -1,11 +1,11 @@
 {
   "id": "sand-aeviter",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sand Aeviter",
+    "type": "normal",
     "subcategory": "Aeviter",
     "category": "Insectoid",
     "drops_ground_weapon": true,

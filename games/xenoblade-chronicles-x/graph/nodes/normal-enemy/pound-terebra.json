@@ -1,11 +1,11 @@
 {
   "id": "pound-terebra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pound Terebra",
+    "type": "normal",
     "subcategory": "Terebra",
     "category": "Theroid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "brutal-vigent",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Brutal Vigent",
+    "type": "normal",
     "subcategory": "Vigent",
     "category": "Theroid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "eT2nd2kJ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Camus, the Treasured",
+    "type": "tyrant",
     "level": 48,
     "notes": "\"Camus, the Treasured\" lives inside a small tunnel at the back end of Beastial Utopia, a cave which can be entered from the north base of Mount M'gando in north east Cauldros.",
     "category": "Insectoid",

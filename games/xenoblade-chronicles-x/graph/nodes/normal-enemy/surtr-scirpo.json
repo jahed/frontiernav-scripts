@@ -1,11 +1,11 @@
 {
   "id": "surtr-scirpo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Surtr Scirpo",
+    "type": "normal",
     "subcategory": "Scirpo",
     "category": "Insectoid",
     "drops_ground_weapon": true,

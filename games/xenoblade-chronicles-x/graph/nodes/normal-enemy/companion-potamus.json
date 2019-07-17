@@ -1,11 +1,11 @@
 {
   "id": "companion-potamus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Companion Potamus",
+    "type": "normal",
     "subcategory": "Potamus",
     "category": "Theroid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "bismuth-xe-dom",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bismuth Xe-dom",
+    "type": "normal",
     "subcategory": "Xe-dom",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "grav-raptor-seidr",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Grav Raptor Seidr",
+    "type": "normal",
     "subcategory": "Seidr",
     "category": "Mechanoid",
     "level_range": {

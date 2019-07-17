@@ -1,11 +1,11 @@
 {
   "id": "eKtGB1uW",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Support Trainee Qmoeva",
+    "type": "tyrant",
     "level": 50,
     "notes": "\"Support Trainee Qmoeva\" can be found at night stationed on a tall tower towards the south end of seaswept base in the south east corner of Primordia. Approach it to wake it up.",
     "category": "Mechanoid",

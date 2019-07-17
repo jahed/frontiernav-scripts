@@ -1,11 +1,11 @@
 {
   "id": "pawn-pugilith",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pawn Pugilith",
+    "type": "normal",
     "subcategory": "Pugilith",
     "category": "Mechanoid",
     "level_range": {

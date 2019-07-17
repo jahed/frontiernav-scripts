@@ -1,11 +1,11 @@
 {
   "id": "forest-aprica",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Forest Aprica",
+    "type": "normal",
     "subcategory": "Aprica",
     "category": "Theroid",
     "level_range": {

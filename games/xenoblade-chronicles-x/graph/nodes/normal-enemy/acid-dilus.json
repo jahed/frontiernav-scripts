@@ -1,11 +1,11 @@
 {
   "id": "acid-dilus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Acid Dilus",
+    "type": "normal",
     "subcategory": "Dilus",
     "category": "Theroid",
     "level_range": {

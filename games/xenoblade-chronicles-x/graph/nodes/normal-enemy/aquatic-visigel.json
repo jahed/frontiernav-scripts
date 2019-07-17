@@ -1,11 +1,11 @@
 {
   "id": "aquatic-visigel",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Aquatic Visigel",
+    "type": "normal",
     "subcategory": "Visigel",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

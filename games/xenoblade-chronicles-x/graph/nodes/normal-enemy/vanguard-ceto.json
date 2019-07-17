@@ -1,11 +1,11 @@
 {
   "id": "vanguard-ceto",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Vanguard Ceto",
+    "type": "normal",
     "subcategory": "Ceto",
     "category": "Piscinoid",
     "level_range": {

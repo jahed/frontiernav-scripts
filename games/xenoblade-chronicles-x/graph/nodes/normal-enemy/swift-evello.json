@@ -1,11 +1,11 @@
 {
   "id": "swift-evello",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Swift Evello",
+    "type": "normal",
     "subcategory": "Evello",
     "category": "Theroid",
     "level_range": {

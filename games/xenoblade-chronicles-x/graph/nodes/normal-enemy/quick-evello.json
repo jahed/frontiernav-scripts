@@ -1,11 +1,11 @@
 {
   "id": "quick-evello",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Quick Evello",
+    "type": "normal",
     "subcategory": "Evello",
     "category": "Theroid",
     "level_range": {

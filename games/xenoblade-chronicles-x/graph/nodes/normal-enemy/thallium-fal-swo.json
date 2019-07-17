@@ -1,11 +1,11 @@
 {
   "id": "thallium-fal-swo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Thallium Fal-swo",
+    "type": "normal",
     "subcategory": "Fal-swo",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "typhoon-auravis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Typhoon Auravis",
+    "type": "normal",
     "subcategory": "Auravis",
     "category": "Theroid",
     "drops_ground_weapon": true,

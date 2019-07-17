@@ -1,11 +1,11 @@
 {
   "id": "eXwUNJR2",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Prinsipe, the Ravenous",
+    "type": "tyrant",
     "level": 44,
     "notes": "\"Prinsipe, the Ravenous\" can be found at night on the ancient drilling platform to the north west of Slavebird Isle in Cauldros.",
     "category": "Insectoid",

@@ -1,11 +1,11 @@
 {
   "id": "sand-caro",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sand Caro",
+    "type": "normal",
     "subcategory": "Caro",
     "category": "Theroid",
     "level_range": {

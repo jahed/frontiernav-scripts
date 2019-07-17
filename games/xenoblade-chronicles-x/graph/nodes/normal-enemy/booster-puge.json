@@ -1,11 +1,11 @@
 {
   "id": "booster-puge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Booster Puge",
+    "type": "normal",
     "subcategory": "Puge",
     "category": "Mechanoid",
     "level_range": {

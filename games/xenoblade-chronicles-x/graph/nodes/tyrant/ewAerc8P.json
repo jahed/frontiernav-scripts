@@ -1,11 +1,11 @@
 {
   "id": "ewAerc8P",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Pelicollo, the Panzer",
+    "type": "tyrant",
     "level": 36,
     "notes": "\"Pelicollo, the Panzer\" creeps up and down a rocky passage along the top of the wall that separates Dragonbone Promontory and Sunset Falls in south Cauldros.",
     "category": "Theroid",

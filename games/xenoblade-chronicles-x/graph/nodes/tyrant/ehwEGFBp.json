@@ -1,11 +1,11 @@
 {
   "id": "ehwEGFBp",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "No-dhor, the Shadowcaster",
+    "type": "tyrant",
     "level": 30,
     "notes": "\"No-dhor, the Shadowcaster\" can be found north of Lake Basil in Oblivia. Reflects Gravity damage.",
     "category": "Mechanoid",

@@ -1,11 +1,11 @@
 {
   "id": "berserk-vigent",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Berserk Vigent",
+    "type": "normal",
     "subcategory": "Vigent",
     "category": "Theroid",
     "level_range": {

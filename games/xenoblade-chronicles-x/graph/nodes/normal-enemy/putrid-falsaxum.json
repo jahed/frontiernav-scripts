@@ -1,11 +1,11 @@
 {
   "id": "putrid-falsaxum",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Putrid Falsaxum",
+    "type": "normal",
     "subcategory": "Falsaxum",
     "category": "Insectoid",
     "level_range": {

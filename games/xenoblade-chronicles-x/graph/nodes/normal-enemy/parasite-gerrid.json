@@ -1,11 +1,11 @@
 {
   "id": "parasite-gerrid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Parasite Gerrid",
+    "type": "normal",
     "subcategory": "Gerrid",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "storm-caro",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Storm Caro",
+    "type": "normal",
     "subcategory": "Caro",
     "category": "Theroid",
     "level_range": {

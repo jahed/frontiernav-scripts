@@ -1,11 +1,11 @@
 {
   "id": "thallium-oc-serv",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Thallium Oc-serv",
+    "type": "normal",
     "subcategory": "Oc-serv",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "hallowed-progen",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Hallowed Progen",
+    "type": "normal",
     "subcategory": "Progen",
     "category": "Theroid",
     "drops_ground_weapon": true,

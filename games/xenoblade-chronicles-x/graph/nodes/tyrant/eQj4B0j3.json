@@ -1,11 +1,11 @@
 {
   "id": "eQj4B0j3",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Vendura's Galdr",
+    "type": "tyrant",
     "level": 50,
     "notes": "\"Vendura's Galdr\" stands guard at night in the Scablands Fortress in Oblivia.",
     "category": "Mechanoid",

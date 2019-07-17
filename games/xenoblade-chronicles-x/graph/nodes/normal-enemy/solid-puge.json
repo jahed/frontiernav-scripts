@@ -1,11 +1,11 @@
 {
   "id": "solid-puge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Solid Puge",
+    "type": "normal",
     "subcategory": "Puge",
     "category": "Mechanoid",
     "level_range": {

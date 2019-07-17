@@ -1,11 +1,11 @@
 {
   "id": "eqQbBbT4",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Bertrand, the Gorge Scourge",
+    "type": "tyrant",
     "level": 57,
     "notes": "\"Bertrand, the Gorge Scourge\" clings to a wall inside an oasis like chamber that can be found half way along a tight passage to the east of Central Ibra Ravine in east Oblivia. Must approach it to provoke it into combat. There's a ton of Germivores in there so either don't use any AoEs or use enough AoEs to slaughter everything in there (the latter is much more fun).",
     "category": "Insectoid",

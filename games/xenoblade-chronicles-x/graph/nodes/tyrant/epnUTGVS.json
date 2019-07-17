@@ -1,11 +1,11 @@
 {
   "id": "epnUTGVS",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Climati, the Chilling Wind",
+    "type": "tyrant",
     "level": 30,
     "notes": "\"Climati, the Chilling Wind\" can be found strolling around the Central Ibra Ravine in eastern Oblivia.",
     "category": "Humanoid",

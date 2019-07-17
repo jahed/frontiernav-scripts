@@ -1,11 +1,11 @@
 {
   "id": "prairie-lepyx",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Prairie Lepyx",
+    "type": "normal",
     "subcategory": "Lepyx",
     "category": "Theroid",
     "level_range": {

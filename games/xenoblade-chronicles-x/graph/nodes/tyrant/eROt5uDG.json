@@ -1,11 +1,11 @@
 {
   "id": "eROt5uDG",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Albin, the Wicked Meddler",
+    "type": "tyrant",
     "level": 51,
     "notes": "\"Albin, the Wicked Meddler\" can be found during the night floating around the western side of Lake Ciel. It spawns on top of Laurencio, the Fog Bow and then goes for a wander.",
     "category": "Piscinoid",

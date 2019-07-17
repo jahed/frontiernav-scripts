@@ -1,11 +1,11 @@
 {
   "id": "sorceror-papil",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sorceror Papil",
+    "type": "normal",
     "subcategory": "Papil",
     "category": "Insectoid",
     "drops_ground_weapon": true,

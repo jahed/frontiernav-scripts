@@ -1,11 +1,11 @@
 {
   "id": "pit-terebra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pit Terebra",
+    "type": "normal",
     "subcategory": "Terebra",
     "category": "Theroid",
     "drops_ground_weapon": true,

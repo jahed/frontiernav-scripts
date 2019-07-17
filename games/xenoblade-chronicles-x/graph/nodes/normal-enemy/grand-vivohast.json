@@ -1,11 +1,11 @@
 {
   "id": "grand-vivohast",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Grand Vivohast",
+    "type": "normal",
     "subcategory": "Vivohast",
     "category": "Insectoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "abyssal-levitath",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Abyssal Levitath",
+    "type": "normal",
     "subcategory": "Levitath",
     "category": "Insectoid",
     "level_range": {

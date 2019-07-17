@@ -1,11 +1,11 @@
 {
   "id": "milsaadi-specter",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Milsaadi Specter",
+    "type": "normal",
     "subcategory": "Milsaadi",
     "category": "Humanoid",
     "drops_ground_weapon": true,

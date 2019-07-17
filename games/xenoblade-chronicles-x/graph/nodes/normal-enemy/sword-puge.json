@@ -1,11 +1,11 @@
 {
   "id": "sword-puge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sword Puge",
+    "type": "normal",
     "subcategory": "Puge",
     "category": "Mechanoid",
     "level_range": {

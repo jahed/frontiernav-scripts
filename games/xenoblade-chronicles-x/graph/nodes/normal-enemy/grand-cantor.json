@@ -1,11 +1,11 @@
 {
   "id": "grand-cantor",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Grand Cantor",
+    "type": "normal",
     "subcategory": "Cantor",
     "category": "Theroid",
     "drops_ground_weapon": true,

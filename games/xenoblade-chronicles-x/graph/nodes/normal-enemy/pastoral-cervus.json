@@ -1,11 +1,11 @@
 {
   "id": "pastoral-cervus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pastoral Cervus",
+    "type": "normal",
     "subcategory": "Cervus",
     "category": "Theroid",
     "level_range": {

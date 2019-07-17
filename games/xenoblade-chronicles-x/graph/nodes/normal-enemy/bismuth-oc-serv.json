@@ -1,11 +1,11 @@
 {
   "id": "bismuth-oc-serv",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bismuth Oc-serv",
+    "type": "normal",
     "subcategory": "Oc-serv",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "poisonous-mortifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Poisonous Mortifole",
+    "type": "normal",
     "subcategory": "Mortifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

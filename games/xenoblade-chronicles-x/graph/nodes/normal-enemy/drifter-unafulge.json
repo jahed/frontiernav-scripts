@@ -1,11 +1,11 @@
 {
   "id": "drifter-unafulge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Drifter Unafulge",
+    "type": "normal",
     "subcategory": "Unafulge",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

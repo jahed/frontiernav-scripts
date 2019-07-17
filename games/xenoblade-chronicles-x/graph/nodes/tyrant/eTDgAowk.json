@@ -1,11 +1,11 @@
 {
   "id": "eTDgAowk",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Mesgen, the Fairweathered",
+    "type": "tyrant",
     "level": 28,
     "notes": "\"Mesgen, the Fairweathered\" rests on the shore at the eastern end of Sayram Lake in central Primordia.",
     "category": "Theroid",

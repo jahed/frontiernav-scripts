@@ -1,11 +1,11 @@
 {
   "id": "rhenium-oc-serv",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rhenium Oc-serv",
+    "type": "normal",
     "subcategory": "Oc-serv",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "pawn-puge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pawn Puge",
+    "type": "normal",
     "subcategory": "Puge",
     "category": "Mechanoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "nomad-terebra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Nomad Terebra",
+    "type": "normal",
     "subcategory": "Terebra",
     "category": "Theroid",
     "drops_ground_weapon": true,

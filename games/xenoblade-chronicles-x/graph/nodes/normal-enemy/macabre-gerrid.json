@@ -1,11 +1,11 @@
 {
   "id": "macabre-gerrid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Macabre Gerrid",
+    "type": "normal",
     "subcategory": "Gerrid",
     "category": "Insectoid",
     "level_range": {

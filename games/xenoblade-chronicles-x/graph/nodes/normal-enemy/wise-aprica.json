@@ -1,11 +1,11 @@
 {
   "id": "wise-aprica",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Wise Aprica",
+    "type": "normal",
     "subcategory": "Aprica",
     "category": "Theroid",
     "level_range": {

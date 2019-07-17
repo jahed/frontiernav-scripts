@@ -1,11 +1,11 @@
 {
   "id": "chieftain-ictus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Chieftain Ictus",
+    "type": "normal",
     "subcategory": "Ictus",
     "category": "Insectoid",
     "drops_ground_weapon": true,

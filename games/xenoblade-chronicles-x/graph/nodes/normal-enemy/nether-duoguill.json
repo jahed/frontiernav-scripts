@@ -1,11 +1,11 @@
 {
   "id": "nether-duoguill",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Nether Duoguill",
+    "type": "normal",
     "subcategory": "Duoguill",
     "category": "Piscinoid",
     "level_range": {

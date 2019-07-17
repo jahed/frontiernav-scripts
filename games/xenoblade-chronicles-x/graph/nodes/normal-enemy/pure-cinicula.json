@@ -1,11 +1,11 @@
 {
   "id": "pure-cinicula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pure Cinicula",
+    "type": "normal",
     "subcategory": "Cinicula",
     "category": "Insectoid",
     "level_range": {

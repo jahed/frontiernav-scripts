@@ -1,11 +1,11 @@
 {
   "id": "merciful-dilus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Merciful Dilus",
+    "type": "normal",
     "subcategory": "Dilus",
     "category": "Theroid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "storm-scintimure",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Storm Scintimure",
+    "type": "normal",
     "subcategory": "Scintimure",
     "category": "Piscinoid",
     "level_range": {

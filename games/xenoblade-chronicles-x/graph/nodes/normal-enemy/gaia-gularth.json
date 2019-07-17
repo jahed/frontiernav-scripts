@@ -1,11 +1,11 @@
 {
   "id": "gaia-gularth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Gaia Gularth",
+    "type": "normal",
     "subcategory": "Gularth",
     "category": "Humanoid",
     "level_range": {

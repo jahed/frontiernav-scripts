@@ -1,11 +1,11 @@
 {
   "id": "lake-dilus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lake Dilus",
+    "type": "normal",
     "subcategory": "Dilus",
     "category": "Theroid",
     "level_range": {

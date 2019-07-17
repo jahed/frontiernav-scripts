@@ -1,11 +1,11 @@
 {
   "id": "jade-scirpo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Jade Scirpo",
+    "type": "normal",
     "subcategory": "Scirpo",
     "category": "Insectoid",
     "drops_ground_weapon": true,

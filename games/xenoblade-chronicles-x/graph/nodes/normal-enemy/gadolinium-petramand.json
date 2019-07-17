@@ -1,11 +1,11 @@
 {
   "id": "gadolinium-petramand",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Gadolinium Petramand",
+    "type": "normal",
     "subcategory": "Petramand",
     "category": "Insectoid",
     "level_range": {

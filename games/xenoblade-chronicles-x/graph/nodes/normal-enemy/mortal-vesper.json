@@ -1,11 +1,11 @@
 {
   "id": "mortal-vesper",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mortal Vesper",
+    "type": "normal",
     "subcategory": "Vesper",
     "category": "Theroid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "adonis-turba",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Adonis Turba",
+    "type": "normal",
     "subcategory": "Turba",
     "category": "Insectoid",
     "drops_ground_weapon": true,

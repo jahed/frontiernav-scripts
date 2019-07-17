@@ -1,11 +1,11 @@
 {
   "id": "bluff-gerrid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bluff Gerrid",
+    "type": "normal",
     "subcategory": "Gerrid",
     "category": "Insectoid",
     "level_range": {

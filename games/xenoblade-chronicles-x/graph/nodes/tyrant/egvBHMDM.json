@@ -1,11 +1,11 @@
 {
   "id": "egvBHMDM",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Dobromila, the Alluring",
+    "type": "tyrant",
     "level": 63,
     "notes": "\"Dobromila, the Alluring\" is a spinning plant look-a-like waiting to ambush prey in the waters of the western side of Lake Ciel in Sylvalum.",
     "category": "Insectoid",

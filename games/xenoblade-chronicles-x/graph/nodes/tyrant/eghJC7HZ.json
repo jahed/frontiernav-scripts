@@ -1,11 +1,11 @@
 {
   "id": "eghJC7HZ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Sector Security Shrad",
+    "type": "tyrant",
     "level": 46,
     "notes": "\"Sector Security Shrad\" can be seen rolling around in the first half of a nameless Ganglion base that is in the canyon just to the east of T'Phnom Shelf towards the south eastern parts of Cauldros.",
     "category": "Mechanoid",

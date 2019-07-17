@@ -1,11 +1,11 @@
 {
   "id": "eBXEzf8F",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Luxaar's Xern",
+    "type": "tyrant",
     "level": 90,
     "notes": "\"Luxaar's Xern\" is a giant tripod floating in the sky in the north of Sylvalum. Look up and it is easy to spot.",
     "category": "Mechanoid",

@@ -1,11 +1,11 @@
 {
   "id": "macho-armored-suid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Macho Armored Suid",
+    "type": "normal",
     "subcategory": "Suid",
     "category": "Theroid",
     "drops_ground_weapon": true,

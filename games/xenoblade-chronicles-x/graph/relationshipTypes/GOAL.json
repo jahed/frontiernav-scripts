@@ -4,8 +4,9 @@
     "Segment"
   ],
   "endLabels": [
+    "AffinityMission",
     "Mission",
-    "Tyrant",
+    "Enemy",
     "Treasure",
     "Character",
     "FNSite"

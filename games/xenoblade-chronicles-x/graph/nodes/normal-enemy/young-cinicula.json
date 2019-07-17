@@ -1,11 +1,11 @@
 {
   "id": "young-cinicula",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Young Cinicula",
+    "type": "normal",
     "subcategory": "Cinicula",
     "category": "Insectoid",
     "level_range": {

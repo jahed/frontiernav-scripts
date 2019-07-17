@@ -1,11 +1,11 @@
 {
   "id": "yellow-arenatect",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Yellow Arenatect",
+    "type": "normal",
     "subcategory": "Arenatect",
     "category": "Insectoid",
     "level_range": {

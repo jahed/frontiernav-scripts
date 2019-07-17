@@ -1,11 +1,11 @@
 {
   "id": "fade-thallus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Fade Thallus",
+    "type": "normal",
     "subcategory": "Thallus",
     "category": "Insectoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "white-progen",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "White Progen",
+    "type": "normal",
     "subcategory": "Progen",
     "category": "Theroid",
     "drops_ground_weapon": true,

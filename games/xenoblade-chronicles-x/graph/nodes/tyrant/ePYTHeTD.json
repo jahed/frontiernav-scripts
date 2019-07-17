@@ -1,11 +1,11 @@
 {
   "id": "ePYTHeTD",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Lugalbanda, the Wanderer-King",
+    "type": "tyrant",
     "level": 88,
     "category": "Chimeroid",
     "subcategory": "Chimera",

@@ -1,11 +1,11 @@
 {
   "id": "stream-jacul",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Stream Jacul",
+    "type": "normal",
     "subcategory": "Jacul",
     "category": "Theroid",
     "drops_ground_weapon": true,

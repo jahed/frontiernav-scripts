@@ -1,11 +1,11 @@
 {
   "id": "awakened-liceor",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Awakened Liceor",
+    "type": "normal",
     "subcategory": "Liceor",
     "category": "Theroid",
     "drops_ground_weapon": true,

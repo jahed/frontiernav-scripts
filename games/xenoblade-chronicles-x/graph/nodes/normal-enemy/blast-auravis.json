@@ -1,11 +1,11 @@
 {
   "id": "blast-auravis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Blast Auravis",
+    "type": "normal",
     "subcategory": "Auravis",
     "category": "Theroid",
     "drops_ground_weapon": true,

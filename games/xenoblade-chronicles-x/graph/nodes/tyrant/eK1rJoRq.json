@@ -1,11 +1,11 @@
 {
   "id": "eK1rJoRq",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Ahama, the Covetous",
+    "type": "tyrant",
     "level": 60,
     "notes": "\"Ahama, the Covetous\" appears in the same spot during the night.",
     "category": "Humanoid",

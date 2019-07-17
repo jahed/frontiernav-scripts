@@ -1,11 +1,11 @@
 {
   "id": "lively-tersqual",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lively Tersqual",
+    "type": "normal",
     "subcategory": "Tersqual",
     "category": "Theroid",
     "level_range": {

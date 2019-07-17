@@ -1,11 +1,11 @@
 {
   "id": "sludge-caecus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Sludge Caecus",
+    "type": "normal",
     "subcategory": "Caecus",
     "category": "Theroid",
     "level_range": {

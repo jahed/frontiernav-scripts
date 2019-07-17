@@ -1,11 +1,11 @@
 {
   "id": "delft-turba",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Delft Turba",
+    "type": "normal",
     "subcategory": "Turba",
     "category": "Insectoid",
     "drops_ground_weapon": true,

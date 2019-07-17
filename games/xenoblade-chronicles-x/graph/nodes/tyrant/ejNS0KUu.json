@@ -1,11 +1,11 @@
 {
   "id": "ejNS0KUu",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Frontline Medic Quo",
+    "type": "tyrant",
     "level": 40,
     "notes": "\"Frontline Medic Quo\" defends the interior of the O'rrh Sim Castle Ruins at Cauldros. It will ambush the party in the middle of the highest floor of the rooms that overlook the ganglion weapons hanger. From the O'rrh Sim Gate simply enter the smaller of the two entrances to the interior and it will lead to the Quo tyrant.",
     "category": "Mechanoid",

@@ -1,11 +1,11 @@
 {
   "id": "primal-aprica",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Primal Aprica",
+    "type": "normal",
     "subcategory": "Aprica",
     "category": "Theroid",
     "level_range": {

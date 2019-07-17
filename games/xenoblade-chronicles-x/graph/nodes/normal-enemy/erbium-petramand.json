@@ -1,11 +1,11 @@
 {
   "id": "erbium-petramand",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Erbium Petramand",
+    "type": "normal",
     "subcategory": "Petramand",
     "category": "Insectoid",
     "level_range": {

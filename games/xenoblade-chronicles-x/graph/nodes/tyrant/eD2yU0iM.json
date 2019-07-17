@@ -1,11 +1,11 @@
 {
   "id": "eD2yU0iM",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Armed Engineer Galdr",
+    "type": "tyrant",
     "level": 41,
     "notes": "\"Armed Engineer Galdr\" can be found above the water just a tiny bit east of Far Isle of Tzo'o in the north west of Cauldros.",
     "category": "Mechanoid",

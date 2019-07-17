@@ -1,11 +1,11 @@
 {
   "id": "ripper-vesper",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Ripper Vesper",
+    "type": "normal",
     "subcategory": "Vesper",
     "category": "Theroid",
     "drops_ground_weapon": true,

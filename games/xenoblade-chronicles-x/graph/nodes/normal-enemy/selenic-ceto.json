@@ -1,11 +1,11 @@
 {
   "id": "selenic-ceto",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Selenic Ceto",
+    "type": "normal",
     "subcategory": "Ceto",
     "category": "Piscinoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "crazed-germivore",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Crazed Germivore",
+    "type": "normal",
     "subcategory": "Germivore",
     "category": "Insectoid",
     "drops_ground_weapon": true,

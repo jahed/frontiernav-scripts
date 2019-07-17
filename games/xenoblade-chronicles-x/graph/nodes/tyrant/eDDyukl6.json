@@ -1,11 +1,11 @@
 {
   "id": "eDDyukl6",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Demetrio, the Tempestuous",
+    "type": "tyrant",
     "level": 28,
     "notes": "\"Demetrio, the Tempestuous\" is in the middle of Ensconced Citadel, a Ganglion outpost up in the mountains north of Qing Long Glade in Noctilum.",
     "category": "Theroid",

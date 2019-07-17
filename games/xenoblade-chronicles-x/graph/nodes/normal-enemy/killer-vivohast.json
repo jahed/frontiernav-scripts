@@ -1,11 +1,11 @@
 {
   "id": "killer-vivohast",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Killer Vivohast",
+    "type": "normal",
     "subcategory": "Vivohast",
     "category": "Insectoid",
     "drops_ground_weapon": true,

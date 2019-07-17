@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Research Probe G4",
-    "type": 2,
+    "type": "research",
     "attributes": {
       "production_multiplier": 0.3,
       "revenue_multiplier": 3.5

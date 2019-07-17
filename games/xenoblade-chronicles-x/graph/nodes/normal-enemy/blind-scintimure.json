@@ -1,11 +1,11 @@
 {
   "id": "blind-scintimure",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Blind Scintimure",
+    "type": "normal",
     "subcategory": "Scintimure",
     "category": "Piscinoid",
     "level_range": {

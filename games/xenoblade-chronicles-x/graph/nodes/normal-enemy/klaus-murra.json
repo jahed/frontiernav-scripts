@@ -1,11 +1,11 @@
 {
   "id": "klaus-murra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Klaus Murra",
+    "type": "normal",
     "subcategory": "Murra",
     "category": "Theroid",
     "drops_ground_weapon": true,

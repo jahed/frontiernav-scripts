@@ -1,11 +1,11 @@
 {
   "id": "smalt-arenatect",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Smalt Arenatect",
+    "type": "normal",
     "subcategory": "Arenatect",
     "category": "Insectoid",
     "level_range": {

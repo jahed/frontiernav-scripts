@@ -1,11 +1,11 @@
 {
   "id": "lava-sacrifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lava Sacrifole",
+    "type": "normal",
     "subcategory": "Sacrifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

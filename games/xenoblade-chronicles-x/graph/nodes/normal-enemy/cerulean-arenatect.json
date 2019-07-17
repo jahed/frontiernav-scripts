@@ -1,11 +1,11 @@
 {
   "id": "cerulean-arenatect",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cerulean Arenatect",
+    "type": "normal",
     "subcategory": "Arenatect",
     "category": "Insectoid",
     "level_range": {

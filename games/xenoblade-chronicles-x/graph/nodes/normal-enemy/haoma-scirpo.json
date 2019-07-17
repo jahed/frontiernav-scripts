@@ -1,11 +1,11 @@
 {
   "id": "haoma-scirpo",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Haoma Scirpo",
+    "type": "normal",
     "subcategory": "Scirpo",
     "category": "Insectoid",
     "drops_ground_weapon": true,

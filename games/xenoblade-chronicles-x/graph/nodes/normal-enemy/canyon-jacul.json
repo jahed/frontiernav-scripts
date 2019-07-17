@@ -1,11 +1,11 @@
 {
   "id": "canyon-jacul",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Canyon Jacul",
+    "type": "normal",
     "subcategory": "Jacul",
     "category": "Theroid",
     "drops_ground_weapon": true,

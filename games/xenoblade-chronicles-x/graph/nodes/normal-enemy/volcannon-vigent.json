@@ -1,11 +1,11 @@
 {
   "id": "volcannon-vigent",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Volcannon Vigent",
+    "type": "normal",
     "subcategory": "Vigent",
     "category": "Theroid",
     "level_range": {

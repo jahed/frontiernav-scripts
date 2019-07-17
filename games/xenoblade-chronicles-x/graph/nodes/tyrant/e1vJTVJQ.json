@@ -1,11 +1,11 @@
 {
   "id": "e1vJTVJQ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Hephaestus, the Absconder",
+    "type": "tyrant",
     "level": 25,
     "notes": "\"Hephaestus, the Absconder\" appears during the night just north of East Gate Plain in Primordia under the rocky roof area with the water (in the Roof Rock segment).",
     "category": "Piscinoid",

@@ -1,11 +1,11 @@
 {
   "id": "bronze-papil",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bronze Papil",
+    "type": "normal",
     "subcategory": "Papil",
     "category": "Insectoid",
     "drops_ground_weapon": true,

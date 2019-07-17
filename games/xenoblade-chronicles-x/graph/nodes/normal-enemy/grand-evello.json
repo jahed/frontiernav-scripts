@@ -1,11 +1,11 @@
 {
   "id": "grand-evello",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Grand Evello",
+    "type": "normal",
     "subcategory": "Evello",
     "category": "Theroid",
     "level_range": {

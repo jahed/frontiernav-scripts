@@ -1,11 +1,11 @@
 {
   "id": "eeNh781b",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Casper, the Unhealthy Eater",
+    "type": "tyrant",
     "level": 13,
     "notes": "\"Casper, the Unhealthy Eater\" appears during the night just outside of NLA's west gate up in the rocks to the south where it's hidden from view between the rocks at the top of the hill and the crystallised spikes from the crash landing.",
     "category": "Insectoid",

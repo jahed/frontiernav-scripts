@@ -1,11 +1,11 @@
 {
   "id": "e3LphDx6",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Gadaf's Qmoeva",
+    "type": "tyrant",
     "level": 31,
     "notes": "\"Gadaf's Qmoeva\" waits in the shadows on the largest tropical island between Primordia and Sylvalum.",
     "category": "Mechanoid",

@@ -1,11 +1,11 @@
 {
   "id": "eAS901ZG",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "WR512: Urdu",
+    "type": "tyrant",
     "level": 62,
     "notes": "\"WR512: Urdu\" can be found from dawn until midnight with a group of Milsaadi down a side passage towards the back of ganglion antropolis in Cauldros. It is easy to become quickly overwhelmed when thoughtlessly engaging in combat. Complete the Definian Downfall mission to gain access to ganglion antropolis.",
     "category": "Humanoid",

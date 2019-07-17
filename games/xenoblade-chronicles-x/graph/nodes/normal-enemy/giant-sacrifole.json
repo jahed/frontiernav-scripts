@@ -1,11 +1,11 @@
 {
   "id": "giant-sacrifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Giant Sacrifole",
+    "type": "normal",
     "subcategory": "Sacrifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

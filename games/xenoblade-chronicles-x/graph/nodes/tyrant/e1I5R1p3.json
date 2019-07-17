@@ -1,11 +1,11 @@
 {
   "id": "e1I5R1p3",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Brandys, the Spectral Light",
+    "type": "tyrant",
     "level": 45,
     "notes": "\"Brandys, the Spectral Light\" is one of several tyrants that reside within behemoth's shadows, an expansive cavern accessible above Sylvalum Searoad to the east of Sylvalum (at FN Site 420). It rarely spawns in place of another Xiphias, simply move into the next room and double back until Brandys appears in the middle of the watery room.",
     "category": "Piscinoid",

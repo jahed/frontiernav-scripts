@@ -1,11 +1,11 @@
 {
   "id": "eWIdRvhw",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Gradivus, the Headless Emperor",
+    "type": "tyrant",
     "category": "Theroid",
     "subcategory": "Millesaur",
     "level": 71,

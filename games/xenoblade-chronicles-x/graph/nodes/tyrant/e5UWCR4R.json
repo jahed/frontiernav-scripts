@@ -1,11 +1,11 @@
 {
   "id": "e5UWCR4R",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Vendura, the Spellbinder",
+    "type": "tyrant",
     "level": 20,
     "notes": "\"Vendura, the Spellbinder\" is up on the high ridge not too far from FN Site 303 in Oblivia. She will only be here during the day, at night she will pilot her Galdr at another location.",
     "category": "Humanoid",

@@ -1,11 +1,11 @@
 {
   "id": "burning-lophid",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Burning Lophid",
+    "type": "normal",
     "subcategory": "Lophid",
     "category": "Piscinoid",
     "level_range": {

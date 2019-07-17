@@ -1,11 +1,11 @@
 {
   "id": "cloud-saltat",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cloud Saltat",
+    "type": "normal",
     "subcategory": "Saltat",
     "category": "Theroid",
     "drops_ground_weapon": true,

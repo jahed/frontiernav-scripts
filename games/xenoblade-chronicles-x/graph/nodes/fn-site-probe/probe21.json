@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Storage Probe",
-    "type": 4,
+    "type": "storage",
     "attributes": {
       "production_multiplier": 0.1,
       "revenue_multiplier": 0.1,

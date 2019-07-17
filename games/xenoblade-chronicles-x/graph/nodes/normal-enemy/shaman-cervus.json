@@ -1,11 +1,11 @@
 {
   "id": "shaman-cervus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Shaman Cervus",
+    "type": "normal",
     "subcategory": "Cervus",
     "category": "Theroid",
     "level_range": {

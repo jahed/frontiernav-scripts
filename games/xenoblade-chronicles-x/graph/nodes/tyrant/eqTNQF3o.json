@@ -1,11 +1,11 @@
 {
   "id": "eqTNQF3o",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Duran's Galdr",
+    "type": "tyrant",
     "level": 40,
     "notes": "\"Duran's Galdr\" appears during the late night (midnight to morning) above lotus keep building site, a ganglion base at Bloodpond Basin in the north of Noctilum.",
     "category": "Mechanoid",

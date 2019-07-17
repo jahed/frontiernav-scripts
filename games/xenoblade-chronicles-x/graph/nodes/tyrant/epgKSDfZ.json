@@ -1,11 +1,11 @@
 {
   "id": "epgKSDfZ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Hayreddin, the Territorial",
+    "type": "tyrant",
     "level": 81,
     "notes": "\"Hayreddin, the Territorial\" can be found in the East Gate Plan in east Primordia. During the day it can be found wandering near the beach and during the night it can be found sleeping on a large rock with other Simius. It has low HP for its level but activates long invincibility periods making prolonged fights a pain to survive.",
     "category": "Theroid",

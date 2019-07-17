@@ -1,11 +1,11 @@
 {
   "id": "eLNXWq6V",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Candelario, the Bronze",
+    "type": "tyrant",
     "level": 47,
     "notes": "\"Candelario, the Bronze\" can be found on a small bump north of Baldr Basin in the north west of Sylvalum.",
     "category": "Theroid",

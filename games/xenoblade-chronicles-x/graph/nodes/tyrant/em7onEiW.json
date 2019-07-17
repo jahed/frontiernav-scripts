@@ -1,11 +1,11 @@
 {
   "id": "em7onEiW",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Badul, the One-Eyed",
+    "type": "tyrant",
     "level": 46,
     "notes": "\"Badul, the One-Eyed\" is a hoodless daytime assassin that will drop out of no where to surprise visitors on the rooftop of a building in the south west corner of hilal stronghold, the Ganglion base to the south of Hilal Meadow in sourthern Sylvalum. The door to the roof is locked but a nearby raised path makes it easy to simply jump onto the roof on foot.",
     "category": "Humanoid",

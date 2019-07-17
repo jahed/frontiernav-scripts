@@ -1,11 +1,11 @@
 {
   "id": "cave-xiphias",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cave Xiphias",
+    "type": "normal",
     "subcategory": "Xiphias",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

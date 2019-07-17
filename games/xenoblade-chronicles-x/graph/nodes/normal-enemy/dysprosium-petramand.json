@@ -1,11 +1,11 @@
 {
   "id": "dysprosium-petramand",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Dysprosium Petramand",
+    "type": "normal",
     "subcategory": "Petramand",
     "category": "Insectoid",
     "level_range": {

@@ -1,11 +1,11 @@
 {
   "id": "bravo-unafulge",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bravo Unafulge",
+    "type": "normal",
     "subcategory": "Unafulge",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

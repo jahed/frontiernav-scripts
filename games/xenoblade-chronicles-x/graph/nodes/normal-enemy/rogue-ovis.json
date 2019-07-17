@@ -1,11 +1,11 @@
 {
   "id": "rogue-ovis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Rogue Ovis",
+    "type": "normal",
     "subcategory": "Ovis",
     "category": "Theroid",
     "drops_ground_weapon": true,

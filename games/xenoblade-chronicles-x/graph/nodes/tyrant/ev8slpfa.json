@@ -1,11 +1,11 @@
 {
   "id": "ev8slpfa",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Leva'el, the Terminus",
+    "type": "tyrant",
     "level": 82,
     "category": "Mechanoid",
     "subcategory": "Xern",

@@ -1,11 +1,11 @@
 {
   "id": "ediZPIEJ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Infantry Support Qmoeva",
+    "type": "tyrant",
     "category": "Mechanoid",
     "subcategory": "Qmoeva",
     "level": 80,

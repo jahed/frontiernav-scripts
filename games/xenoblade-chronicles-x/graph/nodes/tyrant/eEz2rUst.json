@@ -1,11 +1,11 @@
 {
   "id": "eEz2rUst",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Langul, the Alien Payload",
+    "type": "tyrant",
     "level": 11,
     "notes": "\"Langul, the Alien Payload\" stands on the rooftop of a short building in seaswept base in the south east corner of Primordia. Languls building is the on the ridge just to the south of FN Site 119's probe light.",
     "category": "Humanoid",

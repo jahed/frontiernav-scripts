@@ -1,11 +1,11 @@
 {
   "id": "eHwM2EDq",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Eutropio, the Sea Rumble",
+    "type": "tyrant",
     "level": 45,
     "notes": "\"Eutropio, the Sea Rumble\" flies around underneath the roofed area south of Janpath Lake in east Primordia.",
     "category": "Insectoid",

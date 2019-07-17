@@ -1,11 +1,11 @@
 {
   "id": "saffron-arenatect",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Saffron Arenatect",
+    "type": "normal",
     "subcategory": "Arenatect",
     "category": "Insectoid",
     "level_range": {

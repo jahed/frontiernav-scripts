@@ -1,11 +1,11 @@
 {
   "id": "bush-grex",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Bush Grex",
+    "type": "normal",
     "subcategory": "Grex",
     "category": "Theroid",
     "level_range": {

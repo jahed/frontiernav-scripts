@@ -1,11 +1,11 @@
 {
   "id": "dadan-orchestra-members--",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Dadan Orchestra Members ?",
+    "type": "normal",
     "subcategory": "Prone",
     "category": "Humanoid",
     "level_range": {

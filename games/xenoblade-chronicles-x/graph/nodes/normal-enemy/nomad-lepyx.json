@@ -1,11 +1,11 @@
 {
   "id": "nomad-lepyx",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Nomad Lepyx",
+    "type": "normal",
     "subcategory": "Lepyx",
     "category": "Theroid",
     "level_range": {

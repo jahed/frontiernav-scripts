@@ -1,11 +1,11 @@
 {
   "id": "erj1fAUV",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Coil, the Never-Ending",
+    "type": "tyrant",
     "level": 55,
     "notes": "\"Coil, the Never-Ending\" can be found charging up during EM storms far above the ground at the centre of Dragonebone Promontory in Cauldros.",
     "category": "Piscinoid",

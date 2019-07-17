@@ -1,11 +1,11 @@
 {
   "id": "eeqBxODc",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Yessenia, the Husky-Voiced",
+    "type": "tyrant",
     "level": 23,
     "notes": "\"Yessenia, the Husky-Voiced\" sits in the water south of Humdrum Peaks in Noctilum, mere steps away from from probe FN Site 221. Wake it up and lure it to land when fighting on foot.",
     "category": "Insectoid",

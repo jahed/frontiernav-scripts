@@ -1,11 +1,11 @@
 {
   "id": "eSJSsg9g",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Andrea, the Famished Hunter",
+    "type": "tyrant",
     "level": 51,
     "notes": "\"Andrea, the Famished Hunter\" roams the western shore of Sylvalums Lake Ciel with a pack of Villainous Caucus in tow.",
     "category": "Theroid",

@@ -1,11 +1,11 @@
 {
   "id": "pike-insidia",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pike Insidia",
+    "type": "normal",
     "subcategory": "Insidia",
     "category": "Theroid",
     "level_range": {

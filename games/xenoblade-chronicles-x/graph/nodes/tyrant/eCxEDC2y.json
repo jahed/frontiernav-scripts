@@ -1,11 +1,11 @@
 {
   "id": "eCxEDC2y",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Schneider, the Cliffpercher",
+    "type": "tyrant",
     "level": 10,
     "notes": "\"Schneider, the Cliffpercher\" can be discovered sitting on a perch just over the edge of the lowest level of the multi-part waterfall that is Everwhelm Falls directly above the ocean in Noctilum. If you find some tiny level 10 Violet Forfexes at the edge of the waterfall you're just above Schneider.",
     "category": "Insectoid",

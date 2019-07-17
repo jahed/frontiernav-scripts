@@ -1,11 +1,11 @@
 {
   "id": "eDKx0nwW",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Diogenes, the Covetous",
+    "type": "tyrant",
     "level": 28,
     "notes": "\"Diogenes, the Covetous\" runs up and down an open passage to the south of Central Ibra Ravine in the east of Oblivia.",
     "category": "Theroid",

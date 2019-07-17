@@ -1,11 +1,11 @@
 {
   "id": "echo-thallus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Echo Thallus",
+    "type": "normal",
     "subcategory": "Thallus",
     "category": "Insectoid",
     "drops_ground_weapon": true,

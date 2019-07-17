@@ -1,11 +1,11 @@
 {
   "id": "highland-lepyx",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Highland Lepyx",
+    "type": "normal",
     "subcategory": "Lepyx",
     "category": "Theroid",
     "level_range": {

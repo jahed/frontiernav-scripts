@@ -1,11 +1,11 @@
 {
   "id": "fleet-aetrygon",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Fleet Aetrygon",
+    "type": "normal",
     "subcategory": "Aetrygon",
     "category": "Piscinoid",
     "drops_ground_weapon": true,

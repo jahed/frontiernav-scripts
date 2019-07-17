@@ -1,11 +1,11 @@
 {
   "id": "efY0dkH0",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Sadar's Qmoeva",
+    "type": "tyrant",
     "level": 44,
     "notes": "\"Sadar's Qmoeva\" can be found during the day parked on a small rock shelf a little north east of Lake Ciel in Sylvalum.",
     "category": "Mechanoid",

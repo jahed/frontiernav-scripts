@@ -1,11 +1,11 @@
 {
   "id": "mountain-sylooth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Mountain Sylooth",
+    "type": "normal",
     "subcategory": "Sylooth",
     "category": "Humanoid",
     "level_range": {

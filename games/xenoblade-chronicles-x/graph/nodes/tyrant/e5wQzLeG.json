@@ -1,11 +1,11 @@
 {
   "id": "e5wQzLeG",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Go-rha, the Guardian Deity",
+    "type": "tyrant",
     "level": 60,
     "notes": "\"Go-rha, the Guardian Deity\" lays dormant in south Noctilums lake.",
     "category": "Mechanoid",

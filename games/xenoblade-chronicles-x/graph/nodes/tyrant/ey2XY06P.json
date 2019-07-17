@@ -1,11 +1,11 @@
 {
   "id": "ey2XY06P",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Fernando, the Immovable",
+    "type": "tyrant",
     "level": 85,
     "notes": "\"Fernando, the Immovable\" can be found during the day at Decapotamon around the centre of Noctilum.",
     "category": "Theroid",

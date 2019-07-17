@@ -1,11 +1,11 @@
 {
   "id": "exH0J6H4",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Buchwald, the Guardian",
+    "type": "tyrant",
     "level": 77,
     "notes": "\"Buchwald, the Guardian\" guards some salvage treasures in the same room as FN Site 224's probe in Noctilum. It has incredible regenerative capabilities.",
     "category": "Theroid",

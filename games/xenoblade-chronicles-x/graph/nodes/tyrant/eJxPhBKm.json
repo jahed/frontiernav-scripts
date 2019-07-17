@@ -1,11 +1,11 @@
 {
   "id": "eJxPhBKm",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Ernest, the Comptemplative",
+    "type": "tyrant",
     "level": 36,
     "notes": "\"Ernest, the Comptemplative\" rests near the mountain wall a little to the west of the bottom of King's Falls in Oblivia.",
     "category": "Theroid",

@@ -1,11 +1,11 @@
 {
   "id": "docile-ovis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Docile Ovis",
+    "type": "normal",
     "subcategory": "Ovis",
     "category": "Theroid",
     "drops_ground_weapon": true,

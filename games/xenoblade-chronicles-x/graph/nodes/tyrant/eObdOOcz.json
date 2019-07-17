@@ -1,11 +1,11 @@
 {
   "id": "eObdOOcz",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Calore, the Lava Walker",
+    "type": "tyrant",
     "level": 62,
     "notes": "\"Calore, the Lava Walker\" can be found in the first pocket of lava south of White Phosphor Lake in Cauldros (between Drongo Caravan and Emerian Battlegrounds).",
     "category": "Insectoid",

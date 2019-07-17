@@ -1,11 +1,11 @@
 {
   "id": "cave-mortifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cave Mortifole",
+    "type": "normal",
     "subcategory": "Mortifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "brobdingnagian-sylooth",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Brobdingnagian Sylooth",
+    "type": "normal",
     "subcategory": "Sylooth",
     "category": "Humanoid",
     "level_range": {

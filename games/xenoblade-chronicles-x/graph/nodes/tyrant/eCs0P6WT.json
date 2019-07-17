@@ -1,11 +1,11 @@
 {
   "id": "eCs0P6WT",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Zorn, the Wanderer",
+    "type": "tyrant",
     "level": 56,
     "notes": "\"Zorn, the Wanderer\" appears only during a rainbow in the suspicious room in Old Ceremonial Hollow, a cave accessed from the east side of Mount M'gando in Cauldros. Once inside take a right at the first junction followed by the next possible left to reach a room with water and an altar. Rainbows occur for a short period after rainy weather, brimstone rain included.",
     "category": "Theroid",

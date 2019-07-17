@@ -1,11 +1,11 @@
 {
   "id": "e9xg57mL",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Frajeel, the Purgatorial",
+    "type": "tyrant",
     "level": 50,
     "notes": "\"Frajeel, the Purgatorial\" floats around just south of the central plant in the dangerous Divine Roost area at Noctilum.",
     "category": "Insectoid",

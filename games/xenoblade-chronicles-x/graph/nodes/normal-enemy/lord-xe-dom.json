@@ -1,11 +1,11 @@
 {
   "id": "lord-xe-dom",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Lord Xe-dom",
+    "type": "normal",
     "subcategory": "Xe-dom",
     "category": "Mechanoid",
     "level_range": {

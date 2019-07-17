@@ -1,11 +1,11 @@
 {
   "id": "immortal-ictus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Immortal Ictus",
+    "type": "normal",
     "subcategory": "Ictus",
     "category": "Insectoid",
     "drops_ground_weapon": true,

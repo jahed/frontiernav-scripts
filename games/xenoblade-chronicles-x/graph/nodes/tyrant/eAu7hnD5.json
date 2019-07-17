@@ -1,11 +1,11 @@
 {
   "id": "eAu7hnD5",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Behemoth, the Netherdweller",
+    "type": "tyrant",
     "level": 60,
     "notes": "\"Behemoth, the Netherdweller\" rarely appears at the very bottom of the Cavernous Abyss, a tall hollow mountain on the western side of Sylvalum. If the regular Virago crawls out of the ground refresh the area until Behemoth appears instead.",
     "category": "Theroid",

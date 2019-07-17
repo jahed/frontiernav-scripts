@@ -1,11 +1,11 @@
 {
   "id": "erAr5dOd",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Sharnaak, the Technician",
+    "type": "tyrant",
     "level": 46,
     "notes": "\"Sharnaak, the Technician\" will appear at night on the southern path that ascends Mount M'gando in Cauldros (at the dormant Xe-dom). He is guarded by two Rhenium Oc-srvs.",
     "category": "Humanoid",

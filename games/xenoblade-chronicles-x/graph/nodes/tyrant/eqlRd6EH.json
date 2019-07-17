@@ -1,11 +1,11 @@
 {
   "id": "eqlRd6EH",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Pharsis, the Everqueen",
+    "type": "tyrant",
     "level": 97,
     "notes": "\"Pharsis, the Everqueen\" sleeps inside the giant sphere in Sylvalum. There is a hole in there sphere facing the lake that can be flown through. The water inside is too deep to stand in but Pharsis can be fought on foot by either luring it to the entry tunnel or by standing on one of the many small floating spheres. Has 9.9 million HP and will kick your ass with an high damaging AoE attack that can wipe the entire party (Skells are immune to all damage during cockpit mode).",
     "category": "Ultrafauna",

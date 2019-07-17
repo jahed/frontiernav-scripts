@@ -1,11 +1,11 @@
 {
   "id": "e0eQDNdq",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Celedonio, the Battle-Tested",
+    "type": "tyrant",
     "level": 18,
     "notes": "\"Celedonio, the Battle-Tested\" can be found resting at the north western part of Keegan Ridge in central Oblivia.",
     "category": "Theroid",

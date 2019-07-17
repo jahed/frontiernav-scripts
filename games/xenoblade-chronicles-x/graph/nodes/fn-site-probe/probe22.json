@@ -5,7 +5,7 @@
   ],
   "data": {
     "name": "Any Combat Probe",
-    "type": 3,
+    "type": "combat",
     "attributes": {
       "production_multiplier": 0.1,
       "revenue_multiplier": 0.1

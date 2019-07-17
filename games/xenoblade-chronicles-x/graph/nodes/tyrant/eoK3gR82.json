@@ -1,11 +1,11 @@
 {
   "id": "eoK3gR82",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Piernus, the Scorcher",
+    "type": "tyrant",
     "level": 57,
     "notes": "\"Piernus, the Scorcher\" appears during the day in the middle of the lava between Ruined City of O'rrh Sim and Abandoned Bivouac in north Cauldros. During the night a different Petramand Tyrant appears on a rock nearby.",
     "category": "Insectoid",

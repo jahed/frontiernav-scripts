@@ -1,11 +1,11 @@
 {
   "id": "pyro-sacrifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Pyro Sacrifole",
+    "type": "normal",
     "subcategory": "Sacrifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

@@ -1,11 +1,11 @@
 {
   "id": "tidal-purgovent",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Tidal Purgovent",
+    "type": "normal",
     "subcategory": "Purgovent",
     "category": "Piscinoid",
     "level_range": {

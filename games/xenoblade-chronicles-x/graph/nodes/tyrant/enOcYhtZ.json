@@ -1,11 +1,11 @@
 {
   "id": "enOcYhtZ",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Night Combat Puge",
+    "type": "tyrant",
     "level": 34,
     "notes": "\"Night Combat Puge\" appears during the night on a walkway connected to the large spiky building in the north west of Cauldros.",
     "category": "Mechanoid",

@@ -1,11 +1,11 @@
 {
   "id": "scarlet-levitath",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Scarlet Levitath",
+    "type": "normal",
     "subcategory": "Levitath",
     "category": "Insectoid",
     "level_range": {

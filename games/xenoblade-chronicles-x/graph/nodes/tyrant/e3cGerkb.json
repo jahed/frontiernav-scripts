@@ -1,11 +1,11 @@
 {
   "id": "e3cGerkb",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Griffus, the Tartarean",
+    "type": "tyrant",
     "level": 49,
     "notes": "\"Griffus, the Tartarean\" can be found pacing back and forth up on the high ridge north east of Qing Long Glade in central Noctilum.",
     "category": "Theroid",

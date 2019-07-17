@@ -1,11 +1,11 @@
 {
   "id": "conjurer-cervus",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Conjurer Cervus",
+    "type": "normal",
     "subcategory": "Cervus",
     "category": "Theroid",
     "level_range": {

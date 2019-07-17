@@ -1,11 +1,11 @@
 {
   "id": "e0kPbEBE",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Drake, the Waypost",
+    "type": "tyrant",
     "level": 29,
     "notes": "\"Drake, the Waypost\" stands in a deep crack underneath the north end of the Elephants Trunk bridge in Noctilum.",
     "category": "Theroid",

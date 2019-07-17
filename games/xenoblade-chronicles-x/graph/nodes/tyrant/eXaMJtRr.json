@@ -1,11 +1,11 @@
 {
   "id": "eXaMJtRr",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Clara, the Pure White",
+    "type": "tyrant",
     "level": 21,
     "notes": "\"Clara, the Pure White\" can be found grazing during the day in a field of cotton flowers around other Ovis and some Lepyx directly to the south of Cauldros Threshold in the northern tip of Sylvalum. Attacking her will provoke all surrounding Ovis.",
     "category": "Theroid",

@@ -1,11 +1,11 @@
 {
   "id": "foul-sacrifole",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Foul Sacrifole",
+    "type": "normal",
     "subcategory": "Sacrifole",
     "category": "Insectoid",
     "drops_ground_weapon": true,

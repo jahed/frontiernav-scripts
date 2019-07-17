@@ -1,11 +1,11 @@
 {
   "id": "crazed-aeviter",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Crazed Aeviter",
+    "type": "normal",
     "subcategory": "Aeviter",
     "category": "Insectoid",
     "drops_ground_weapon": true,

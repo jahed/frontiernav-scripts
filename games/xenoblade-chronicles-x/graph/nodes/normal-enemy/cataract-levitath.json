@@ -1,11 +1,11 @@
 {
   "id": "cataract-levitath",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Cataract Levitath",
+    "type": "normal",
     "subcategory": "Levitath",
     "category": "Insectoid",
     "level_range": {

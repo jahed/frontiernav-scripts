@@ -1,11 +1,11 @@
 {
   "id": "e1pCimqp",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Man'an, the Water Whisperer",
+    "type": "tyrant",
     "level": 43,
     "notes": "\"Man'an, the Water Whisperer\" is walking around on the shore at the north east corner of Lake Ciel in Sylvalum. The nearby Cerulean Arenatects will join in the fight.",
     "category": "Insectoid",

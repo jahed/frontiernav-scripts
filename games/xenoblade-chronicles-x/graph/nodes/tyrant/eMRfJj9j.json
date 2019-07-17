@@ -1,11 +1,11 @@
 {
   "id": "eMRfJj9j",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Bogdan, the Dense",
+    "type": "tyrant",
     "level": 49,
     "notes": "\"Bogdan, the Dense\" is at seaswept base in the south east corner of Primordia. It is just across the bridge from the building where you first meet Tatsu.",
     "category": "Theroid",

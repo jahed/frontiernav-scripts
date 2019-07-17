@@ -1,11 +1,11 @@
 {
   "id": "tempest-auravis",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Tempest Auravis",
+    "type": "normal",
     "subcategory": "Auravis",
     "category": "Theroid",
     "drops_ground_weapon": true,

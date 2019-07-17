@@ -1,11 +1,11 @@
 {
   "id": "strange-murra",
   "labels": [
-    "NormalEnemy",
     "Enemy"
   ],
   "data": {
     "name": "Strange Murra",
+    "type": "normal",
     "subcategory": "Murra",
     "category": "Theroid",
     "drops_ground_weapon": true,

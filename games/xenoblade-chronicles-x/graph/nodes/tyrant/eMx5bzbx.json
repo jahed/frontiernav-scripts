@@ -1,11 +1,11 @@
 {
   "id": "eMx5bzbx",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Rolf, the Sonorous",
+    "type": "tyrant",
     "level": 44,
     "notes": "\"Rolf, the Sonorous\" can be found near the bottom of Kings Falls in Oblivia dancing on the sand.",
     "category": "Theroid",

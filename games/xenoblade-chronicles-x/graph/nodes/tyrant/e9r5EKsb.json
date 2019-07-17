@@ -1,11 +1,11 @@
 {
   "id": "e9r5EKsb",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Gi-zho, the Iron Deity",
+    "type": "tyrant",
     "level": 79,
     "notes": "\"Gi-zho, the Iron Deity\" happily waits for visitors inside a stray large floating drilling platform in the south east corner of Cauldros (near the spikey building). Can be fought on foot but flight is required to reach the drilling platform.",
     "category": "Mechanoid",

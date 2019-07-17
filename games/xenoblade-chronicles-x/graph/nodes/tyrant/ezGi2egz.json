@@ -1,11 +1,11 @@
 {
   "id": "ezGi2egz",
   "labels": [
-    "Tyrant",
     "Enemy"
   ],
   "data": {
     "name": "Caesar, the Hundred-Eyed",
+    "type": "tyrant",
     "level": 68,
     "notes": "\"Caesar, the Hundred-Eyed\" is on a stone bridge near the ceiling of \"stonelattice cavern\", a cavern accessed from halfway up the side of the cliff facing the northern ocean waters in the north west corner of Primordia. Flight required unless you want to trick jump into the cavern and use high range weapons but its honestly easier just to get flight.",
     "category": "Insectoid",
