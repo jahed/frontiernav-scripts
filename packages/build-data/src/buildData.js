@@ -1,9 +1,6 @@
 const path = require('path')
-const logger = require('@frontiernav/logger')
-const { writeAndLogFile } = require('./writeAndLogFile')
 const { bundleGames } = require('./bundleGames')
-
-const log = logger.get(__filename)
+const { writeAndLogFile } = require('./writeAndLogFile')
 
 const buildData = args => {
   const config = require(path.resolve(process.cwd(), args.config || 'frontiernav-data.config.js'))
@@ -16,16 +13,12 @@ const buildData = args => {
       only: args.only,
       offline: args.offline
     }))
-    .then(games => {
-      log.info('Writing data.')
-      return Promise.all(
-        games.map(game => writeAndLogFile(
-          path.resolve(process.cwd(), 'games', `game-${game.id}`, `graph.json`),
-          game,
-          true
-        ))
-      )
-    })
+    .then(games => Promise.all(
+      games.map(graph => writeAndLogFile(
+        path.resolve(process.cwd(), 'games', `game-${graph.id}`, `graph.json`),
+        JSON.stringify(graph)
+      ))
+    ))
 }
 
 exports.buildData = buildData
