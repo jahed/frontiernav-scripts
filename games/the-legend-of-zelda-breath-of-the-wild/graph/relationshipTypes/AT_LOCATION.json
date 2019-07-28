@@ -1,6 +1,7 @@
 {
   "id": "AT_LOCATION",
-  "startLabels": null,
+  "startLabels": [
+  ],
   "endLabels": [
     "Location"
   ],

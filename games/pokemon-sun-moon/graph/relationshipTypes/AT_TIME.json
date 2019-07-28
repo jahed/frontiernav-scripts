@@ -1,6 +1,8 @@
 {
   "id": "AT_TIME",
-  "startLabels": null,
+  "startLabels": [
+    "Encounter"
+  ],
   "endLabels": [
     "Time"
   ],

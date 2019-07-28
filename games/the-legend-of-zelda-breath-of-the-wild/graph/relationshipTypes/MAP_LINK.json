@@ -4,5 +4,7 @@
     "MapMarker",
     "MapArea"
   ],
-  "endLabels": null
+  "endLabels": [
+    "SheikahTower"
+  ]
 }

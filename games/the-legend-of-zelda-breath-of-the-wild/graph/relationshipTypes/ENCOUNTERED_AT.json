@@ -1,6 +1,6 @@
 {
   "id": "ENCOUNTERED_AT",
-  "startLabels": null,
+  "startLabels": [],
   "endLabels": [
     "Encounter"
   ],

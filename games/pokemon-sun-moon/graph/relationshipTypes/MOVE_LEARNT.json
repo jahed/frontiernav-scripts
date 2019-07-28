@@ -1,6 +1,8 @@
 {
   "id": "MOVE_LEARNT",
-  "startLabels": null,
+  "startLabels": [
+    "Encounter"
+  ],
   "endLabels": [
     "Move"
   ],

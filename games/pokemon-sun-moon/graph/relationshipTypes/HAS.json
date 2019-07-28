@@ -1,7 +1,13 @@
 {
   "id": "HAS",
-  "startLabels": null,
-  "endLabels": null,
+  "startLabels": [
+    "Game",
+    "Map"
+  ],
+  "endLabels": [
+    "Map",
+    "MapLayer"
+  ],
   "properties": {
     "order": {}
   }

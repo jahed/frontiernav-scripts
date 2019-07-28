@@ -1,7 +1,11 @@
 {
   "id": "STORES",
-  "startLabels": null,
-  "endLabels": null,
+  "startLabels": [
+    "Item"
+  ],
+  "endLabels": [
+    "ZygardePiece"
+  ],
   "properties": {
   }
 }

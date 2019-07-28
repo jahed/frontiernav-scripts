@@ -1,7 +1,23 @@
 {
   "id": "HAS",
-  "startLabels": null,
-  "endLabels": null,
+  "startLabels": [
+    "Enemy",
+    "FNSite",
+    "FNSiteGraph",
+    "Game",
+    "Map",
+    "Region",
+    "SegmentGrid"
+  ],
+  "endLabels": [
+    "FNSite",
+    "Location",
+    "Map",
+    "MapLayer",
+    "PreciousResource",
+    "Segment",
+    "SegmentGrid"
+  ],
   "properties": {
     "order": {}
   }

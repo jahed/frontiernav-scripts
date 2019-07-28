@@ -6,5 +6,11 @@
     "FNSiteGraph",
     "SegmentGrid"
   ],
-  "endLabels": null
+  "endLabels": [
+    "Character",
+    "CollectibleArea",
+    "Enemy",
+    "Location",
+    "Map"
+  ]
 }

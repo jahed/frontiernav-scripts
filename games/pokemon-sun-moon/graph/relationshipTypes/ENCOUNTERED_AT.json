@@ -1,6 +1,8 @@
 {
   "id": "ENCOUNTERED_AT",
-  "startLabels": null,
+  "startLabels": [
+    "ZygardePiece"
+  ],
   "endLabels": [
     "Encounter"
   ],

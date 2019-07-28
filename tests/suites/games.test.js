@@ -141,7 +141,7 @@ function graphTest (gameId) {
         it('labels assigned to RelationshipTypes should be defined', () => {
           const assertLabelsExist = (relationshipType, key) => {
             const labels = relationshipType[key]
-            if (!labels) return
+            assert.ok(labels, `RelationshipType(${relationshipType.id}) does not have ${key}`)
 
             labels.forEach(labelId => {
               const labelExists = nodeLabels.some(nodeLabel => nodeLabel.content.id === labelId)
@@ -200,8 +200,10 @@ function graphTest (gameId) {
             .forEach(relationship => {
               const type = typesById[relationship.type]
               const assertLabels = (node, key) => {
-                const hasLabels = !type[key] || type[key].some(labelId => node.labels.indexOf(labelId) !== -1)
-                assert.ok(hasLabels, `Relationship(${relationship.id}) needed ${key}(${type[key]}) but got [${node.labels}]`)
+                assert.ok(type[key], `RelationshipType(${type.id}) needed ${key}(${type[key]}) but got [${node.labels}]`)
+
+                const hasLabels = type[key].some(labelId => node.labels.indexOf(labelId) !== -1)
+                assert.ok(hasLabels, `RelationshipType(${type.id}) needed ${key}(${type[key]}) but got [${node.labels}]`)
               }
 
               assertLabels(nodesById[relationship.start], 'startLabels')
