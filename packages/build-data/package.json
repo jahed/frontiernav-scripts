@@ -12,7 +12,6 @@
     "@frontiernav/graph": "1.0.0",
     "@frontiernav/logger": "1.0.0",
     "@frontiernav/spreadsheets": "1.0.0",
-    "isomorphic-fetch": "2.2.1",
     "lodash": "4.17.14",
     "minimist": "1.2.0"
   }

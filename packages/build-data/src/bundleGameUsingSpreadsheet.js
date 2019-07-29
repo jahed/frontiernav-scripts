@@ -1,8 +1,7 @@
 const path = require('path')
 const { validateGraph } = require('@frontiernav/graph')
-const { transformSpreadsheets } = require('@frontiernav/spreadsheets')
+const { getGoogleSpreadsheet, transformSpreadsheets } = require('@frontiernav/spreadsheets')
 const logger = require('@frontiernav/logger')
-const fetch = require('isomorphic-fetch')
 const { addRelationshipReferences } = require('./addRelationshipReferences')
 const { emptyGraph } = require('./emptyGraph')
 const { logOrphans } = require('./logOrphans')
@@ -23,16 +22,7 @@ function bundleGameUsingSpreadsheet (gameRoot, game, offline) {
 
     gameLog.info('Downloading spreadsheet.', `https://docs.google.com/spreadsheets/d/${gid}/`)
 
-    return fetch(`https://docs.google.com/spreadsheets/d/${gid}/export?format=xlsx&id=${gid}`)
-      .then(response => {
-        if (response.status >= 400) {
-          return Promise.reject(
-            new Error(`Google Spreadsheets responded with "${response.status}" for "${gid}"`)
-          )
-        }
-
-        return response.buffer()
-      })
+    return getGoogleSpreadsheet(gid)
   }
 
   function generateGraph (game) {
