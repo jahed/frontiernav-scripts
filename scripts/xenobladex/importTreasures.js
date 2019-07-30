@@ -355,6 +355,6 @@ getGoogleSpreadsheet('1LZorqJvXeT6cZUbgRDc8ZprYhBFASKksRkBV0a6fyJE')
     ...Object.values(relationships).map(relationship => addRelationshipAction(relationship))
   ])
   .then(result => writeFile(
-    path.resolve('changes.json'),
+    path.resolve(`.tmp/changes-${sessionId}.json`),
     JSON.stringify(result, null, 2)
   ))
