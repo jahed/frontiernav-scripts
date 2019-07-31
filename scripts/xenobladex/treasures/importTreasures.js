@@ -113,24 +113,14 @@ const addRelationshipTypeAction = relationshipType => ({
   meta: { createdAt: now++ }
 })
 
-const addRelationshipTypeEndLabelAction = ({ relationshipType, nodeLabel }) => ({
-  type: '@frontiernav/graph/ADD_RELATIONSHIP_TYPE_END_LABEL',
+const addNodeLabelRelationshipAction = ({ relationshipType, startLabel, endLabel }) => ({
+  type: '@frontiernav/graph/ADD_NODE_LABEL_RELATIONSHIP',
   payload: {
     sessionId,
     worldSlug,
     relationshipType,
-    nodeLabel
-  },
-  meta: { createdAt: now++ }
-})
-
-const addRelationshipTypeStartLabelAction = ({ relationshipType, nodeLabel }) => ({
-  type: '@frontiernav/graph/ADD_RELATIONSHIP_TYPE_START_LABEL',
-  payload: {
-    sessionId,
-    worldSlug,
-    relationshipType,
-    nodeLabel
+    startLabel,
+    endLabel
   },
   meta: { createdAt: now++ }
 })
@@ -281,6 +271,48 @@ getGoogleSpreadsheet('1LZorqJvXeT6cZUbgRDc8ZprYhBFASKksRkBV0a6fyJE')
       name: 'Field Skill Level',
       type: 'number'
     }),
+    addRelationshipTypeAction({
+      id: 'FIELD_TREASURE_CONTAINER',
+      name: 'Field Treasure Container',
+      startLabels: [],
+      endLabels: [],
+      properties: {}
+    }),
+    addRelationshipTypeAction({
+      id: 'FIELD_SKILL',
+      name: 'Field Skill',
+      startLabels: [],
+      endLabels: [],
+      properties: {
+        field_skill_level: {
+          required: true
+        }
+      }
+    }),
+    addNodeLabelAction({
+      id: 'FieldTreasureContainer',
+      name: 'Field Treasure Container',
+      properties: {
+        name: { required: true }
+      },
+      relationshipTypes: {}
+    }),
+    addNodeLabelAction({
+      id: 'FieldSkill',
+      name: 'Field Skill',
+      properties: {
+        name: { required: true }
+      },
+      relationshipTypes: {}
+    }),
+    addNodeLabelAction({
+      id: 'Item',
+      name: 'Item',
+      properties: {
+        name: { required: true }
+      },
+      relationshipTypes: {}
+    }),
     addNodeLabelAction({
       id: 'FieldTreasure',
       name: 'Field Treasure',
@@ -290,77 +322,35 @@ getGoogleSpreadsheet('1LZorqJvXeT6cZUbgRDc8ZprYhBFASKksRkBV0a6fyJE')
         experience_points: {},
         credits: {},
         battle_points: {}
-      }
-    }),
-    addNodeLabelAction({
-      id: 'FieldTreasureContainer',
-      name: 'Field Treasure Container',
-      properties: {
-        name: { required: true }
-      }
-    }),
-    addNodeLabelAction({
-      id: 'FieldSkill',
-      name: 'Field Skill',
-      properties: {
-        name: { required: true }
-      }
-    }),
-    addNodeLabelAction({
-      id: 'Item',
-      name: 'Item',
-      properties: {
-        name: { required: true }
-      }
-    }),
-    addRelationshipTypeAction({
-      id: 'FIELD_TREASURE_CONTAINER',
-      name: 'Field Treasure Container',
-      startLabels: ['FieldTreasure'],
-      endLabels: ['FieldTreasureContainer'],
-      properties: {}
-    }),
-    addRelationshipTypeAction({
-      id: 'FIELD_SKILL',
-      name: 'Field Skill',
-      startLabels: ['FieldTreasure'],
-      endLabels: ['FieldSkill'],
-      properties: {
-        field_skill_level: {
-          required: true
+      },
+      relationshipTypes: {
+        FIELD_TREASURE_CONTAINER: {
+          endLabels: {
+            FieldTreasureContainer: true
+          }
+        },
+        FIELD_SKILL: {
+          endLabels: {
+            FieldSkill: true
+          }
+        },
+        DROPS: {
+          endLabels: {
+            FNSiteProbe: true,
+            Item: true
+          }
         }
       }
     }),
-    addRelationshipTypeEndLabelAction({
+    addNodeLabelRelationshipAction({
       relationshipType: {
         id: 'MAP_LINK'
       },
-      nodeLabel: {
+      startLabel: {
+        id: 'MapMarker'
+      },
+      endLabel: {
         id: 'FieldTreasure'
-      }
-    }),
-    addRelationshipTypeStartLabelAction({
-      relationshipType: {
-        id: 'DROPS'
-      },
-      nodeLabel: {
-        id: 'FieldTreasure'
-      }
-    }),
-    addRelationshipTypeEndLabelAction({
-      relationshipType: {
-        id: 'DROPS'
-      },
-      nodeLabel: {
-        id: 'FNSiteProbe'
-      }
-    }),
-    addRelationshipTypeEndLabelAction({
-      relationshipType: {
-        id: 'DROPS'
-      },
-      nodeLabel: {
-        id: 'Item'
       }
     }),
     addNodeAction(mapLayer),
