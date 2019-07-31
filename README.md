@@ -1,5 +1,13 @@
 # FrontierNav Data
 
+## Deprecated
+
+This repo has been archived and is no longer used. All data-related tasks have been moved to FrontierNav's [web
+interface](https://frontiernav.jahed.dev) and [monorepo](https://github.com/frontiernav/frontiernav).
+
+---
+
+
 [![Travis Build Status](https://img.shields.io/travis/frontiernav/frontiernav-data/master.svg)](https://travis-ci.org/frontiernav/frontiernav-data/branches/master)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/frontiernav/frontiernav-data.svg)](https://david-dm.org/frontiernav/frontiernav-data?type=dev)
 [![Discord Chat](https://img.shields.io/badge/discord-chat-7289da.svg)](https://discord.gg/crmfAsJ)
