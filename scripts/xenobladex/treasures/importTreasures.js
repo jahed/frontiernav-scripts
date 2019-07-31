@@ -146,27 +146,48 @@ const mapLayer = withIdFromName({
 getGoogleSpreadsheet('1LZorqJvXeT6cZUbgRDc8ZprYhBFASKksRkBV0a6fyJE')
   .then(content => XLSX.read(content))
   .then(workbook => workbook.Sheets['Field Treasures'])
-  .then(sheet => XLSX.utils.sheet_to_json(sheet))
-  .then(sheet => sheet
-    .map((row, i) => _.mapKeys(row, (value, key) => key.trim()))
-    .filter(row => !!row['Mira Map Coordinates'] && row['Mira Map Coordinates'] !== 'YX')
+  .then(xlsxSheet => ({
+    xlsxSheet,
+    sheet: XLSX.utils.sheet_to_json(xlsxSheet)
+  }))
+  .then(({ xlsxSheet, sheet }) => sheet
+    .map((row, i) => _(row)
+      .set('rowNumber', i + 2) // index starts at 1 and include heading
+      .mapKeys((value, key) => key.trim())
+      .value()
+    )
+    .filter(row => !!row['Mira Map Coordinates'])
+    .map(row => {
+      if (row['Mira Map Coordinates'] === 'YX') {
+        row['Mira Map Coordinates'] = '-84.093401, -30.805664'
+      }
+      return row
+    })
     .map((row, i) => {
+      const number = i + 1
+
+      // downloadScreenshot({
+      //   treasureId: `treasure-${number}`,
+      //   xlsxSheet,
+      //   row
+      // })
+
       return ({
         mapMarker: withIdFromName({
           labels: { MapMarker: true },
           data: {
-            name: `Treasure #${i} (Map Marker)`,
+            name: `Treasure #${number} (Map Marker)`,
             latLng: parseLatLng(row['Mira Map Coordinates'])
           }
         }),
         treasure: withIdFromName({
           labels: { FieldTreasure: true },
           data: {
-            name: `Treasure #${i}`,
+            name: `Treasure #${number}`,
+            image: `treasures/treasure-${number}.jpg`,
             experience_points: row['EXP'],
             credits: row['Credits'],
-            battle_points: row['BP'],
-            notes: row['Special Info'] ? row['Special Info'] : undefined
+            battle_points: row['BP']
           }
         }),
         container: withIdFromName({
@@ -265,10 +286,10 @@ getGoogleSpreadsheet('1LZorqJvXeT6cZUbgRDc8ZprYhBFASKksRkBV0a6fyJE')
       name: 'Field Treasure',
       properties: {
         name: { required: true },
+        image: {},
         experience_points: {},
         credits: {},
-        battle_points: {},
-        notes: {}
+        battle_points: {}
       }
     }),
     addNodeLabelAction({
