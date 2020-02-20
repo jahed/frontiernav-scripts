@@ -3,15 +3,15 @@ const path = require('path')
 const https = require('https')
 
 let downloadChain = Promise.resolve()
-const downloadScreenshot = ({ treasureId, xlsxSheet, row }) => {
+const downloadScreenshot = ({ id, xlsxSheet, row, columnLetter }) => {
   downloadChain = downloadChain
     .then(() => new Promise((resolve, reject) => {
-      const cellIndex = `J${row.rowNumber}`
+      const cellIndex = `${columnLetter}${row.rowNumber}`
       const screenshotCell = xlsxSheet[cellIndex]
       const url = /HYPERLINK\("([^"]+)"/.exec(screenshotCell.f)[1]
 
       setTimeout(() => {
-        const write = fs.createWriteStream(path.resolve(`./.tmp/${treasureId}.jpg`))
+        const write = fs.createWriteStream(path.resolve(`./.tmp/${id}.jpg`))
         write.on('finish', () => {
           console.log(`Success: ${url}`)
           resolve()
@@ -29,4 +29,4 @@ const downloadScreenshot = ({ treasureId, xlsxSheet, row }) => {
     }))
 }
 
-export { downloadScreenshot }
+module.exports = { downloadScreenshot }
