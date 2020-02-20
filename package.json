@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Data for FrontierNav",
   "scripts": {
-    "preinstall": "node ./scripts/enforceYarn.js",
-    "test": "yarn lint && yarn test:unit",
-    "test:unit": "jest",
-    "lint": "eslint \"packages/**/*.js\"",
     "deps": "yarn upgrade-interactive --latest && yarn upgrade && git add yarn.lock '*package.json' && git commit -m 'build(deps): upgrade dependencies'"
   },
   "private": true,
