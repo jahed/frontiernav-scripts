@@ -28,6 +28,9 @@ function toTiles ({ mapInfo }) {
   return _(mapInfo)
     .mapValues(rawTile => {
       const mapping = _.find(tileMappings, mapping => mapping.game_id === rawTile.Name)
+      if (!mapping) {
+        log.warn(`Mapping not found for ${rawTile.Name}`)
+      }
       return {
         ...rawTile,
         mapping
@@ -168,11 +171,11 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
     .then(mapInfo => toRegion({ absoluteFilePath, mapInfo }))
     .then(region => (
       Promise.all([
-        // getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
-        // getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
-        // getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
-        // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
-        // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
+        getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
+        getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
+        getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
+        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
+        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
         getMarkersForRegion({ region, filename: 'tbox', type: 'GmkTbox', Target: TreasurePoints })
       ])
     ))
@@ -186,7 +189,7 @@ exports.getAll = () => {
       return contentPromise
         .then(mapInfo => parseMapFeatures({ absoluteFilePath, mapInfo }))
         .catch(error => {
-          log.warn({ absoluteFilePath, error }, `failed to parse region`)
+          log.warn({ absoluteFilePath, error }, 'failed to parse region')
           return null
         })
     },

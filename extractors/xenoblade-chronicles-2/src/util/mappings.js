@@ -31,7 +31,7 @@ const tileMappings = [
   { map_name: 'Uraya - Sternum Arch', game_id: 'ma07a_a_floor_03', name: 'Uraya - Sternum Arch (Tiles)' },
   { map_name: 'Uraya - Soulcrown Summit', game_id: 'ma07a_a_floor_04', name: 'Uraya - Soulcrown Summit (Tiles)' },
   { map_name: 'Uraya - Stomach', game_id: 'ma07a_b_floor_01', name: 'Uraya - Stomach (Tiles)' },
-  { map_name: 'Uraya - Raqura Aquagardens', game_id: 'ma07a_b_floor_b01', name: 'Uraya - Raqura Aquagardens (Tiles)' },
+  { map_name: 'Uraya - Raqura Aquagardens', game_id: 'ma07a_b_floor_B01', name: 'Uraya - Raqura Aquagardens (Tiles)' },
   { map_name: 'Uraya - Olethro Ruins', game_id: 'ma07a_d_floor_01lodoff', name: 'Uraya - Olethro Ruins (Destroyed) (Tiles)' },
   { map_name: 'Uraya - Olethro Ruins', game_id: 'ma07a_d_floor_01', name: 'Uraya - Olethro Ruins (Intact) (Tiles)' },
   { map_name: 'Mor Ardain - Alba Cavanich', game_id: 'ma08a_city_f_3', name: 'Mor Ardain - Alba Cavanich (Tiles)' },
