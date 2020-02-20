@@ -75,7 +75,8 @@ const getDrops = async (rawTreasurePoint) => {
             .then(name => nameToId(name))
             .then(id => ({
               id,
-              rate: drop.rate
+              rate: drop.rate,
+              count: drop.count
             }))
         })
     )
@@ -83,7 +84,10 @@ const getDrops = async (rawTreasurePoint) => {
       .filter(d => d)
       .reduce((acc, next) => {
         const existing = acc[next.id]
-        const nextRate = { rate: next.rate }
+        const nextRate = {
+          rate: next.rate,
+          count: next.count
+        }
         if (existing) {
           existing.rates.push(nextRate)
         } else {
