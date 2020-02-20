@@ -9,6 +9,6 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.3",
     "minimist": "1.2.0",
-    "xlsx": "0.14.3"
+    "xlsx": "0.15.5"
   }
 }

@@ -10,7 +10,7 @@
     "@frontiernav/logger": "1.0.0",
     "@frontiernav/table-to-xsv": "1.0.0",
     "jsdom": "15.1.1",
-    "leaflet": "1.5.1",
-    "mkdirp": "0.5.1"
+    "leaflet": "1.6.0",
+    "mkdirp": "1.0.3"
   }
 }
