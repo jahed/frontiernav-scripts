@@ -11,6 +11,7 @@ const CollectionPoints = require('./CollectionPoints')
 const Locations = require('./Locations')
 const SalvagePoints = require('./SalvagePoints')
 const EnemySpawnPoints = require('./EnemySpawnPoints')
+const TreasurePoints = require('./TreasurePoints')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -167,11 +168,12 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
     .then(mapInfo => toRegion({ absoluteFilePath, mapInfo }))
     .then(region => (
       Promise.all([
-        getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
-        getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
-        getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
-        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
-        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints })
+        // getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
+        // getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
+        // getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
+        // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
+        // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
+        getMarkersForRegion({ region, filename: 'tbox', type: 'GmkTbox', Target: TreasurePoints })
       ])
     ))
     .then(featuresPerType => _.flatten(featuresPerType))

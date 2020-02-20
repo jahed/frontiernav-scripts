@@ -19,12 +19,13 @@ const entities = {
   // InfoItems: require('./entities/InfoItems.js'),
   // KeyItems: require('./entities/KeyItems.js'),
   // Locations: require('./entities/Locations.js'),
-  MapFeatures: require('./entities/MapFeatures.js')
+  MapFeatures: require('./entities/MapFeatures.js'),
   // PouchItemCategories: require('./entities/PouchItemCategories.js'),
   // PouchItems: require('./entities/PouchItems.js'),
   // SalvagePoints: require('./entities/SalvagePoints.js'),
   // Treasure: require('./entities/Treasure.js'),
   // UnrefinedAuxCores: require('./entities/UnrefinedAuxCores.js'),
+  TreasurePoints: require('./entities/TreasurePoints.js')
   // Weapons: require('./entities/Weapons.js')
 }
 
