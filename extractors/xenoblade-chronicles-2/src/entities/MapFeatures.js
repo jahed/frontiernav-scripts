@@ -2,8 +2,7 @@ const path = require('path')
 const util = require('util')
 const { readObjects, readFile } = require('@frontiernav/filesystem')
 const { mapMappings, tileMappings } = require('../util/mappings')
-const csv = require('csv')
-const parseCSV = util.promisify(csv.parse)
+const parseCSV = util.promisify(require('csv-parse'))
 const _ = require('lodash')
 const log = require('@frontiernav/logger').get(__filename)
 const jsdom = require('jsdom')
@@ -108,7 +107,7 @@ function createMarker ({ coords, tile, latLng }) {
     target: '',
     geometry: JSON.stringify({
       type: 'Point',
-      'coordinates': [
+      coordinates: [
         latLng.lng,
         latLng.lat
       ]
@@ -149,7 +148,7 @@ function toRegion ({ absoluteFilePath, mapInfo }) {
 
 const getAllRawMarkerTables = _.memoize(() => {
   return readFile(allMarkersPath)
-    .then(content => parseCSV(content, { columns: true, auto_parse: true }))
+    .then(content => parseCSV(content, { columns: true, cast: true }))
     .then(markers => _.groupBy(markers, m => `${m.Filename}_${m.GmkType}_${m.Map}`))
 })
 
@@ -190,7 +189,7 @@ exports.getAll = () => {
         })
     },
     {
-      '.csv': content => parseCSV(content, { columns: true, objname: 'Name', auto_parse: true })
+      '.csv': content => parseCSV(content, { columns: true, objname: 'Name', cast: true })
     }
   )
 

@@ -6,6 +6,9 @@
     "deps": "yarn upgrade-interactive --latest && yarn upgrade && git add yarn.lock '*package.json' && git commit -m 'build(deps): upgrade dependencies'"
   },
   "private": true,
+  "engines": {
+    "node": "~12"
+  },
   "workspaces": [
     "packages/*",
     "extractors/*"
@@ -26,7 +29,6 @@
     "@frontiernav/spreadsheets": "1.0.0",
     "bluebird": "3.7.2",
     "colors": "1.4.0",
-    "csv": "4.0.0",
     "file": "0.2.2",
     "isomorphic-fetch": "2.2.1",
     "lodash": "4.17.15",
