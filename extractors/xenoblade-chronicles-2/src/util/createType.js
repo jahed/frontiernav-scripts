@@ -3,6 +3,7 @@ const path = require('path')
 const _ = require('lodash')
 const getName = require('./getName')
 const log = require('@frontiernav/logger').get(__filename)
+const { stampEntityId } = require('@frontiernav/graph')
 
 function createType ({
   type,
@@ -39,9 +40,15 @@ function createType ({
     } = await getProperties({ raw, name })
 
     return {
-      name: nameProp || name,
-      game_id: raw.id,
-      ...additionalProps
+      entity: stampEntityId({
+        type,
+        data: {
+          name: nameProp || name,
+          game_id: raw.id,
+          ...additionalProps
+        }
+      }),
+      relationships: []
     }
   }, raw => raw.id)
 

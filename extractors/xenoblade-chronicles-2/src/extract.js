@@ -26,6 +26,7 @@ const entityTypeModules = {
   // InfoItem: require('./entities/InfoItems.js'),
   // KeyItem: require('./entities/KeyItems.js'),
   // Location: require('./entities/Locations.js'),
+  KeyItemPoint: require('./entities/KeyItemPoints.js'),
   MapFeature: require('./entities/MapFeatures.js')
   // PouchItemCategory: require('./entities/PouchItemCategories.js'),
   // PouchItem: require('./entities/PouchItems.js'),
