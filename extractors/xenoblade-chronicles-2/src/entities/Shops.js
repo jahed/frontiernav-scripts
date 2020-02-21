@@ -4,6 +4,19 @@ const { getShopItems } = require('./internal/ShopStock')
 const shopTypesOrder = ['Normal', 'Exchange', 'Inn', 'AuxCore']
 const { stampRelationshipId } = require('@frontiernav/graph')
 
+const badShops = {
+  1: true,
+  2: true,
+  3: true,
+  4: true,
+  5: true,
+  6: true,
+  7: true,
+  8: true,
+  9: true,
+  10: true
+}
+
 const duplicateShops = {
   11: true, // 16
   25: true, // 24
@@ -22,7 +35,7 @@ const Shop = createType({
   preprocess: all => {
     return _(all)
       .filter(entry => {
-        return shopTypesOrder[entry.ShopType] === 'Normal' && !duplicateShops[entry.id]
+        return shopTypesOrder[entry.ShopType] === 'Normal' && !duplicateShops[entry.id] && !badShops[entry.id]
       })
       .value()
   },

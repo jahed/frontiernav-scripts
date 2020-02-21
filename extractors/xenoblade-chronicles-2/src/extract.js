@@ -32,7 +32,7 @@ const entityTypeModules = {
   // PouchItemCategory: require('./entities/PouchItemCategories.js'),
   // PouchItem: require('./entities/PouchItems.js'),
   // SalvagePoint: require('./entities/SalvagePoints.js'),
-  Treasure: require('./entities/Treasure.js'),
+  // Treasure: require('./entities/Treasure.js'),
   // UnrefinedAuxCore: require('./entities/UnrefinedAuxCores.js'),
   // TreasurePoint: require('./entities/TreasurePoints.js')
   // Weapon: require('./entities/Weapons.js'),
@@ -62,10 +62,14 @@ Promise
           return [
             ...schemaActions,
             ...result.flatMap(({ entity, relationships }) => {
-              return [
-                addEntityAction(entity),
-                ...relationships.map(r => addRelationshipAction(r))
-              ]
+              const actions = []
+              if (entity) {
+                actions.push(addEntityAction(entity))
+              }
+              if (relationships) {
+                relationships.forEach(r => actions.push(addRelationshipAction(r)))
+              }
+              return actions
             })
           ]
         })

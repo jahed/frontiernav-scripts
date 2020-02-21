@@ -58,7 +58,8 @@ exports.getShopItems = async shopId => {
     raw.Addtem2,
     raw.Addtem3,
     raw.Addtem4,
-    raw.Addtem5
+    raw.Addtem5,
+    raw.PrivilegeItem
   ].filter(id => id)
 
   return Promise.all(itemIds.map(itemId => getItemById(shopId, itemId)))
