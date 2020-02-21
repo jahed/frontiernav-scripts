@@ -4,5 +4,6 @@ module.exports = {
   nameToLabelId: require('./nameToLabelId'),
   nameToNode: require('./nameToNode'),
   stampRelationshipId: require('./stampRelationshipId'),
-  validateGraph: require('./validateGraph')
+  validateGraph: require('./validateGraph'),
+  stampEntityId: require('./stampEntityId')
 }

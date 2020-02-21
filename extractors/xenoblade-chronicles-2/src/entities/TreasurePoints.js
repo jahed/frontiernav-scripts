@@ -7,12 +7,12 @@ const KeyItems = require('./KeyItems')
 const UnrefinedAuxCores = require('./UnrefinedAuxCores')
 const CoreCrystals = require('./CoreCrystals')
 const Boosters = require('./Boosters')
-const { nameToId } = require('@frontiernav/graph')
+const { nameToId, stampEntityId, stampRelationshipId } = require('@frontiernav/graph')
 const { getAllRaw, getAllRawByName } = require('../util/gimmicks')
 
 const ItemTypes = [Collectibles, Accessories, CoreCrystals, UnrefinedAuxCores, CoreChips, KeyItems, Boosters]
 
-const getDrops = async (rawTreasurePoint) => {
+const getDropRelationships = async (startId, rawTreasurePoint) => {
   const data = [
     {
       id: rawTreasurePoint.itm1ID,
@@ -89,12 +89,16 @@ const getDrops = async (rawTreasurePoint) => {
           count: next.count
         }
         if (existing) {
-          existing.rates.push(nextRate)
+          existing.data.rates.push(nextRate)
         } else {
-          acc[next.id] = {
-            id: next.id,
-            rates: [nextRate]
-          }
+          acc[next.id] = stampRelationshipId({
+            type: 'TreasurePoint-DROPS',
+            start: startId,
+            end: next.id,
+            data: {
+              rates: [nextRate]
+            }
+          })
         }
         return acc
       }, {})
@@ -105,15 +109,21 @@ const getDrops = async (rawTreasurePoint) => {
 /**
  * TODO: Process FSID and FSID2 (FLD_FieldSkillSetting)
  */
-const toTreasurePoint = _.memoize(async raw => {
-  const drops = await getDrops(raw)
+const toTreasurePoint = async raw => {
+  const treasurePoint = stampEntityId({
+    type: 'TreasurePoint',
+    data: {
+      name: `Treasure Point #${raw.id}`,
+      min_gold: raw.goldMin,
+      max_gold: raw.goldMax
+    }
+  })
+  const drops = await getDropRelationships(treasurePoint.id, raw)
   return {
-    name: `Treasure Point #${raw.id}`,
-    min_gold: raw.goldMin,
-    max_gold: raw.goldMax,
-    drops
+    entity: treasurePoint,
+    relationships: [...drops]
   }
-}, raw => raw.name)
+}
 
 exports.getByName = async ({ name }) => {
   const rawTreasurePoints = await getAllRawByName({ type: 'FLD_TboxPop' })
@@ -137,4 +147,77 @@ exports.getAll = async () => {
       ))
     )
     .then(results => results.filter(r => r))
+}
+
+exports.schema = {
+  entityType: {
+    id: 'TreasurePoint',
+    name: 'Treasure Point',
+    hue: 60,
+    properties: {
+      name: {
+        id: 'name',
+        name: 'Name',
+        type: 'string',
+        required: true
+      },
+      min_gold: {
+        id: 'min_gold',
+        name: 'Min. Gold',
+        type: 'number'
+      },
+      max_gold: {
+        id: 'max_gold',
+        name: 'Max. Gold',
+        type: 'number'
+      }
+    }
+  },
+  relationshipProperties: [
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      property: {
+        id: 'rates',
+        name: 'Rates',
+        type: 'object'
+      }
+    }
+  ],
+  relationships: [
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'Collectible' }
+    },
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'Accessory' }
+    },
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'CoreCrystal' }
+    },
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'UnrefinedAuxCore' }
+    },
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'CoreChip' }
+    },
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'KeyItem' }
+    },
+    {
+      relationshipType: { id: 'TreasurePoint-DROPS' },
+      startEntityType: { id: 'TreasurePoint' },
+      endEntityType: { id: 'Booster' }
+    }
+  ]
 }

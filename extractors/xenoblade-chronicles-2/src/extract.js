@@ -1,42 +1,70 @@
 const path = require('path')
-const toTSV = require('./util/toTSV')
-const writeOut = require('./util/writeOut')
+const fs = require('fs')
+const {
+  addEntityAction,
+  addRelationshipAction,
+  addEntityTypeRelationship,
+  addEntityTypeAction,
+  addRelationshipTypeProperty
+} = require('./actions')
+const _ = require('lodash')
 
-const entities = {
-  // Accessories: require('./entities/Accessories.js'),
-  // AuxCores: require('./entities/AuxCores.js'),
-  // Boosters: require('./entities/Boosters.js'),
-  // Collectibles: require('./entities/Collectibles.js'),
-  // CollectionPoints: require('./entities/CollectionPoints.js'),
-  // CoreChips: require('./entities/CoreChips.js'),
-  // CoreCrystals: require('./entities/CoreCrystals.js'),
-  // Cylinders: require('./entities/Cylinders.js'),
-  // Enemies: require('./entities/Enemies.js'),
-  // EnemyDropTables: require('./entities/EnemyDropTables.js'),
-  // EnemySpawnPoints: require('./entities/EnemySpawnPoints.js'),
-  // EnemySpawns: require('./entities/EnemySpawns.js'),
-  // FieldSkills: require('./entities/FieldSkills.js'),
-  // InfoItems: require('./entities/InfoItems.js'),
-  // KeyItems: require('./entities/KeyItems.js'),
-  // Locations: require('./entities/Locations.js'),
-  MapFeatures: require('./entities/MapFeatures.js'),
-  // PouchItemCategories: require('./entities/PouchItemCategories.js'),
-  // PouchItems: require('./entities/PouchItems.js'),
-  // SalvagePoints: require('./entities/SalvagePoints.js'),
+const entityTypeModules = {
+  // Accessory: require('./entities/Accessories.js'),
+  // AuxCore: require('./entities/AuxCores.js'),
+  // Booster: require('./entities/Boosters.js'),
+  // Collectible: require('./entities/Collectibles.js'),
+  // CollectionPoint: require('./entities/CollectionPoints.js'),
+  // CoreChip: require('./entities/CoreChips.js'),
+  // CoreCrystal: require('./entities/CoreCrystals.js'),
+  // Cylinder: require('./entities/Cylinders.js'),
+  // Enemy: require('./entities/Enemies.js'),
+  // EnemyDropTable: require('./entities/EnemyDropTables.js'),
+  // EnemySpawnPoint: require('./entities/EnemySpawnPoints.js'),
+  // EnemySpawn: require('./entities/EnemySpawns.js'),
+  // FieldSkill: require('./entities/FieldSkills.js'),
+  // InfoItem: require('./entities/InfoItems.js'),
+  // KeyItem: require('./entities/KeyItems.js'),
+  // Location: require('./entities/Locations.js'),
+  // MapFeature: require('./entities/MapFeatures.js'),
+  // PouchItemCategory: require('./entities/PouchItemCategories.js'),
+  // PouchItem: require('./entities/PouchItems.js'),
+  // SalvagePoint: require('./entities/SalvagePoints.js'),
   // Treasure: require('./entities/Treasure.js'),
-  // UnrefinedAuxCores: require('./entities/UnrefinedAuxCores.js'),
-  TreasurePoints: require('./entities/TreasurePoints.js')
-  // Weapons: require('./entities/Weapons.js')
+  // UnrefinedAuxCore: require('./entities/UnrefinedAuxCores.js'),
+  TreasurePoint: require('./entities/TreasurePoints.js')
+  // Weapon: require('./entities/Weapons.js')
 }
 
-Object
-  .keys(entities)
-  .map(name => {
-    entities[name].getAll()
-      .then(result => toTSV({ objects: result }))
-      .then(result => writeOut({
-        filename: `${name}.tsv`,
-        content: result,
-        destination: path.resolve(__dirname, '../out')
-      }))
+Promise
+  .all(
+    _(entityTypeModules)
+      .map(entityTypeModule => entityTypeModule.getAll()
+        .then(result => {
+          return [
+            addEntityTypeAction(entityTypeModule.schema.entityType),
+            ...entityTypeModule.schema.relationships.map(r => addEntityTypeRelationship(r)),
+            ...entityTypeModule.schema.relationshipProperties.map(r => addRelationshipTypeProperty(r)),
+            ...result.flatMap(({ entity, relationships }) => {
+              return [
+                addEntityAction(entity),
+                ...relationships.map(r => addRelationshipAction(r))
+              ]
+            })
+          ]
+        })
+      )
+      .value()
+  )
+  .then(result => _(result)
+    .flatten()
+    .keyBy(action => action.meta.createdAt)
+    .value()
+  )
+  .then(result => {
+    return fs.promises.writeFile(
+      // path.resolve(`/tmp/changes-${sessionId}.json`),
+      path.resolve('/tmp/frontiernav-changes.json'),
+      JSON.stringify(result, null, 2)
+    )
   })

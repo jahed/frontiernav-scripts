@@ -12,6 +12,7 @@ const Locations = require('./Locations')
 const SalvagePoints = require('./SalvagePoints')
 const EnemySpawnPoints = require('./EnemySpawnPoints')
 const TreasurePoints = require('./TreasurePoints')
+const { nameToId, stampRelationshipId, stampEntityId } = require('@frontiernav/graph')
 
 const dom = new JSDOM('<body></body>')
 global.window = dom.window
@@ -43,11 +44,15 @@ function withinBox ({ point: { x, y, z }, box: { minX, maxX, minY, maxY, minZ, m
   return (x > minX && y > minY && z > minZ) && (x < maxX && y < maxY && z < maxZ)
 }
 
-function assignTarget ({ marker, Target }) {
-  return Target.getByName({ name: marker.game_id })
+function createTargetRelationship ({ marker, Target }) {
+  return Target.getByName({ name: marker.data.game_id })
     .then(target => {
-      marker.target = target.name
-      return marker
+      return stampRelationshipId({
+        type: 'MAP_TARGET',
+        start: marker.id,
+        end: target.entity.id,
+        data: {}
+      })
     })
 }
 
@@ -103,22 +108,22 @@ function getLatLng ({ region, coords }) {
   })
 }
 
-function createMarker ({ coords, tile, latLng }) {
-  return {
-    name: `${coords.Name} #${coords.Id} (Map Feature)`,
-    game_id: coords.Name,
-    map: tile.mapping.map_name,
-    target: '',
-    geometry: JSON.stringify({
-      type: 'Point',
-      coordinates: [
-        latLng.lng,
-        latLng.lat
-      ]
-    }),
-    shape: 'image',
-    notes: ''
-  }
+function createMarker ({ coords, latLng }) {
+  return stampEntityId({
+    type: 'MapFeature',
+    data: {
+      name: `${coords.Name} #${coords.Id} (Map Feature)`,
+      geometry: {
+        type: 'Point',
+        coordinates: [
+          latLng.lng,
+          latLng.lat
+        ]
+      },
+      shape: 'image',
+      game_id: coords.Name
+    }
+  })
 }
 
 function toMarkers ({ region, markers, Target }) {
@@ -128,15 +133,30 @@ function toMarkers ({ region, markers, Target }) {
         .filter(coords => !!coords.Name)
         .map(coords => (
           getLatLng({ region, coords })
-            .then(({ coords, latLng, tile }) => createMarker({ coords, latLng, tile }))
-            .then(marker => assignTarget({ Target, marker }))
+            .then(async ({ coords, latLng, tile }) => {
+              const marker = createMarker({ coords, latLng })
+              const mapRelationship = stampRelationshipId({
+                type: 'MAP',
+                start: marker.id,
+                end: nameToId(tile.mapping.map_name),
+                data: {}
+              })
+              const targetRelationship = await createTargetRelationship({ Target, marker })
+              return {
+                entity: marker,
+                relationships: [mapRelationship, targetRelationship]
+              }
+            })
             .catch(e => {
               log.warn(e.message)
               return null
             })
         ))
     )
-    .then(markers => markers.filter(marker => !!marker))
+    .then(results => _(results)
+      .filter(result => !!result)
+      .value()
+    )
 }
 
 function toRegion ({ absoluteFilePath, mapInfo }) {
@@ -150,11 +170,11 @@ function toRegion ({ absoluteFilePath, mapInfo }) {
   }
 }
 
-const getAllRawMarkerTables = _.memoize(() => {
+const getAllRawMarkerTables = () => {
   return readFile(allMarkersPath)
     .then(content => parseCSV(content, { columns: true, cast: true }))
     .then(markers => _.groupBy(markers, m => `${m.Filename}_${m.GmkType}_${m.Map}`))
-})
+}
 
 function getTableName ({ filename, type, region }) {
   return `${filename}_${type}_${region.gameId}`
@@ -171,11 +191,11 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
     .then(mapInfo => toRegion({ absoluteFilePath, mapInfo }))
     .then(region => (
       Promise.all([
-        getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
-        getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
-        getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
-        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
-        getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
+        // getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
+        // getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
+        // getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
+        // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
+        // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
         getMarkersForRegion({ region, filename: 'tbox', type: 'GmkTbox', Target: TreasurePoints })
       ])
     ))
