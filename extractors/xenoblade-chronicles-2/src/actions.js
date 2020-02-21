@@ -48,11 +48,12 @@ const addEntityTypeAction = entityType => ({
   meta: { createdAt: now++ }
 })
 
-const addPropertyAction = property => ({
-  type: '@frontiernav/graph/ADD_PROPERTY',
+const addEntityTypeProperty = ({ entityType, property }) => ({
+  type: '@frontiernav/graph/ADD_ENTITY_TYPE_PROPERTY',
   payload: {
     sessionId,
     worldSlug,
+    entityType: { id: entityType.id },
     property
   },
   meta: { createdAt: now++ }
@@ -100,7 +101,7 @@ module.exports = {
   addEntityAction,
   addRelationshipAction,
   addEntityTypeAction,
-  addPropertyAction,
+  addEntityTypeProperty,
   addEntityTypeRelationship,
   addNodeLabelRelationshipAction,
   addRelationshipTypeProperty

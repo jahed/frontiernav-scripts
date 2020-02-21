@@ -9,15 +9,17 @@ function createType ({
   type,
   dataFile,
   nameFile,
+  preprocess = all => all,
   getNameId = ({ raw }) => raw.Name,
-  getProperties = () => ({})
+  getProperties = () => ({}),
+  getRelationships = async () => ([])
 }) {
   const absoluteDataFile = path.resolve(__dirname, '../../data/database/common', dataFile)
   const absoluteNameFile = path.resolve(__dirname, '../../data/database/common_ms', nameFile)
 
   const getAllRaw = _.memoize(async () => {
     const content = await readFile(absoluteDataFile)
-    return JSON.parse(content)
+    return preprocess(JSON.parse(content))
   })
 
   const getAllRawByName = _.memoize(async () => {
@@ -39,16 +41,20 @@ function createType ({
       ...additionalProps
     } = await getProperties({ raw, name })
 
+    const entity = stampEntityId({
+      type,
+      data: {
+        name: nameProp || name,
+        game_id: raw.id,
+        ...additionalProps
+      }
+    })
+
+    const relationships = await getRelationships({ entity, raw })
+
     return {
-      entity: stampEntityId({
-        type,
-        data: {
-          name: nameProp || name,
-          game_id: raw.id,
-          ...additionalProps
-        }
-      }),
-      relationships: []
+      entity,
+      relationships
     }
   }, raw => raw.id)
 
