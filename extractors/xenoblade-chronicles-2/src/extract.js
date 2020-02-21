@@ -26,13 +26,13 @@ const entityTypeModules = {
   // InfoItem: require('./entities/InfoItems.js'),
   // KeyItem: require('./entities/KeyItems.js'),
   // Location: require('./entities/Locations.js'),
-  // MapFeature: require('./entities/MapFeatures.js'),
+  MapFeature: require('./entities/MapFeatures.js')
   // PouchItemCategory: require('./entities/PouchItemCategories.js'),
   // PouchItem: require('./entities/PouchItems.js'),
   // SalvagePoint: require('./entities/SalvagePoints.js'),
   // Treasure: require('./entities/Treasure.js'),
   // UnrefinedAuxCore: require('./entities/UnrefinedAuxCores.js'),
-  TreasurePoint: require('./entities/TreasurePoints.js')
+  // TreasurePoint: require('./entities/TreasurePoints.js')
   // Weapon: require('./entities/Weapons.js')
 }
 
@@ -41,10 +41,20 @@ Promise
     _(entityTypeModules)
       .map(entityTypeModule => entityTypeModule.getAll()
         .then(result => {
+          const schemaActions = []
+          if (entityTypeModule.schema) {
+            if (entityTypeModule.schema.entityType) {
+              schemaActions.push(addEntityTypeAction(entityTypeModule.schema.entityType))
+            }
+            if (entityTypeModule.schema.relationships) {
+              entityTypeModule.schema.relationships.forEach(r => schemaActions.push(addEntityTypeRelationship(r)))
+            }
+            if (entityTypeModule.schema.relationshipProperties) {
+              entityTypeModule.schema.relationshipProperties.forEach(r => schemaActions.push(addRelationshipTypeProperty(r)))
+            }
+          }
           return [
-            addEntityTypeAction(entityTypeModule.schema.entityType),
-            ...entityTypeModule.schema.relationships.map(r => addEntityTypeRelationship(r)),
-            ...entityTypeModule.schema.relationshipProperties.map(r => addRelationshipTypeProperty(r)),
+            ...schemaActions,
             ...result.flatMap(({ entity, relationships }) => {
               return [
                 addEntityAction(entity),

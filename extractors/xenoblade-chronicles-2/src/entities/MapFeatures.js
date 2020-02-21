@@ -223,3 +223,13 @@ exports.getAll = () => {
     .then(results => results.filter(result => !!result))
     .then(results => _.flatten(results))
 }
+
+exports.schema = {
+  relationships: [
+    {
+      relationshipType: { id: 'MapFeature-MAP_TARGET' },
+      startEntityType: { id: 'MapFeature' },
+      endEntityType: { id: 'TreasurePoint' }
+    }
+  ]
+}
