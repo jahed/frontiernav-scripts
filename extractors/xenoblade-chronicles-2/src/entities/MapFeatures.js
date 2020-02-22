@@ -13,6 +13,8 @@ const SalvagePoints = require('./SalvagePoints')
 const EnemySpawnPoints = require('./EnemySpawnPoints')
 const TreasurePoints = require('./TreasurePoints')
 const KeyItemPoints = require('./KeyItemPoints')
+const NPCPoints = require('./NPCPoints')
+const Shops = require('./Shops')
 const { nameToId, stampRelationshipId, stampEntityId } = require('@frontiernav/graph')
 
 const dom = new JSDOM('<body></body>')
@@ -198,7 +200,8 @@ function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
         // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
         // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
         // getMarkersForRegion({ region, filename: 'tbox', type: 'GmkTbox', Target: TreasurePoints }),
-        getMarkersForRegion({ region, filename: 'precious', type: 'GmkPrecious', Target: KeyItemPoints })
+        // getMarkersForRegion({ region, filename: 'precious', type: 'GmkPrecious', Target: KeyItemPoints }),
+        getMarkersForRegion({ region, filename: 'npc', type: 'GmkNpc', Target: NPCPoints })
       ])
     ))
     .then(featuresPerType => _.flatten(featuresPerType))
@@ -231,7 +234,7 @@ exports.schema = {
     {
       relationshipType: { id: 'MapFeature-MAP_TARGET' },
       startEntityType: { id: 'MapFeature' },
-      endEntityType: { id: 'KeyItemPoint' }
+      endEntityType: { id: 'Shop' }
     }
   ]
 }

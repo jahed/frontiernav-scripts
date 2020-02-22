@@ -28,7 +28,7 @@ const entityTypeModules = {
   // KeyItem: require('./entities/KeyItems.js'),
   // Location: require('./entities/Locations.js'),
   // KeyItemPoint: require('./entities/KeyItemPoints.js'),
-  // MapFeature: require('./entities/MapFeatures.js'),
+  MapFeature: require('./entities/MapFeatures.js')
   // PouchItemCategory: require('./entities/PouchItemCategories.js'),
   // PouchItem: require('./entities/PouchItems.js'),
   // SalvagePoint: require('./entities/SalvagePoints.js'),
@@ -36,7 +36,7 @@ const entityTypeModules = {
   // UnrefinedAuxCore: require('./entities/UnrefinedAuxCores.js'),
   // TreasurePoint: require('./entities/TreasurePoints.js')
   // Weapon: require('./entities/Weapons.js'),
-  Shop: require('./entities/Shops.js')
+  // Shop: require('./entities/Shops.js')
 }
 
 Promise

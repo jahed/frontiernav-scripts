@@ -59,7 +59,7 @@ function createType ({
   }, raw => raw.id)
 
   return {
-    getByName: async name => {
+    getByName: async ({ name }) => {
       const allByName = await getAllRawByName()
       const raw = allByName[`${name}`]
       if (!raw) {
