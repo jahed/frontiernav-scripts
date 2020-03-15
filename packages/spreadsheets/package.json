@@ -9,6 +9,6 @@
     "@frontiernav/logger": "1.0.0",
     "isomorphic-fetch": "2.2.1",
     "lodash": "4.17.15",
-    "xlsx": "0.15.5"
+    "xlsx": "0.15.6"
   }
 }

@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "private": true,
   "dependencies": {
-    "pino": "5.16.0",
-    "pino-pretty": "3.6.0"
+    "pino": "5.17.0",
+    "pino-pretty": "3.6.1"
   }
 }
