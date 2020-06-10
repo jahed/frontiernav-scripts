@@ -1,6 +1,9 @@
 const path = require('path')
 const { getMapName, readJSON, isIgnoredMap } = require('../utils')
 const L = require('../leaflet')
+const _ = require('lodash')
+
+const capDecimals = n => Math.trunc(n * 10000) / 10000
 
 const getCoordinates = ({ x, y, width, height, xoffset, yoffset }) => {
   const widthBigger = width > height
@@ -12,10 +15,10 @@ const getCoordinates = ({ x, y, width, height, xoffset, yoffset }) => {
     )
   const zoom = L.CRS.EPSG3857.zoom(widthBigger ? width : height)
   const latLng = L.CRS.EPSG3857.pointToLatLng(pixel, zoom)
-  return [latLng.lng, latLng.lat]
+  return [capDecimals(latLng.lng), capDecimals(latLng.lat)]
 }
 
-const toRates = per => per ? JSON.stringify([{ rates: per }]) : null
+const toRates = per => per ? JSON.stringify([{ rate: per }]) : '[]'
 
 const getRows = async ({ bdat }) => {
   const [fldMapList, fldMapListMs] = [
@@ -28,15 +31,29 @@ const getRows = async ({ bdat }) => {
         return []
       }
 
-      const mapName = getMapName({ map, fldMapListMs })
+      const [minimaplist, minimaplistMs] = await Promise.all([
+        readJSON(path.resolve(bdat, 'bdat_common', `minimaplist${map.id_name.replace('ma', '')}.json`)),
+        readJSON(path.resolve(bdat, 'bdat_common_ms', `minimaplist${map.id_name.replace('ma', '')}_ms.json`))
+      ])
+
       const idN = map.id_name.replace('ma', '')
       const [itemlist] = await Promise.all([
         readJSON(path.resolve(bdat, `bdat_${map.id_name}`, `Litemlist${idN}.json`))
       ])
       return itemlist.map(item => {
+        const minimap = _(minimaplist)
+          .filter(minimap => item.posY <= minimap.height)
+          .orderBy(['height', 'asc'])
+          .head()
+
+        if (!minimap) {
+          console.log('failed', { item: `Collection Point #${idN}${item.id}` })
+          return {}
+        }
+
         return {
           name: `Collection Point #${idN}${item.id}`,
-          map: mapName,
+          map: getMapName({ map, fldMapListMs, minimap, minimaplistMs }),
           geometry: JSON.stringify({
             type: 'Point',
             coordinates: getCoordinates({
@@ -44,25 +61,25 @@ const getRows = async ({ bdat }) => {
               y: item.posZ,
               width: map.mapimage_size_x,
               height: map.mapimage_size_y,
-              xoffset: map.minimap_lt_x,
-              yoffset: map.minimap_lt_z
+              xoffset: -map.minimap_lt_x,
+              yoffset: -map.minimap_lt_z
             })
           }),
-          itm1ID: item.itm1ID || null,
+          itm1ID: item.itm1ID ? `${item.itm1ID}` : null,
           itm1Per: toRates(item.itm1Per),
-          itm2ID: item.itm2ID || null,
+          itm2ID: item.itm2ID ? `${item.itm2ID}` : null,
           itm2Per: toRates(item.itm2Per),
-          itm3ID: item.itm3ID || null,
+          itm3ID: item.itm3ID ? `${item.itm3ID}` : null,
           itm3Per: toRates(item.itm3Per),
-          itm4ID: item.itm4ID || null,
+          itm4ID: item.itm4ID ? `${item.itm4ID}` : null,
           itm4Per: toRates(item.itm4Per),
-          itm5ID: item.itm5ID || null,
+          itm5ID: item.itm5ID ? `${item.itm5ID}` : null,
           itm5Per: toRates(item.itm5Per),
-          itm6ID: item.itm6ID || null,
+          itm6ID: item.itm6ID ? `${item.itm6ID}` : null,
           itm6Per: toRates(item.itm6Per),
-          itm7ID: item.itm7ID || null,
+          itm7ID: item.itm7ID ? `${item.itm7ID}` : null,
           itm7Per: toRates(item.itm7Per),
-          itm8ID: item.itm8ID || null,
+          itm8ID: item.itm8ID ? `${item.itm8ID}` : null,
           itm8Per: toRates(item.itm8Per)
         }
       })
@@ -73,6 +90,9 @@ const getRows = async ({ bdat }) => {
 
   return rows.flat().filter(v => !!v)
 }
+
+// Collection Point #130154
+// needs to be lower level
 
 module.exports = {
   getRows
