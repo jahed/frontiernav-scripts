@@ -1,0 +1,18 @@
+{
+  "name": "@frontiernav/extractors-xenoblade-chronicles",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "extract": "node ./src/extract.js"
+  },
+  "dependencies": {
+    "@frontiernav/filesystem": "1.0.0",
+    "@frontiernav/logger": "1.0.0",
+    "@frontiernav/table-to-xsv": "1.0.0",
+    "csv-parse": "4.8.8",
+    "jsdom": "15.1.1",
+    "leaflet": "1.6.0",
+    "mkdirp": "1.0.3",
+    "minimist": "1.2.5"
+  }
+}
