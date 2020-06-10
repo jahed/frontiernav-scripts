@@ -1,6 +1,17 @@
 const path = require('path')
 const { readJSON, getMapName, isIgnoredMap } = require('../utils')
-const _ = require('lodash')
+
+const tileSize = 256
+const getMaxNativeZoom = ({ width, height }) => {
+  const maxSize = Math.max(width, height)
+  for (let zoom = 0; ; zoom++) {
+    const grid = Math.pow(2, zoom)
+    const size = grid * tileSize
+    if (size >= maxSize) {
+      return zoom
+    }
+  }
+}
 
 const getRows = async ({ bdat }) => {
   const [fldMapList, fldMapListMs, sysFileList] = [
@@ -14,7 +25,10 @@ const getRows = async ({ bdat }) => {
         return []
       }
 
-      const maxNativeZoom = Math.ceil(Math.max(map.mapimage_size_x, map.mapimage_size_y) / 256)
+      const maxNativeZoom = getMaxNativeZoom({
+        width: map.mapimage_size_x,
+        height: map.mapimage_size_y
+      })
 
       const [minimaplist, minimaplistMs] = await Promise.all([
         readJSON(path.resolve(bdat, 'bdat_common', `minimaplist${map.id_name.replace('ma', '')}.json`)),

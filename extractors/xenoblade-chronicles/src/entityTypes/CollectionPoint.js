@@ -20,6 +20,14 @@ const getCoordinates = ({ x, y, width, height, xoffset, yoffset }) => {
 
 const toRates = per => per ? JSON.stringify([{ rate: per }]) : '[]'
 
+const timeToText = {
+  0: 'All Day',
+  1: '5am to 6am',
+  2: '6am to 5pm',
+  3: '5pm to 7pm',
+  4: '7pm to 5am'
+}
+
 const getRows = async ({ bdat }) => {
   const [fldMapList, fldMapListMs] = [
     await readJSON(path.resolve(bdat, 'bdat_common', 'FLD_maplist.json')),
@@ -65,6 +73,7 @@ const getRows = async ({ bdat }) => {
               yoffset: -map.minimap_lt_z
             })
           }),
+          time: timeToText[`${item.popTime}`],
           itm1ID: item.itm1ID ? `${item.itm1ID}` : null,
           itm1Per: toRates(item.itm1Per),
           itm2ID: item.itm2ID ? `${item.itm2ID}` : null,
