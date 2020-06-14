@@ -1,4 +1,49 @@
 const { promises: fs } = require('fs')
+const L = require('./leaflet')
+const _ = require('lodash')
+
+const capDecimals = n => Math.trunc(n * 100000) / 100000
+
+const getCoordinates = ({ x, y, width, height, xoffset, yoffset }) => {
+  const widthBigger = width > height
+  const pixel = L.point(x, y)
+    .add(L.point(xoffset, yoffset))
+    .add(widthBigger
+      ? L.point(0, (width - height) / 2)
+      : L.point((height - width) / 2, 0)
+    )
+  const zoom = L.CRS.EPSG3857.zoom(widthBigger ? width : height)
+  const latLng = L.CRS.EPSG3857.pointToLatLng(pixel, zoom)
+  return [capDecimals(latLng.lng), capDecimals(latLng.lat)]
+}
+
+const getMapCoordinates = ({ coords, map }) => {
+  return getCoordinates({
+    x: coords.posX,
+    y: coords.posZ,
+    width: map.mapimage_size_x,
+    height: map.mapimage_size_y,
+    xoffset: -map.minimap_lt_x,
+    yoffset: -map.minimap_lt_z
+  })
+}
+
+const findMinimap = ({ minimaplist, coords }) => {
+  return _(minimaplist)
+    .filter(minimap => coords.posY <= minimap.height)
+    .orderBy(['height', 'asc'])
+    .head()
+}
+
+const toRates = per => per ? JSON.stringify([{ rate: per }]) : '[]'
+
+const timeToText = {
+  0: 'All Day',
+  1: '5am to 6am',
+  2: '6am to 5pm',
+  3: '5pm to 7pm',
+  4: '7pm to 5am'
+}
 
 const readJSON = async (...args) => JSON.parse(await fs.readFile(...args))
 
@@ -42,5 +87,9 @@ module.exports = {
   readJSON,
   getAreaName,
   getMapName,
-  isIgnoredMap
+  isIgnoredMap,
+  getMapCoordinates,
+  timeToText,
+  toRates,
+  findMinimap
 }
