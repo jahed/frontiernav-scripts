@@ -1,6 +1,5 @@
 const path = require('path')
 const { getMapName, readJSON, isIgnoredMap, getMapCoordinates, toRates, timeToText, findMinimap } = require('../utils')
-const _ = require('lodash')
 
 const getRows = async ({ bdat }) => {
   const [fldMapList, fldMapListMs] = [
@@ -13,21 +12,23 @@ const getRows = async ({ bdat }) => {
         return []
       }
 
+      const idN = map.id_name.replace('ma', '')
+
       const [minimaplist, minimaplistMs] = await Promise.all([
-        readJSON(path.resolve(bdat, 'bdat_common', `minimaplist${map.id_name.replace('ma', '')}.json`)),
-        readJSON(path.resolve(bdat, 'bdat_common_ms', `minimaplist${map.id_name.replace('ma', '')}_ms.json`))
+        readJSON(path.resolve(bdat, 'bdat_common', `minimaplist${idN}.json`)),
+        readJSON(path.resolve(bdat, 'bdat_common_ms', `minimaplist${idN}_ms.json`))
       ])
 
-      const idN = map.id_name.replace('ma', '')
       const [itemlist] = await Promise.all([
         readJSON(path.resolve(bdat, `bdat_${map.id_name}`, `Litemlist${idN}.json`))
       ])
+
       return itemlist.map(item => {
         const minimap = findMinimap({ minimaplist, coords: item })
 
         if (!minimap) {
-          console.log('failed', { item: `Collection Point #${idN}${item.id}` })
-          return {}
+          console.log('no minimap found', { item: `Collection Point #${idN}${item.id}` })
+          return null
         }
 
         return {
