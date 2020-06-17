@@ -45,6 +45,20 @@ const timeToText = {
   4: '7pm to 5am'
 }
 
+const enemyNameOverrides = {
+  Skyray: 'Skyray (Enemy)',
+  Yado: 'Yado (Enemy)',
+  Dragon: 'Dragon (Enemy)',
+  Behemoth: 'Behemoth (Enemy)',
+  'Apocrypha Generator': 'Apocrypha Generator (Enemy)',
+  'Offensive Scout': 'Offensive Scout (Enemy)'
+}
+
+const getEnemyName = ({ enemy, enelistMs }) => {
+  const name = enelistMs[enemy.name - 1].name
+  return enemyNameOverrides[name] || name
+}
+
 const readJSON = async (...args) => JSON.parse(await fs.readFile(...args))
 
 const customAreaNames = { ma1202: 'Prison Island (End-Game)' }
@@ -91,5 +105,6 @@ module.exports = {
   getMapCoordinates,
   timeToText,
   toRates,
-  findMinimap
+  findMinimap,
+  getEnemyName
 }

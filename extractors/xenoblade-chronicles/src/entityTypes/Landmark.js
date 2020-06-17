@@ -1,5 +1,5 @@
 const path = require('path')
-const { getMapName, readJSON, isIgnoredMap, getMapCoordinates, toRates, timeToText, findMinimap } = require('../utils')
+const { getMapName, readJSON, isIgnoredMap, getMapCoordinates, findMinimap } = require('../utils')
 const _ = require('lodash')
 
 const overrideNames = {

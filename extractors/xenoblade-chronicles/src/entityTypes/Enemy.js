@@ -1,15 +1,6 @@
 const path = require('path')
-const { readJSON } = require('../utils')
+const { readJSON, getEnemyName } = require('../utils')
 const _ = require('lodash')
-
-const nameOverrides = {
-  Skyray: 'Skyray (Enemy)',
-  Yado: 'Yado (Enemy)',
-  Dragon: 'Dragon (Enemy)',
-  Behemoth: 'Behemoth (Enemy)',
-  'Apocrypha Generator': 'Apocrypha Generator (Enemy)',
-  'Offensive Scout': 'Offensive Scout (Enemy)'
-}
 
 const getRows = async ({ bdat }) => {
   const [enelist, enelistMs] = [
@@ -22,12 +13,9 @@ const getRows = async ({ bdat }) => {
       return null
     }
 
-    let name = enelistMs[enemy.name - 1].name
-    name = nameOverrides[name] || name
-
     return {
       id: enemy.id,
-      name,
+      name: getEnemyName({ enemy, enelistMs }),
       category: enemy.c_name_id // see EnemyType, crystalnamelist
     }
   }))
