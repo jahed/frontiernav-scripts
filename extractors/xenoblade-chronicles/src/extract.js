@@ -18,6 +18,7 @@ const extract = async () => {
   await fs.mkdir('/tmp/frontiernav-scripts/xenoblade-chronicles/', { recursive: true })
   const rows = await require(`./entityTypes/${args.type}`).getRows(args)
   validateResult(rows)
+  console.log('Writing file.', { rows: rows.length })
   await fs.writeFile(
     path.resolve('/tmp/frontiernav-scripts/xenoblade-chronicles/', `${args.type}.json`),
     JSON.stringify(rows, null, 2)
