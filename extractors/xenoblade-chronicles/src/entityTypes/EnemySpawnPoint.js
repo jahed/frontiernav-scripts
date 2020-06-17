@@ -1,5 +1,6 @@
 const path = require('path')
-const { getMapName, readJSON, isIgnoredMap, getMapCoordinates, toRates, findMinimap } = require('../utils')
+const { getMapName, readJSON, isIgnoredMap, getMapCoordinates, findMinimap } = require('../utils')
+const _ = require('lodash')
 
 const poptimeToText = {
   0: 'Any',
@@ -27,6 +28,46 @@ const poptimeToText = {
   116: 'Evening',
   119: 'Day',
   120: 'Night'
+}
+
+const getRates = ({ spawnpoint }) => {
+  const rates = _([
+    {
+      id: spawnpoint.ene1ID ? `${spawnpoint.ene1ID}` : null,
+      per: spawnpoint.ene1Per
+    },
+    {
+      id: spawnpoint.ene2ID ? `${spawnpoint.ene2ID}` : null,
+      per: spawnpoint.ene2Per
+    },
+    {
+      id: spawnpoint.ene3ID ? `${spawnpoint.ene3ID}` : null,
+      per: spawnpoint.ene3Per
+    },
+    {
+      id: spawnpoint.ene4ID ? `${spawnpoint.ene4ID}` : null,
+      per: spawnpoint.ene4Per
+    },
+    {
+      id: spawnpoint.ene5ID ? `${spawnpoint.ene5ID}` : null,
+      per: spawnpoint.ene5Per
+    }
+  ])
+    .filter(v => !!v.id)
+    .groupBy('id')
+    .map((rates, id) => ({
+      id,
+      rates: rates.map(rate => ({ rates: rate.per }))
+    }))
+    .value()
+
+  const result = {}
+  for (let i = 0; i < 5; i++) {
+    const rate = rates[i]
+    result[`ene${i + 1}ID`] = rate ? rate.id : null
+    result[`ene${i + 1}Rates`] = rate ? JSON.stringify(rate.rates) : '[]'
+  }
+  return result
 }
 
 const getRows = async ({ bdat }) => {
@@ -72,16 +113,7 @@ const getRows = async ({ bdat }) => {
             coordinates: getMapCoordinates({ map, coords: spawnpoint })
           }),
           time,
-          ene1ID: spawnpoint.ene1ID ? `${spawnpoint.ene1ID}` : null,
-          ene1Per: toRates(spawnpoint.ene1Per),
-          ene2ID: spawnpoint.ene2ID ? `${spawnpoint.ene2ID}` : null,
-          ene2Per: toRates(spawnpoint.ene2Per),
-          ene3ID: spawnpoint.ene3ID ? `${spawnpoint.ene3ID}` : null,
-          ene3Per: toRates(spawnpoint.ene3Per),
-          ene4ID: spawnpoint.ene4ID ? `${spawnpoint.ene4ID}` : null,
-          ene4Per: toRates(spawnpoint.ene4Per),
-          ene5ID: spawnpoint.ene5ID ? `${spawnpoint.ene5ID}` : null,
-          ene5Per: toRates(spawnpoint.ene5Per)
+          ...getRates({ spawnpoint })
         }
       })
     } catch (error) {
