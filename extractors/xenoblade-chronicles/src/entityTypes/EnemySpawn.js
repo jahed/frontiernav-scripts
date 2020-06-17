@@ -33,6 +33,7 @@ const getRows = async ({ bdat }) => {
         return {
           id: stats.id,
           name: getEnemyName({ enemy, enelistMs }),
+          enemy_name: getEnemyName({ enemy, enelistMs }),
           level: stats.lv,
           hp: stats.hp,
           strength: stats.str,
