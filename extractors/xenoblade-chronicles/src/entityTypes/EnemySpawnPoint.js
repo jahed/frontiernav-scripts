@@ -105,6 +105,8 @@ const getRows = async ({ bdat }) => {
           throw new Error(`POP_TIME[${spawnpoint.POP_TIME}] not found.`)
         }
 
+        const questOnly = spawnpoint.questID !== 0
+        const storyOnly = spawnpoint.S_FLG_MAX !== 404
         return {
           name: `Enemy Spawn Point #${idN}${spawnpoint.id}`,
           map: getMapName({ map, fldMapListMs, minimap, minimaplistMs }),
@@ -113,6 +115,8 @@ const getRows = async ({ bdat }) => {
             coordinates: getMapCoordinates({ map, coords: spawnpoint })
           }),
           time,
+          scenario: questOnly ? 'Quest' : (storyOnly ? 'Story' : 'Any'),
+          hue: questOnly ? 35 : (storyOnly ? 25 : 5),
           ...getRates({ spawnpoint })
         }
       })
