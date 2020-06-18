@@ -1,6 +1,20 @@
 const path = require('path')
-const { readJSON, isIgnoredMap, getEnemyName } = require('../utils')
+const { readJSON, isIgnoredMap, getEnemyName, toRates } = require('../utils')
 const _ = require('lodash')
+
+const getChests = ({ stats }) => {
+  const result = {}
+  result.chest1ID = stats.drop_nml_per === 0 ? null : 'nml'
+  result.chest1Per = toRates(stats.drop_nml_per)
+  // get from nmllist
+  result.chest2ID = stats.drop_rar_per === 0 ? null : 'rar'
+  result.chest2Per = toRates(stats.drop_rar_per)
+  // get from rarlist
+  result.chest3ID = stats.drop_spr_per === 0 ? null : 'spr'
+  result.chest3Per = toRates(stats.drop_spr_per)
+  // get from sprlist
+  return result
+}
 
 const getRows = async ({ bdat }) => {
   const [fldMapList] = [
@@ -40,7 +54,8 @@ const getRows = async ({ bdat }) => {
           agility: stats.agi,
           ether: stats.ether,
           exp: stats.exp,
-          spike_damage: stats.spike_dmg ? stats.spike_dmg : null
+          spike_damage: stats.spike_dmg ? stats.spike_dmg : null,
+          ...getChests({ stats })
         }
       })
     } catch (error) {
