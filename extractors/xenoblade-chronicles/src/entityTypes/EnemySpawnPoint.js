@@ -57,7 +57,7 @@ const getRates = ({ spawnpoint }) => {
     .groupBy('id')
     .map((rates, id) => ({
       id,
-      rates: rates.map(rate => ({ rates: rate.per }))
+      rates: rates.map(rate => ({ rate: rate.per }))
     }))
     .value()
 
