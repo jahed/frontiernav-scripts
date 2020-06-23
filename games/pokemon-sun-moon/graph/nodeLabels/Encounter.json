@@ -1,8 +1,0 @@
-{
-  "id": "Encounter",
-  "name": "Encounter",
-  "description": "An encounter of a certain kind.",
-  "properties": {
-    "name": {}
-  }
-}
