@@ -37,7 +37,7 @@ const getRows = async ({ bdat }) => {
 
       return minimaplist.map(minimap => {
         return {
-          name: getMapName({ map, fldMapListMs, minimap, minimaplistMs }),
+          name: getMapName({ map, fldMapListMs, minimap, minimaplistMs }).replace('(Map)', '(Map Tile)'),
           path: `${sysFileList[minimap.mapimg - 1].filename}_0`,
           extension: 'png',
           maxNativeZoom

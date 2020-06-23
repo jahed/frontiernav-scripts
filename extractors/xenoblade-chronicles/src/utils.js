@@ -68,7 +68,7 @@ const getMapName = ({ map, fldMapListMs, minimap, minimaplistMs }) => {
   return [
     getAreaName({ map, fldMapListMs }),
     getMinimapName({ minimap, minimaplistMs })
-  ].filter(v => v !== 'Entire Area').join(' - ')
+  ].filter(v => v !== 'Entire Area').join(' - ') + ' (Map)'
 }
 
 const ignoredMaps = {
