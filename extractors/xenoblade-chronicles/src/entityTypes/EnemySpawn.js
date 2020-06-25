@@ -16,6 +16,19 @@ const getChests = ({ stats }) => {
   return result
 }
 
+const categoryMap = {
+  0: 'Normal',
+  2: 'Unique',
+  4: 'Story',
+  5: 'Story',
+  6: 'Story',
+  9: 'Story',
+  10: 'Story',
+  11: 'Story',
+  12: 'Story',
+  13: 'Story'
+}
+
 const getRows = async ({ bdat }) => {
   const [fldMapList] = [
     await readJSON(path.resolve(bdat, 'bdat_common', 'FLD_maplist.json'))
@@ -44,10 +57,17 @@ const getRows = async ({ bdat }) => {
           return null
         }
 
+        const category = categoryMap[stats.named]
+        if (!category) {
+          console.warn('unknown category', { stats, map: map.id_name })
+          return null
+        }
+
         return {
           id: stats.id,
-          name: getEnemyName({ enemy, enelistMs }),
+          name: getEnemyName({ enemy, enelistMs }).replace(' (Enemy)', '') + ' (Enemy Spawn)',
           enemy_name: getEnemyName({ enemy, enelistMs }),
+          category: categoryMap[stats.named],
           level: stats.lv,
           hp: stats.hp,
           strength: stats.str,
@@ -68,7 +88,7 @@ const getRows = async ({ bdat }) => {
   const nameCounts = _.countBy(rows, 'name')
   rows.forEach(row => {
     if (nameCounts[row.name] > 1) {
-      row.name = `${row.name.replace(' (Enemy)', '')} #${row.id}`
+      row.name = row.name.replace('(Enemy Spawn)', `#${row.id} (Enemy Spawn)`)
     }
   })
 
