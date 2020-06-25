@@ -2,11 +2,31 @@ const path = require('path')
 const { readJSON, isIgnoredMap, getEnemyName, toRates } = require('../utils')
 const _ = require('lodash')
 
-const getChests = ({ stats }) => {
+const emptyNML = {
+  id: 0,
+  materia1: 0,
+  materia1Per: 0,
+  materia2: 0,
+  materia2Per: 0
+}
+
+const getChests = ({ stats, nmllist, itmlist }) => {
   const result = {}
   result.chest1ID = stats.drop_nml_per === 0 ? null : 'nml'
   result.chest1Per = toRates(stats.drop_nml_per)
-  // get from nmllist
+  const nml = nmllist[stats.drop_nml - 1] || emptyNML
+  if (nml.materia1 === nml.materia2) {
+    result.chest1materia1ID = nml.materia1
+    result.chest1materia1Per = toRates(nml.materia1Per, nml.materia2Per)
+    result.chest1materia2ID = emptyNML.materia2
+    result.chest1materia2Per = toRates(emptyNML.materia2Per)
+  } else {
+    result.chest1materia1ID = nml.materia1
+    result.chest1materia1Per = toRates(nml.materia1Per)
+    result.chest1materia2ID = nml.materia2
+    result.chest1materia2Per = toRates(nml.materia2Per)
+  }
+
   result.chest2ID = stats.drop_rar_per === 0 ? null : 'rar'
   result.chest2Per = toRates(stats.drop_rar_per)
   // get from rarlist
@@ -47,8 +67,9 @@ const getRows = async ({ bdat }) => {
 
       const idN = map.id_name.replace('ma', '')
 
-      const [enelistStats] = await Promise.all([
-        readJSON(path.resolve(bdat, `bdat_${map.id_name}`, `BTL_enelist${idN}.json`))
+      const [enelistStats, nmllist] = await Promise.all([
+        readJSON(path.resolve(bdat, `bdat_${map.id_name}`, `BTL_enelist${idN}.json`)),
+        readJSON(path.resolve(bdat, `bdat_${map.id_name}`, `drop_nmllist${idN}.json`))
       ])
 
       return enelistStats.map(stats => {
@@ -75,7 +96,7 @@ const getRows = async ({ bdat }) => {
           ether: stats.ether,
           exp: stats.exp,
           spike_damage: stats.spike_dmg ? stats.spike_dmg : null,
-          ...getChests({ stats })
+          ...getChests({ stats, nmllist })
         }
       })
     } catch (error) {

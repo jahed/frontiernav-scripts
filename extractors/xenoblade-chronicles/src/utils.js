@@ -35,7 +35,12 @@ const findMinimap = ({ minimaplist, coords }) => {
     .head()
 }
 
-const toRates = per => per ? JSON.stringify([{ rate: per }]) : '[]'
+const toRates = (...pers) => {
+  const rates = pers
+    .filter(rate => !!rate)
+    .map(rate => ({ rate }))
+  return JSON.stringify(rates)
+}
 
 const timeToText = {
   0: 'All Day',
