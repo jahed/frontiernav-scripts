@@ -97,6 +97,23 @@ const ignoredMaps = {
 }
 const isIgnoredMap = map => ignoredMaps[map.id_name]
 
+const itemTypeMapping = [
+  undefined,
+  undefined,
+  'Weapon',
+  'Gem',
+  'HeadArmor',
+  'BodyArmor',
+  'ArmArmor',
+  'LegArmor',
+  'FootArmor',
+  'Crystal',
+  'Collectable',
+  'Material',
+  'KeyItem',
+  'ArtBook'
+]
+
 module.exports = {
   readJSON,
   getAreaName,
@@ -106,5 +123,6 @@ module.exports = {
   timeToText,
   toRates,
   findMinimap,
-  getEnemyName
+  getEnemyName,
+  itemTypeMapping
 }

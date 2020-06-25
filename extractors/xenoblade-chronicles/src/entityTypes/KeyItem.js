@@ -1,23 +1,6 @@
 const path = require('path')
-const { readJSON } = require('../utils')
+const { readJSON, itemTypeMapping } = require('../utils')
 const _ = require('lodash')
-
-const itemTypeMapping = [
-  undefined,
-  undefined,
-  'Weapon',
-  'Gem',
-  'HeadArmor',
-  'BodyArmor',
-  'ArmArmor',
-  'LegArmor',
-  'FootArmor',
-  'Crystal',
-  'Collectable',
-  'Material',
-  'KeyItem',
-  'ArtBook'
-]
 
 const getRows = async ({ bdat }) => {
   const [itemlist, keyitemlist, keyitemlistMs] = [
