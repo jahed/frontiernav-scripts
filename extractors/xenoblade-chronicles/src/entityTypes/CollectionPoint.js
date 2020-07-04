@@ -34,6 +34,7 @@ const getRows = async ({ bdat }) => {
         return {
           name: `Collection Point #${idN}${item.id}`,
           map: getMapName({ map, fldMapListMs, minimap, minimaplistMs }),
+          count: item.popNum,
           geometry: JSON.stringify({
             type: 'Point',
             coordinates: getMapCoordinates({ map, coords: item })
