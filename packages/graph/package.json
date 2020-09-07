@@ -5,6 +5,6 @@
   "private": true,
   "dependencies": {
     "@frontiernav/logger": "1.0.0",
-    "lodash": "4.17.15"
+    "lodash": "4.17.20"
   }
 }

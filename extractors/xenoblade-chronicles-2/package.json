@@ -9,9 +9,9 @@
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/logger": "1.0.0",
     "@frontiernav/table-to-xsv": "1.0.0",
-    "csv-parse": "4.8.8",
-    "jsdom": "15.1.1",
-    "leaflet": "1.6.0",
-    "mkdirp": "1.0.3"
+    "csv-parse": "4.12.0",
+    "jsdom": "16.4.0",
+    "leaflet": "1.7.1",
+    "mkdirp": "1.0.4"
   }
 }
