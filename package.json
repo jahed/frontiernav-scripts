@@ -2,6 +2,9 @@
   "name": "@frontiernav/data",
   "version": "1.0.0",
   "description": "Data for FrontierNav",
+  "repository": "https://github.com/frontiernav/scripts",
+  "author": "Jahed Ahmed",
+  "license": "MIT",
   "scripts": {
     "deps": "yarn upgrade-interactive --latest && yarn upgrade && git add yarn.lock '*package.json' && git commit -m 'build(deps): upgrade dependencies'"
   },
@@ -13,16 +16,6 @@
     "packages/*",
     "extractors/*"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jahed/frontiernav-data.git"
-  },
-  "author": "Jahed Ahmed",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jahed/frontiernav-data/issues"
-  },
-  "homepage": "https://github.com/jahed/frontiernav-data#readme",
   "dependencies": {
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/graph": "1.0.0",
