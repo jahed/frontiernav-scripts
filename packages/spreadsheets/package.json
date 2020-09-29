@@ -7,8 +7,8 @@
     "@frontiernav/filesystem": "1.0.0",
     "@frontiernav/graph": "1.0.0",
     "@frontiernav/logger": "1.0.0",
-    "isomorphic-fetch": "2.2.1",
     "lodash": "4.17.20",
+    "node-fetch": "2.6.1",
     "xlsx": "0.16.7"
   }
 }

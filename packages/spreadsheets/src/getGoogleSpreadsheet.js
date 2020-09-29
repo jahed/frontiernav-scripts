@@ -1,4 +1,4 @@
-const fetch = require('isomorphic-fetch')
+const fetch = require('node-fetch')
 
 const getGoogleSpreadsheet = gid => {
   return fetch(`https://docs.google.com/spreadsheets/d/${gid}/export?format=xlsx&id=${gid}`)
