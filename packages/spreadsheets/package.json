@@ -9,6 +9,6 @@
     "@frontiernav/logger": "1.0.0",
     "lodash": "4.17.20",
     "node-fetch": "2.6.1",
-    "xlsx": "0.16.7"
+    "xlsx": "0.16.8"
   }
 }
