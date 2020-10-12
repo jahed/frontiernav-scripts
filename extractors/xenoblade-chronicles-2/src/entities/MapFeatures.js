@@ -1,7 +1,7 @@
 const path = require('path')
 const util = require('util')
 const { readObjects, readFile } = require('@frontiernav/filesystem')
-const { mapMappings, tileMappings } = require('../util/mappings')
+const { mapMappings, tileMappings } = require('../util/mappings-xb2ttgc')
 const parseCSV = util.promisify(require('csv-parse'))
 const _ = require('lodash')
 const log = require('@frontiernav/logger').get(__filename)
@@ -29,18 +29,16 @@ const allMarkersPath = path.resolve(dataPath, 'all.csv')
 const mapInfoPath = path.resolve(dataPath, 'mapinfo')
 
 function toTiles ({ mapInfo }) {
-  return _(mapInfo)
-    .mapValues(rawTile => {
-      const mapping = _.find(tileMappings, mapping => mapping.game_id === rawTile.Name)
-      if (!mapping) {
-        log.warn(`Mapping not found for ${rawTile.Name}`)
-      }
-      return {
-        ...rawTile,
-        mapping
-      }
-    })
-    .value()
+  return mapInfo.map(rawTile => {
+    const mapping = _.find(tileMappings, mapping => mapping.game_id === rawTile.Name)
+    if (!mapping) {
+      log.warn(`Mapping not found for ${rawTile.Name}`)
+    }
+    return {
+      ...rawTile,
+      mapping
+    }
+  })
 }
 
 function withinBox ({ point: { x, y, z }, box: { minX, maxX, minY, maxY, minZ, maxZ } }) {
@@ -82,7 +80,7 @@ function getLatLng ({ region, coords }) {
       })
     })
     .orderBy('Priority')
-    .head()
+    .last()
 
   if (!tile) {
     return Promise.reject(new Error(`MapTile not found for Coords[${coords.Name}] in Region[${region.gameId}]`))
@@ -151,7 +149,7 @@ function toMarkers ({ region, markers, Target }) {
               }
             })
             .catch(e => {
-              log.warn(e.message)
+              log.warn(e)
               return null
             })
         ))
@@ -165,6 +163,9 @@ function toMarkers ({ region, markers, Target }) {
 function toRegion ({ absoluteFilePath, mapInfo }) {
   const gameId = path.basename(absoluteFilePath, '.csv')
   const mapping = _.find(mapMappings, mapping => mapping.game_id === gameId)
+  if (!mapping) {
+    return null
+  }
   return {
     absoluteFilePath,
     gameId,
@@ -192,39 +193,44 @@ function getMarkersForRegion ({ region, filename, type, Target }) {
 function parseMapFeatures ({ absoluteFilePath, mapInfo }) {
   return Promise.resolve(mapInfo)
     .then(mapInfo => toRegion({ absoluteFilePath, mapInfo }))
-    .then(region => (
-      Promise.all([
-        // getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
+    .then(region => {
+      if (!region) {
+        return []
+      }
+      return Promise.all([
+        getMarkersForRegion({ region, filename: 'collection', type: 'GmkCollection', Target: CollectionPoints }),
         // getMarkersForRegion({ region, filename: 'landmark', type: 'GmkLandmark', Target: Locations }),
         // getMarkersForRegion({ region, filename: 'salvage', type: 'GmkSalvage', Target: SalvagePoints }),
         // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkEnemy', Target: EnemySpawnPoints }),
         // getMarkersForRegion({ region, filename: 'enemy', type: 'GmkRoutedEnemy', Target: EnemySpawnPoints }),
         // getMarkersForRegion({ region, filename: 'tbox', type: 'GmkTbox', Target: TreasurePoints }),
         // getMarkersForRegion({ region, filename: 'precious', type: 'GmkPrecious', Target: KeyItemPoints }),
-        getMarkersForRegion({ region, filename: 'npc', type: 'GmkNpc', Target: NPCPoints })
+        // getMarkersForRegion({ region, filename: 'npc', type: 'GmkNpc', Target: NPCPoints })
       ])
-    ))
+    })
     .then(featuresPerType => _.flatten(featuresPerType))
 }
 
 exports.getAll = () => {
-  const mapInfos = readObjects(
+  const mapFeatures = readObjects(
     mapInfoPath,
     ({ absoluteFilePath, content: contentPromise }) => {
       return contentPromise
-        .then(mapInfo => parseMapFeatures({ absoluteFilePath, mapInfo }))
+        .then(mapInfo => {
+          return parseMapFeatures({ absoluteFilePath, mapInfo })
+        })
         .catch(error => {
           log.warn({ absoluteFilePath, error }, 'failed to parse region')
           return null
         })
     },
     {
-      '.csv': content => parseCSV(content, { columns: true, objname: 'Name', cast: true })
+      '.csv': content => parseCSV(content, { columns: true, cast: true })
     }
   )
 
   return Promise
-    .all(mapInfos)
+    .all(mapFeatures)
     .then(results => results.filter(result => !!result))
     .then(results => _.flatten(results))
 }
@@ -234,7 +240,18 @@ exports.schema = {
     {
       relationshipType: { id: 'MapFeature-MAP_TARGET' },
       startEntityType: { id: 'MapFeature' },
-      endEntityType: { id: 'Shop' }
+      endEntityType: { id: 'CollectionPoint' }
+    }
+  ],
+  properties: [
+    {
+      entityType: { id: 'MapFeature' },
+      property: {
+        id: 'game_id',
+        name: 'Game ID',
+        type: 'string',
+        hidden: true
+      }
     }
   ]
 }

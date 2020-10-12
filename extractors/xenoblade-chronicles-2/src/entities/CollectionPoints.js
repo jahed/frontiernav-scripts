@@ -2,26 +2,34 @@ const _ = require('lodash')
 const log = require('@frontiernav/logger').get(__filename)
 const Collectibles = require('./Collectibles')
 const FieldSkills = require('./FieldSkills')
-const { nameToId } = require('@frontiernav/graph')
 const { getAllRaw, getAllRawByName } = require('../util/gimmicks')
+const { stampRelationshipId, stampEntityId } = require('@frontiernav/graph')
+const path = require('path')
+const { readFile } = require('@frontiernav/filesystem')
 
-const getDrops = async (rawCollectionPoint) => {
+const getCollectionTable = _.memoize(async () => {
+  const filePath = path.resolve(__dirname, '../../data/database/common/FLD_CollectionTable.json')
+  const content = await readFile(filePath)
+  return JSON.parse(content)
+})
+
+const getDrops = async (point, table) => {
   const data = [
     {
-      id: rawCollectionPoint.itm1ID,
-      rate: rawCollectionPoint.itm1Per
+      id: table.itm1ID,
+      rate: table.itm1Per
     },
     {
-      id: rawCollectionPoint.itm2ID,
-      rate: rawCollectionPoint.itm2Per
+      id: table.itm2ID,
+      rate: table.itm2Per
     },
     {
-      id: rawCollectionPoint.itm3ID,
-      rate: rawCollectionPoint.itm3Per
+      id: table.itm3ID,
+      rate: table.itm3Per
     },
     {
-      id: rawCollectionPoint.itm4ID,
-      rate: rawCollectionPoint.itm4Per
+      id: table.itm4ID,
+      rate: table.itm4Per
     }
   ]
 
@@ -29,10 +37,8 @@ const getDrops = async (rawCollectionPoint) => {
     .all(
       data.map(drop => {
         return Collectibles.getById(drop.id)
-          .then(collectible => collectible.name)
-          .then(name => nameToId(name))
-          .then(id => ({
-            id,
+          .then(collectible => ({
+            target: collectible.entity,
             rate: drop.rate
           }))
           .catch(() => null)
@@ -41,15 +47,19 @@ const getDrops = async (rawCollectionPoint) => {
     .then(drops => drops
       .filter(d => d)
       .reduce((acc, next) => {
-        const existing = acc[next.id]
         const nextRate = { rate: next.rate }
+        const existing = acc[next.target.id]
         if (existing) {
-          existing.rates.push(nextRate)
+          existing.data.rates.push(nextRate)
         } else {
-          acc[next.id] = {
-            id: next.id,
-            rates: [nextRate]
-          }
+          acc[next.target.id] = stampRelationshipId({
+            type: 'CollectionPoint-DROPS',
+            start: point.id,
+            end: next.target.id,
+            data: {
+              rates: [nextRate]
+            }
+          })
         }
         return acc
       }, {})
@@ -58,14 +68,38 @@ const getDrops = async (rawCollectionPoint) => {
 }
 
 const toCollectionPoint = _.memoize(async raw => {
-  const drops = await getDrops(raw)
-  const fieldSkill = await FieldSkills.getById(raw.FSID)
+  if (!raw.name) {
+    throw new Error(`CollectionPoint[${raw.id}] has no name`)
+  }
+  const table = raw.CollectionTable
+    ? (await getCollectionTable()).find(row => row.id === raw.CollectionTable)
+    : raw
+
+  const entity = {
+    id: raw.name,
+    type: 'CollectionPoint',
+    data: {
+      name: `Collection Point #${raw.id}`,
+      game_id: raw.name,
+      min_drop: table.randitmPopMin,
+      max_drop: table.randitmPopMax
+    }
+  }
+
+  const drops = await getDrops(entity, table)
+  // const fieldSkill = await FieldSkills.getById(table.FSID)
+
   return {
-    name: `Collection Point #${raw.id}`,
-    field_skill: fieldSkill.name,
-    min_drop: raw.randitmPopMin,
-    max_drop: raw.randitmPopMax,
-    drops
+    entity,
+    relationships: [
+      // stampRelationshipId({
+      //   type: 'CollectionPoint-FIELD_SKILL',
+      //   start: entity.id,
+      //   end: nameToId(fieldSkill.name),
+      //   data: {}
+      // }),
+      ...drops
+    ]
   }
 }, raw => raw.name)
 
@@ -91,4 +125,53 @@ exports.getAll = async () => {
       ))
     )
     .then(results => results.filter(r => r))
+}
+
+exports.schema = {
+  entityType: {
+    id: 'CollectionPoint',
+    name: 'Collection Point',
+    hue: 70,
+    properties: {
+      name: {
+        id: 'name',
+        name: 'Name',
+        type: 'string',
+        required: true
+      },
+      game_id: {
+        id: 'game_id',
+        name: 'Game ID',
+        type: 'string',
+        hidden: true
+      },
+      min_drop: {
+        id: 'min_drop',
+        name: 'Minimum Drops',
+        type: 'number'
+      },
+      max_drop: {
+        id: 'max_drop',
+        name: 'Maximum Drops',
+        type: 'number'
+      }
+    }
+  },
+  relationships: [
+    {
+      relationshipType: { id: 'CollectionPoint-DROPS' },
+      startEntityType: { id: 'CollectionPoint' },
+      endEntityType: { id: 'Collectible' }
+    }
+  ],
+  relationshipProperties: [
+    {
+      relationshipType: { id: 'CollectionPoint-DROPS' },
+      property: {
+        id: 'rates',
+        name: 'Rates',
+        type: 'object'
+      }
+    }
+  ]
 }

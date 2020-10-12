@@ -1,6 +1,6 @@
 let now = Date.now()
 const sessionId = `${now}`
-const worldSlug = 'xenoblade-chronicles-2'
+const worldSlug = 'xenoblade-chronicles-2-torna-the-golden-country'
 const { nameToId } = require('@frontiernav/graph')
 
 const withIdFromName = entity => ({

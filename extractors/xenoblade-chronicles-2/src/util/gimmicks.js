@@ -1,7 +1,7 @@
 const { readFile } = require('@frontiernav/filesystem')
 const path = require('path')
 const _ = require('lodash')
-const { mapMappings } = require('./mappings')
+const { mapMappings } = require('./mappings-xb2ttgc')
 
 const readGimmicks = async ({ map, type }) => {
   try {
